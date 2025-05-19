@@ -94,10 +94,12 @@ function updateCounter() {
   document.getElementById('progress').innerText = `${index + 1} / ${visible.length}`;
 }
 
-function speak(text) {
+function speak(text, volume = 1.0) {
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = 'en-US';
+  utterance.volume = volume; // od 0.0 do 1.0
   speechSynthesis.speak(utterance);
 }
+
 
 loadCards();
