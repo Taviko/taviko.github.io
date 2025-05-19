@@ -1,4 +1,3 @@
-
 let cards = [];
 let index = 0;
 let showUnknownOnly = false;
@@ -93,6 +92,12 @@ function toggleUnknownOnly() {
 function updateCounter() {
   const visible = getVisibleCards();
   document.getElementById('progress').innerText = `${index + 1} / ${visible.length}`;
+}
+
+function speak(text) {
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'en-US';
+  speechSynthesis.speak(utterance);
 }
 
 loadCards();
