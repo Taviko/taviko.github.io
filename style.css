@@ -8,6 +8,7 @@ body {
   align-items: center;
   color: #333;
   text-align: center;
+  position: relative;
 }
 
 h1 {
@@ -137,4 +138,19 @@ h1 {
   .card-back {
     font-size: 1.2em;
   }
+}
+
+#volume-wrapper {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  z-index: 10;
+}
+
+#volumeControl {
+  width: 80px;
+  cursor: pointer;
 }
