@@ -1,3 +1,4 @@
+
 let cards = [];
 let index = 0;
 let showUnknownOnly = false;
@@ -97,9 +98,13 @@ function updateCounter() {
 function speak(text, volume = 1.0) {
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = 'en-US';
-  utterance.volume = volume; // od 0.0 do 1.0
+  utterance.volume = volume;
   speechSynthesis.speak(utterance);
 }
 
+function toggleVolumeSlider() {
+  const wrapper = document.querySelector('.volume-toggle');
+  wrapper.classList.toggle('open');
+}
 
 loadCards();

@@ -1,3 +1,4 @@
+
 body {
   font-family: sans-serif;
   background-color: #fefefe;
@@ -9,10 +10,6 @@ body {
   color: #333;
   text-align: center;
   position: relative;
-}
-
-h1 {
-  margin-bottom: 20px;
 }
 
 #flashcard {
@@ -67,6 +64,39 @@ h1 {
   background: #FFAD23;
 }
 
+.card-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  z-index: 5;
+}
+
+.card-controls button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.volume-toggle {
+  position: relative;
+}
+
+.volume-toggle input {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  display: none;
+  width: 80px;
+}
+
+.volume-toggle.open input {
+  display: block;
+}
+
 #navigation {
   display: flex;
   align-items: center;
@@ -109,48 +139,4 @@ h1 {
 #progress {
   font-weight: bold;
   font-size: 1.1rem;
-}
-
-@media (max-width: 400px) {
-  .nav-btn {
-    width: 40px;
-    height: 40px;
-    min-width: 40px;
-  }
-
-  .nav-btn svg {
-    width: 20px;
-    height: 20px;
-  }
-
-  #progress {
-    font-size: 1rem;
-  }
-}
-
-@media (max-width: 600px) {
-  #flashcard {
-    width: 90vw;
-    height: auto;
-  }
-
-  .card-front,
-  .card-back {
-    font-size: 1.2em;
-  }
-}
-
-#volume-wrapper {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  z-index: 10;
-}
-
-#volumeControl {
-  width: 80px;
-  cursor: pointer;
 }
