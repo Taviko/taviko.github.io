@@ -1,0 +1,27 @@
+# Systemowe / IDE
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Node/npm/yarn (jeśli kiedyś dołączysz)
+node_modules/
+dist/
+
+# Logi
+*.log
+
+# Cache przeglądarki lub dev-serwerów
+.cache/
+.vite/
+
+# Backupy i tymczasowe
+*.tmp
+*.bak
+*.swp
+
+# Github Pages: ignoruj pliki dev, jeśli są
+.env
+.env.local
