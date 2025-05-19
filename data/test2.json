@@ -1,0 +1,5 @@
+[
+  { "id": "r1", "front": "Waiter", "back": "Kelner" },
+  { "id": "r2", "front": "Menu", "back": "Menu" },
+  { "id": "r3", "front": "Bill", "back": "Rachunek" }
+]
