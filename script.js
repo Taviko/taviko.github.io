@@ -91,7 +91,7 @@ function toggleUnknownOnly() {
 
 function updateCounter() {
   const remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
-  document.getElementById('counter').innerText = `Zapamiﾄ冲ane: ${remembered.length} / ${cards.length}`;
+  document.getElementById('counter').innerText = `Zapamiętane: ${remembered.length} / ${cards.length}`;
 }
 
 loadCards();
