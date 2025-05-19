@@ -10,15 +10,20 @@
   <h1 id="title">Langnite – Fiszki</h1>
 
   <div id="flashcard" onclick="flipCard()">
-  <div class="card-inner">
-    <div class="card-front" id="card-front">Front</div>
-    <div class="card-back" id="card-back">Back</div>
-  </div>
+    <div class="card-inner">
+      <div class="card-front" id="card-front">Front</div>
+      <div class="card-back" id="card-back">Back</div>
+    </div>
   </div>
 
-  <div id="controls">
+  <!-- Nawigacja -->
+  <div id="nav-controls">
     <button onclick="prevCard()">⬅️ Poprzednia</button>
     <button onclick="nextCard()">Następna ➡️</button>
+  </div>
+
+  <!-- Akcje -->
+  <div id="action-controls">
     <button onclick="randomCard()">🎲 Losowa</button>
     <button onclick="toggleRemembered()" id="rememberBtn">✅ Zapamiętaj</button>
     <button onclick="toggleUnknownOnly()">🧠 Pokaż tylko nieznane</button>
