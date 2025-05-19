@@ -1,29 +1,40 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Langnite Fiszki</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Langnite – Fiszki</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1 id="title">Langnite – Fiszki</h1>
+  <h1>Langnite – Fiszki</h1>
+
   <div id="flashcard" onclick="flipCard()">
-  <div class="card-inner">
-    <div class="card-front" id="card-front">Front</div>
-    <div class="card-back" id="card-back">Back</div>
-  </div>
-  </div>
-
-  <div id="controls">
-    <button onclick="prevCard()">Poprzednia</button>
-    <button onclick="nextCard()">Następna</button>
-    <button onclick="randomCard()">Losowa</button>
-    <button onclick="toggleRemembered()" id="rememberBtn">Zapamiętaj</button>
-    <button onclick="toggleUnknownOnly()">Pokaż tylko nieznane</button>
+    <div class="card-inner">
+      <div class="card-front" id="card-front">Front</div>
+      <div class="card-back" id="card-back">Back</div>
+    </div>
   </div>
 
-  <p id="counter">Zapamiętane: 0 / 0</p>
+  <!-- Pasek nawigacyjny -->
+  <div id="navigation">
+    <button onclick="prevCard()" class="nav-btn" title="Poprzednia">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6" fill="none" stroke="black" stroke-width="2"/></svg>
+    </button>
+    <div id="progress">1 / 1</div>
+    <button onclick="nextCard()" class="nav-btn" title="Następna">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" fill="none" stroke="black" stroke-width="2"/></svg>
+    </button>
+    <button onclick="randomCard()" class="nav-btn" title="Losowa">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 4h3l3.6 6-3.6 6H4m16 0h-3l-3.6-6 3.6-6h3M16 4l4 4-4 4M16 20l4-4-4-4" fill="none" stroke="black" stroke-width="2"/></svg>
+    </button>
+    <button onclick="toggleRemembered()" id="rememberBtn" class="nav-btn" title="Zapamiętaj">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7" fill="none" stroke="black" stroke-width="2"/></svg>
+    </button>
+    <button onclick="toggleUnknownOnly()" class="nav-btn" title="Pokaż tylko nieznane">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="none" stroke="black" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="black"/></svg>
+    </button>
+  </div>
 
   <script src="script.js"></script>
 </body>

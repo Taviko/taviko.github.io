@@ -19,8 +19,6 @@ function updateCard() {
   if (!currentCard) {
     document.getElementById('card-front').innerText = 'Brak fiszek';
     document.getElementById('card-back').innerText = '';
-    document.getElementById('rememberBtn').style.display = 'none';
-    document.getElementById('counter').innerText = `Zapamiętane: 0 / ${cards.length}`;
     flashcard.classList.remove('flipped');
     return;
   }
@@ -29,14 +27,13 @@ function updateCard() {
   flashcard.classList.remove('flipped');
   document.getElementById('card-front').innerText = currentCard.front;
   document.getElementById('card-back').innerText = currentCard.back;
-  document.getElementById('rememberBtn').innerText = isRemembered(currentCard.id) ? '❌ Usuń' : '✅ Zapamiętaj';
+  document.getElementById('rememberBtn').classList.toggle('active', isRemembered(currentCard.id));
   updateCounter();
 }
 
 function flipCard() {
   const currentCard = getVisibleCards()[index];
   if (!currentCard) return;
-
   showingFront = !showingFront;
   document.getElementById('flashcard').classList.toggle('flipped');
 }
@@ -90,8 +87,8 @@ function toggleUnknownOnly() {
 }
 
 function updateCounter() {
-  const remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
-  document.getElementById('counter').innerText = `Zapamiętane: ${remembered.length} / ${cards.length}`;
+  const visible = getVisibleCards();
+  document.getElementById('progress').innerText = `${index + 1} / ${visible.length}`;
 }
 
 loadCards();
