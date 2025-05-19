@@ -57,7 +57,7 @@ h1 {
 }
 
 .card-back {
-  background: #f0f0f0;
+  background: #FFAD23;
   transform: rotateY(180deg);
 }
 
@@ -75,7 +75,7 @@ h1 {
   height: 48px;
   border-radius: 50%;
   border: none;
-  background-color: #eeeeee;
+  background-color: #FFAD23;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
   transition: all 0.2s ease;
@@ -90,7 +90,7 @@ h1 {
 }
 
 .nav-btn:hover {
-  background-color: #e0e0e0;
+  background-color: #e59300;
   transform: translateY(-2px);
 }
 
