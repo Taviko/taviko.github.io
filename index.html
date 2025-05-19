@@ -1,24 +1,27 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Fiszki Langnite</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Langnite – Fiszki</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <h1>Fiszki Langnite</h1>
-    <div id="flashcard" class="flashcard">
-      <div class="front">apple</div>
-      <div class="back">jabłko</div>
-    </div>
-    <div class="controls">
-      <button id="prevBtn">Poprzednia</button>
-      <button id="flipBtn">Obróć</button>
-      <button id="nextBtn">Następna</button>
-    </div>
+  <h1 id="title">Langnite – Fiszki</h1>
+
+  <div id="flashcard">
+    <div id="card">Ładowanie...</div>
   </div>
+
+  <div id="controls">
+    <button onclick="prevCard()">⬅️ Poprzednia</button>
+    <button onclick="nextCard()">Następna ➡️</button>
+    <button onclick="randomCard()">🎲 Losowa</button>
+    <button onclick="toggleRemembered()" id="rememberBtn">✅ Zapamiętaj</button>
+    <button onclick="toggleUnknownOnly()">🧠 Pokaż tylko nieznane</button>
+  </div>
+
+  <p id="counter">Zapamiętane: 0 / 0</p>
 
   <script src="script.js"></script>
 </body>
