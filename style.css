@@ -54,7 +54,6 @@ h1 {
   justify-content: center;
   font-size: 1.5em;
   text-align: center;
-  animation: fade-in-up 0.3s ease;
 }
 
 .card-back {
@@ -112,19 +111,4 @@ h1 {
   .card-front, .card-back {
     font-size: 1.2em;
   }
-}
-
-@keyframes fade-in-up {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.fade {
-  animation: fade-in-up 0.3s ease;
 }

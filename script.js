@@ -26,17 +26,8 @@ function updateCard() {
 
   showingFront = true;
   flashcard.classList.remove('flipped');
-  const front = document.getElementById('card-front');
-  const back = document.getElementById('card-back');
-  front.innerText = currentCard.front;
-  back.innerText = currentCard.back;
-
-  front.classList.remove('fade');
-  back.classList.remove('fade');
-
-  void front.offsetWidth; // trigger reflow
-  front.classList.add('fade');
-  back.classList.add('fade');
+  document.getElementById('card-front').innerText = currentCard.front;
+  document.getElementById('card-back').innerText = currentCard.back;
   const rememberBtn = document.getElementById('rememberBtn');
   rememberBtn.classList.toggle('active', isRemembered(currentCard.id));
   updateCounter();
