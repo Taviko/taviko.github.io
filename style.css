@@ -33,7 +33,7 @@ h1 {
 }
 
 #flashcard.flipped .card-inner {
-  transform: rotateY(180deg);
+
 }
 
 .card-front,
@@ -58,7 +58,7 @@ h1 {
 
 .card-back {
   background: #FFAD23;
-  transform: rotateY(180deg);
+
 }
 
 #navigation {
@@ -92,12 +92,10 @@ h1 {
 
 .nav-btn:hover {
   background-color: #f0f0f0;
-  transform: rotateY(180deg);
 }
 
 .nav-btn.active {
   background-color: #FFAD23;
-  transform: rotateY(180deg);
 }
 
 #progress {
