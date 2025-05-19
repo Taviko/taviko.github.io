@@ -1,98 +1,140 @@
-
-let cards = [];
-let index = 0;
-let showUnknownOnly = false;
-let showingFront = true;
-const category = new URLSearchParams(window.location.search).get('category') || 'restaurant';
-const rememberedKey = `remembered-${category}`;
-
-async function loadCards() {
-  const res = await fetch(`data/${category}.json`);
-  cards = await res.json();
-  if (!Array.isArray(cards)) cards = [];
-  updateCard();
+body {
+  font-family: sans-serif;
+  background-color: #fefefe;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #333;
+  text-align: center;
 }
 
-function updateCard() {
-  const currentCard = getVisibleCards()[index];
-  const flashcard = document.getElementById('flashcard');
+h1 {
+  margin-bottom: 20px;
+}
 
-  if (!currentCard) {
-    document.getElementById('card-front').innerText = 'Brak fiszek';
-    document.getElementById('card-back').innerText = '';
-    flashcard.classList.remove('flipped');
-    return;
+#flashcard {
+  width: 100%;
+  max-width: 500px;
+  min-height: 200px;
+  perspective: 1000px;
+  margin: 20px auto;
+  cursor: pointer;
+  user-select: none;
+}
+
+.card-inner {
+  width: 100%;
+  min-height: 200px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease;
+}
+
+#flashcard.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 200px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.card-front {
+  transform: rotateY(0deg);
+  z-index: 2;
+}
+
+.card-back {
+  transform: rotateY(180deg);
+  background: #FFAD23;
+}
+
+#navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+  max-width: 90vw;
+}
+
+.nav-btn {
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  border: none;
+  background-color: white;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-btn svg {
+  width: 24px;
+  height: 24px;
+}
+
+.nav-btn:hover {
+  background-color: #f0f0f0;
+}
+
+.nav-btn.active {
+  background-color: #FFAD23;
+}
+
+#progress {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 400px) {
+  .nav-btn {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
   }
 
-  showingFront = true;
-  flashcard.classList.remove('flipped');
-  document.getElementById('card-front').innerText = currentCard.front;
-  document.getElementById('card-back').innerText = currentCard.back;
-  const rememberBtn = document.getElementById('rememberBtn');
-  rememberBtn.classList.toggle('active', isRemembered(currentCard.id));
-  updateCounter();
-}
-
-function flipCard() {
-  const currentCard = getVisibleCards()[index];
-  if (!currentCard) return;
-  showingFront = !showingFront;
-  document.getElementById('flashcard').classList.toggle('flipped');
-}
-
-function getVisibleCards() {
-  return showUnknownOnly ? cards.filter(c => !isRemembered(c.id)) : cards;
-}
-
-function nextCard() {
-  const visible = getVisibleCards();
-  index = (index + 1) % visible.length;
-  updateCard();
-}
-
-function prevCard() {
-  const visible = getVisibleCards();
-  index = (index - 1 + visible.length) % visible.length;
-  updateCard();
-}
-
-function randomCard() {
-  const visible = getVisibleCards();
-  index = Math.floor(Math.random() * visible.length);
-  updateCard();
-}
-
-function toggleRemembered() {
-  const visible = getVisibleCards();
-  const currentId = visible[index].id;
-  let remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
-
-  if (remembered.includes(currentId)) {
-    remembered = remembered.filter(id => id !== currentId);
-  } else {
-    remembered.push(currentId);
+  .nav-btn svg {
+    width: 20px;
+    height: 20px;
   }
 
-  localStorage.setItem(rememberedKey, JSON.stringify(remembered));
-  updateCard();
+  #progress {
+    font-size: 1rem;
+  }
 }
 
-function isRemembered(id) {
-  const remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
-  return remembered.includes(id);
-}
+@media (max-width: 600px) {
+  #flashcard {
+    width: 90vw;
+    height: auto;
+  }
 
-function toggleUnknownOnly() {
-  const unknownBtn = document.querySelector('[title="Pokaż tylko nieznane"]');
-  showUnknownOnly = !showUnknownOnly;
-  unknownBtn.classList.toggle('active', showUnknownOnly);
-  index = 0;
-  updateCard();
+  .card-front,
+  .card-back {
+    font-size: 1.2em;
+  }
 }
-
-function updateCounter() {
-  const visible = getVisibleCards();
-  document.getElementById('progress').innerText = `${index + 1} / ${visible.length}`;
-}
-
-loadCards();
