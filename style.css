@@ -60,7 +60,6 @@ body {
   transform: rotateY(180deg);
 }
 
-/* Nowe: osobne kontenery dla grup przyciskﾃｳw */
 #nav-controls,
 #action-controls {
   display: flex;
@@ -74,7 +73,6 @@ body {
   margin-bottom: 10px;
 }
 
-/* Przyciski 窶・kolor fontu czarny */
 #nav-controls button,
 #action-controls button {
   padding: 12px 24px;
@@ -120,7 +118,6 @@ body {
   }
 }
 
-/* Nowy pasek sterowania z ikonami */
 #navigation {
   display: flex;
   align-items: center;
