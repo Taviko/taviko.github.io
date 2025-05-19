@@ -1,4 +1,3 @@
-
 let cards = [];
 let index = 0;
 let showUnknownOnly = false;
@@ -96,17 +95,3 @@ function updateCounter() {
 }
 
 loadCards();
-
-let volumeTimeout;
-
-function toggleVolumeSlider() {
-  const wrapper = document.querySelector('.volume-toggle');
-  wrapper.classList.toggle('open');
-
-  clearTimeout(volumeTimeout);
-  if (wrapper.classList.contains('open')) {
-    volumeTimeout = setTimeout(() => {
-      wrapper.classList.remove('open');
-    }, 4000); // 4 sekundy
-  }
-}
