@@ -75,13 +75,14 @@ h1 {
   height: 48px;
   border-radius: 50%;
   border: none;
-  background-color: #FFAD23;
+  background-color: white;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
   display: flex;
   align-items: center;
   justify-content: center;
+  transform-style: preserve-3d;
 }
 
 .nav-btn svg {
@@ -90,8 +91,13 @@ h1 {
 }
 
 .nav-btn:hover {
-  background-color: #e59300;
-  transform: translateY(-2px);
+  background-color: #f0f0f0;
+  transform: rotateY(180deg);
+}
+
+.nav-btn.active {
+  background-color: #FFAD23;
+  transform: rotateY(180deg);
 }
 
 #progress {
