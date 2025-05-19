@@ -95,16 +95,18 @@ function updateCounter() {
   document.getElementById('progress').innerText = `${index + 1} / ${visible.length}`;
 }
 
-function speak(text, volume = 1.0) {
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = 'en-US';
-  utterance.volume = volume;
-  speechSynthesis.speak(utterance);
-}
+loadCards();
+
+let volumeTimeout;
 
 function toggleVolumeSlider() {
   const wrapper = document.querySelector('.volume-toggle');
   wrapper.classList.toggle('open');
-}
 
-loadCards();
+  clearTimeout(volumeTimeout);
+  if (wrapper.classList.contains('open')) {
+    volumeTimeout = setTimeout(() => {
+      wrapper.classList.remove('open');
+    }, 4000); // 4 sekundy
+  }
+}
