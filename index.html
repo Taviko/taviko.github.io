@@ -3,11 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Langnite – Fiszki</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Langnite – Fiszki</h1>
 
   <div id="flashcard" onclick="flipCard()">
     <div class="card-inner">
@@ -21,23 +19,25 @@
     <button onclick="prevCard()" class="nav-btn" title="Poprzednia">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6" fill="none" stroke="black" stroke-width="2"/></svg>
     </button>
+
     <div id="progress">1 / 1</div>
     <button onclick="nextCard()" class="nav-btn" title="Następna">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" fill="none" stroke="black" stroke-width="2"/></svg>
     </button>
-    <button onclick="randomCard()" class="nav-btn" title="Losowa">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <path d="M16 3h5v5" stroke="black" stroke-width="2" fill="none"/>
-  <path d="M4 20l16-16" stroke="black" stroke-width="2"/>
-  <path d="M16 21h5v-5" stroke="black" stroke-width="2" fill="none"/>
-  <path d="M4 4l5 5" stroke="black" stroke-width="2"/>
-</svg>
 
+    <button onclick="randomCard()" class="nav-btn" title="Losowa">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <path d="M16 3h5v5" stroke="black" stroke-width="2" fill="none"/>
+        <path d="M4 20l16-16" stroke="black" stroke-width="2"/>
+        <path d="M16 21h5v-5" stroke="black" stroke-width="2" fill="none"/>
+        <path d="M4 4l5 5" stroke="black" stroke-width="2"/>
+      </svg>
 
     </button>
     <button onclick="toggleRemembered()" id="rememberBtn" class="nav-btn" title="Zapamiętaj">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7" fill="none" stroke="black" stroke-width="2"/></svg>
     </button>
+
     <button onclick="toggleUnknownOnly()" class="nav-btn" title="Pokaż tylko nieznane">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" fill="none" stroke="black" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="black"/></svg>
     </button>
