@@ -1,44 +1,83 @@
-const flashcards = [
-  { front: "apple", back: "jabłko" },
-  { front: "cat", back: "kot" },
-  { front: "house", back: "dom" },
-  { front: "car", back: "samochód" },
-  { front: "book", back: "książka" }
-];
+let cards = [];
+let index = 0;
+let showUnknownOnly = false;
+const category = new URLSearchParams(window.location.search).get('category') || 'restaurant';
+const rememberedKey = `remembered-${category}`;
 
-let currentIndex = 0;
-const flashcardEl = document.getElementById("flashcard");
-const frontEl = flashcardEl.querySelector(".front");
-const backEl = flashcardEl.querySelector(".back");
-
-const prevBtn = document.getElementById("prevBtn");
-const flipBtn = document.getElementById("flipBtn");
-const nextBtn = document.getElementById("nextBtn");
-
-function updateFlashcard() {
-  frontEl.textContent = flashcards[currentIndex].front;
-  backEl.textContent = flashcards[currentIndex].back;
-  flashcardEl.classList.remove("flipped");
+async function loadCards() {
+  const res = await fetch(`data/${category}.json`);
+  cards = await res.json();
+  if (!Array.isArray(cards)) cards = [];
+  updateCard();
 }
 
-flipBtn.addEventListener("click", () => {
-  flashcardEl.classList.toggle("flipped");
-});
+function updateCard() {
+  const currentCard = getVisibleCards()[index];
+  if (!currentCard) {
+    document.getElementById('card').innerText = 'Brak fiszek';
+    document.getElementById('rememberBtn').style.display = 'none';
+    document.getElementById('counter').innerText = `Zapamiętane: 0 / ${cards.length}`;
+    return;
+  }
+  document.getElementById('card').innerText = currentCard.front;
+  document.getElementById('rememberBtn').innerText = isRemembered(currentCard.id) ? '❌ Usuń' : '✅ Zapamiętaj';
+  updateCounter();
+}
 
-prevBtn.addEventListener("click", () => {
-  currentIndex = (currentIndex - 1 + flashcards.length) % flashcards.length;
-  updateFlashcard();
-});
+function getVisibleCards() {
+  if (!showUnknownOnly) return cards;
+  return cards.filter(c => !isRemembered(c.id));
+}
 
-nextBtn.addEventListener("click", () => {
-  currentIndex = (currentIndex + 1) % flashcards.length;
-  updateFlashcard();
-});
+function nextCard() {
+  const visible = getVisibleCards();
+  if (index < visible.length - 1) index++;
+  else index = 0;
+  updateCard();
+}
 
-// Optional: allow clicking the flashcard to flip it
-flashcardEl.addEventListener("click", () => {
-  flashcardEl.classList.toggle("flipped");
-});
+function prevCard() {
+  const visible = getVisibleCards();
+  if (index > 0) index--;
+  else index = visible.length - 1;
+  updateCard();
+}
 
-// Initialize
-updateFlashcard();
+function randomCard() {
+  const visible = getVisibleCards();
+  index = Math.floor(Math.random() * visible.length);
+  updateCard();
+}
+
+function toggleRemembered() {
+  const visible = getVisibleCards();
+  const currentId = visible[index].id;
+  let remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
+
+  if (remembered.includes(currentId)) {
+    remembered = remembered.filter(id => id !== currentId);
+  } else {
+    remembered.push(currentId);
+  }
+
+  localStorage.setItem(rememberedKey, JSON.stringify(remembered));
+  updateCard();
+}
+
+function isRemembered(id) {
+  const remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
+  return remembered.includes(id);
+}
+
+function toggleUnknownOnly() {
+  showUnknownOnly = !showUnknownOnly;
+  index = 0;
+  updateCard();
+}
+
+function updateCounter() {
+  const remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
+  document.getElementById('counter').innerText = `Zapamiętane: ${remembered.length} / ${cards.length}`;
+}
+
+loadCards();
