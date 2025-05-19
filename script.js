@@ -26,8 +26,17 @@ function updateCard() {
 
   showingFront = true;
   flashcard.classList.remove('flipped');
-  document.getElementById('card-front').innerText = currentCard.front;
-  document.getElementById('card-back').innerText = currentCard.back;
+  const front = document.getElementById('card-front');
+  const back = document.getElementById('card-back');
+  front.innerText = currentCard.front;
+  back.innerText = currentCard.back;
+
+  front.classList.remove('fade');
+  back.classList.remove('fade');
+
+  void front.offsetWidth; // trigger reflow
+  front.classList.add('fade');
+  back.classList.add('fade');
   const rememberBtn = document.getElementById('rememberBtn');
   rememberBtn.classList.toggle('active', isRemembered(currentCard.id));
   updateCounter();
@@ -86,7 +95,6 @@ function toggleUnknownOnly() {
   const unknownBtn = document.querySelector('[title="Pokaż tylko nieznane"]');
   showUnknownOnly = !showUnknownOnly;
   unknownBtn.classList.toggle('active', showUnknownOnly);
-  showUnknownOnly = !showUnknownOnly;
   index = 0;
   updateCard();
 }
