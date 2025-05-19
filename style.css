@@ -56,9 +56,14 @@ h1 {
   text-align: center;
 }
 
-.card-back {
-  background: #FFAD23;
+.card-front {
+  transform: rotateY(0deg);
+  z-index: 2;
+}
 
+.card-back {
+  transform: rotateY(180deg);
+  background: #FFAD23;
 }
 
 #navigation {
@@ -108,7 +113,8 @@ h1 {
     height: auto;
   }
 
-  .card-front, .card-back {
+  .card-front,
+  .card-back {
     font-size: 1.2em;
   }
 }
