@@ -20,7 +20,7 @@ function updateCard() {
     document.getElementById('card-front').innerText = 'Brak fiszek';
     document.getElementById('card-back').innerText = '';
     document.getElementById('rememberBtn').style.display = 'none';
-    document.getElementById('counter').innerText = `Zapamiętane: 0 / ${cards.length}`;
+    document.getElementById('counter').innerText = `Zapamiﾄ冲ane: 0 / ${cards.length}`;
     flashcard.classList.remove('flipped');
     return;
   }
@@ -29,7 +29,7 @@ function updateCard() {
   flashcard.classList.remove('flipped');
   document.getElementById('card-front').innerText = currentCard.front;
   document.getElementById('card-back').innerText = currentCard.back;
-  document.getElementById('rememberBtn').innerText = isRemembered(currentCard.id) ? '❌ Usuń' : '✅ Zapamiętaj';
+  document.getElementById('rememberBtn').innerText = isRemembered(currentCard.id) ? '笶・Usuﾅ・ : '笨・Zapamiﾄ冲aj';
   updateCounter();
 }
 
@@ -91,7 +91,7 @@ function toggleUnknownOnly() {
 
 function updateCounter() {
   const remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
-  document.getElementById('counter').innerText = `Zapamiętane: ${remembered.length} / ${cards.length}`;
+  document.getElementById('counter').innerText = `Zapamiﾄ冲ane: ${remembered.length} / ${cards.length}`;
 }
 
 loadCards();

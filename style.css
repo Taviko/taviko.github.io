@@ -60,7 +60,7 @@ body {
   transform: rotateY(180deg);
 }
 
-/* Nowe: osobne kontenery dla grup przycisków */
+/* Nowe: osobne kontenery dla grup przyciskﾃｳw */
 #nav-controls,
 #action-controls {
   display: flex;
@@ -74,7 +74,7 @@ body {
   margin-bottom: 10px;
 }
 
-/* Przyciski — kolor fontu czarny */
+/* Przyciski 窶・kolor fontu czarny */
 #nav-controls button,
 #action-controls button {
   padding: 12px 24px;
@@ -118,4 +118,36 @@ body {
   #counter {
     font-size: 0.9em;
   }
+}
+
+/* Nowy pasek sterowania z ikonami */
+#navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.nav-btn {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.3rem;
+  border: none;
+  background-color: #eeeeee;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.nav-btn:hover {
+  background-color: #e0e0e0;
+  transform: translateY(-2px);
+}
+
+#progress {
+  font-weight: bold;
+  font-size: 1.1rem;
 }

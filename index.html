@@ -3,33 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Langnite – Fiszki</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1 id="title">Langnite – Fiszki</h1>
 
   <div id="flashcard" onclick="flipCard()">
-    <div class="card-inner">
-      <div class="card-front" id="card-front">Front</div>
-      <div class="card-back" id="card-back">Back</div>
-    </div>
+  <div class="card-inner">
+    <div class="card-front" id="card-front">Front</div>
+    <div class="card-back" id="card-back">Back</div>
+  </div>
   </div>
 
-  <!-- Nawigacja -->
-  <div id="nav-controls">
-    <button onclick="prevCard()">⬅️ Poprzednia</button>
-    <button onclick="nextCard()">Następna ➡️</button>
+  <div id="controls">
+    <button onclick="prevCard()">Poprzednia</button>
+    <button onclick="nextCard()">Następna</button>
+    <button onclick="randomCard()">Losowa</button>
+    <button onclick="toggleRemembered()" id="rememberBtn">Zapamiętaj</button>
+    <button onclick="toggleUnknownOnly()">Pokaż tylko nieznane</button>
   </div>
 
-  <!-- Akcje -->
-  <div id="action-controls">
-    <button onclick="randomCard()">🎲 Losowa</button>
-    <button onclick="toggleRemembered()" id="rememberBtn">✅ Zapamiętaj</button>
-    <button onclick="toggleUnknownOnly()">🧠 Pokaż tylko nieznane</button>
-  </div>
-
-  <p id="counter">Zapamiętane: 0 / 0</p>
+  <p id="counter">Zapamiﾄ冲ane: 0 / 0</p>
 
   <script src="script.js"></script>
 </body>
