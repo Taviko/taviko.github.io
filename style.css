@@ -1,11 +1,21 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-color: #fefefe;
+  color: #333;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 #flashcard {
-  margin: 20px auto;
+  margin: 30px auto;
   width: 300px;
   height: 200px;
   perspective: 1000px;
   cursor: pointer;
   user-select: none;
-  position: relative;
 }
 
 .card-inner {
@@ -22,7 +32,8 @@
 
 .card-front, .card-back {
   position: absolute;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
@@ -30,9 +41,9 @@
   align-items: center;
   justify-content: center;
   font-size: 1.5em;
-  border: 2px solid #ccc;
   border-radius: 12px;
-  box-shadow: 2px 2px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  background-color: white;
 }
 
 .card-front {
@@ -42,6 +53,13 @@
 .card-back {
   background: #f0f0f0;
   transform: rotateY(180deg);
+}
+
+#controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
 }
 
 #controls button {
@@ -60,4 +78,9 @@
 #controls button:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 10px rgba(0,0,0,0.2);
+}
+
+#counter {
+  margin-top: 20px;
+  font-size: 1rem;
 }
