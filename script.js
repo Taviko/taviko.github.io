@@ -14,14 +14,21 @@ async function loadCards() {
 
 function updateCard() {
   const currentCard = getVisibleCards()[index];
+  const flashcard = document.getElementById('flashcard');
+
   if (!currentCard) {
-    document.getElementById('card').innerText = 'Brak fiszek';
+    document.getElementById('card-front').innerText = 'Brak fiszek';
+    document.getElementById('card-back').innerText = '';
     document.getElementById('rememberBtn').style.display = 'none';
     document.getElementById('counter').innerText = `Zapamiętane: 0 / ${cards.length}`;
+    flashcard.classList.remove('flipped');
     return;
   }
+
   showingFront = true;
-  document.getElementById('card').innerText = currentCard.front;
+  flashcard.classList.remove('flipped');
+  document.getElementById('card-front').innerText = currentCard.front;
+  document.getElementById('card-back').innerText = currentCard.back;
   document.getElementById('rememberBtn').innerText = isRemembered(currentCard.id) ? '❌ Usuń' : '✅ Zapamiętaj';
   updateCounter();
 }
@@ -29,13 +36,13 @@ function updateCard() {
 function flipCard() {
   const currentCard = getVisibleCards()[index];
   if (!currentCard) return;
+
   showingFront = !showingFront;
-  document.getElementById('card').innerText = showingFront ? currentCard.front : currentCard.back;
+  document.getElementById('flashcard').classList.toggle('flipped');
 }
 
 function getVisibleCards() {
-  if (!showUnknownOnly) return cards;
-  return cards.filter(c => !isRemembered(c.id));
+  return showUnknownOnly ? cards.filter(c => !isRemembered(c.id)) : cards;
 }
 
 function nextCard() {
