@@ -273,23 +273,6 @@ h1 {
   bottom: -35px;
 }
 
-.volume-control {
-  background: white;
-  padding: 8px 12px;
-  border-radius: 15px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  display: none;
-  align-items: center;
-  gap: 10px;
-  min-width: 150px;
-  margin-left: 10px;
-  position: absolute;
-  right: -170px;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 100;
-}
-
 .volume-btn {
   background: none;
   border: none;
@@ -301,7 +284,24 @@ h1 {
   position: relative;
 }
 
-.volume-btn:hover + .volume-control,
+.volume-control {
+  background: white;
+  padding: 8px 12px;
+  border-radius: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  display: none;
+  align-items: center;
+  gap: 10px;
+  min-width: 150px;
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 10px;
+  z-index: 100;
+}
+
+.volume-btn:hover .volume-control,
 .volume-control:hover {
   display: flex;
 }
