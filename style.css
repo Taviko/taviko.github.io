@@ -79,6 +79,8 @@ h1 {
   border-top: 1px solid #eee;
   width: 100%;
   transition: opacity 0.3s ease;
+  margin-top: 10px;
+  display: block;
 }
 
 .example-sentence.hidden {
@@ -102,7 +104,7 @@ h1 {
   flex-shrink: 0;
   border-radius: 50%;
   border: none;
-  background-color: #FFAD23;
+  background-color: #FFAD23 !important;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
   transition: all 0.3s ease;
@@ -117,11 +119,11 @@ h1 {
 }
 
 .nav-btn:hover {
-  background-color: #f0f0f0;
+  background-color: #f0f0f0 !important;
 }
 
 .nav-btn.active {
-  background-color: #f0f0f0;
+  background-color: #f0f0f0 !important;
 }
 
 #progress {

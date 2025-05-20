@@ -108,8 +108,16 @@ function toggleExample() {
   showingExample = !showingExample;
   const examples = document.querySelectorAll('.example-sentence');
   examples.forEach(el => {
-    el.classList.toggle('hidden', !showingExample);
+    if (showingExample) {
+      el.classList.remove('hidden');
+    } else {
+      el.classList.add('hidden');
+    }
   });
+
+  // Update the button state
+  const exampleBtn = document.querySelector('[title="Pokaż przykład"]');
+  exampleBtn.classList.toggle('active', showingExample);
 }
 
 loadCards();
