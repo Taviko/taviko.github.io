@@ -98,6 +98,7 @@ h1 {
   margin-top: 30px;
   flex-wrap: wrap;
   max-width: 90vw;
+  position: relative;
 }
 
 .nav-btn {
@@ -115,6 +116,7 @@ h1 {
   align-items: center;
   justify-content: center;
   position: relative;
+  touch-action: manipulation;
 }
 
 .nav-btn svg {
@@ -177,6 +179,7 @@ h1 {
   visibility: hidden;
   transition: all 0.3s ease;
   pointer-events: none;
+  z-index: 1000;
 }
 
 .nav-btn:hover::after {
@@ -185,9 +188,11 @@ h1 {
   bottom: -35px;
 }
 
-/* Remove default title tooltip */
-.nav-btn[title]:hover::before {
-  display: none;
+/* Remove tooltip on touch devices */
+@media (hover: none) {
+  .nav-btn::after {
+    display: none;
+  }
 }
 
 #progress {
@@ -207,8 +212,33 @@ h1 {
     height: 20px;
   }
 
+  .speaker-btn {
+    width: 40px;
+    height: 40px;
+  }
+
+  .speaker-btn svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .volume-btn {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+  }
+
+  .volume-btn svg {
+    width: 20px;
+    height: 20px;
+  }
+
   #progress {
     font-size: 1rem;
+  }
+
+  #navigation {
+    gap: 12px;
   }
 }
 
@@ -238,6 +268,8 @@ h1 {
   justify-content: center;
   transition: background-color 0.3s ease;
   z-index: 10;
+  width: 48px;
+  height: 48px;
 }
 
 .speaker-btn:hover {
@@ -290,6 +322,7 @@ h1 {
   align-items: center;
   justify-content: center;
   position: relative;
+  touch-action: manipulation;
 }
 
 .volume-btn:hover {
