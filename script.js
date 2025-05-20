@@ -165,6 +165,28 @@ function speakText(event) {
 
 // Add event listener for volume control
 document.addEventListener('DOMContentLoaded', function() {
+  // Handle touch events for navigation buttons
+  const navButtons = document.querySelectorAll('.nav-btn, .volume-btn');
+
+  navButtons.forEach(button => {
+    button.addEventListener('touchend', function(e) {
+      e.preventDefault();
+      this.blur();
+
+      // Force reflow
+      void this.offsetHeight;
+
+      // Manually re-toggle active class if already active
+      if (this.classList.contains('active')) {
+        this.classList.remove('active');
+        setTimeout(() => this.classList.add('active'), 0);
+      }
+
+      // Hide tooltips or pseudo-elements
+      document.activeElement.blur();
+    });
+  });
+
   const volumeSlider = document.querySelector('.volume-slider');
   if (volumeSlider) {
     volumeSlider.addEventListener('input', function(e) {
