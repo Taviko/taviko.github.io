@@ -38,9 +38,9 @@ function updateCard() {
   document.querySelector('#front-example').innerText = currentCard.frontExample || '';
   document.querySelector('#back-example').innerText = currentCard.backExample || '';
 
-  // Update phonetic transcription
-  document.querySelector('#front-phonetic').innerText = currentCard.phonetic?.en || '';
-  document.querySelector('#back-phonetic').innerText = currentCard.phonetic?.pl || '';
+  // Update phonetic transcription (only for front)
+  document.querySelector('#front-phonetic').innerText = currentCard.phonetic || '';
+  document.querySelector('#back-phonetic').innerText = ''; // Always empty for back
 
   // Only reset example visibility if the example button is not active
   if (!showingExample) {
@@ -49,11 +49,13 @@ function updateCard() {
     document.querySelectorAll('.example-sentence').forEach(el => el.classList.remove('hidden'));
   }
 
-  // Show/hide phonetic transcription based on state
+  // Show/hide phonetic transcription based on state (only for front)
   if (showPhonetic) {
-    document.querySelectorAll('.phonetic-transcription').forEach(el => el.classList.remove('hidden'));
+    document.querySelector('#front-phonetic').classList.remove('hidden');
+    document.querySelector('#back-phonetic').classList.add('hidden');
   } else {
-    document.querySelectorAll('.phonetic-transcription').forEach(el => el.classList.add('hidden'));
+    document.querySelector('#front-phonetic').classList.add('hidden');
+    document.querySelector('#back-phonetic').classList.add('hidden');
   }
 
   const rememberBtn = document.getElementById('rememberBtn');

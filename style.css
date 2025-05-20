@@ -136,7 +136,8 @@ h1 {
 .nav-btn[title="Losowa karta"]:hover,
 .nav-btn[title="Pokaż/ukryj przykłady"]:hover,
 .nav-btn[title="Zapamiętaj/odznacz kartę"]:hover,
-.nav-btn[title="Pokaż tylko nieznane karty"]:hover {
+.nav-btn[title="Pokaż tylko nieznane karty"]:hover,
+.nav-btn[title="Pokaż/ukryj transkrypcję fonetyczną"]:hover {
   background-color: #FFAD23 !important;
 }
 
@@ -144,7 +145,8 @@ h1 {
 .nav-btn[title="Losowa karta"].active,
 .nav-btn[title="Pokaż/ukryj przykłady"].active,
 .nav-btn[title="Zapamiętaj/odznacz kartę"].active,
-.nav-btn[title="Pokaż tylko nieznane karty"].active {
+.nav-btn[title="Pokaż tylko nieznane karty"].active,
+.nav-btn[title="Pokaż/ukryj transkrypcję fonetyczną"].active {
   background-color: #FFAD23 !important;
 }
 
@@ -274,14 +276,24 @@ h1 {
 }
 
 .volume-btn {
-  background: none;
+  width: 48px;
+  height: 48px;
+  min-width: 48px;
+  flex-shrink: 0;
+  border-radius: 50%;
   border: none;
-  padding: 0;
+  background-color: white !important;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
+  transition: all 0.3s ease;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
+}
+
+.volume-btn:hover {
+  background-color: #FFAD23 !important;
 }
 
 .volume-control {
@@ -299,6 +311,7 @@ h1 {
   transform: translateY(-50%);
   margin-left: 10px;
   z-index: 100;
+  pointer-events: auto;
 }
 
 .volume-btn:hover .volume-control,
