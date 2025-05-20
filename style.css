@@ -199,6 +199,16 @@ h1 {
     visibility: visible;
     bottom: -35px;
   }
+
+  /* Ensure button states are always visible */
+  .nav-btn.active {
+    background-color: #FFAD23 !important;
+  }
+
+  .nav-btn[title="Poprzednia karta"].active,
+  .nav-btn[title="Następna karta"].active {
+    background-color: #FFAD23 !important;
+  }
 }
 
 #progress {
