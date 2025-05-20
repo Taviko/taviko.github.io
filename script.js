@@ -208,8 +208,25 @@ function togglePhonetic() {
   phoneticBtn.classList.toggle('active', showPhonetic);
 }
 
-// Call loadPhoneticData when the page loads
-document.addEventListener('DOMContentLoaded', () => {
+// Add touch event handlers for mobile tooltips
+document.addEventListener('DOMContentLoaded', function() {
+  const navButtons = document.querySelectorAll('.nav-btn');
+
+  navButtons.forEach(button => {
+    button.addEventListener('touchstart', function(e) {
+      this.classList.add('touch-active');
+    });
+
+    button.addEventListener('touchend', function(e) {
+      this.classList.remove('touch-active');
+    });
+
+    button.addEventListener('touchcancel', function(e) {
+      this.classList.remove('touch-active');
+    });
+  });
+
+  // Load cards and phonetic data
   loadPhoneticData();
   loadCards();
 });

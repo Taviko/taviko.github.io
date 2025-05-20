@@ -188,10 +188,16 @@ h1 {
   bottom: -35px;
 }
 
-/* Remove tooltip on touch devices */
+/* Mobile tooltip styles */
 @media (hover: none) {
   .nav-btn::after {
-    display: none;
+    transition: none;
+  }
+
+  .nav-btn.touch-active::after {
+    opacity: 1;
+    visibility: visible;
+    bottom: -35px;
   }
 }
 
