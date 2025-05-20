@@ -122,29 +122,29 @@ h1 {
   height: 24px;
 }
 
-.nav-btn[title="Poprzednia"],
-.nav-btn[title="Następna"] {
+.nav-btn[title="Poprzednia karta"],
+.nav-btn[title="Następna karta"] {
   background-color: #FFAD23 !important;
 }
 
-.nav-btn[title="Poprzednia"]:hover,
-.nav-btn[title="Następna"]:hover {
+.nav-btn[title="Poprzednia karta"]:hover,
+.nav-btn[title="Następna karta"]:hover {
   background-color: #f0f0f0 !important;
 }
 
 /* Hover states for specific buttons */
-.nav-btn[title="Losowa"]:hover,
-.nav-btn[title="Pokaż przykład"]:hover,
-.nav-btn[title="Zapamiętaj"]:hover,
-.nav-btn[title="Pokaż tylko nieznane"]:hover {
+.nav-btn[title="Losowa karta"]:hover,
+.nav-btn[title="Pokaż/ukryj przykłady"]:hover,
+.nav-btn[title="Zapamiętaj/odznacz kartę"]:hover,
+.nav-btn[title="Pokaż tylko nieznane karty"]:hover {
   background-color: #FFAD23 !important;
 }
 
 /* Active states for specific buttons */
-.nav-btn[title="Losowa"].active,
-.nav-btn[title="Pokaż przykład"].active,
-.nav-btn[title="Zapamiętaj"].active,
-.nav-btn[title="Pokaż tylko nieznane"].active {
+.nav-btn[title="Losowa karta"].active,
+.nav-btn[title="Pokaż/ukryj przykłady"].active,
+.nav-btn[title="Zapamiętaj/odznacz kartę"].active,
+.nav-btn[title="Pokaż tylko nieznane karty"].active {
   background-color: #FFAD23 !important;
 }
 
@@ -249,24 +249,15 @@ h1 {
 }
 
 .volume-control {
-  position: absolute;
-  top: 10px;
-  left: 45px;
   background: white;
   padding: 8px 12px;
   border-radius: 15px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  display: none;
-  z-index: 10;
   display: flex;
   align-items: center;
   justify-content: center;
   min-width: 100px;
-}
-
-.speaker-btn:hover + .volume-control,
-.volume-control:hover {
-  display: block;
+  margin-left: 10px;
 }
 
 .volume-slider {
@@ -296,4 +287,10 @@ h1 {
   border-radius: 50%;
   cursor: pointer;
   border: none;
+}
+
+/* Remove old volume control styles */
+.speaker-btn:hover + .volume-control,
+.volume-control:hover {
+  display: none;
 }
