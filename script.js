@@ -210,6 +210,31 @@ function togglePhonetic() {
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', function() {
+  // Handle touch events for navigation buttons
+  const navButtons = document.querySelectorAll('.nav-btn, .volume-btn');
+
+  navButtons.forEach(button => {
+    button.addEventListener('touchend', function(e) {
+      // Prevent default to avoid double-tap zoom
+      e.preventDefault();
+
+      // Blur the button to remove focus
+      this.blur();
+
+      // Force hide any tooltips
+      const tooltips = document.querySelectorAll('.nav-btn::after, .volume-btn::after');
+      tooltips.forEach(tooltip => {
+        tooltip.style.opacity = '0';
+        tooltip.style.visibility = 'hidden';
+      });
+
+      // Add a small delay before removing active state
+      setTimeout(() => {
+        this.classList.remove('active');
+      }, 100);
+    });
+  });
+
   // Load cards and phonetic data
   loadPhoneticData();
   loadCards();
