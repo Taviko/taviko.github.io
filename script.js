@@ -171,18 +171,26 @@ document.addEventListener('DOMContentLoaded', function() {
   navButtons.forEach(button => {
     button.addEventListener('touchend', function(e) {
       e.preventDefault();
-      this.blur();
+
+      // Force remove active class first
+      this.classList.remove('active');
 
       // Force reflow
       void this.offsetHeight;
 
-      // Manually re-toggle active class if already active
-      if (this.classList.contains('active')) {
-        this.classList.remove('active');
-        setTimeout(() => this.classList.add('active'), 0);
+      // If the button should be active (based on its current state)
+      if (this.id === 'rememberBtn' && isRemembered(getVisibleCards()[index]?.id) ||
+          (this.getAttribute('title') === 'Pokaż/ukryj przykłady' && showingExample) ||
+          (this.getAttribute('title') === 'Pokaż tylko nieznane karty' && showUnknownOnly) ||
+          (this.getAttribute('title') === 'Pokaż/ukryj transkrypcję fonetyczną' && showPhonetic)) {
+        // Add active class back in the next frame
+        requestAnimationFrame(() => {
+          this.classList.add('active');
+        });
       }
 
-      // Hide tooltips or pseudo-elements
+      // Blur the button
+      this.blur();
       document.activeElement.blur();
     });
   });
@@ -237,23 +245,28 @@ document.addEventListener('DOMContentLoaded', function() {
 
   navButtons.forEach(button => {
     button.addEventListener('touchend', function(e) {
-      // Prevent default to avoid double-tap zoom
       e.preventDefault();
 
-      // Blur the button to remove focus
+      // Force remove active class first
+      this.classList.remove('active');
+
+      // Force reflow
+      void this.offsetHeight;
+
+      // If the button should be active (based on its current state)
+      if (this.id === 'rememberBtn' && isRemembered(getVisibleCards()[index]?.id) ||
+          (this.getAttribute('title') === 'Pokaż/ukryj przykłady' && showingExample) ||
+          (this.getAttribute('title') === 'Pokaż tylko nieznane karty' && showUnknownOnly) ||
+          (this.getAttribute('title') === 'Pokaż/ukryj transkrypcję fonetyczną' && showPhonetic)) {
+        // Add active class back in the next frame
+        requestAnimationFrame(() => {
+          this.classList.add('active');
+        });
+      }
+
+      // Blur the button
       this.blur();
-
-      // Force hide any tooltips
-      const tooltips = document.querySelectorAll('.nav-btn::after, .volume-btn::after');
-      tooltips.forEach(tooltip => {
-        tooltip.style.opacity = '0';
-        tooltip.style.visibility = 'hidden';
-      });
-
-      // Add a small delay before removing active state
-      setTimeout(() => {
-        this.classList.remove('active');
-      }, 100);
+      document.activeElement.blur();
     });
   });
 
