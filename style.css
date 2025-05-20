@@ -191,23 +191,30 @@ h1 {
 /* Mobile tooltip styles */
 @media (hover: none) {
   .nav-btn::after {
-    transition: none;
+    display: none !important;
   }
 
   .nav-btn.touch-active::after {
+    display: block !important;
     opacity: 1;
     visibility: visible;
     bottom: -35px;
+    animation: tooltipFlash 0.5s ease-out;
   }
 
-  /* Ensure button states are always visible */
-  .nav-btn.active {
-    background-color: #FFAD23 !important;
-  }
-
-  .nav-btn[title="Poprzednia karta"].active,
-  .nav-btn[title="Następna karta"].active {
-    background-color: #FFAD23 !important;
+  @keyframes tooltipFlash {
+    0% {
+      opacity: 0;
+    }
+    20% {
+      opacity: 1;
+    }
+    80% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
   }
 }
 

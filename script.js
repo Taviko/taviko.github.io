@@ -213,41 +213,14 @@ document.addEventListener('DOMContentLoaded', function() {
   const navButtons = document.querySelectorAll('.nav-btn');
 
   navButtons.forEach(button => {
-    let touchTimeout;
-
     button.addEventListener('touchstart', function(e) {
-      // Clear any existing timeout
-      if (touchTimeout) {
-        clearTimeout(touchTimeout);
-      }
-
-      // Add active class immediately
+      // Add active class to show tooltip
       this.classList.add('touch-active');
 
-      // Set timeout to remove the class after a short delay
-      touchTimeout = setTimeout(() => {
+      // Remove the class after animation completes
+      setTimeout(() => {
         this.classList.remove('touch-active');
-      }, 1000); // Tooltip will show for 1 second
-    });
-
-    button.addEventListener('touchend', function(e) {
-      // Remove active class immediately
-      this.classList.remove('touch-active');
-
-      // Clear the timeout
-      if (touchTimeout) {
-        clearTimeout(touchTimeout);
-      }
-    });
-
-    button.addEventListener('touchcancel', function(e) {
-      // Remove active class immediately
-      this.classList.remove('touch-active');
-
-      // Clear the timeout
-      if (touchTimeout) {
-        clearTimeout(touchTimeout);
-      }
+      }, 500);
     });
   });
 
