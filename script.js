@@ -95,6 +95,7 @@ function randomCard() {
 function toggleRemembered() {
   const visible = getVisibleCards();
   const currentId = visible[index].id;
+  const rememberBtn = document.getElementById('rememberBtn');
   let remembered = JSON.parse(localStorage.getItem(rememberedKey)) || [];
 
   if (remembered.includes(currentId)) {
@@ -104,6 +105,7 @@ function toggleRemembered() {
   }
 
   localStorage.setItem(rememberedKey, JSON.stringify(remembered));
+  rememberBtn.classList.toggle('active', !remembered.includes(currentId));
   updateCard();
 }
 
@@ -113,7 +115,7 @@ function isRemembered(id) {
 }
 
 function toggleUnknownOnly() {
-  const unknownBtn = document.querySelector('[title="Pokaż tylko nieznane"]');
+  const unknownBtn = document.querySelector('[title="Pokaż tylko nieznane karty"]');
   showUnknownOnly = !showUnknownOnly;
   unknownBtn.classList.toggle('active', showUnknownOnly);
   index = 0;
@@ -128,6 +130,8 @@ function updateCounter() {
 function toggleExample() {
   showingExample = !showingExample;
   const examples = document.querySelectorAll('.example-sentence');
+  const exampleBtn = document.querySelector('[title="Pokaż/ukryj przykłady"]');
+
   examples.forEach(el => {
     if (showingExample) {
       el.classList.remove('hidden');
@@ -136,8 +140,6 @@ function toggleExample() {
     }
   });
 
-  // Update the button state
-  const exampleBtn = document.querySelector('[title="Pokaż przykład"]');
   exampleBtn.classList.toggle('active', showingExample);
 }
 
@@ -193,6 +195,7 @@ function getPhonetic(word, language) {
 function togglePhonetic() {
   showPhonetic = !showPhonetic;
   const phoneticElements = document.querySelectorAll('.phonetic-transcription');
+  const phoneticBtn = document.querySelector('[title="Pokaż/ukryj transkrypcję fonetyczną"]');
 
   phoneticElements.forEach(el => {
     if (showPhonetic) {
@@ -202,8 +205,6 @@ function togglePhonetic() {
     }
   });
 
-  // Update the button state
-  const phoneticBtn = document.querySelector('[title="Pokaż/ukryj transkrypcję fonetyczną"]');
   phoneticBtn.classList.toggle('active', showPhonetic);
 }
 
