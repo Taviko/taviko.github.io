@@ -1,8 +1,8 @@
-
 let cards = [];
 let index = 0;
 let showUnknownOnly = false;
 let showingFront = true;
+let showingExample = false;
 const category = new URLSearchParams(window.location.search).get('category') || 'restaurant';
 const rememberedKey = `remembered-${category}`;
 
@@ -18,16 +18,25 @@ function updateCard() {
   const flashcard = document.getElementById('flashcard');
 
   if (!currentCard) {
-    document.getElementById('card-front').innerText = 'Brak fiszek';
-    document.getElementById('card-back').innerText = '';
+    document.querySelector('#card-front .main-content').innerText = 'Brak fiszek';
+    document.querySelector('#card-back .main-content').innerText = '';
+    document.querySelector('#front-example').innerText = '';
+    document.querySelector('#back-example').innerText = '';
     flashcard.classList.remove('flipped');
     return;
   }
 
   showingFront = true;
   flashcard.classList.remove('flipped');
-  document.getElementById('card-front').innerText = currentCard.front;
-  document.getElementById('card-back').innerText = currentCard.back;
+  document.querySelector('#card-front .main-content').innerText = currentCard.front;
+  document.querySelector('#card-back .main-content').innerText = currentCard.back;
+  document.querySelector('#front-example').innerText = currentCard.frontExample || '';
+  document.querySelector('#back-example').innerText = currentCard.backExample || '';
+
+  // Reset example visibility when changing cards
+  showingExample = false;
+  document.querySelectorAll('.example-sentence').forEach(el => el.classList.add('hidden'));
+
   const rememberBtn = document.getElementById('rememberBtn');
   rememberBtn.classList.toggle('active', isRemembered(currentCard.id));
   updateCounter();
@@ -93,6 +102,14 @@ function toggleUnknownOnly() {
 function updateCounter() {
   const visible = getVisibleCards();
   document.getElementById('progress').innerText = `${index + 1} / ${visible.length}`;
+}
+
+function toggleExample() {
+  showingExample = !showingExample;
+  const examples = document.querySelectorAll('.example-sentence');
+  examples.forEach(el => {
+    el.classList.toggle('hidden', !showingExample);
+  });
 }
 
 loadCards();

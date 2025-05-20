@@ -50,10 +50,12 @@ h1 {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   backface-visibility: hidden;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: 1.5em;
   text-align: center;
+  gap: 20px;
 }
 
 .card-front {
@@ -64,6 +66,23 @@ h1 {
 .card-back {
   transform: rotateY(180deg);
   background: #FFAD23;
+}
+
+.main-content {
+  font-size: 1.5em;
+}
+
+.example-sentence {
+  font-size: 0.8em;
+  color: #666;
+  padding: 10px;
+  border-top: 1px solid #eee;
+  width: 100%;
+  transition: opacity 0.3s ease;
+}
+
+.example-sentence.hidden {
+  display: none;
 }
 
 #navigation {
@@ -83,7 +102,7 @@ h1 {
   flex-shrink: 0;
   border-radius: 50%;
   border: none;
-  background-color: white;
+  background-color: #FFAD23;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
   transition: all 0.3s ease;
@@ -102,7 +121,7 @@ h1 {
 }
 
 .nav-btn.active {
-  background-color: #FFAD23;
+  background-color: #f0f0f0;
 }
 
 #progress {

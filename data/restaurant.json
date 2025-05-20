@@ -1,5 +1,5 @@
 [
-  { "id": "r1", "front": "Waiter", "back": "Kelner" },
-  { "id": "r2", "front": "Menu", "back": "Menu" },
-  { "id": "r3", "front": "Bill", "back": "Rachunek" }
+  { "id": "r1", "front": "Waiter", "back": "Kelner", "frontExample": "The waiter brought us the menu.", "backExample": "Kelner przyniósł nam menu." },
+  { "id": "r2", "front": "Menu", "back": "Menu", "frontExample": "Could I see the menu, please?", "backExample": "Czy mogę zobaczyć menu?" },
+  { "id": "r3", "front": "Bill", "back": "Rachunek", "frontExample": "Could we have the bill, please?", "backExample": "Czy możemy prosić o rachunek?" }
 ]

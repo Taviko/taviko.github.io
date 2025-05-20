@@ -9,8 +9,14 @@
 
   <div id="flashcard" onclick="flipCard()">
     <div class="card-inner">
-      <div class="card-front" id="card-front">Front</div>
-      <div class="card-back" id="card-back">Back</div>
+      <div class="card-front" id="card-front">
+        <div class="main-content"></div>
+        <div class="example-sentence hidden" id="front-example"></div>
+      </div>
+      <div class="card-back" id="card-back">
+        <div class="main-content"></div>
+        <div class="example-sentence hidden" id="back-example"></div>
+      </div>
     </div>
   </div>
 
@@ -31,8 +37,14 @@
         <polyline points="21 16 21 21 16 21" stroke="black" stroke-width="2" stroke-linecap="round"/>
         <line x1="4" y1="4" x2="21" y2="21" stroke="black" stroke-width="2" stroke-linecap="round"/>
       </svg>
-
     </button>
+
+    <button onclick="toggleExample()" class="nav-btn" title="Pokaż przykład">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z" fill="black"/>
+      </svg>
+    </button>
+
     <button onclick="toggleRemembered()" id="rememberBtn" class="nav-btn" title="Zapamiętaj">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7" fill="none" stroke="black" stroke-width="2"/></svg>
     </button>
