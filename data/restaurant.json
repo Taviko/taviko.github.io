@@ -1,5 +1,22 @@
 [
-  { "id": "r1", "front": "Waiter", "back": "Kelner", "frontExample": "The waiter brought us the menu.", "backExample": "Kelner przyniósł nam menu." },
-  { "id": "r2", "front": "Menu", "back": "Menu", "frontExample": "Could I see the menu, please?", "backExample": "Czy mogę zobaczyć menu?" },
-  { "id": "r3", "front": "Bill", "back": "Rachunek", "frontExample": "Could we have the bill, please?", "backExample": "Czy możemy prosić o rachunek?" }
+  { "id": "r1", "front": "Reservation", "back": "Rezerwacja", "frontExample": "We made a reservation for 7 p.m.", "backExample": "Zrobiliśmy rezerwację na 19:00." },
+  { "id": "r2", "front": "Appetizer", "back": "Przystawka", "frontExample": "We ordered an appetizer before the main course.", "backExample": "Zamówiliśmy przystawkę przed daniem głównym." },
+  { "id": "r3", "front": "Main course", "back": "Danie główne", "frontExample": "The main course was delicious.", "backExample": "Danie główne było pyszne." },
+  { "id": "r4", "front": "Dessert", "back": "Deser", "frontExample": "Would you like some dessert?", "backExample": "Czy chciałbyś deser?" },
+  { "id": "r5", "front": "Fork", "back": "Widelec", "frontExample": "She dropped her fork on the floor.", "backExample": "Upuściła widelec na podłogę." },
+  { "id": "r6", "front": "Knife", "back": "Nóż", "frontExample": "He cut the steak with a sharp knife.", "backExample": "Pokroił stek ostrym nożem." },
+  { "id": "r7", "front": "Spoon", "back": "Łyżka", "frontExample": "I need a spoon for my soup.", "backExample": "Potrzebuję łyżki do zupy." },
+  { "id": "r8", "front": "Napkin", "back": "Serwetka", "frontExample": "He wiped his mouth with a napkin.", "backExample": "Wytarł usta serwetką." },
+  { "id": "r9", "front": "Glass", "back": "Szklanka", "frontExample": "Can I have a glass of water?", "backExample": "Czy mogę prosić o szklankę wody?" },
+  { "id": "r10", "front": "Tip", "back": "Napiwek", "frontExample": "We left a good tip for the service.", "backExample": "Zostawiliśmy dobry napiwek za obsługę." },
+  { "id": "r11", "front": "Dish", "back": "Danie", "frontExample": "This dish is very spicy.", "backExample": "To danie jest bardzo pikantne." },
+  { "id": "r12", "front": "Table", "back": "Stół", "frontExample": "The table by the window is free.", "backExample": "Stół przy oknie jest wolny." },
+  { "id": "r13", "front": "Waitress", "back": "Kelnerka", "frontExample": "The waitress took our order.", "backExample": "Kelnerka przyjęła nasze zamówienie." },
+  { "id": "r14", "front": "Order", "back": "Zamówienie", "frontExample": "He placed an order for pizza.", "backExample": "Złożył zamówienie na pizzę." },
+  { "id": "r15", "front": "Salt", "back": "Sól", "frontExample": "Pass me the salt, please.", "backExample": "Podaj mi proszę sól." },
+  { "id": "r16", "front": "Pepper", "back": "Pieprz", "frontExample": "I like to add pepper to my soup.", "backExample": "Lubię dodawać pieprz do zupy." },
+  { "id": "r17", "front": "Soup", "back": "Zupa", "frontExample": "This tomato soup is very tasty.", "backExample": "Ta zupa pomidorowa jest bardzo smaczna." },
+  { "id": "r18", "front": "Juice", "back": "Sok", "frontExample": "Can I get an orange juice?", "backExample": "Czy mogę dostać sok pomarańczowy?" },
+  { "id": "r19", "front": "Chicken", "back": "Kurczak", "frontExample": "He ordered grilled chicken for lunch.", "backExample": "Zamówił grillowanego kurczaka na lunch." },
+  { "id": "r20", "front": "Fish", "back": "Ryba", "frontExample": "The fish is served with lemon.", "backExample": "Ryba jest podawana z cytryną." }
 ]
