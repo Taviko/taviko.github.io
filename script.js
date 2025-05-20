@@ -208,22 +208,8 @@ function togglePhonetic() {
   phoneticBtn.classList.toggle('active', showPhonetic);
 }
 
-// Add touch event handlers for mobile tooltips
+// Initialize the application
 document.addEventListener('DOMContentLoaded', function() {
-  const navButtons = document.querySelectorAll('.nav-btn');
-
-  navButtons.forEach(button => {
-    button.addEventListener('touchstart', function(e) {
-      // Add active class to show tooltip
-      this.classList.add('touch-active');
-
-      // Remove the class after animation completes
-      setTimeout(() => {
-        this.classList.remove('touch-active');
-      }, 500);
-    });
-  });
-
   // Load cards and phonetic data
   loadPhoneticData();
   loadCards();

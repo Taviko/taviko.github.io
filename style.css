@@ -188,33 +188,33 @@ h1 {
   bottom: -35px;
 }
 
-/* Mobile tooltip styles */
+/* Mobile styles */
 @media (hover: none) {
   .nav-btn::after {
     display: none !important;
   }
 
-  .nav-btn.touch-active::after {
-    display: block !important;
-    opacity: 1;
-    visibility: visible;
-    bottom: -35px;
-    animation: tooltipFlash 0.5s ease-out;
+  #navigation {
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 8px;
   }
 
-  @keyframes tooltipFlash {
-    0% {
-      opacity: 0;
-    }
-    20% {
-      opacity: 1;
-    }
-    80% {
-      opacity: 1;
-    }
-    100% {
-      opacity: 0;
-    }
+  .nav-btn {
+    position: relative;
+    margin-bottom: 20px;
+  }
+
+  .nav-btn::before {
+    content: attr(data-short-title);
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 10px;
+    color: #666;
+    white-space: nowrap;
+    pointer-events: none;
   }
 }
 
