@@ -182,31 +182,16 @@ h1 {
   z-index: 1000;
 }
 
-.nav-btn:hover::after,
-.nav-btn:focus::after {
+.nav-btn:hover::after {
   opacity: 1;
   visibility: visible;
   bottom: -35px;
 }
 
-/* Mobile styles */
-@media (max-width: 768px), (pointer: coarse) {
-  #navigation {
-    flex-wrap: wrap;
-    gap: 8px;
-    padding: 8px;
-  }
-
-  /* Ensure tooltips are hidden by default on touch devices */
+/* Remove tooltip on touch devices */
+@media (hover: none) {
   .nav-btn::after {
     display: none;
-  }
-
-  /* Show tooltips only during active touch */
-  .nav-btn:active::after {
-    display: block;
-    opacity: 1;
-    visibility: visible;
   }
 }
 

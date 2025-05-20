@@ -165,36 +165,6 @@ function speakText(event) {
 
 // Add event listener for volume control
 document.addEventListener('DOMContentLoaded', function() {
-  // Handle touch events for navigation buttons
-  const navButtons = document.querySelectorAll('.nav-btn, .volume-btn');
-
-  navButtons.forEach(button => {
-    button.addEventListener('touchend', function(e) {
-      e.preventDefault();
-
-      // Force remove active class first
-      this.classList.remove('active');
-
-      // Force reflow
-      void this.offsetHeight;
-
-      // If the button should be active (based on its current state)
-      if (this.id === 'rememberBtn' && isRemembered(getVisibleCards()[index]?.id) ||
-          (this.getAttribute('title') === 'Pokaż/ukryj przykłady' && showingExample) ||
-          (this.getAttribute('title') === 'Pokaż tylko nieznane karty' && showUnknownOnly) ||
-          (this.getAttribute('title') === 'Pokaż/ukryj transkrypcję fonetyczną' && showPhonetic)) {
-        // Add active class back in the next frame
-        requestAnimationFrame(() => {
-          this.classList.add('active');
-        });
-      }
-
-      // Blur the button
-      this.blur();
-      document.activeElement.blur();
-    });
-  });
-
   const volumeSlider = document.querySelector('.volume-slider');
   if (volumeSlider) {
     volumeSlider.addEventListener('input', function(e) {
@@ -238,39 +208,8 @@ function togglePhonetic() {
   phoneticBtn.classList.toggle('active', showPhonetic);
 }
 
-// Initialize the application
-document.addEventListener('DOMContentLoaded', function() {
-  // Handle touch events for navigation buttons
-  const navButtons = document.querySelectorAll('.nav-btn, .volume-btn');
-
-  navButtons.forEach(button => {
-    button.addEventListener('touchend', function(e) {
-      e.preventDefault();
-
-      // Force remove active class first
-      this.classList.remove('active');
-
-      // Force reflow
-      void this.offsetHeight;
-
-      // If the button should be active (based on its current state)
-      if (this.id === 'rememberBtn' && isRemembered(getVisibleCards()[index]?.id) ||
-          (this.getAttribute('title') === 'Pokaż/ukryj przykłady' && showingExample) ||
-          (this.getAttribute('title') === 'Pokaż tylko nieznane karty' && showUnknownOnly) ||
-          (this.getAttribute('title') === 'Pokaż/ukryj transkrypcję fonetyczną' && showPhonetic)) {
-        // Add active class back in the next frame
-        requestAnimationFrame(() => {
-          this.classList.add('active');
-        });
-      }
-
-      // Blur the button
-      this.blur();
-      document.activeElement.blur();
-    });
-  });
-
-  // Load cards and phonetic data
+// Call loadPhoneticData when the page loads
+document.addEventListener('DOMContentLoaded', () => {
   loadPhoneticData();
   loadCards();
 });
