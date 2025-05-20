@@ -5,10 +5,7 @@
     "back": "restauracja",
     "frontExample": "Let's go to a restaurant for dinner.",
     "backExample": "Chodźmy do restauracji na obiad.",
-    "phonetic": {
-      "en": "/ˈrest(ə)rɒnt/",
-      "pl": "/rɛsˈtɔːrɑnt/"
-    },
+    "phonetic": "/ˈrest(ə)rɒnt/",
     "remembered": false
   },
   {
@@ -17,10 +14,7 @@
     "back": "menu",
     "frontExample": "Could I see the menu, please?",
     "backExample": "Czy mogę zobaczyć menu?",
-    "phonetic": {
-      "en": "/ˈmenjuː/",
-      "pl": "/ˈmɛnju/"
-    },
+    "phonetic": "/ˈmenjuː/",
     "remembered": false
   },
   {
@@ -29,10 +23,7 @@
     "back": "kelner",
     "frontExample": "The waiter brought our drinks.",
     "backExample": "Kelner przyniósł nasze napoje.",
-    "phonetic": {
-      "en": "/ˈweɪtər/",
-      "pl": "/ˈkɛlnɛr/"
-    },
+    "phonetic": "/ˈweɪtər/",
     "remembered": false
   },
   {
@@ -41,10 +32,7 @@
     "back": "rachunek",
     "frontExample": "Could we have the bill, please?",
     "backExample": "Czy możemy prosić o rachunek?",
-    "phonetic": {
-      "en": "/bɪl/",
-      "pl": "/raˈxunɛk/"
-    },
+    "phonetic": "/bɪl/",
     "remembered": false
   },
   {
@@ -53,10 +41,7 @@
     "back": "napiwek",
     "frontExample": "Don't forget to leave a tip.",
     "backExample": "Nie zapomnij zostawić napiwku.",
-    "phonetic": {
-      "en": "/tɪp/",
-      "pl": "/naˈpivɛk/"
-    },
+    "phonetic": "/tɪp/",
     "remembered": false
   }
 ]

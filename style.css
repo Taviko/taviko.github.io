@@ -314,9 +314,21 @@ h1 {
   pointer-events: auto;
 }
 
+/* Create a hover area that includes both the button and the control */
 .volume-btn:hover .volume-control,
 .volume-control:hover {
   display: flex;
+}
+
+/* Add padding to create a larger hover area */
+.volume-control::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  z-index: -1;
 }
 
 .volume-btn svg {
