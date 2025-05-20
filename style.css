@@ -276,7 +276,7 @@ h1 {
 .speaker-btn {
   position: absolute;
   top: 10px;
-  left: 10px;
+  right: 10px;
   background: none;
   border: none;
   cursor: pointer;
@@ -327,25 +327,31 @@ h1 {
 }
 
 .volume-btn {
-  width: 48px;
-  height: 48px;
-  min-width: 48px;
-  flex-shrink: 0;
-  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: none;
   border: none;
-  background-color: white !important;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
-  transition: all 0.3s ease;
+  padding: 5px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
-  touch-action: manipulation;
+  transition: background-color 0.3s ease;
+  z-index: 10;
+  width: 48px;
+  height: 48px;
 }
 
 .volume-btn:hover {
-  background-color: #FFAD23 !important;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.volume-btn svg {
+  width: 24px;
+  height: 24px;
+  color: #000;
 }
 
 .volume-control {
@@ -381,12 +387,6 @@ h1 {
   right: -10px;
   bottom: -10px;
   z-index: -1;
-}
-
-.volume-btn svg {
-  width: 24px;
-  height: 24px;
-  color: #000;
 }
 
 .volume-slider {

@@ -10,9 +10,18 @@
   <div id="flashcard" onclick="flipCard()">
     <div class="card-inner">
       <div class="card-front" id="card-front">
-        <button onclick="speakText(event)" class="speaker-btn" title="Odtwórz wymowę">
+        <button class="volume-btn" title="Głośność">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
             <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z" fill="currentColor"/>
+          </svg>
+          <div class="volume-control">
+            <input type="range" min="0" max="1" step="0.1" value="1" class="volume-slider" title="Głośność" onclick="event.stopPropagation()">
+          </div>
+        </button>
+        <button onclick="speakText(event)" class="speaker-btn" title="Odtwórz wymowę">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z" fill="currentColor"/>
+            <path d="M12 6c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm0 10c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4z" fill="currentColor"/>
           </svg>
         </button>
         <div class="main-content"></div>
@@ -62,7 +71,7 @@
 
       <button onclick="toggleUnknownOnly()" class="nav-btn" title="Pokaż tylko nieznane karty">
         <svg width="40" height="80" viewBox="0 0 40 80" xmlns="http://www.w3.org/2000/svg">
-          <rect x="2" y="2" width="36" height="76" rx="8" stroke="black" stroke-width="4" fill="none"/>
+          <rect x="2" y="2" width="36" height="72" rx="8" stroke="black" stroke-width="6" fill="none"/>
           <text x="20" y="44" font-family="Arial, sans-serif" font-size="24" fill="black" text-anchor="middle" dominant-baseline="middle">?</text>
         </svg>
       </button>
@@ -71,15 +80,6 @@
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
           <text x="3" y="17" font-family="Arial" font-size="14" fill="currentColor">/æ/</text>
         </svg>
-      </button>
-
-      <button class="volume-btn" title="Głośność">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-          <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z" fill="currentColor"/>
-        </svg>
-        <div class="volume-control">
-          <input type="range" min="0" max="1" step="0.1" value="1" class="volume-slider" title="Głośność" onclick="event.stopPropagation()">
-        </div>
       </button>
     </div>
   </div>
