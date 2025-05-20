@@ -34,9 +34,12 @@ function updateCard() {
   document.querySelector('#front-example').innerText = currentCard.frontExample || '';
   document.querySelector('#back-example').innerText = currentCard.backExample || '';
 
-  // Reset example visibility when changing cards
-  showingExample = false;
-  document.querySelectorAll('.example-sentence').forEach(el => el.classList.add('hidden'));
+  // Only reset example visibility if the example button is not active
+  if (!showingExample) {
+    document.querySelectorAll('.example-sentence').forEach(el => el.classList.add('hidden'));
+  } else {
+    document.querySelectorAll('.example-sentence').forEach(el => el.classList.remove('hidden'));
+  }
 
   const rememberBtn = document.getElementById('rememberBtn');
   rememberBtn.classList.toggle('active', isRemembered(currentCard.id));
