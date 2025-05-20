@@ -341,3 +341,19 @@ h1 {
   cursor: pointer;
   border: none;
 }
+
+.phonetic-transcription {
+  font-size: 0.9em;
+  color: #666;
+  padding: 10px;
+  border-top: 1px solid #eee;
+  width: 100%;
+  transition: opacity 0.3s ease;
+  margin-top: 10px;
+  display: block;
+  font-style: italic;
+}
+
+.phonetic-transcription.hidden {
+  display: none;
+}

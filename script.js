@@ -3,6 +3,8 @@ let index = 0;
 let showUnknownOnly = false;
 let showingFront = true;
 let showingExample = false;
+let showPhonetic = false;
+let phoneticData = null;
 const category = new URLSearchParams(window.location.search).get('category') || 'restaurant';
 const rememberedKey = `remembered-${category}`;
 let speechVolume = 1;
@@ -23,6 +25,8 @@ function updateCard() {
     document.querySelector('#card-back .main-content').innerText = '';
     document.querySelector('#front-example').innerText = '';
     document.querySelector('#back-example').innerText = '';
+    document.querySelector('#front-phonetic').innerText = '';
+    document.querySelector('#back-phonetic').innerText = '';
     flashcard.classList.remove('flipped');
     return;
   }
@@ -34,11 +38,22 @@ function updateCard() {
   document.querySelector('#front-example').innerText = currentCard.frontExample || '';
   document.querySelector('#back-example').innerText = currentCard.backExample || '';
 
+  // Update phonetic transcription
+  document.querySelector('#front-phonetic').innerText = currentCard.phonetic?.en || '';
+  document.querySelector('#back-phonetic').innerText = currentCard.phonetic?.pl || '';
+
   // Only reset example visibility if the example button is not active
   if (!showingExample) {
     document.querySelectorAll('.example-sentence').forEach(el => el.classList.add('hidden'));
   } else {
     document.querySelectorAll('.example-sentence').forEach(el => el.classList.remove('hidden'));
+  }
+
+  // Show/hide phonetic transcription based on state
+  if (showPhonetic) {
+    document.querySelectorAll('.phonetic-transcription').forEach(el => el.classList.remove('hidden'));
+  } else {
+    document.querySelectorAll('.phonetic-transcription').forEach(el => el.classList.add('hidden'));
   }
 
   const rememberBtn = document.getElementById('rememberBtn');
@@ -154,4 +169,44 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 
-loadCards();
+// Load phonetic data
+async function loadPhoneticData() {
+  try {
+    const response = await fetch('restaurant.json');
+    phoneticData = await response.json();
+  } catch (error) {
+    console.error('Error loading phonetic data:', error);
+  }
+}
+
+// Get phonetic transcription for a word
+function getPhonetic(word, language) {
+  if (!phoneticData || !phoneticData.phonetics[word]) {
+    return '';
+  }
+  return phoneticData.phonetics[word][language] || '';
+}
+
+// Toggle phonetic display
+function togglePhonetic() {
+  showPhonetic = !showPhonetic;
+  const phoneticElements = document.querySelectorAll('.phonetic-transcription');
+
+  phoneticElements.forEach(el => {
+    if (showPhonetic) {
+      el.classList.remove('hidden');
+    } else {
+      el.classList.add('hidden');
+    }
+  });
+
+  // Update the button state
+  const phoneticBtn = document.querySelector('[title="Pokaż/ukryj transkrypcję fonetyczną"]');
+  phoneticBtn.classList.toggle('active', showPhonetic);
+}
+
+// Call loadPhoneticData when the page loads
+document.addEventListener('DOMContentLoaded', () => {
+  loadPhoneticData();
+  loadCards();
+});
