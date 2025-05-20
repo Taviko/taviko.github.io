@@ -5,6 +5,7 @@ let showingFront = true;
 let showingExample = false;
 const category = new URLSearchParams(window.location.search).get('category') || 'restaurant';
 const rememberedKey = `remembered-${category}`;
+let speechVolume = 1;
 
 async function loadCards() {
   const res = await fetch(`data/${category}.json`);
@@ -119,5 +120,35 @@ function toggleExample() {
   const exampleBtn = document.querySelector('[title="Pokaż przykład"]');
   exampleBtn.classList.toggle('active', showingExample);
 }
+
+function speakText(event) {
+  event.stopPropagation(); // Prevent card flip when clicking the speaker button
+
+  const currentCard = getVisibleCards()[index];
+  if (!currentCard) return;
+
+  const text = currentCard.front;
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.volume = speechVolume;
+
+  // Get available voices and set to English if available
+  const voices = window.speechSynthesis.getVoices();
+  const englishVoice = voices.find(voice => voice.lang.includes('en'));
+  if (englishVoice) {
+    utterance.voice = englishVoice;
+  }
+
+  window.speechSynthesis.speak(utterance);
+}
+
+// Add event listener for volume control
+document.addEventListener('DOMContentLoaded', function() {
+  const volumeSlider = document.querySelector('.volume-slider');
+  if (volumeSlider) {
+    volumeSlider.addEventListener('input', function(e) {
+      speechVolume = parseFloat(e.target.value);
+    });
+  }
+});
 
 loadCards();
