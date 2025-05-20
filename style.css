@@ -104,7 +104,7 @@ h1 {
   flex-shrink: 0;
   border-radius: 50%;
   border: none;
-  background-color: #FFAD23 !important;
+  background-color: white !important;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   cursor: pointer;
   transition: all 0.3s ease;
@@ -116,6 +116,16 @@ h1 {
 .nav-btn svg {
   width: 24px;
   height: 24px;
+}
+
+.nav-btn[title="Poprzednia"],
+.nav-btn[title="Następna"] {
+  background-color: #FFAD23 !important;
+}
+
+.nav-btn[title="Poprzednia"]:hover,
+.nav-btn[title="Następna"]:hover {
+  background-color: #f0f0f0 !important;
 }
 
 .nav-btn:hover {
