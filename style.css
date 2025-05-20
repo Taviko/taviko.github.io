@@ -189,7 +189,7 @@ h1 {
 }
 
 /* Mobile styles */
-@media (hover: none) {
+@media (max-width: 768px), (pointer: coarse) {
   .nav-btn::after {
     display: none !important;
   }
