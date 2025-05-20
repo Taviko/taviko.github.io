@@ -128,10 +128,28 @@ h1 {
   background-color: #f0f0f0 !important;
 }
 
+/* Hover states for specific buttons */
+.nav-btn[title="Losowa"]:hover,
+.nav-btn[title="Pokaż przykład"]:hover,
+.nav-btn[title="Zapamiętaj"]:hover,
+.nav-btn[title="Pokaż tylko nieznane"]:hover {
+  background-color: #FFAD23 !important;
+}
+
+/* Active states for specific buttons */
+.nav-btn[title="Losowa"].active,
+.nav-btn[title="Pokaż przykład"].active,
+.nav-btn[title="Zapamiętaj"].active,
+.nav-btn[title="Pokaż tylko nieznane"].active {
+  background-color: #FFAD23 !important;
+}
+
+/* Default hover for other buttons */
 .nav-btn:hover {
   background-color: #f0f0f0 !important;
 }
 
+/* Default active state for other buttons */
 .nav-btn.active {
   background-color: #f0f0f0 !important;
 }
