@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 1,
+    "front": "Restaurant",
+    "back": "Restauracja",
+    "frontExample": "This is a restaurant.",
+    "backExample": "To jest restauracja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Menu",
+    "back": "Menu/Karta dań",
+    "frontExample": "This is a menu.",
+    "backExample": "To jest menu/karta dań.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Dish",
+    "back": "Danie",
+    "frontExample": "This is a dish.",
+    "backExample": "To jest danie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Meal",
+    "back": "Posiłek",
+    "frontExample": "This is a meal.",
+    "backExample": "To jest posiłek.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Starter",
+    "back": "Przystawka",
+    "frontExample": "This is a starter.",
+    "backExample": "To jest przystawka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Main course",
+    "back": "Danie główne",
+    "frontExample": "This is a main course.",
+    "backExample": "To jest danie główne.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Dessert",
+    "back": "Deser",
+    "frontExample": "This is a dessert.",
+    "backExample": "To jest deser.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Drink",
+    "back": "Napój",
+    "frontExample": "This is a drink.",
+    "backExample": "To jest napój.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Water",
+    "back": "Woda",
+    "frontExample": "This is a water.",
+    "backExample": "To jest woda.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Still water",
+    "back": "Woda niegazowana",
+    "frontExample": "This is a still water.",
+    "backExample": "To jest woda niegazowana.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Sparkling water",
+    "back": "Woda gazowana",
+    "frontExample": "This is a sparkling water.",
+    "backExample": "To jest woda gazowana.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Juice",
+    "back": "Sok",
+    "frontExample": "This is a juice.",
+    "backExample": "To jest sok.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Coffee",
+    "back": "Kawa",
+    "frontExample": "This is a coffee.",
+    "backExample": "To jest kawa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Tea",
+    "back": "Herbata",
+    "frontExample": "This is a tea.",
+    "backExample": "To jest herbata.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Beer",
+    "back": "Piwo",
+    "frontExample": "This is a beer.",
+    "backExample": "To jest piwo.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Wine",
+    "back": "Wino",
+    "frontExample": "This is a wine.",
+    "backExample": "To jest wino.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Red wine",
+    "back": "Czerwone wino",
+    "frontExample": "This is a red wine.",
+    "backExample": "To jest czerwone wino.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "White wine",
+    "back": "Białe wino",
+    "frontExample": "This is a white wine.",
+    "backExample": "To jest białe wino.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Waiter",
+    "back": "Kelner",
+    "frontExample": "This is a waiter.",
+    "backExample": "To jest kelner.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Waitress",
+    "back": "Kelnerka",
+    "frontExample": "This is a waitress.",
+    "backExample": "To jest kelnerka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Chef",
+    "back": "Szef kuchni",
+    "frontExample": "This is a chef.",
+    "backExample": "To jest szef kuchni.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Cook",
+    "back": "Kucharz",
+    "frontExample": "This is a cook.",
+    "backExample": "To jest kucharz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Customer",
+    "back": "Klient",
+    "frontExample": "This is a customer.",
+    "backExample": "To jest klient.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Table",
+    "back": "Stół",
+    "frontExample": "This is a table.",
+    "backExample": "To jest stół.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Chair",
+    "back": "Krzesło",
+    "frontExample": "This is a chair.",
+    "backExample": "To jest krzesło.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Fork",
+    "back": "Widelec",
+    "frontExample": "This is a fork.",
+    "backExample": "To jest widelec.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Knife",
+    "back": "Nóż",
+    "frontExample": "This is a knife.",
+    "backExample": "To jest nóż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Spoon",
+    "back": "Łyżka",
+    "frontExample": "This is a spoon.",
+    "backExample": "To jest łyżka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Napkin",
+    "back": "Serwetka",
+    "frontExample": "This is a napkin.",
+    "backExample": "To jest serwetka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Plate",
+    "back": "Talerz",
+    "frontExample": "This is a plate.",
+    "backExample": "To jest talerz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Glass",
+    "back": "Szklanka",
+    "frontExample": "This is a glass.",
+    "backExample": "To jest szklanka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Cup",
+    "back": "Filiżanka",
+    "frontExample": "This is a cup.",
+    "backExample": "To jest filiżanka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Bowl",
+    "back": "Miska",
+    "frontExample": "This is a bowl.",
+    "backExample": "To jest miska.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Bill",
+    "back": "Rachunek",
+    "frontExample": "This is a bill.",
+    "backExample": "To jest rachunek.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Tip",
+    "back": "Napiwek",
+    "frontExample": "This is a tip.",
+    "backExample": "To jest napiwek.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Reservation",
+    "back": "Rezerwacja",
+    "frontExample": "This is a reservation.",
+    "backExample": "To jest rezerwacja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Order",
+    "back": "Zamówienie",
+    "frontExample": "This is a order.",
+    "backExample": "To jest zamówienie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Booking",
+    "back": "Rezerwacja",
+    "frontExample": "This is a booking.",
+    "backExample": "To jest rezerwacja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Appetizer",
+    "back": "Przystawka",
+    "frontExample": "This is a appetizer.",
+    "backExample": "To jest przystawka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Soup",
+    "back": "Zupa",
+    "frontExample": "This is a soup.",
+    "backExample": "To jest zupa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Salad",
+    "back": "Sałata",
+    "frontExample": "This is a salad.",
+    "backExample": "To jest sałata.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Meat",
+    "back": "Mięso",
+    "frontExample": "This is a meat.",
+    "backExample": "To jest mięso.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Chicken",
+    "back": "Kurczak",
+    "frontExample": "This is a chicken.",
+    "backExample": "To jest kurczak.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Beef",
+    "back": "Wołowina",
+    "frontExample": "This is a beef.",
+    "backExample": "To jest wołowina.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Pork",
+    "back": "Wieprzowina",
+    "frontExample": "This is a pork.",
+    "backExample": "To jest wieprzowina.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Fish",
+    "back": "Ryba",
+    "frontExample": "This is a fish.",
+    "backExample": "To jest ryba.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Seafood",
+    "back": "Owoce morza",
+    "frontExample": "This is a seafood.",
+    "backExample": "To jest owoce morza.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Vegetarian",
+    "back": "Wegetariański",
+    "frontExample": "This is a vegetarian.",
+    "backExample": "To jest wegetariański.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Vegan",
+    "back": "Wegański",
+    "frontExample": "This is a vegan.",
+    "backExample": "To jest wegański.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "Gluten-free",
+    "back": "Bezglutenowy",
+    "frontExample": "This is a gluten-free.",
+    "backExample": "To jest bezglutenowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Spicy",
+    "back": "Pikantny",
+    "frontExample": "This is a spicy.",
+    "backExample": "To jest pikantny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "Sweet",
+    "back": "Słodki",
+    "frontExample": "This is a sweet.",
+    "backExample": "To jest słodki.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "Sour",
+    "back": "Kwaśny",
+    "frontExample": "This is a sour.",
+    "backExample": "To jest kwaśny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "Bitter",
+    "back": "Gorzki",
+    "frontExample": "This is a bitter.",
+    "backExample": "To jest gorzki.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Salty",
+    "back": "Słony",
+    "frontExample": "This is a salty.",
+    "backExample": "To jest słony.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "Fresh",
+    "back": "Świeży",
+    "frontExample": "This is a fresh.",
+    "backExample": "To jest świeży.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "Hot",
+    "back": "Gorący",
+    "frontExample": "This is a hot.",
+    "backExample": "To jest gorący.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "Cold",
+    "back": "Zimny",
+    "frontExample": "This is a cold.",
+    "backExample": "To jest zimny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "Tasty",
+    "back": "Smaczny",
+    "frontExample": "This is a tasty.",
+    "backExample": "To jest smaczny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "Delicious",
+    "back": "Pyszny",
+    "frontExample": "This is a delicious.",
+    "backExample": "To jest pyszny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 61,
+    "front": "Raw",
+    "back": "Surowy",
+    "frontExample": "This is a raw.",
+    "backExample": "To jest surowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 62,
+    "front": "Grilled",
+    "back": "Grillowany",
+    "frontExample": "This is a grilled.",
+    "backExample": "To jest grillowany.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 63,
+    "front": "Fried",
+    "back": "Smażony",
+    "frontExample": "This is a fried.",
+    "backExample": "To jest smażony.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 64,
+    "front": "Baked",
+    "back": "Pieczony",
+    "frontExample": "This is a baked.",
+    "backExample": "To jest pieczony.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 65,
+    "front": "Boiled",
+    "back": "Gotowany",
+    "frontExample": "This is a boiled.",
+    "backExample": "To jest gotowany.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 66,
+    "front": "Steamed",
+    "back": "Gotowany na parze",
+    "frontExample": "This is a steamed.",
+    "backExample": "To jest gotowany na parze.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 67,
+    "front": "Sauce",
+    "back": "Sos",
+    "frontExample": "This is a sauce.",
+    "backExample": "To jest sos.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 68,
+    "front": "Ketchup",
+    "back": "Keczup",
+    "frontExample": "This is a ketchup.",
+    "backExample": "To jest keczup.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 69,
+    "front": "Mayonnaise",
+    "back": "Majonez",
+    "frontExample": "This is a mayonnaise.",
+    "backExample": "To jest majonez.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 70,
+    "front": "Mustard",
+    "back": "Musztarda",
+    "frontExample": "This is a mustard.",
+    "backExample": "To jest musztarda.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 71,
+    "front": "Oil",
+    "back": "Olej",
+    "frontExample": "This is a oil.",
+    "backExample": "To jest olej.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 72,
+    "front": "Vinegar",
+    "back": "Ocet",
+    "frontExample": "This is a vinegar.",
+    "backExample": "To jest ocet.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 73,
+    "front": "Rice",
+    "back": "Ryż",
+    "frontExample": "This is a rice.",
+    "backExample": "To jest ryż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 74,
+    "front": "Pasta",
+    "back": "Makaron",
+    "frontExample": "This is a pasta.",
+    "backExample": "To jest makaron.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 75,
+    "front": "Bread",
+    "back": "Chleb",
+    "frontExample": "This is a bread.",
+    "backExample": "To jest chleb.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 76,
+    "front": "Butter",
+    "back": "Masło",
+    "frontExample": "This is a butter.",
+    "backExample": "To jest masło.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 77,
+    "front": "Cheese",
+    "back": "Ser",
+    "frontExample": "This is a cheese.",
+    "backExample": "To jest ser.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 78,
+    "front": "Egg",
+    "back": "Jajko",
+    "frontExample": "This is a egg.",
+    "backExample": "To jest jajko.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 79,
+    "front": "Potato",
+    "back": "Ziemniak",
+    "frontExample": "This is a potato.",
+    "backExample": "To jest ziemniak.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 80,
+    "front": "French fries",
+    "back": "Frytki",
+    "frontExample": "This is a french fries.",
+    "backExample": "To jest frytki.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 81,
+    "front": "Pizza",
+    "back": "Pizza",
+    "frontExample": "This is a pizza.",
+    "backExample": "To jest pizza.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 82,
+    "front": "Hmburger",
+    "back": "Hamburger",
+    "frontExample": "This is a hmburger.",
+    "backExample": "To jest hamburger.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 83,
+    "front": "Sandwich",
+    "back": "Kanapka",
+    "frontExample": "This is a sandwich.",
+    "backExample": "To jest kanapka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 84,
+    "front": "Ice cream",
+    "back": "Lody",
+    "frontExample": "This is a ice cream.",
+    "backExample": "To jest lody.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 85,
+    "front": "Cake",
+    "back": "Ciasto",
+    "frontExample": "This is a cake.",
+    "backExample": "To jest ciasto.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 86,
+    "front": "Fruit",
+    "back": "Owoce",
+    "frontExample": "This is a fruit.",
+    "backExample": "To jest owoce.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 87,
+    "front": "Apple",
+    "back": "Jabłko",
+    "frontExample": "This is a apple.",
+    "backExample": "To jest jabłko.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 88,
+    "front": "Banana",
+    "back": "Banan",
+    "frontExample": "This is a banana.",
+    "backExample": "To jest banan.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 89,
+    "front": "Orange",
+    "back": "Pomarańcza",
+    "frontExample": "This is a orange.",
+    "backExample": "To jest pomarańcza.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 90,
+    "front": "Strawberry",
+    "back": "Truskawka",
+    "frontExample": "This is a strawberry.",
+    "backExample": "To jest truskawka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 91,
+    "front": "Lemon",
+    "back": "Cytryna",
+    "frontExample": "This is a lemon.",
+    "backExample": "To jest cytryna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 92,
+    "front": "Garlic",
+    "back": "Czosnek",
+    "frontExample": "This is a garlic.",
+    "backExample": "To jest czosnek.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 93,
+    "front": "Onion",
+    "back": "Cebula",
+    "frontExample": "This is a onion.",
+    "backExample": "To jest cebula.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 94,
+    "front": "Pepper",
+    "back": "Pieprz/Papryka",
+    "frontExample": "This is a pepper.",
+    "backExample": "To jest pieprz/papryka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 95,
+    "front": "Salt",
+    "back": "Sól",
+    "frontExample": "This is a salt.",
+    "backExample": "To jest sól.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 96,
+    "front": "Menu of the day",
+    "back": "Menu dnia/Danie dnia",
+    "frontExample": "This is a menu of the day.",
+    "backExample": "To jest menu dnia/danie dnia.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 97,
+    "front": "Kids menu",
+    "back": "Menu dla dzieci",
+    "frontExample": "This is a kids menu.",
+    "backExample": "To jest menu dla dzieci.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 98,
+    "front": "Buffet",
+    "back": "Bufet",
+    "frontExample": "This is a buffet.",
+    "backExample": "To jest bufet.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 99,
+    "front": "Table for two",
+    "back": "Stolik dla dwojga",
+    "frontExample": "This is a table for two.",
+    "backExample": "To jest stolik dla dwojga.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 100,
+    "front": "Takeaway",
+    "back": "Na wynos",
+    "frontExample": "This is a takeaway.",
+    "backExample": "To jest na wynos.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 101,
+    "front": "Blackcurrant",
+    "back": "Czarna porzeczka",
+    "frontExample": "This is a blackcurrant.",
+    "backExample": "To jest czarna porzeczka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 102,
+    "front": "Eggplant",
+    "back": "Bakłażan",
+    "frontExample": "This is a eggplant.",
+    "backExample": "To jest bakłażan.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 103,
+    "front": "Raspberries",
+    "back": "Maliny",
+    "frontExample": "This is a raspberries.",
+    "backExample": "To jest maliny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 104,
+    "front": "Pear",
+    "back": "Gruszka",
+    "frontExample": "This is a pear.",
+    "backExample": "To jest gruszka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 105,
+    "front": "Mint",
+    "back": "Mięta",
+    "frontExample": "This is a mint.",
+    "backExample": "To jest mięta.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 106,
+    "front": "Pineapple",
+    "back": "Ananas",
+    "frontExample": "This is a pineapple.",
+    "backExample": "To jest ananas.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 107,
+    "front": "Coconut",
+    "back": "Kokos",
+    "frontExample": "This is a coconut.",
+    "backExample": "To jest kokos.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 108,
+    "front": "Turkey",
+    "back": "Indyk",
+    "frontExample": "This is a turkey.",
+    "backExample": "To jest indyk.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 109,
+    "front": "Shrimp",
+    "back": "Krewetka",
+    "frontExample": "This is a shrimp.",
+    "backExample": "To jest krewetka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 110,
+    "front": "Tomatoes",
+    "back": "Pomidory",
+    "frontExample": "This is a tomatoes.",
+    "backExample": "To jest pomidory.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 111,
+    "front": "Cucumber",
+    "back": "Ogórek",
+    "frontExample": "This is a cucumber.",
+    "backExample": "To jest ogórek.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 112,
+    "front": "Octopus",
+    "back": "Ośmiornica",
+    "frontExample": "This is a octopus.",
+    "backExample": "To jest ośmiornica.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 113,
+    "front": "Pomegranate",
+    "back": "Granat",
+    "frontExample": "This is a pomegranate.",
+    "backExample": "To jest granat.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 114,
+    "front": "Parsley",
+    "back": "Natka pietruszki",
+    "frontExample": "This is a parsley.",
+    "backExample": "To jest natka pietruszki.",
+    "phonetic": "",
+    "remembered": false
+  }
+]
