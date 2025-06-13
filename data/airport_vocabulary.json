@@ -1,0 +1,884 @@
+[
+  {
+    "id": 1,
+    "front": "airport",
+    "back": "lotnisko",
+    "frontExample": "This is a airport.",
+    "backExample": "To jest lotnisko.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "flight",
+    "back": "lot, przelot",
+    "frontExample": "This is a flight.",
+    "backExample": "To jest lot, przelot.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "plane",
+    "back": "samolot",
+    "frontExample": "This is a plane.",
+    "backExample": "To jest samolot.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "passport",
+    "back": "paszport",
+    "frontExample": "This is a passport.",
+    "backExample": "To jest paszport.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "ticket",
+    "back": "bilet",
+    "frontExample": "This is a ticket.",
+    "backExample": "To jest bilet.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "boarding pass",
+    "back": "karta pokładowa",
+    "frontExample": "This is a boarding pass.",
+    "backExample": "To jest karta pokładowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "gate",
+    "back": "bramka, wyjście do samolotu",
+    "frontExample": "This is a gate.",
+    "backExample": "To jest bramka, wyjście do samolotu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "terminal",
+    "back": "terminal lotniczy",
+    "frontExample": "This is a terminal.",
+    "backExample": "To jest terminal lotniczy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "security check",
+    "back": "kontrola bezpieczeństwa",
+    "frontExample": "This is a security check.",
+    "backExample": "To jest kontrola bezpieczeństwa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "baggage",
+    "back": "bagaż",
+    "frontExample": "This is a baggage.",
+    "backExample": "To jest bagaż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "luggage",
+    "back": "bagaż",
+    "frontExample": "This is a luggage.",
+    "backExample": "To jest bagaż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "suitcase",
+    "back": "walizka",
+    "frontExample": "This is a suitcase.",
+    "backExample": "To jest walizka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "hand laggage, carry-on",
+    "back": "bagaż podręczny",
+    "frontExample": "This is a hand laggage, carry-on.",
+    "backExample": "To jest bagaż podręczny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "check-in",
+    "back": "odprawa",
+    "frontExample": "This is a check-in.",
+    "backExample": "To jest odprawa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "check-in desk",
+    "back": "stanowisko odprawy",
+    "frontExample": "This is a check-in desk.",
+    "backExample": "To jest stanowisko odprawy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "departure",
+    "back": "odlot",
+    "frontExample": "This is a departure.",
+    "backExample": "To jest odlot.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "arrival",
+    "back": "przylot",
+    "frontExample": "This is a arrival.",
+    "backExample": "To jest przylot.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "delay",
+    "back": "opóźnienie",
+    "frontExample": "This is a delay.",
+    "backExample": "To jest opóźnienie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "cancelled",
+    "back": "odwołany",
+    "frontExample": "This is a cancelled.",
+    "backExample": "To jest odwołany.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "on time",
+    "back": "na czas",
+    "frontExample": "This is a on time.",
+    "backExample": "To jest na czas.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "boarding",
+    "back": "wejście na pokład samolotu",
+    "frontExample": "This is a boarding.",
+    "backExample": "To jest wejście na pokład samolotu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "seat",
+    "back": "miejsce",
+    "frontExample": "This is a seat.",
+    "backExample": "To jest miejsce.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "aisle",
+    "back": "przejście",
+    "frontExample": "This is a aisle.",
+    "backExample": "To jest przejście.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "window seat",
+    "back": "miejsce przy oknie",
+    "frontExample": "This is a window seat.",
+    "backExample": "To jest miejsce przy oknie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "aisle seat",
+    "back": "miejsce przy przejściu",
+    "frontExample": "This is a aisle seat.",
+    "backExample": "To jest miejsce przy przejściu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "middle seat",
+    "back": "miejsce środkowe",
+    "frontExample": "This is a middle seat.",
+    "backExample": "To jest miejsce środkowe.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "flight attendant",
+    "back": "steward/stewardesa",
+    "frontExample": "This is a flight attendant.",
+    "backExample": "To jest steward/stewardesa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "pilot",
+    "back": "pilot samolotu",
+    "frontExample": "This is a pilot.",
+    "backExample": "To jest pilot samolotu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "crew",
+    "back": "załoga",
+    "frontExample": "This is a crew.",
+    "backExample": "To jest załoga.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "announcement",
+    "back": "ogłoszenie",
+    "frontExample": "This is a announcement.",
+    "backExample": "To jest ogłoszenie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Immigration",
+    "back": "kontrola paszportowa",
+    "frontExample": "This is a immigration.",
+    "backExample": "To jest kontrola paszportowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "customs",
+    "back": "odprawa celna",
+    "frontExample": "This is a customs.",
+    "backExample": "To jest odprawa celna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "visa",
+    "back": "wiza",
+    "frontExample": "This is a visa.",
+    "backExample": "To jest wiza.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "country",
+    "back": "kraj",
+    "frontExample": "This is a country.",
+    "backExample": "To jest kraj.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "travel",
+    "back": "podróż",
+    "frontExample": "This is a travel.",
+    "backExample": "To jest podróż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "tourist",
+    "back": "turysta",
+    "frontExample": "This is a tourist.",
+    "backExample": "To jest turysta.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "vacation",
+    "back": "wakacje",
+    "frontExample": "This is a vacation.",
+    "backExample": "To jest wakacje.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "business trip",
+    "back": "podróż służbowa",
+    "frontExample": "This is a business trip.",
+    "backExample": "To jest podróż służbowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "departure lounge",
+    "back": "hala odlotów",
+    "frontExample": "This is a departure lounge.",
+    "backExample": "To jest hala odlotów.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "boarding gate",
+    "back": "bramka, wejście na pokład",
+    "frontExample": "This is a boarding gate.",
+    "backExample": "To jest bramka, wejście na pokład.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "flight number",
+    "back": "numer lotu",
+    "frontExample": "This is a flight number.",
+    "backExample": "To jest numer lotu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "terminal building",
+    "back": "budynek terminalu",
+    "frontExample": "This is a terminal building.",
+    "backExample": "To jest budynek terminalu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "trolley",
+    "back": "wózek bagażowy",
+    "frontExample": "This is a trolley.",
+    "backExample": "To jest wózek bagażowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "conveyor belt",
+    "back": "taśma bagażowa",
+    "frontExample": "This is a conveyor belt.",
+    "backExample": "To jest taśma bagażowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "lost luggage",
+    "back": "zagubiony bagaż",
+    "frontExample": "This is a lost luggage.",
+    "backExample": "To jest zagubiony bagaż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "baggage claim",
+    "back": "odbiór bagażu",
+    "frontExample": "This is a baggage claim.",
+    "backExample": "To jest odbiór bagażu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "customs declaration",
+    "back": "deklaracja celna",
+    "frontExample": "This is a customs declaration.",
+    "backExample": "To jest deklaracja celna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "overhead bin",
+    "back": "schowek na bagaż podręczny",
+    "frontExample": "This is a overhead bin.",
+    "backExample": "To jest schowek na bagaż podręczny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "seatbelt",
+    "back": "pas bezpieczeństwa",
+    "frontExample": "This is a seatbelt.",
+    "backExample": "To jest pas bezpieczeństwa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "life vest",
+    "back": "kamizelka ratunkowa",
+    "frontExample": "This is a life vest.",
+    "backExample": "To jest kamizelka ratunkowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "emergency exit",
+    "back": "wyjście ewakuacyjne",
+    "frontExample": "This is a emergency exit.",
+    "backExample": "To jest wyjście ewakuacyjne.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "turbulence",
+    "back": "turbulencje",
+    "frontExample": "This is a turbulence.",
+    "backExample": "To jest turbulencje.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "take-off",
+    "back": "startować",
+    "frontExample": "This is a take-off.",
+    "backExample": "To jest startować.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "landing",
+    "back": "lądowanie",
+    "frontExample": "This is a landing.",
+    "backExample": "To jest lądowanie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "runway",
+    "back": "pas startowy",
+    "frontExample": "This is a runway.",
+    "backExample": "To jest pas startowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "airfare",
+    "back": "opłata za przelot",
+    "frontExample": "This is a airfare.",
+    "backExample": "To jest opłata za przelot.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "travel insurance",
+    "back": "ubezpieczenie podróżne",
+    "frontExample": "This is a travel insurance.",
+    "backExample": "To jest ubezpieczenie podróżne.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "ID",
+    "back": "dokument tożsamości",
+    "frontExample": "This is a id.",
+    "backExample": "To jest dokument tożsamości.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "duty-free",
+    "back": "bezcłowy",
+    "frontExample": "This is a duty-free.",
+    "backExample": "To jest bezcłowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "ticket counter",
+    "back": "kasa biletowa",
+    "frontExample": "This is a ticket counter.",
+    "backExample": "To jest kasa biletowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 61,
+    "front": "reservation",
+    "back": "rezerwacja",
+    "frontExample": "This is a reservation.",
+    "backExample": "To jest rezerwacja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 62,
+    "front": "booking",
+    "back": "rezerwować",
+    "frontExample": "This is a booking.",
+    "backExample": "To jest rezerwować.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 63,
+    "front": "round trip",
+    "back": "podróż w obie strony",
+    "frontExample": "This is a round trip.",
+    "backExample": "To jest podróż w obie strony.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 64,
+    "front": "one-way ticket",
+    "back": "bilet w jedną stronę",
+    "frontExample": "This is a one-way ticket.",
+    "backExample": "To jest bilet w jedną stronę.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 65,
+    "front": "direct flight",
+    "back": "lot bezpośredni",
+    "frontExample": "This is a direct flight.",
+    "backExample": "To jest lot bezpośredni.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 66,
+    "front": "connecting flight",
+    "back": "lot z przesiadką",
+    "frontExample": "This is a connecting flight.",
+    "backExample": "To jest lot z przesiadką.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 67,
+    "front": "layover",
+    "back": "przesiadka",
+    "frontExample": "This is a layover.",
+    "backExample": "To jest przesiadka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 68,
+    "front": "destination",
+    "back": "cel podróży",
+    "frontExample": "This is a destination.",
+    "backExample": "To jest cel podróży.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 69,
+    "front": "travel documents",
+    "back": "dokumenty podróży",
+    "frontExample": "This is a travel documents.",
+    "backExample": "To jest dokumenty podróży.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 70,
+    "front": "baggage allowance",
+    "back": "limit bagażu",
+    "frontExample": "This is a baggage allowance.",
+    "backExample": "To jest limit bagażu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 71,
+    "front": "oversized baggage",
+    "back": "bagaż ponadwymiarowy",
+    "frontExample": "This is a oversized baggage.",
+    "backExample": "To jest bagaż ponadwymiarowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 72,
+    "front": "fragile",
+    "back": "delikatny, kruchy",
+    "frontExample": "This is a fragile.",
+    "backExample": "To jest delikatny, kruchy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 73,
+    "front": "immigration officer",
+    "back": "urzędnik imigracyjny",
+    "frontExample": "This is a immigration officer.",
+    "backExample": "To jest urzędnik imigracyjny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 74,
+    "front": "cabin",
+    "back": "kabina",
+    "frontExample": "This is a cabin.",
+    "backExample": "To jest kabina.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 75,
+    "front": "cabin crew",
+    "back": "załoga samolotu",
+    "frontExample": "This is a cabin crew.",
+    "backExample": "To jest załoga samolotu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 76,
+    "front": "boarding time",
+    "back": "czas wejścia na pokład",
+    "frontExample": "This is a boarding time.",
+    "backExample": "To jest czas wejścia na pokład.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 77,
+    "front": "time zone",
+    "back": "strefa czasowa",
+    "frontExample": "This is a time zone.",
+    "backExample": "To jest strefa czasowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 78,
+    "front": "jet lag",
+    "back": "zmęczenie po podróży samolotem spowodowane zmianą strefy czasowej",
+    "frontExample": "This is a jet lag.",
+    "backExample": "To jest zmęczenie po podróży samolotem spowodowane zmianą strefy czasowej.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 79,
+    "front": "first class",
+    "back": "pierwsza klasa",
+    "frontExample": "This is a first class.",
+    "backExample": "To jest pierwsza klasa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 80,
+    "front": "economy class",
+    "back": "klasa ekonomiczna",
+    "frontExample": "This is a economy class.",
+    "backExample": "To jest klasa ekonomiczna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 81,
+    "front": "business class",
+    "back": "klasa biznesowa",
+    "frontExample": "This is a business class.",
+    "backExample": "To jest klasa biznesowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 82,
+    "front": "upgrade",
+    "back": "podniesienie klasy",
+    "frontExample": "This is a upgrade.",
+    "backExample": "To jest podniesienie klasy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 83,
+    "front": "lounge",
+    "back": "poczekalnia",
+    "frontExample": "This is a lounge.",
+    "backExample": "To jest poczekalnia.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 84,
+    "front": "row",
+    "back": "rząd",
+    "frontExample": "This is a row.",
+    "backExample": "To jest rząd.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 85,
+    "front": "airplane mode",
+    "back": "tryb samolotowy",
+    "frontExample": "This is a airplane mode.",
+    "backExample": "To jest tryb samolotowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 86,
+    "front": "rebook",
+    "back": "zmienić rezerwację",
+    "frontExample": "This is a rebook.",
+    "backExample": "To jest zmienić rezerwację.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 87,
+    "front": "flight schedule",
+    "back": "rozkład lotów",
+    "frontExample": "This is a flight schedule.",
+    "backExample": "To jest rozkład lotów.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 88,
+    "front": "weather conditions",
+    "back": "warunki pogodowe",
+    "frontExample": "This is a weather conditions.",
+    "backExample": "To jest warunki pogodowe.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 89,
+    "front": "travel agency",
+    "back": "biuro podróży",
+    "frontExample": "This is a travel agency.",
+    "backExample": "To jest biuro podróży.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 90,
+    "front": "travel companion",
+    "back": "towarzysz podróży",
+    "frontExample": "This is a travel companion.",
+    "backExample": "To jest towarzysz podróży.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 91,
+    "front": "map",
+    "back": "mapa, plan",
+    "frontExample": "This is a map.",
+    "backExample": "To jest mapa, plan.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 92,
+    "front": "hotel",
+    "back": "hotel",
+    "frontExample": "This is a hotel.",
+    "backExample": "To jest hotel.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 93,
+    "front": "reservation number",
+    "back": "numer rezerwacji",
+    "frontExample": "This is a reservation number.",
+    "backExample": "To jest numer rezerwacji.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 94,
+    "front": "boarding area",
+    "back": "strefa wejścia na pokład",
+    "frontExample": "This is a boarding area.",
+    "backExample": "To jest strefa wejścia na pokład.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 95,
+    "front": "departure board",
+    "back": "tablica odlotów",
+    "frontExample": "This is a departure board.",
+    "backExample": "To jest tablica odlotów.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 96,
+    "front": "arrival board",
+    "back": "tablica przylotów",
+    "frontExample": "This is a arrival board.",
+    "backExample": "To jest tablica przylotów.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 97,
+    "front": "international",
+    "back": "międzynarodowy",
+    "frontExample": "This is a international.",
+    "backExample": "To jest międzynarodowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 98,
+    "front": "domestic",
+    "back": "krajowy",
+    "frontExample": "This is a domestic.",
+    "backExample": "To jest krajowy.",
+    "phonetic": "",
+    "remembered": false
+  }
+]
