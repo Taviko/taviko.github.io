@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "front": "wake up",
+    "back": "budzić się",
+    "frontExample": "You need to wake up or you'll be late.",
+    "backExample": "Musisz budzić się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "use up",
+    "back": "zużyć, wyczerpać",
+    "frontExample": "You need to use up or you'll be late.",
+    "backExample": "Musisz zużyć albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "wait for",
+    "back": "czekać na",
+    "frontExample": "You need to wait for or you'll be late.",
+    "backExample": "Musisz czekać na albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "walk away",
+    "back": "odejść, wyjść bez szwanku",
+    "frontExample": "You need to walk away or you'll be late.",
+    "backExample": "Musisz odejść albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "walk out",
+    "back": "wyjść, opuścić (np. spotkanie)",
+    "frontExample": "You need to walk out or you'll be late.",
+    "backExample": "Musisz wyjść albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "warm up",
+    "back": "rozgrzać się, rozkręcić się",
+    "frontExample": "You need to warm up or you'll be late.",
+    "backExample": "Musisz rozgrzać się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "watch out",
+    "back": "uważać, być ostrożnym",
+    "frontExample": "You need to watch out or you'll be late.",
+    "backExample": "Musisz uważać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "wear out",
+    "back": "zużyć się, wyczerpywać",
+    "frontExample": "You need to wear out or you'll be late.",
+    "backExample": "Musisz zużyć się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "work out",
+    "back": "ćwiczyć, rozwiązać problem",
+    "frontExample": "You need to work out or you'll be late.",
+    "backExample": "Musisz ćwiczyć albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "write down",
+    "back": "zapisywać",
+    "frontExample": "You need to write down or you'll be late.",
+    "backExample": "Musisz zapisywać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "act up",
+    "back": "źle się zachowywać, nie funkcjonować poprawnie (o sprzęcie)",
+    "frontExample": "You need to act up or you'll be late.",
+    "backExample": "Musisz źle się zachowywać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "back down",
+    "back": "wycofać się, ustąpić",
+    "frontExample": "You need to back down or you'll be late.",
+    "backExample": "Musisz wycofać się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "bail out",
+    "back": "ratować finansowo, wyciągać kogoś z kłopotów",
+    "frontExample": "You need to bail out or you'll be late.",
+    "backExample": "Musisz ratować finansowo albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "be fed up with",
+    "back": "mieć czegoś dość",
+    "frontExample": "You need to be fed up with or you'll be late.",
+    "backExample": "Musisz mieć czegoś dość albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "blow up",
+    "back": "wysadzić w powietrze, eksplodować, wściec się",
+    "frontExample": "You need to blow up or you'll be late.",
+    "backExample": "Musisz wysadzić w powietrze albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "break off",
+    "back": "zerwać (np. zaręczyny), przestać mówić",
+    "frontExample": "You need to break off or you'll be late.",
+    "backExample": "Musisz zerwać (np. zaręczyny) albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "bring in",
+    "back": "wprowadzać (np.prawo), zbierać coś",
+    "frontExample": "You need to bring in or you'll be late.",
+    "backExample": "Musisz wprowadzać (np.prawo) albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "brush up (on)",
+    "back": "podszlifować, odświeżyć (np. znajomość języka)",
+    "frontExample": "You need to brush up (on) or you'll be late.",
+    "backExample": "Musisz podszlifować albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "bump into",
+    "back": "wpaść na kogoś, spotkać kogoś przypadkiem",
+    "frontExample": "You need to bump into or you'll be late.",
+    "backExample": "Musisz wpaść na kogoś albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "call in",
+    "back": "wezwać, zadzwonić, wpaść z wizytą",
+    "frontExample": "You need to call in or you'll be late.",
+    "backExample": "Musisz wezwać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "catch on",
+    "back": "przyjąć się, zyskać popularność",
+    "frontExample": "You need to catch on or you'll be late.",
+    "backExample": "Musisz przyjąć się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "chip in",
+    "back": "zrzucić się, dorzucić się, wtrącać się (do rozmowy)",
+    "frontExample": "You need to chip in or you'll be late.",
+    "backExample": "Musisz zrzucić się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "clear up",
+    "back": "posprzątać, wyjaśnić, wyleczyć (np. trądzik)",
+    "frontExample": "You need to clear up or you'll be late.",
+    "backExample": "Musisz posprzątać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "come down to",
+    "back": "sprowadzać się do czegoś, zejść z ceny",
+    "frontExample": "You need to come down to or you'll be late.",
+    "backExample": "Musisz sprowadzać się do czegoś albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "come up with",
+    "back": "wymyślić",
+    "frontExample": "You need to come up with or you'll be late.",
+    "backExample": "Musisz wymyślić albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "count on",
+    "back": "liczyć na, oczekiwanie czegoś",
+    "frontExample": "You need to count on or you'll be late.",
+    "backExample": "Musisz liczyć na albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "cut down (on)",
+    "back": "ograniczyć coś, redukować",
+    "frontExample": "You need to cut down (on) or you'll be late.",
+    "backExample": "Musisz ograniczyć coś albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "cut off",
+    "back": "odciąć",
+    "frontExample": "You need to cut off or you'll be late.",
+    "backExample": "Musisz odciąć albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "do without",
+    "back": "obyć się bez",
+    "frontExample": "You need to do without or you'll be late.",
+    "backExample": "Musisz obyć się bez albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "draw up",
+    "back": "sporządzić (np. dokument), podjeżdżać (np. pod bramę)",
+    "frontExample": "You need to draw up or you'll be late.",
+    "backExample": "Musisz sporządzić (np. dokument) albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "ease off",
+    "back": "zelżeć, osłabić się",
+    "frontExample": "You need to ease off or you'll be late.",
+    "backExample": "Musisz zelżeć albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "egg on",
+    "back": "podpuszczać",
+    "frontExample": "You need to egg on or you'll be late.",
+    "backExample": "Musisz podpuszczać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "end up",
+    "back": "skończyć (gdzieś, jako ktoś)",
+    "frontExample": "You need to end up or you'll be late.",
+    "backExample": "Musisz skończyć (gdzieś albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "fall for",
+    "back": "zakochać się, dać się nabrać",
+    "frontExample": "You need to fall for or you'll be late.",
+    "backExample": "Musisz zakochać się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "fill up",
+    "back": "napełnić",
+    "frontExample": "You need to fill up or you'll be late.",
+    "backExample": "Musisz napełnić albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "fix up",
+    "back": "naprawić, wysprzątać, odnowić, urządzić, zorganizować",
+    "frontExample": "You need to fix up or you'll be late.",
+    "backExample": "Musisz naprawić albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "fool around",
+    "back": "wygłupiać się, obijać się",
+    "frontExample": "You need to fool around or you'll be late.",
+    "backExample": "Musisz wygłupiać się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "freak out",
+    "back": "wychodzić z siebie, wariować",
+    "frontExample": "You need to freak out or you'll be late.",
+    "backExample": "Musisz wychodzić z siebie albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "get by",
+    "back": "dać sobie radę, przechodzić obok",
+    "frontExample": "You need to get by or you'll be late.",
+    "backExample": "Musisz dać sobie radę albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "get rid of",
+    "back": "pozbyć się",
+    "frontExample": "You need to get rid of or you'll be late.",
+    "backExample": "Musisz pozbyć się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "give in",
+    "back": "poddać się, dostarczać coś, wręczać",
+    "frontExample": "You need to give in or you'll be late.",
+    "backExample": "Musisz poddać się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "go along with",
+    "back": "zgodzić się z",
+    "frontExample": "You need to go along with or you'll be late.",
+    "backExample": "Musisz zgodzić się z albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "go for",
+    "back": "wybierać, atakować",
+    "frontExample": "You need to go for or you'll be late.",
+    "backExample": "Musisz wybierać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "go over",
+    "back": "przemyśleć, analizować coś",
+    "frontExample": "You need to go over or you'll be late.",
+    "backExample": "Musisz przemyśleć albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "go under",
+    "back": "upaść (np. firma), zatonąć (np. statek)",
+    "frontExample": "You need to go under or you'll be late.",
+    "backExample": "Musisz upaść (np. firma) albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "hand over",
+    "back": "przekazać, podać coś komuś",
+    "frontExample": "You need to hand over or you'll be late.",
+    "backExample": "Musisz przekazać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "hold back",
+    "back": "powstrzymywać, utrzymać w tajemnicy",
+    "frontExample": "You need to hold back or you'll be late.",
+    "backExample": "Musisz powstrzymywać albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "hurry up",
+    "back": "pospieszyć się",
+    "frontExample": "You need to hurry up or you'll be late.",
+    "backExample": "Musisz pospieszyć się albo się spóźnisz.",
+    "phonetic": "",
+    "remembered": false
+  }
+]
