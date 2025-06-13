@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "front": "Where is the check-in desk?",
+    "back": "Gdzie jest stanowisko odprawy?",
+    "frontExample": "Where is the check-in desk?",
+    "backExample": "Gdzie jest stanowisko odprawy?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "I'd like to check in.",
+    "back": "Chciałbym się odprawić.",
+    "frontExample": "I'd like to check in.",
+    "backExample": "Chciałbym się odprawić.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Do you have your passport?",
+    "back": "Czy masz paszport.",
+    "frontExample": "Do you have your passport?",
+    "backExample": "Czy masz paszport.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Here is my passport.",
+    "back": "Oto mój paszport.",
+    "frontExample": "Here is my passport.",
+    "backExample": "Oto mój paszport.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Do you have a visa?",
+    "back": "Czy masz wizę?",
+    "frontExample": "Do you have a visa?",
+    "backExample": "Czy masz wizę?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "This is my boarding pass.",
+    "back": "To jest moja karta pokładowa",
+    "frontExample": "This is my boarding pass.",
+    "backExample": "To jest moja karta pokładowa",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "What time is my flight?",
+    "back": "O której jest mój lot?",
+    "frontExample": "What time is my flight?",
+    "backExample": "O której jest mój lot?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Is my flight on time?",
+    "back": "Czy mój lot jest na czas?",
+    "frontExample": "Is my flight on time?",
+    "backExample": "Czy mój lot jest na czas?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "The flight is delayed.",
+    "back": "Lot jest opóźniony.",
+    "frontExample": "The flight is delayed.",
+    "backExample": "Lot jest opóźniony.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "The flight is cancelled.",
+    "back": "Lot jest odwołany.",
+    "frontExample": "The flight is cancelled.",
+    "backExample": "Lot jest odwołany.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Where is the departure gate?",
+    "back": "Gdzie jest bramka odlotów?",
+    "frontExample": "Where is the departure gate?",
+    "backExample": "Gdzie jest bramka odlotów?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "What gate is my flight leaving from?",
+    "back": "Z której bramki odlatuje mój lot?",
+    "frontExample": "What gate is my flight leaving from?",
+    "backExample": "Z której bramki odlatuje mój lot?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "How long is the flight?",
+    "back": "Jak długo trwa lot?",
+    "frontExample": "How long is the flight?",
+    "backExample": "Jak długo trwa lot?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Can I have a window seat, please?",
+    "back": "Czy mogę prosić o miejsce przy oknie?",
+    "frontExample": "Can I have a window seat, please?",
+    "backExample": "Czy mogę prosić o miejsce przy oknie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Can I have an aisle seat, please?",
+    "back": "Czy mogę prosić o miejsce przy przejściu?",
+    "frontExample": "Can I have an aisle seat, please?",
+    "backExample": "Czy mogę prosić o miejsce przy przejściu?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "What's my seat number?",
+    "back": "Jaki jest numer mojego miejsca?",
+    "frontExample": "What's my seat number?",
+    "backExample": "Jaki jest numer mojego miejsca?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Where is my gate?",
+    "back": "Gdzie jest moja bramka?",
+    "frontExample": "Where is my gate?",
+    "backExample": "Gdzie jest moja bramka?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Where is the security check?",
+    "back": "Gdzie jest kontrola bezpieczeństwa?",
+    "frontExample": "Where is the security check?",
+    "backExample": "Gdzie jest kontrola bezpieczeństwa?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "I have only hand luggage.",
+    "back": "Mam tylko bagaż podręczny.",
+    "frontExample": "I have only hand luggage.",
+    "backExample": "Mam tylko bagaż podręczny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "I need to check in my luggage.",
+    "back": "Muszę nadać mój bagaż.",
+    "frontExample": "I need to check in my luggage.",
+    "backExample": "Muszę nadać mój bagaż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "My bas is lost.",
+    "back": "Moja torba zaginęła.",
+    "frontExample": "My bas is lost.",
+    "backExample": "Moja torba zaginęła.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "I can't find my luggage",
+    "back": "Nie mogę znaleźć mojego bagażu",
+    "frontExample": "I can't find my luggage",
+    "backExample": "Nie mogę znaleźć mojego bagażu",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Where can I pick up my luggage?",
+    "back": "Gdzie mogę odebrać mój bagaż?",
+    "frontExample": "Where can I pick up my luggage?",
+    "backExample": "Gdzie mogę odebrać mój bagaż?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "I missed my flight",
+    "back": "spóźniłem się na mój lot",
+    "frontExample": "I missed my flight",
+    "backExample": "spóźniłem się na mój lot",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Can I rebook my ticket?",
+    "back": "Czy mogę zmienić rezerwację?",
+    "frontExample": "Can I rebook my ticket?",
+    "backExample": "Czy mogę zmienić rezerwację?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "How much is the excess baggage fee?",
+    "back": "Ile wynosi opłata za nadbagaż?",
+    "frontExample": "How much is the excess baggage fee?",
+    "backExample": "Ile wynosi opłata za nadbagaż?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Do I need to go through customs?",
+    "back": "Czy muszę przejść przez odprawę celną?",
+    "frontExample": "Do I need to go through customs?",
+    "backExample": "Czy muszę przejść przez odprawę celną?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "I have nothing to declare.",
+    "back": "Nie mam nic do zgłoszenia.",
+    "frontExample": "I have nothing to declare.",
+    "backExample": "Nie mam nic do zgłoszenia.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Where is passport control?",
+    "back": "Gdzie jest kontrola paszportowa?",
+    "frontExample": "Where is passport control?",
+    "backExample": "Gdzie jest kontrola paszportowa?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "What is the purpose of your visit?",
+    "back": "Jaki jest cel twojej wizyty?",
+    "frontExample": "What is the purpose of your visit?",
+    "backExample": "Jaki jest cel twojej wizyty?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "I'm here on vacation.",
+    "back": "Jestem tu na wakacjach.",
+    "frontExample": "I'm here on vacation.",
+    "backExample": "Jestem tu na wakacjach.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Im here on business.",
+    "back": "Jestem tu służbowo.",
+    "frontExample": "Im here on business.",
+    "backExample": "Jestem tu służbowo.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "How long are you staying?",
+    "back": "Jak długo zostaniesz?",
+    "frontExample": "How long are you staying?",
+    "backExample": "Jak długo zostaniesz?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Where will you be staying?",
+    "back": "Gdzie się zatrzymasz?",
+    "frontExample": "Where will you be staying?",
+    "backExample": "Gdzie się zatrzymasz?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Enjoy your flight!",
+    "back": "Miłego lotu!",
+    "frontExample": "Enjoy your flight!",
+    "backExample": "Miłego lotu!",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Fasten your seatbelt.",
+    "back": "Zapiąć pasy.",
+    "frontExample": "Fasten your seatbelt.",
+    "backExample": "Zapiąć pasy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Please take your seat.",
+    "back": "Proszę zająć miejsce.",
+    "frontExample": "Please take your seat.",
+    "backExample": "Proszę zająć miejsce.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Please turn off your phone.",
+    "back": "Proszę wyłączyć telefon.",
+    "frontExample": "Please turn off your phone.",
+    "backExample": "Proszę wyłączyć telefon.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Put your bag under the seat.",
+    "back": "Włożyć torbę pod fotel.",
+    "frontExample": "Put your bag under the seat.",
+    "backExample": "Włożyć torbę pod fotel.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Stow your luggage in the overhead bin.",
+    "back": "Umieść bagaż w schowku nad głową.",
+    "frontExample": "Stow your luggage in the overhead bin.",
+    "backExample": "Umieść bagaż w schowku nad głową.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Would you like something to drink?",
+    "back": "Czy chciałbyś coś do picia?",
+    "frontExample": "Would you like something to drink?",
+    "backExample": "Czy chciałbyś coś do picia?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Do you want something to eat?",
+    "back": "Czy chcesz coś do jedzenia?",
+    "frontExample": "Do you want something to eat?",
+    "backExample": "Czy chcesz coś do jedzenia?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "How much is a bottle of water?",
+    "back": "Ile kosztuje butelka wody?",
+    "frontExample": "How much is a bottle of water?",
+    "backExample": "Ile kosztuje butelka wody?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Can I have a blanket?",
+    "back": "Czy mogę prosić o koc?",
+    "frontExample": "Can I have a blanket?",
+    "backExample": "Czy mogę prosić o koc?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "I feel sick.",
+    "back": "jest mi niedobrze/źle się czuje.",
+    "frontExample": "I feel sick.",
+    "backExample": "jest mi niedobrze/źle się czuje.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "I'm afraid of flying",
+    "back": "Boję się latać.",
+    "frontExample": "I'm afraid of flying",
+    "backExample": "Boję się latać.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Is there Wi-Fi on board?",
+    "back": "Czy jest Wi-fi na pokładzie?",
+    "frontExample": "Is there Wi-Fi on board?",
+    "backExample": "Czy jest Wi-fi na pokładzie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Can I use my phone?",
+    "back": "Czy mogę używać telefonu?",
+    "frontExample": "Can I use my phone?",
+    "backExample": "Czy mogę używać telefonu?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Is this the right gate for London?",
+    "back": "Czy to właściwa bramka do Londynu?",
+    "frontExample": "Is this the right gate for London?",
+    "backExample": "Czy to właściwa bramka do Londynu?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "I have a connecting flight.",
+    "back": "Mam lot z przesiadką.",
+    "frontExample": "I have a connecting flight.",
+    "backExample": "Mam lot z przesiadką.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "How do I get to terminal 2?",
+    "back": "Jak się dostać do terminalu 2?",
+    "frontExample": "How do I get to terminal 2?",
+    "backExample": "Jak się dostać do terminalu 2?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "What time does boarding start?",
+    "back": "O której godzinie zaczyna się wejście na pokład?",
+    "frontExample": "What time does boarding start?",
+    "backExample": "O której godzinie zaczyna się wejście na pokład?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "I am traveling alone.",
+    "back": "Podróżuję sam.",
+    "frontExample": "I am traveling alone.",
+    "backExample": "Podróżuję sam.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "I am traveling with my family.",
+    "back": "Podróżuję z rodziną.",
+    "frontExample": "I am traveling with my family.",
+    "backExample": "Podróżuję z rodziną.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Do I need to show my ID?",
+    "back": "Czy muszę pokazywać dowód tożsamości?",
+    "frontExample": "Do I need to show my ID?",
+    "backExample": "Czy muszę pokazywać dowód tożsamości?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "Do I need to remove my laptop?",
+    "back": "Czy muszę wyjąć laptopa?",
+    "frontExample": "Do I need to remove my laptop?",
+    "backExample": "Czy muszę wyjąć laptopa?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "Is this the line for security?",
+    "back": "Czy to kolejka do kontroli bezpieczeństwa?",
+    "frontExample": "Is this the line for security?",
+    "backExample": "Czy to kolejka do kontroli bezpieczeństwa?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "Please empty your pockets.",
+    "back": "Proszę opróżnić kieszenie.",
+    "frontExample": "Please empty your pockets.",
+    "backExample": "Proszę opróżnić kieszenie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "Raise your arms.",
+    "back": "Podnieść ręce.",
+    "frontExample": "Raise your arms.",
+    "backExample": "Podnieść ręce.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "Step forward.",
+    "back": "Przejść dalej.",
+    "frontExample": "Step forward.",
+    "backExample": "Przejść dalej.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 61,
+    "front": "Have a nice trip!",
+    "back": "Miłej podróży!",
+    "frontExample": "Have a nice trip!",
+    "backExample": "Miłej podróży!",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 62,
+    "front": "Do I need to fill out this form?",
+    "back": "Czy muszę wypełnić ten formularz?",
+    "frontExample": "Do I need to fill out this form?",
+    "backExample": "Czy muszę wypełnić ten formularz?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 63,
+    "front": "What's the local time?",
+    "back": "Jaka jest lokalna godzina?",
+    "frontExample": "What's the local time?",
+    "backExample": "Jaka jest lokalna godzina?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 64,
+    "front": "What's the weather like there?",
+    "back": "Jaka jest tam pogoda?",
+    "frontExample": "What's the weather like there?",
+    "backExample": "Jaka jest tam pogoda?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 65,
+    "front": "Is this your first time here?",
+    "back": "Czy to twój pierwszy raz tutaj?",
+    "frontExample": "Is this your first time here?",
+    "backExample": "Czy to twój pierwszy raz tutaj?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 66,
+    "front": "Do you speak English?",
+    "back": "Czy mówisz po angielsku?",
+    "frontExample": "Do you speak English?",
+    "backExample": "Czy mówisz po angielsku?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 67,
+    "front": "I don't understand.",
+    "back": "Nie rozumiem.",
+    "frontExample": "I don't understand.",
+    "backExample": "Nie rozumiem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 68,
+    "front": "Can you repeat that, please?",
+    "back": "Czy możesz powtórzyć?",
+    "frontExample": "Can you repeat that, please?",
+    "backExample": "Czy możesz powtórzyć?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 69,
+    "front": "Can you help me, please?",
+    "back": "Czy możesz mi pomóc?",
+    "frontExample": "Can you help me, please?",
+    "backExample": "Czy możesz mi pomóc?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 70,
+    "front": "Im looking for my gate.",
+    "back": "Szukam mojej bramki.",
+    "frontExample": "Im looking for my gate.",
+    "backExample": "Szukam mojej bramki.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 71,
+    "front": "Is this seat taken?",
+    "back": "Czy to miejsce jest zajęte?",
+    "frontExample": "Is this seat taken?",
+    "backExample": "Czy to miejsce jest zajęte?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 72,
+    "front": "Excuse me, I think that's my seat.",
+    "back": "Przepraszam, to chyba moje miejsce.",
+    "frontExample": "Excuse me, I think that's my seat.",
+    "backExample": "Przepraszam, to chyba moje miejsce.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 73,
+    "front": "May I sit here?",
+    "back": "Czy mogę tu usiąść?",
+    "frontExample": "May I sit here?",
+    "backExample": "Czy mogę tu usiąść?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 74,
+    "front": "I need to use the restroom.",
+    "back": "Muszę skorzystać z toalety.",
+    "frontExample": "I need to use the restroom.",
+    "backExample": "Muszę skorzystać z toalety.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 75,
+    "front": "Where is the toilet?",
+    "back": "Gdzie jest toaleta?",
+    "frontExample": "Where is the toilet?",
+    "backExample": "Gdzie jest toaleta?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 76,
+    "front": "My flight number is...",
+    "back": "Mój numer lotu to..",
+    "frontExample": "My flight number is...",
+    "backExample": "Mój numer lotu to..",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 77,
+    "front": "I'm flying to...",
+    "back": "Lecę do...",
+    "frontExample": "I'm flying to...",
+    "backExample": "Lecę do...",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 78,
+    "front": "Is this the right line?",
+    "back": "Czy to właściwa kolejka?",
+    "frontExample": "Is this the right line?",
+    "backExample": "Czy to właściwa kolejka?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 79,
+    "front": "I have a reservation.",
+    "back": "Mam rezerwację.",
+    "frontExample": "I have a reservation.",
+    "backExample": "Mam rezerwację.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 80,
+    "front": "I booked online.",
+    "back": "Zarezerwowałem przez internet.",
+    "frontExample": "I booked online.",
+    "backExample": "Zarezerwowałem przez internet.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 81,
+    "front": "What time is boarding?",
+    "back": "O której godzinie jest wejście na pokład?",
+    "frontExample": "What time is boarding?",
+    "backExample": "O której godzinie jest wejście na pokład?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 82,
+    "front": "Are meals included?",
+    "back": "Czy posiłki są wliczone w cenę?",
+    "frontExample": "Are meals included?",
+    "backExample": "Czy posiłki są wliczone w cenę?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 83,
+    "front": "I have a food allergy.",
+    "back": "Mam alergię pokarmową.",
+    "frontExample": "I have a food allergy.",
+    "backExample": "Mam alergię pokarmową.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 84,
+    "front": "I need assistance.",
+    "back": "Potrzebuję pomocy.",
+    "frontExample": "I need assistance.",
+    "backExample": "Potrzebuję pomocy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 85,
+    "front": "I'm running late.",
+    "back": "Jestem spóźniony.",
+    "frontExample": "I'm running late.",
+    "backExample": "Jestem spóźniony.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 86,
+    "front": "I'm here for a conference.",
+    "back": "Jestem tu na konferencji.",
+    "frontExample": "I'm here for a conference.",
+    "backExample": "Jestem tu na konferencji.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 87,
+    "front": "The flight is overbooked.",
+    "back": "Lot jest przepełniony.",
+    "frontExample": "The flight is overbooked.",
+    "backExample": "Lot jest przepełniony.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 88,
+    "front": "I'd like to upgrade my seat.",
+    "back": "Chciałbym zmienić miejsce na lepsze.",
+    "frontExample": "I'd like to upgrade my seat.",
+    "backExample": "Chciałbym zmienić miejsce na lepsze.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 89,
+    "front": "Can I have a pillow?",
+    "back": "Mogę prosić o poduszkę?",
+    "frontExample": "Can I have a pillow?",
+    "backExample": "Mogę prosić o poduszkę?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 90,
+    "front": "Is this flight full?",
+    "back": "Czy lot jest przepełniony?",
+    "frontExample": "Is this flight full?",
+    "backExample": "Czy lot jest przepełniony?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 91,
+    "front": "When will we land?",
+    "back": "Kiedy wylądujemy?",
+    "frontExample": "When will we land?",
+    "backExample": "Kiedy wylądujemy?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 92,
+    "front": "Is it a direct flight?",
+    "back": "Czy to lot bezpośredni?",
+    "frontExample": "Is it a direct flight?",
+    "backExample": "Czy to lot bezpośredni?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 93,
+    "front": "Can I leave my bag here?",
+    "back": "Czy mogę tu zostawić torbę?",
+    "frontExample": "Can I leave my bag here?",
+    "backExample": "Czy mogę tu zostawić torbę?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 94,
+    "front": "How long is the layover?",
+    "back": "Jak długo zajmie przesiadka?",
+    "frontExample": "How long is the layover?",
+    "backExample": "Jak długo zajmie przesiadka?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 95,
+    "front": "Is the a direct flight?",
+    "back": "Czy to lot bezpośredni?",
+    "frontExample": "Is the a direct flight?",
+    "backExample": "Czy to lot bezpośredni?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 96,
+    "front": "When does the plane take off?",
+    "back": "Kiedy samolot wystartuje?",
+    "frontExample": "When does the plane take off?",
+    "backExample": "Kiedy samolot wystartuje?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 97,
+    "front": "Where is the information desk?",
+    "back": "Gdzie jest punkt informacyjny?",
+    "frontExample": "Where is the information desk?",
+    "backExample": "Gdzie jest punkt informacyjny?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 98,
+    "front": "I need to speak to a manager.",
+    "back": "Chce rozmawiać z kierownikiem.",
+    "frontExample": "I need to speak to a manager.",
+    "backExample": "Chce rozmawiać z kierownikiem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 99,
+    "front": "I missed my connection.",
+    "back": "Spóźniłem się na przesiadkę.",
+    "frontExample": "I missed my connection.",
+    "backExample": "Spóźniłem się na przesiadkę.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 100,
+    "front": "I don't speak English very well.",
+    "back": "Nie mówię zbyt dobrze po angielsku.",
+    "frontExample": "I don't speak English very well.",
+    "backExample": "Nie mówię zbyt dobrze po angielsku.",
+    "phonetic": "",
+    "remembered": false
+  }
+]
