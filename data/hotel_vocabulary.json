@@ -1,0 +1,893 @@
+[
+  {
+    "id": 1,
+    "front": "Hotel",
+    "back": "Hotel",
+    "frontExample": "This is a hotel.",
+    "backExample": "To jest hotel.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Reception",
+    "back": "Recepcja",
+    "frontExample": "This is a reception.",
+    "backExample": "To jest recepcja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Receptionist",
+    "back": "Recepcjonista/Recepcjonistka",
+    "frontExample": "This is a receptionist.",
+    "backExample": "To jest recepcjonista/recepcjonistka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Guest",
+    "back": "Gość",
+    "frontExample": "This is a guest.",
+    "backExample": "To jest gość.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Room",
+    "back": "Pokój",
+    "frontExample": "This is a room.",
+    "backExample": "To jest pokój.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Room key",
+    "back": "Klucz do pokoju",
+    "frontExample": "This is a room key.",
+    "backExample": "To jest klucz do pokoju.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Key card",
+    "back": "karta klucz do pokoju",
+    "frontExample": "This is a key card.",
+    "backExample": "To jest karta klucz do pokoju.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Reservation",
+    "back": "Rezerwacja",
+    "frontExample": "This is a reservation.",
+    "backExample": "To jest rezerwacja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Booking",
+    "back": "Rezerwacja",
+    "frontExample": "This is a booking.",
+    "backExample": "To jest rezerwacja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Check-in",
+    "back": "Zameldować się",
+    "frontExample": "This is a check-in.",
+    "backExample": "To jest zameldować się.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Check-out",
+    "back": "Wymeldować się",
+    "frontExample": "This is a check-out.",
+    "backExample": "To jest wymeldować się.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Lobby",
+    "back": "Hol",
+    "frontExample": "This is a lobby.",
+    "backExample": "To jest hol.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Elevator (UK: lift)",
+    "back": "winda",
+    "frontExample": "This is a elevator (uk: lift).",
+    "backExample": "To jest winda.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Stairs",
+    "back": "Schody",
+    "frontExample": "This is a stairs.",
+    "backExample": "To jest schody.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Floor",
+    "back": "Piętro",
+    "frontExample": "This is a floor.",
+    "backExample": "To jest piętro.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Single room",
+    "back": "Pokój jednoosobowy",
+    "frontExample": "This is a single room.",
+    "backExample": "To jest pokój jednoosobowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Double room",
+    "back": "Pokój jednoosobowy",
+    "frontExample": "This is a double room.",
+    "backExample": "To jest pokój jednoosobowy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Twin room",
+    "back": "Pokój z dwoma łóżkami",
+    "frontExample": "This is a twin room.",
+    "backExample": "To jest pokój z dwoma łóżkami.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Suite",
+    "back": "Apartament",
+    "frontExample": "This is a suite.",
+    "backExample": "To jest apartament.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Bed",
+    "back": "Łóżko",
+    "frontExample": "This is a bed.",
+    "backExample": "To jest łóżko.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Blanket",
+    "back": "Koc",
+    "frontExample": "This is a blanket.",
+    "backExample": "To jest koc.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Pillow",
+    "back": "Poduszka",
+    "frontExample": "This is a pillow.",
+    "backExample": "To jest poduszka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Towel",
+    "back": "Ręcznik",
+    "frontExample": "This is a towel.",
+    "backExample": "To jest ręcznik.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Bathroom",
+    "back": "Łazienka",
+    "frontExample": "This is a bathroom.",
+    "backExample": "To jest łazienka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Shower",
+    "back": "Prysznic",
+    "frontExample": "This is a shower.",
+    "backExample": "To jest prysznic.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Bathtub",
+    "back": "Wanna",
+    "frontExample": "This is a bathtub.",
+    "backExample": "To jest wanna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Toilet",
+    "back": "Toaleta",
+    "frontExample": "This is a toilet.",
+    "backExample": "To jest toaleta.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Sink",
+    "back": "Umywalka",
+    "frontExample": "This is a sink.",
+    "backExample": "To jest umywalka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Soap",
+    "back": "Mydło",
+    "frontExample": "This is a soap.",
+    "backExample": "To jest mydło.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Shampoo",
+    "back": "Szampon",
+    "frontExample": "This is a shampoo.",
+    "backExample": "To jest szampon.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Hairdryer",
+    "back": "Suszarka do włosów",
+    "frontExample": "This is a hairdryer.",
+    "backExample": "To jest suszarka do włosów.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Air conditioning",
+    "back": "Klimatyzacja",
+    "frontExample": "This is a air conditioning.",
+    "backExample": "To jest klimatyzacja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Heating",
+    "back": "Ogrzewanie",
+    "frontExample": "This is a heating.",
+    "backExample": "To jest ogrzewanie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Wi-Fi",
+    "back": "Wi-Fi",
+    "frontExample": "This is a wi-fi.",
+    "backExample": "To jest wi-fi.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Password",
+    "back": "Hasło",
+    "frontExample": "This is a password.",
+    "backExample": "To jest hasło.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Breakfast",
+    "back": "Śniadanie",
+    "frontExample": "This is a breakfast.",
+    "backExample": "To jest śniadanie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Buffet",
+    "back": "Bufet",
+    "frontExample": "This is a buffet.",
+    "backExample": "To jest bufet.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Restaurant",
+    "back": "Restauracja",
+    "frontExample": "This is a restaurant.",
+    "backExample": "To jest restauracja.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Room service",
+    "back": "Obsługa pokojowa",
+    "frontExample": "This is a room service.",
+    "backExample": "To jest obsługa pokojowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Cleaning service",
+    "back": "Serwis sprzątający",
+    "frontExample": "This is a cleaning service.",
+    "backExample": "To jest serwis sprzątający.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Housekeeping",
+    "back": "Personel sprzątający",
+    "frontExample": "This is a housekeeping.",
+    "backExample": "To jest personel sprzątający.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Laundry",
+    "back": "Pralnia",
+    "frontExample": "This is a laundry.",
+    "backExample": "To jest pralnia.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Mini-bar",
+    "back": "Mini barek",
+    "frontExample": "This is a mini-bar.",
+    "backExample": "To jest mini barek.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Safe",
+    "back": "Sejf",
+    "frontExample": "This is a safe.",
+    "backExample": "To jest sejf.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "TV",
+    "back": "Telewizor",
+    "frontExample": "This is a tv.",
+    "backExample": "To jest telewizor.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Remote control",
+    "back": "Pilot do telewizora",
+    "frontExample": "This is a remote control.",
+    "backExample": "To jest pilot do telewizora.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Telephone",
+    "back": "Telefon",
+    "frontExample": "This is a telephone.",
+    "backExample": "To jest telefon.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Wake-up call",
+    "back": "Budzenie telefoniczne",
+    "frontExample": "This is a wake-up call.",
+    "backExample": "To jest budzenie telefoniczne.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "No smoking",
+    "back": "Zakaz palenia",
+    "frontExample": "This is a no smoking.",
+    "backExample": "To jest zakaz palenia.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "Non-smoking room",
+    "back": "Pokój dla niepalących",
+    "frontExample": "This is a non-smoking room.",
+    "backExample": "To jest pokój dla niepalących.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Smoking room",
+    "back": "Palarnia/Pokój dla palących",
+    "frontExample": "This is a smoking room.",
+    "backExample": "To jest palarnia/pokój dla palących.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "Pets allowed",
+    "back": "Zwierzęta dozwolone",
+    "frontExample": "This is a pets allowed.",
+    "backExample": "To jest zwierzęta dozwolone.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "Luggage",
+    "back": "Bagaż",
+    "frontExample": "This is a luggage.",
+    "backExample": "To jest bagaż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "Luggage storage",
+    "back": "Przechowalnia bagażu",
+    "frontExample": "This is a luggage storage.",
+    "backExample": "To jest przechowalnia bagażu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Concierge",
+    "back": "Konsjerż",
+    "frontExample": "This is a concierge.",
+    "backExample": "To jest konsjerż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "Conference room",
+    "back": "Sala konferencyjna",
+    "frontExample": "This is a conference room.",
+    "backExample": "To jest sala konferencyjna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "Reception desk",
+    "back": "Lada recepcyjna",
+    "frontExample": "This is a reception desk.",
+    "backExample": "To jest lada recepcyjna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "Hotel manager",
+    "back": "Kierownik hotelu",
+    "frontExample": "This is a hotel manager.",
+    "backExample": "To jest kierownik hotelu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "Customer",
+    "back": "Klient",
+    "frontExample": "This is a customer.",
+    "backExample": "To jest klient.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "Customer service",
+    "back": "Obsługa klienta",
+    "frontExample": "This is a customer service.",
+    "backExample": "To jest obsługa klienta.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 61,
+    "front": "Complaint",
+    "back": "Skarga",
+    "frontExample": "This is a complaint.",
+    "backExample": "To jest skarga.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 62,
+    "front": "Solution",
+    "back": "Rozwiązanie",
+    "frontExample": "This is a solution.",
+    "backExample": "To jest rozwiązanie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 63,
+    "front": "Reservation number",
+    "back": "Numer rezerwacji",
+    "frontExample": "This is a reservation number.",
+    "backExample": "To jest numer rezerwacji.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 64,
+    "front": "ID",
+    "back": "Dowód osobisty",
+    "frontExample": "This is a id.",
+    "backExample": "To jest dowód osobisty.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 65,
+    "front": "Credit card",
+    "back": "Karta kredytowa",
+    "frontExample": "This is a credit card.",
+    "backExample": "To jest karta kredytowa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 66,
+    "front": "Cash",
+    "back": "Gotówka",
+    "frontExample": "This is a cash.",
+    "backExample": "To jest gotówka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 67,
+    "front": "Invoice",
+    "back": "Faktura",
+    "frontExample": "This is a invoice.",
+    "backExample": "To jest faktura.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 68,
+    "front": "Receipt",
+    "back": "Paragon",
+    "frontExample": "This is a receipt.",
+    "backExample": "To jest paragon.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 69,
+    "front": "Deposit",
+    "back": "Kaucja, zaliczka",
+    "frontExample": "This is a deposit.",
+    "backExample": "To jest kaucja, zaliczka.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 70,
+    "front": "Cancelation",
+    "back": "Anulowanie",
+    "frontExample": "This is a cancelation.",
+    "backExample": "To jest anulowanie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 71,
+    "front": "Cancellation fee",
+    "back": "Opłata za anulowanie",
+    "frontExample": "This is a cancellation fee.",
+    "backExample": "To jest opłata za anulowanie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 72,
+    "front": "Availability",
+    "back": "Dostępność",
+    "frontExample": "This is a availability.",
+    "backExample": "To jest dostępność.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 73,
+    "front": "Fully booked",
+    "back": "Brak wolnych miejsc",
+    "frontExample": "This is a fully booked.",
+    "backExample": "To jest brak wolnych miejsc.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 74,
+    "front": "View",
+    "back": "Widok",
+    "frontExample": "This is a view.",
+    "backExample": "To jest widok.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 75,
+    "front": "Sea view",
+    "back": "Widok na morze",
+    "frontExample": "This is a sea view.",
+    "backExample": "To jest widok na morze.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 76,
+    "front": "City view",
+    "back": "Widok na miasto",
+    "frontExample": "This is a city view.",
+    "backExample": "To jest widok na miasto.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 77,
+    "front": "Mountain view",
+    "back": "Widok na góry",
+    "frontExample": "This is a mountain view.",
+    "backExample": "To jest widok na góry.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 78,
+    "front": "Balcony",
+    "back": "Balkon",
+    "frontExample": "This is a balcony.",
+    "backExample": "To jest balkon.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 79,
+    "front": "Terrace",
+    "back": "Taras",
+    "frontExample": "This is a terrace.",
+    "backExample": "To jest taras.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 80,
+    "front": "Quiet",
+    "back": "Cichy",
+    "frontExample": "This is a quiet.",
+    "backExample": "To jest cichy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 81,
+    "front": "Noisy",
+    "back": "Hałaśliwy",
+    "frontExample": "This is a noisy.",
+    "backExample": "To jest hałaśliwy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 82,
+    "front": "Clean",
+    "back": "Czysty",
+    "frontExample": "This is a clean.",
+    "backExample": "To jest czysty.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 83,
+    "front": "Dirty",
+    "back": "Brudny",
+    "frontExample": "This is a dirty.",
+    "backExample": "To jest brudny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 84,
+    "front": "Comfortable",
+    "back": "wygodny",
+    "frontExample": "This is a comfortable.",
+    "backExample": "To jest wygodny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 85,
+    "front": "Uncomfortable",
+    "back": "Niewygodny",
+    "frontExample": "This is a uncomfortable.",
+    "backExample": "To jest niewygodny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 86,
+    "front": "Small",
+    "back": "Mały",
+    "frontExample": "This is a small.",
+    "backExample": "To jest mały.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 87,
+    "front": "Big",
+    "back": "Duży",
+    "frontExample": "This is a big.",
+    "backExample": "To jest duży.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 88,
+    "front": "Broken",
+    "back": "Zepsuty",
+    "frontExample": "This is a broken.",
+    "backExample": "To jest zepsuty.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 89,
+    "front": "Towels included",
+    "back": "Ręczniki w cenie",
+    "frontExample": "This is a towels included.",
+    "backExample": "To jest ręczniki w cenie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 90,
+    "front": "Free Wi-Fi",
+    "back": "Darmowe Wi-Fi",
+    "frontExample": "This is a free wi-fi.",
+    "backExample": "To jest darmowe wi-fi.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 91,
+    "front": "Free Parking",
+    "back": "Darmowy parking",
+    "frontExample": "This is a free parking.",
+    "backExample": "To jest darmowy parking.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 92,
+    "front": "Swimming pool",
+    "back": "Basen",
+    "frontExample": "This is a swimming pool.",
+    "backExample": "To jest basen.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 93,
+    "front": "Gym",
+    "back": "Siłownia",
+    "frontExample": "This is a gym.",
+    "backExample": "To jest siłownia.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 94,
+    "front": "Spa",
+    "back": "Spa, Uzdrowisko",
+    "frontExample": "This is a spa.",
+    "backExample": "To jest spa, uzdrowisko.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 95,
+    "front": "Sauna",
+    "back": "Sauna",
+    "frontExample": "This is a sauna.",
+    "backExample": "To jest sauna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 96,
+    "front": "Massage",
+    "back": "Masaż",
+    "frontExample": "This is a massage.",
+    "backExample": "To jest masaż.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 97,
+    "front": "Tourist information",
+    "back": "Informacja turystyczna",
+    "frontExample": "This is a tourist information.",
+    "backExample": "To jest informacja turystyczna.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 98,
+    "front": "Map",
+    "back": "Mapa",
+    "frontExample": "This is a map.",
+    "backExample": "To jest mapa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 99,
+    "front": "City center",
+    "back": "Centrum miasta",
+    "frontExample": "This is a city center.",
+    "backExample": "To jest centrum miasta.",
+    "phonetic": "",
+    "remembered": false
+  }
+]
