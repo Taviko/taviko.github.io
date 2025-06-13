@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "front": "being",
+    "back": "zachowywać się",
+    "frontExample": "You're being rude.",
+    "backExample": "Zachowujesz się niegrzecznie.",
+    "phonetic": "/ˈbiːɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "looking",
+    "back": "przyglądać się",
+    "frontExample": "She is looking at the painting.",
+    "backExample": "Ona przygląda się obrazowi.",
+    "phonetic": "/ˈlʊkɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "seeing",
+    "back": "spotykać się",
+    "frontExample": "I'm seeing my doctor tomorrow.",
+    "backExample": "Jutro spotykam się z lekarzem.",
+    "phonetic": "/ˈsiːɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "hearing",
+    "back": "rozpatrywać sprawę",
+    "frontExample": "The court is hearing the case.",
+    "backExample": "Sąd rozpatruje sprawę.",
+    "phonetic": "/ˈhɪə.rɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "fitting",
+    "back": "dopasowywać coś",
+    "frontExample": "He's fitting the shelves in the kitchen.",
+    "backExample": "On dopasowuje półki w kuchni.",
+    "phonetic": "/ˈfɪtɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "having",
+    "back": "doświadczać, przeżywać",
+    "frontExample": "We're having a great time.",
+    "backExample": "Świetnie się bawimy.",
+    "phonetic": "/ˈhævɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "thinking",
+    "back": "rozważać, zastanawiać się",
+    "frontExample": "I'm thinking about your offer.",
+    "backExample": "Zastanawiam się nad twoją propozycją.",
+    "phonetic": "/ˈθɪŋkɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "smelling",
+    "back": "wąchać",
+    "frontExample": "She is smelling the flowers.",
+    "backExample": "Ona wącha kwiaty.",
+    "phonetic": "/ˈsmelɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "tasting",
+    "back": "próbować",
+    "frontExample": "He's tasting the soup.",
+    "backExample": "On próbuje zupy.",
+    "phonetic": "/ˈteɪstɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "appearing",
+    "back": "występować, pojawiać się",
+    "frontExample": "He is appearing in a new film.",
+    "backExample": "Występuje w nowym filmie.",
+    "phonetic": "/əˈpɪə.rɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "loving",
+    "back": "cieszyć się czymś w danej chwili",
+    "frontExample": "I'm loving this weather.",
+    "backExample": "Cieszę się tą pogodą.",
+    "phonetic": "/ˈlʌvɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "feeling",
+    "back": "dotykać, badać",
+    "frontExample": "She is feeling the fabric.",
+    "backExample": "Ona dotyka materiału.",
+    "phonetic": "/ˈfiːlɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "enjoying",
+    "back": "cieszyć się czymś w danej chwili",
+    "frontExample": "They are enjoying the party.",
+    "backExample": "Oni cieszą się imprezą.",
+    "phonetic": "/ɪnˈdʒɔɪɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "hating",
+    "back": "nienawidzić (wyjątkowo mocno w danej chwili)",
+    "frontExample": "He's hating every minute of it.",
+    "backExample": "Nienawidzi każdej minuty tego.",
+    "phonetic": "/ˈheɪtɪŋ/",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "liking",
+    "back": "lubić coś w danym momencie",
+    "frontExample": "I'm liking this book more and more.",
+    "backExample": "Coraz bardziej lubię tę książkę.",
+    "phonetic": "/ˈlaɪkɪŋ/",
+    "remembered": false
+  }
+]
