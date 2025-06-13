@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "front": "I have a reservation.",
+    "back": "Mam rezerwację.",
+    "frontExample": "I have a reservation.",
+    "backExample": "Mam rezerwację.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "I booked a room online",
+    "back": "Zarezerwowałem pokój przez internet.",
+    "frontExample": "I booked a room online",
+    "backExample": "Zarezerwowałem pokój przez internet.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "I would like to check in.",
+    "back": "Chciałbym się zameldować.",
+    "frontExample": "I would like to check in.",
+    "backExample": "Chciałbym się zameldować.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "I would like to check out.",
+    "back": "Chciałbym się wymeldować.",
+    "frontExample": "I would like to check out.",
+    "backExample": "Chciałbym się wymeldować.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "What's the check-in time?",
+    "back": "O której godzinie jest zameldowanie?",
+    "frontExample": "What's the check-in time?",
+    "backExample": "O której godzinie jest zameldowanie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "What's the check-out time?",
+    "back": "O której godzinie jest wymeldowanie?",
+    "frontExample": "What's the check-out time?",
+    "backExample": "O której godzinie jest wymeldowanie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Do you have a room available?",
+    "back": "Czy macie wolny pokój?",
+    "frontExample": "Do you have a room available?",
+    "backExample": "Czy macie wolny pokój?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "I need a single/double room.",
+    "back": "Potrzebuję pokoju jedno-/dwuosobowego.",
+    "frontExample": "I need a single/double room.",
+    "backExample": "Potrzebuję pokoju jedno-/dwuosobowego.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "How much is the room per night?",
+    "back": "Ile kosztuje pokój za noc?",
+    "frontExample": "How much is the room per night?",
+    "backExample": "Ile kosztuje pokój za noc?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Is breakfast included?",
+    "back": "Czy śniadanie jest wliczone?",
+    "frontExample": "Is breakfast included?",
+    "backExample": "Czy śniadanie jest wliczone?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "I'd like a room with a sea view.",
+    "back": "Chciałbym pokój z widokiem na morze.",
+    "frontExample": "I'd like a room with a sea view.",
+    "backExample": "Chciałbym pokój z widokiem na morze.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "I'd like a quiet room.",
+    "back": "Chciałbym cichy pokój.",
+    "frontExample": "I'd like a quiet room.",
+    "backExample": "Chciałbym cichy pokój.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "I'd like a room with a balcony.",
+    "back": "Chciałbym pokój z balkonem.",
+    "frontExample": "I'd like a room with a balcony.",
+    "backExample": "Chciałbym pokój z balkonem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Can I see the room first?",
+    "back": "Czy mogę najpierw zobaczyć pokój?",
+    "frontExample": "Can I see the room first?",
+    "backExample": "Czy mogę najpierw zobaczyć pokój?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Do you accept credit cards?",
+    "back": "Czy akceptujecie karty kredytowe?",
+    "frontExample": "Do you accept credit cards?",
+    "backExample": "Czy akceptujecie karty kredytowe?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Herę is my ID/passport.",
+    "back": "Oto mój dowód/Paszport.",
+    "frontExample": "Herę is my ID/passport.",
+    "backExample": "Oto mój dowód/Paszport.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Can I pay by cash?",
+    "back": "Czy mogę zapłacić gotówką?",
+    "frontExample": "Can I pay by cash?",
+    "backExample": "Czy mogę zapłacić gotówką?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Where is the elevator?",
+    "back": "Gdzie jest winda?",
+    "frontExample": "Where is the elevator?",
+    "backExample": "Gdzie jest winda?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "What floor is my room on?",
+    "back": "Na którym piętrze jest mój pokój?",
+    "frontExample": "What floor is my room on?",
+    "backExample": "Na którym piętrze jest mój pokój?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Where is room 305?",
+    "back": "Gdzie jest pokój 305?",
+    "frontExample": "Where is room 305?",
+    "backExample": "Gdzie jest pokój 305?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "My room number is...",
+    "back": "Mój numer pokoju to...",
+    "frontExample": "My room number is...",
+    "backExample": "Mój numer pokoju to...",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "The key doesn't work.",
+    "back": "Klucz nie działa.",
+    "frontExample": "The key doesn't work.",
+    "backExample": "Klucz nie działa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "I lost my key.",
+    "back": "Zgubiłem klucz.",
+    "frontExample": "I lost my key.",
+    "backExample": "Zgubiłem klucz.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Can I have another key?",
+    "back": "Czy mogę dostać nowy klucz?",
+    "frontExample": "Can I have another key?",
+    "backExample": "Czy mogę dostać nowy klucz?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "The air conditioning doesn't work.",
+    "back": "Klimatyzacja nie działa.",
+    "frontExample": "The air conditioning doesn't work.",
+    "backExample": "Klimatyzacja nie działa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "There's no hot water.",
+    "back": "Nie ma ciepłej wody.",
+    "frontExample": "There's no hot water.",
+    "backExample": "Nie ma ciepłej wody.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "The room is too cold.",
+    "back": "W pokoju jest za zimno.",
+    "frontExample": "The room is too cold.",
+    "backExample": "W pokoju jest za zimno.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "The room is too hot.",
+    "back": "W pokoju jest za gorąco.",
+    "frontExample": "The room is too hot.",
+    "backExample": "W pokoju jest za gorąco.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Can you clean the room, please?",
+    "back": "Czy możecie posprzątać pokój?",
+    "frontExample": "Can you clean the room, please?",
+    "backExample": "Czy możecie posprzątać pokój?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "The towels weren't changed/",
+    "back": "Ręczniki nie zostały zmienione.",
+    "frontExample": "The towels weren't changed/",
+    "backExample": "Ręczniki nie zostały zmienione.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "The room is dirty.",
+    "back": "Pokój jest brudny.",
+    "frontExample": "The room is dirty.",
+    "backExample": "Pokój jest brudny.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "The Tv doesn't work.",
+    "back": "Telewizor nie działa.",
+    "frontExample": "The Tv doesn't work.",
+    "backExample": "Telewizor nie działa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "The Wi-Fi isn't working.",
+    "back": "Wi-Fi nie działa.",
+    "frontExample": "The Wi-Fi isn't working.",
+    "backExample": "Wi-Fi nie działa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "What's the Wifi password?",
+    "back": "Jakie jest hasło do wifi?",
+    "frontExample": "What's the Wifi password?",
+    "backExample": "Jakie jest hasło do wifi?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Can I order room service?",
+    "back": "Czy mogę zamówić obsługę hotelową ?",
+    "frontExample": "Can I order room service?",
+    "backExample": "Czy mogę zamówić obsługę hotelową ?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "I'd like to order breakfast.",
+    "back": "Chciałbym zamówić śniadanie.",
+    "frontExample": "I'd like to order breakfast.",
+    "backExample": "Chciałbym zamówić śniadanie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Is there a restaurant in the hotel?",
+    "back": "Czy w hotelu jest restauracja?",
+    "frontExample": "Is there a restaurant in the hotel?",
+    "backExample": "Czy w hotelu jest restauracja?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Is breakfast a buffet?",
+    "back": "Czy śniadanie jest w formie bufetu?",
+    "frontExample": "Is breakfast a buffet?",
+    "backExample": "Czy śniadanie jest w formie bufetu?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "What time is breakfast served?",
+    "back": "O której jest podawane śniadanie?",
+    "frontExample": "What time is breakfast served?",
+    "backExample": "O której jest podawane śniadanie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Where can I leave my luggage?",
+    "back": "Gdzie mogę zostawić bagaż?",
+    "frontExample": "Where can I leave my luggage?",
+    "backExample": "Gdzie mogę zostawić bagaż?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "I need a wake-up call at 6 a.m.",
+    "back": "Potrzebuję pobudki na 6 rano.",
+    "frontExample": "I need a wake-up call at 6 a.m.",
+    "backExample": "Potrzebuję pobudki na 6 rano.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Can I use the swimming pool?",
+    "back": "Czy mogę korzystać z basenu?",
+    "frontExample": "Can I use the swimming pool?",
+    "backExample": "Czy mogę korzystać z basenu?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Is there a gym?",
+    "back": "Czy jest siłownia?",
+    "frontExample": "Is there a gym?",
+    "backExample": "Czy jest siłownia?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Is there a Spa?",
+    "back": "Czy jest Spa?",
+    "frontExample": "Is there a Spa?",
+    "backExample": "Czy jest Spa?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Can I get a massage?",
+    "back": "Czy mogę umówić się na masaż?",
+    "frontExample": "Can I get a massage?",
+    "backExample": "Czy mogę umówić się na masaż?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Can I park my car here?",
+    "back": "Czy mogę tu zaparkować?",
+    "frontExample": "Can I park my car here?",
+    "backExample": "Czy mogę tu zaparkować?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Is parking free?",
+    "back": "Czy parking jest darmowy?",
+    "frontExample": "Is parking free?",
+    "backExample": "Czy parking jest darmowy?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "I would like to cancel my reservation.",
+    "back": "Chciałbym odwołać moją rezerwację.",
+    "frontExample": "I would like to cancel my reservation.",
+    "backExample": "Chciałbym odwołać moją rezerwację.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Is there a cancellation fee?",
+    "back": "Czy jest opłata za anulowanie?",
+    "frontExample": "Is there a cancellation fee?",
+    "backExample": "Czy jest opłata za anulowanie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "How do I get to the city center?",
+    "back": "Jak dostać się do centrum miasta?",
+    "frontExample": "How do I get to the city center?",
+    "backExample": "Jak dostać się do centrum miasta?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Do you have a map of the city?",
+    "back": "Czy macie mapę miasta?",
+    "frontExample": "Do you have a map of the city?",
+    "backExample": "Czy macie mapę miasta?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "Where is the nearest restaurant?",
+    "back": "Gdzie jest najbliższa restauracja?",
+    "frontExample": "Where is the nearest restaurant?",
+    "backExample": "Gdzie jest najbliższa restauracja?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "Can you recommend a good place to eat?",
+    "back": "Czy możesz polecić dobre miejsce do jedzenia?",
+    "frontExample": "Can you recommend a good place to eat?",
+    "backExample": "Czy możesz polecić dobre miejsce do jedzenia?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "I need help.",
+    "back": "Potrzebuję pomocy.",
+    "frontExample": "I need help.",
+    "backExample": "Potrzebuję pomocy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Something is wrong with the room.",
+    "back": "Coś jest nie tak z pokojem.",
+    "frontExample": "Something is wrong with the room.",
+    "backExample": "Coś jest nie tak z pokojem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "There is a problem with my room.",
+    "back": "Jest problem z moim pokojem.",
+    "frontExample": "There is a problem with my room.",
+    "backExample": "Jest problem z moim pokojem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "I would like to speak to the manager.",
+    "back": "Chciałabym porozmawiać z kierownikiem.",
+    "frontExample": "I would like to speak to the manager.",
+    "backExample": "Chciałabym porozmawiać z kierownikiem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "I want to make a complaint.",
+    "back": "Chcę złożyć skargę.",
+    "frontExample": "I want to make a complaint.",
+    "backExample": "Chcę złożyć skargę.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "Thank you for your help.",
+    "back": "Dziękuję za pomoc.",
+    "frontExample": "Thank you for your help.",
+    "backExample": "Dziękuję za pomoc.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "Thank you for your service.",
+    "back": "Dziękuję za obsługę.",
+    "frontExample": "Thank you for your service.",
+    "backExample": "Dziękuję za obsługę.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 61,
+    "front": "The staff was very friendly.",
+    "back": "Obsługa była bardzo miła.",
+    "frontExample": "The staff was very friendly.",
+    "backExample": "Obsługa była bardzo miła.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 62,
+    "front": "I enjoyed my stay.",
+    "back": "Podobał mi się pobyt.",
+    "frontExample": "I enjoyed my stay.",
+    "backExample": "Podobał mi się pobyt.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 63,
+    "front": "I will come back.",
+    "back": "Wrócę tu.",
+    "frontExample": "I will come back.",
+    "backExample": "Wrócę tu.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 64,
+    "front": "Please call a taxi for me.",
+    "back": "Proszę wezwać dla mnie taksówkę.",
+    "frontExample": "Please call a taxi for me.",
+    "backExample": "Proszę wezwać dla mnie taksówkę.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 65,
+    "front": "When is the next cleaning service?",
+    "back": "Kiedy będzie sprzątanie?",
+    "frontExample": "When is the next cleaning service?",
+    "backExample": "Kiedy będzie sprzątanie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 66,
+    "front": "Can I get extra towels?",
+    "back": "Czy mogę dostać dodatkowe ręczniki?",
+    "frontExample": "Can I get extra towels?",
+    "backExample": "Czy mogę dostać dodatkowe ręczniki?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 67,
+    "front": "Can I get another pillow?",
+    "back": "Czy mogę dostać dodatkową poduszkę?",
+    "frontExample": "Can I get another pillow?",
+    "backExample": "Czy mogę dostać dodatkową poduszkę?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 68,
+    "front": "Is there a hairdryer in the room?",
+    "back": "Czy w pokoju jest suszarka?",
+    "frontExample": "Is there a hairdryer in the room?",
+    "backExample": "Czy w pokoju jest suszarka?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 69,
+    "front": "Do you have an iron?",
+    "back": "Czy macie żelazko?",
+    "frontExample": "Do you have an iron?",
+    "backExample": "Czy macie żelazko?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 70,
+    "front": "Is laundry service available?",
+    "back": "Czy jest dostępna pralnia?",
+    "frontExample": "Is laundry service available?",
+    "backExample": "Czy jest dostępna pralnia?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 71,
+    "front": "How do I call reception?",
+    "back": "Jak zadzwonić do recepcji?",
+    "frontExample": "How do I call reception?",
+    "backExample": "Jak zadzwonić do recepcji?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 72,
+    "front": "Can I get a late check-out?",
+    "back": "Czy mogę się poźniej wymeldować?",
+    "frontExample": "Can I get a late check-out?",
+    "backExample": "Czy mogę się poźniej wymeldować?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 73,
+    "front": "I would like to extend my stay.",
+    "back": "Chciałbym przedłużyć pobyt.",
+    "frontExample": "I would like to extend my stay.",
+    "backExample": "Chciałbym przedłużyć pobyt.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 74,
+    "front": "Do you have rooms for disabled guests?",
+    "back": "Czy są pokoje dla osób niepełnosprawnych?",
+    "frontExample": "Do you have rooms for disabled guests?",
+    "backExample": "Czy są pokoje dla osób niepełnosprawnych?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 75,
+    "front": "I need a quiet room.",
+    "back": "Potrzebuję cichego pokoju.",
+    "frontExample": "I need a quiet room.",
+    "backExample": "Potrzebuję cichego pokoju.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 76,
+    "front": "The room next door is noisy.",
+    "back": "Pokój obok jest hałaśliwy.",
+    "frontExample": "The room next door is noisy.",
+    "backExample": "Pokój obok jest hałaśliwy.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 77,
+    "front": "Someone is smoking in the room.",
+    "back": "Ktoś pali w pokoju.",
+    "frontExample": "Someone is smoking in the room.",
+    "backExample": "Ktoś pali w pokoju.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 78,
+    "front": "There are no towels in my room.",
+    "back": "W moim pokoju nie ma ręczników.",
+    "frontExample": "There are no towels in my room.",
+    "backExample": "W moim pokoju nie ma ręczników.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 79,
+    "front": "The bathroom light is broken.",
+    "back": "Światło w łazience nie działa.",
+    "frontExample": "The bathroom light is broken.",
+    "backExample": "Światło w łazience nie działa.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 80,
+    "front": "The bed is uncomfortable.",
+    "back": "Łóżko jest niewygodne.",
+    "frontExample": "The bed is uncomfortable.",
+    "backExample": "Łóżko jest niewygodne.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 81,
+    "front": "The shower is leaking.",
+    "back": "Prysznic cieknie.",
+    "frontExample": "The shower is leaking.",
+    "backExample": "Prysznic cieknie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 82,
+    "front": "There is no soap.",
+    "back": "Nie ma mydła.",
+    "frontExample": "There is no soap.",
+    "backExample": "Nie ma mydła.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 83,
+    "front": "There are bugs in the room.",
+    "back": "W pokoju są robaki.",
+    "frontExample": "There are bugs in the room.",
+    "backExample": "W pokoju są robaki.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 84,
+    "front": "Is there a fridge in the room?",
+    "back": "Czy w pokoju jest lodówka?",
+    "frontExample": "Is there a fridge in the room?",
+    "backExample": "Czy w pokoju jest lodówka?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 85,
+    "front": "Is there a kettle?",
+    "back": "Czy jest czajnik?",
+    "frontExample": "Is there a kettle?",
+    "backExample": "Czy jest czajnik?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 86,
+    "front": "The minibar is empty.",
+    "back": "Minibar jest pusty.",
+    "frontExample": "The minibar is empty.",
+    "backExample": "Minibar jest pusty.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 87,
+    "front": "I'd like to leave early.",
+    "back": "Chciałbym wyjechać wcześniej.",
+    "frontExample": "I'd like to leave early.",
+    "backExample": "Chciałbym wyjechać wcześniej.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 88,
+    "front": "Can I get a refund?",
+    "back": "Czy mogę otrzymać zwrot pieniędzy?",
+    "frontExample": "Can I get a refund?",
+    "backExample": "Czy mogę otrzymać zwrot pieniędzy?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 89,
+    "front": "I left something in the room.",
+    "back": "Zostawiłem coś w pokoju.",
+    "frontExample": "I left something in the room.",
+    "backExample": "Zostawiłem coś w pokoju.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 90,
+    "front": "Can you send it to me?",
+    "back": "Czy możecie mi to wysłać?",
+    "frontExample": "Can you send it to me?",
+    "backExample": "Czy możecie mi to wysłać?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 91,
+    "front": "What's the room number again?",
+    "back": "Jaki to był numer pokoju?",
+    "frontExample": "What's the room number again?",
+    "backExample": "Jaki to był numer pokoju?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 92,
+    "front": "I forgot my room number.",
+    "back": "Zapomniałem numeru pokoju.",
+    "frontExample": "I forgot my room number.",
+    "backExample": "Zapomniałem numeru pokoju.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 93,
+    "front": "Where can I get a taxi?",
+    "back": "Gdzie mogę złapać taksówkę?",
+    "frontExample": "Where can I get a taxi?",
+    "backExample": "Gdzie mogę złapać taksówkę?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 94,
+    "front": "Can you give me a wake-up call?",
+    "back": "Czy możecie mnie obudzić telefonicznie?",
+    "frontExample": "Can you give me a wake-up call?",
+    "backExample": "Czy możecie mnie obudzić telefonicznie?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 95,
+    "front": "Where is the nearest ATM?",
+    "back": "Gdzie jest najbliższy bankomat?",
+    "frontExample": "Where is the nearest ATM?",
+    "backExample": "Gdzie jest najbliższy bankomat?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 96,
+    "front": "Where can I change money?",
+    "back": "Gdzie mogę wymienić pieniądze?",
+    "frontExample": "Where can I change money?",
+    "backExample": "Gdzie mogę wymienić pieniądze?",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 97,
+    "front": "Im travelling for business.",
+    "back": "Podróżuję służbowo.",
+    "frontExample": "Im travelling for business.",
+    "backExample": "Podróżuję służbowo.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 98,
+    "front": "I'm travelling for pleasure.",
+    "back": "Podróżuje turystycznie.",
+    "frontExample": "I'm travelling for pleasure.",
+    "backExample": "Podróżuje turystycznie.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 99,
+    "front": "Im here on vacation.",
+    "back": "Jestem tu na wakacjach.",
+    "frontExample": "Im here on vacation.",
+    "backExample": "Jestem tu na wakacjach.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 100,
+    "front": "Goodbye, and thank you!",
+    "back": "Do widzenia i dziękuje!",
+    "frontExample": "Goodbye, and thank you!",
+    "backExample": "Do widzenia i dziękuje!",
+    "phonetic": "",
+    "remembered": false
+  }
+]
