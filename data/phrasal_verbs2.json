@@ -1,0 +1,389 @@
+[
+  {
+    "id": 1,
+    "front": "hand in",
+    "back": "oddać (np. pracę domową)",
+    "frontExample": "Don't forget to hand in before the deadline.",
+    "backExample": "Nie zapomnij oddać (np. pracę domową) przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "hand out",
+    "back": "rozdawać, wymierzyć (np. karę)",
+    "frontExample": "Don't forget to hand out before the deadline.",
+    "backExample": "Nie zapomnij rozdawać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "hang out",
+    "back": "spędzać czas",
+    "frontExample": "Don't forget to hang out before the deadline.",
+    "backExample": "Nie zapomnij spędzać czas przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "hang up",
+    "back": "rozłączyć się, powiesić coś",
+    "frontExample": "Don't forget to hang up before the deadline.",
+    "backExample": "Nie zapomnij rozłączyć się przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "hold on",
+    "back": "czekać, trzymać się czegoś",
+    "frontExample": "Don't forget to hold on before the deadline.",
+    "backExample": "Nie zapomnij czekać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "hold up",
+    "back": "opóźniać",
+    "frontExample": "Don't forget to hold up before the deadline.",
+    "backExample": "Nie zapomnij opóźniać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "keep up (with)",
+    "back": "nadążać za, być na bieżąco z czymś",
+    "frontExample": "Don't forget to keep up (with) before the deadline.",
+    "backExample": "Nie zapomnij nadążać za przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "kick off",
+    "back": "rozpocząć, wyrzucić (np. niechcianego gościa)",
+    "frontExample": "Don't forget to kick off before the deadline.",
+    "backExample": "Nie zapomnij rozpocząć przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "knock out",
+    "back": "znokautować",
+    "frontExample": "Don't forget to knock out before the deadline.",
+    "backExample": "Nie zapomnij znokautować przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "lay off",
+    "back": "zwolnić z pracy, dać sobie z czymś spokój",
+    "frontExample": "Don't forget to lay off before the deadline.",
+    "backExample": "Nie zapomnij zwolnić z pracy przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "leave out",
+    "back": "opuszczać, pomijać",
+    "frontExample": "Don't forget to leave out before the deadline.",
+    "backExample": "Nie zapomnij opuszczać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "let down",
+    "back": "zawieść kogoś, spuścić (np. powietrze w oponie)",
+    "frontExample": "Don't forget to let down before the deadline.",
+    "backExample": "Nie zapomnij zawieść kogoś przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "look after",
+    "back": "opiekować się",
+    "frontExample": "Don't forget to look after before the deadline.",
+    "backExample": "Nie zapomnij opiekować się przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "look forward to",
+    "back": "oczekiwać z niecierpliwością",
+    "frontExample": "Don't forget to look forward to before the deadline.",
+    "backExample": "Nie zapomnij oczekiwać z niecierpliwością przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "make up",
+    "back": "pogodzić się, wymyślić, nadrabiać coś (np. pracę)",
+    "frontExample": "Don't forget to make up before the deadline.",
+    "backExample": "Nie zapomnij pogodzić się przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "mess up",
+    "back": "zepsuć coś, bałaganić",
+    "frontExample": "Don't forget to mess up before the deadline.",
+    "backExample": "Nie zapomnij zepsuć coś przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "move on",
+    "back": "iść do przodu, rozwijać się",
+    "frontExample": "Don't forget to move on before the deadline.",
+    "backExample": "Nie zapomnij iść do przodu przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "pass away",
+    "back": "umrzeć",
+    "frontExample": "Don't forget to pass away before the deadline.",
+    "backExample": "Nie zapomnij umrzeć przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "pick out",
+    "back": "wybrać, dostrzec coś",
+    "frontExample": "Don't forget to pick out before the deadline.",
+    "backExample": "Nie zapomnij wybrać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "pick up",
+    "back": "odebrać, podnieść się, aresztować kogoś",
+    "frontExample": "Don't forget to pick up before the deadline.",
+    "backExample": "Nie zapomnij odebrać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "point out",
+    "back": "zwrócić uwagę, wskazywać",
+    "frontExample": "Don't forget to point out before the deadline.",
+    "backExample": "Nie zapomnij zwrócić uwagę przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "put off",
+    "back": "przełożyć na później, budzić wstręt",
+    "frontExample": "Don't forget to put off before the deadline.",
+    "backExample": "Nie zapomnij przełożyć na później przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "put on",
+    "back": "zakładać, przybrać na wadzę",
+    "frontExample": "Don't forget to put on before the deadline.",
+    "backExample": "Nie zapomnij zakładać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "put up with",
+    "back": "znosić, tolerować",
+    "frontExample": "Don't forget to put up with before the deadline.",
+    "backExample": "Nie zapomnij znosić przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "run into",
+    "back": "wpaść na kogoś, wjechać w coś",
+    "frontExample": "Don't forget to run into before the deadline.",
+    "backExample": "Nie zapomnij wpaść na kogoś przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "run out (of)",
+    "back": "wyczerpać zapasy",
+    "frontExample": "Don't forget to run out (of) before the deadline.",
+    "backExample": "Nie zapomnij wyczerpać zapasy przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "set off",
+    "back": "wyruszyć, uruchamiać",
+    "frontExample": "Don't forget to set off before the deadline.",
+    "backExample": "Nie zapomnij wyruszyć przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "set up",
+    "back": "założyć (np. firmę), organizować coś",
+    "frontExample": "Don't forget to set up before the deadline.",
+    "backExample": "Nie zapomnij założyć (np. firmę) przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "show off",
+    "back": "popisywać się",
+    "frontExample": "Don't forget to show off before the deadline.",
+    "backExample": "Nie zapomnij popisywać się przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "slow down",
+    "back": "zwolnić",
+    "frontExample": "Don't forget to slow down before the deadline.",
+    "backExample": "Nie zapomnij zwolnić przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "sort out",
+    "back": "rozwiązać problem, uporządkować coś",
+    "frontExample": "Don't forget to sort out before the deadline.",
+    "backExample": "Nie zapomnij rozwiązać problem przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "speak up",
+    "back": "mówić głośniej",
+    "frontExample": "Don't forget to speak up before the deadline.",
+    "backExample": "Nie zapomnij mówić głośniej przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "stand by",
+    "back": "wspierać, trwać",
+    "frontExample": "Don't forget to stand by before the deadline.",
+    "backExample": "Nie zapomnij wspierać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "stand out",
+    "back": "wyróżniać się",
+    "frontExample": "Don't forget to stand out before the deadline.",
+    "backExample": "Nie zapomnij wyróżniać się przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "take after",
+    "back": "być podobnym do",
+    "frontExample": "Don't forget to take after before the deadline.",
+    "backExample": "Nie zapomnij być podobnym do przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "take away",
+    "back": "zabrać, brać (na wynos)",
+    "frontExample": "Don't forget to take away before the deadline.",
+    "backExample": "Nie zapomnij zabrać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "take off",
+    "back": "wystartować (o samolocie), zdjąć ubranie, odnieść nagły sukces",
+    "frontExample": "Don't forget to take off before the deadline.",
+    "backExample": "Nie zapomnij wystartować (o samolocie) przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "take over",
+    "back": "przejąć",
+    "frontExample": "Don't forget to take over before the deadline.",
+    "backExample": "Nie zapomnij przejąć przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "take up",
+    "back": "podjąć, zacząć zajmować się czymś",
+    "frontExample": "Don't forget to take up before the deadline.",
+    "backExample": "Nie zapomnij podjąć przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "throw away",
+    "back": "wyrzucać",
+    "frontExample": "Don't forget to throw away before the deadline.",
+    "backExample": "Nie zapomnij wyrzucać przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "turn down",
+    "back": "odrzucić, przygaszać, ściszać",
+    "frontExample": "Don't forget to turn down before the deadline.",
+    "backExample": "Nie zapomnij odrzucić przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "turn into",
+    "back": "zmienić się w, skręcić w (ulicę)",
+    "frontExample": "Don't forget to turn into before the deadline.",
+    "backExample": "Nie zapomnij zmienić się w przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "turn on/off",
+    "back": "włączyć/wyłączyć",
+    "frontExample": "Don't forget to turn on/off before the deadline.",
+    "backExample": "Nie zapomnij włączyć/wyłączyć przed terminem.",
+    "phonetic": "",
+    "remembered": false
+  }
+]
