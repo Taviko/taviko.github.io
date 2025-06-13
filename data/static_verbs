@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "front": "to be",
+    "back": "być (cecha stała)",
+    "frontExample": "She is kind.",
+    "backExample": "Ona jest miła.",
+    "phonetic": "/biː/",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "look",
+    "back": "wyglądać",
+    "frontExample": "You look tired.",
+    "backExample": "Wyglądasz na zmęczonego.",
+    "phonetic": "/lʊk/",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "see",
+    "back": "widzieć",
+    "frontExample": "I see your point.",
+    "backExample": "Rozumiem twój punkt widzenia.",
+    "phonetic": "/siː/",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "hear",
+    "back": "słyszeć",
+    "frontExample": "Can you hear me?",
+    "backExample": "Czy mnie słyszysz?",
+    "phonetic": "/hɪə(r)/",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "fit",
+    "back": "pasować",
+    "frontExample": "This shirt fits you.",
+    "backExample": "Ta koszula na ciebie pasuje.",
+    "phonetic": "/fɪt/",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "have",
+    "back": "mieć, posiadać",
+    "frontExample": "They have a new house.",
+    "backExample": "Oni mają nowy dom.",
+    "phonetic": "/hæv/",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "think",
+    "back": "sądzić, uważać",
+    "frontExample": "I think it's true.",
+    "backExample": "Myślę, że to prawda.",
+    "phonetic": "/θɪŋk/",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "smell",
+    "back": "pachnieć",
+    "frontExample": "It smells great.",
+    "backExample": "To pachnie świetnie.",
+    "phonetic": "/smel/",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "taste",
+    "back": "smakować",
+    "frontExample": "This soup tastes amazing.",
+    "backExample": "Ta zupa smakuje niesamowicie.",
+    "phonetic": "/teɪst/",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "appear",
+    "back": "wydawać się",
+    "frontExample": "He appears confident.",
+    "backExample": "On wydaje się pewny siebie.",
+    "phonetic": "/əˈpɪə(r)/",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "love",
+    "back": "kochać",
+    "frontExample": "I love summer.",
+    "backExample": "Uwielbiam lato.",
+    "phonetic": "/lʌv/",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "feel",
+    "back": "czuć (stan emocjonalny, fizyczny)",
+    "frontExample": "I feel happy today.",
+    "backExample": "Czuję się dziś szczęśliwy.",
+    "phonetic": "/fiːl/",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "enjoy",
+    "back": "lubić, czerpać przyjemność (ogólnie)",
+    "frontExample": "I enjoy reading.",
+    "backExample": "Lubię czytać.",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "hate",
+    "back": "nienawidzić",
+    "frontExample": "I hate waiting.",
+    "backExample": "Nienawidzę czekać.",
+    "phonetic": "/heɪt/",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "like",
+    "back": "lubić",
+    "frontExample": "Do you like it?",
+    "backExample": "Czy to ci się podoba?",
+    "phonetic": "/laɪk/",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "believe",
+    "back": "wierzyć",
+    "frontExample": "I believe in you.",
+    "backExample": "Wierzę w ciebie.",
+    "phonetic": "/bɪˈliːv/",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "mind",
+    "back": "mieć coś przeciwko",
+    "frontExample": "Do you mind?",
+    "backExample": "Masz coś przeciwko?",
+    "phonetic": "/maɪnd/",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "know",
+    "back": "wiedzieć",
+    "frontExample": "She knows the answer.",
+    "backExample": "Ona zna odpowiedź.",
+    "phonetic": "/nəʊ/",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "understand",
+    "back": "rozumieć",
+    "frontExample": "I understand everything.",
+    "backExample": "Rozumiem wszystko.",
+    "phonetic": "/ˌʌndəˈstænd/",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "remember",
+    "back": "pamiętać",
+    "frontExample": "I remember this place.",
+    "backExample": "Pamiętam to miejsce.",
+    "phonetic": "/rɪˈmembə(r)/",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "forget",
+    "back": "zapomnieć",
+    "frontExample": "Don't forget your keys.",
+    "backExample": "Nie zapomnij kluczy.",
+    "phonetic": "/fəˈɡet/",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "need",
+    "back": "potrzebować",
+    "frontExample": "I need help.",
+    "backExample": "Potrzebuję pomocy.",
+    "phonetic": "/niːd/",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "want",
+    "back": "chcieć",
+    "frontExample": "I want more time.",
+    "backExample": "Chcę więcej czasu.",
+    "phonetic": "/wɒnt/",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "mean",
+    "back": "znaczyć",
+    "frontExample": "What does it mean?",
+    "backExample": "Co to znaczy?",
+    "phonetic": "/miːn/",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "belong",
+    "back": "należeć",
+    "frontExample": "This pen belongs to me.",
+    "backExample": "Ten długopis należy do mnie.",
+    "phonetic": "/bɪˈlɒŋ/",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "seem",
+    "back": "wydawać się",
+    "frontExample": "It seems fine.",
+    "backExample": "Wydaje się w porządku.",
+    "phonetic": "/siːm/",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "sound",
+    "back": "brzmieć, wydawać się, zabrzmieć",
+    "frontExample": "That sounds great!",
+    "backExample": "To brzmi świetnie.",
+    "phonetic": "/saʊnd/",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "cost",
+    "back": "kosztować",
+    "frontExample": "It costs a lot.",
+    "backExample": "To dużo kosztuje.",
+    "phonetic": "/kɒst/",
+    "remembered": false
+  }
+]
