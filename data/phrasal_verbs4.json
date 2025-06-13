@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "front": "iron out",
+    "back": "rozprasować, rozwiązać (problem)",
+    "frontExample": "Try not to iron out during the meeting.",
+    "backExample": "Postaraj się nie rozprasować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "jot down",
+    "back": "zanotować",
+    "frontExample": "Try not to jot down during the meeting.",
+    "backExample": "Postaraj się nie zanotować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "keep out",
+    "back": "trzymać się z daleka, nie wpuszczać",
+    "frontExample": "Try not to keep out during the meeting.",
+    "backExample": "Postaraj się nie trzymać się z daleka podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "knuckle down",
+    "back": "wziąć się do roboty",
+    "frontExample": "Try not to knuckle down during the meeting.",
+    "backExample": "Postaraj się nie wziąć się do roboty podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "lay out",
+    "back": "rozplanować, wydawać (pieniądze), rozstawić coś",
+    "frontExample": "Try not to lay out during the meeting.",
+    "backExample": "Postaraj się nie rozplanować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "leave behind",
+    "back": "zostawić (kogoś w tyle), zapomnieć czegoś",
+    "frontExample": "Try not to leave behind during the meeting.",
+    "backExample": "Postaraj się nie zostawić (kogoś w tyle) podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "let in",
+    "back": "wpuścić",
+    "frontExample": "Try not to let in during the meeting.",
+    "backExample": "Postaraj się nie wpuścić podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "look into",
+    "back": "badać, zajmować się czymś",
+    "frontExample": "Try not to look into during the meeting.",
+    "backExample": "Postaraj się nie badać podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "look up to",
+    "back": "podziwiać, znajdować coś",
+    "frontExample": "Try not to look up to during the meeting.",
+    "backExample": "Postaraj się nie podziwiać podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "make do with",
+    "back": "zadowalać się czymś",
+    "frontExample": "Try not to make do with during the meeting.",
+    "backExample": "Postaraj się nie zadowalać się czymś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "mess around",
+    "back": "obijać się, wygłupiać się",
+    "frontExample": "Try not to mess around during the meeting.",
+    "backExample": "Postaraj się nie obijać się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "move in",
+    "back": "wprowadzić się, wkraczać do akcji",
+    "frontExample": "Try not to move in during the meeting.",
+    "backExample": "Postaraj się nie wprowadzić się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "narrow down",
+    "back": "zawęzić (wybór)",
+    "frontExample": "Try not to narrow down during the meeting.",
+    "backExample": "Postaraj się nie zawęzić (wybór) podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "opt out (of)",
+    "back": "wycofać się z czegoś, zrezygnować",
+    "frontExample": "Try not to opt out (of) during the meeting.",
+    "backExample": "Postaraj się nie wycofać się z czegoś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "pass out",
+    "back": "zemdleć, szybko zasnąć, rozdać coś",
+    "frontExample": "Try not to pass out during the meeting.",
+    "backExample": "Postaraj się nie zemdleć podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "pay off",
+    "back": "opłacać się, spłacić",
+    "frontExample": "Try not to pay off during the meeting.",
+    "backExample": "Postaraj się nie opłacać się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "pick on",
+    "back": "czepiać się kogoś, wybierać kogoś",
+    "frontExample": "Try not to pick on during the meeting.",
+    "backExample": "Postaraj się nie czepiać się kogoś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "put through",
+    "back": "połączyć telefonicznie, doprowadzić do skutku",
+    "frontExample": "Try not to put through during the meeting.",
+    "backExample": "Postaraj się nie połączyć telefonicznie podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "put up",
+    "back": "przenocować, stawiać coś, budować",
+    "frontExample": "Try not to put up during the meeting.",
+    "backExample": "Postaraj się nie przenocować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "read up on",
+    "back": "poczytać o czymś, naczytać się",
+    "frontExample": "Try not to read up on during the meeting.",
+    "backExample": "Postaraj się nie poczytać o czymś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "run over",
+    "back": "przejechać kogoś, przekraczać (budżet)",
+    "frontExample": "Try not to run over during the meeting.",
+    "backExample": "Postaraj się nie przejechać kogoś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "see of",
+    "back": "odprowadzać kogoś",
+    "frontExample": "Try not to see of during the meeting.",
+    "backExample": "Postaraj się nie odprowadzać kogoś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "settle down",
+    "back": "ustatkować się, uspokoić się",
+    "frontExample": "Try not to settle down during the meeting.",
+    "backExample": "Postaraj się nie ustatkować się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "show up",
+    "back": "pojawić się",
+    "frontExample": "Try not to show up during the meeting.",
+    "backExample": "Postaraj się nie pojawić się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "sit back",
+    "back": "usiąść wygodnie, odprężyć się",
+    "frontExample": "Try not to sit back during the meeting.",
+    "backExample": "Postaraj się nie usiąść wygodnie podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "sleep in",
+    "back": "pospać dłużej",
+    "frontExample": "Try not to sleep in during the meeting.",
+    "backExample": "Postaraj się nie pospać dłużej podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "sort out",
+    "back": "uporządkować, rozwiązać (problemy)",
+    "frontExample": "Try not to sort out during the meeting.",
+    "backExample": "Postaraj się nie uporządkować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "stick to",
+    "back": "trzymać się czegoś, lepić się",
+    "frontExample": "Try not to stick to during the meeting.",
+    "backExample": "Postaraj się nie trzymać się czegoś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "switch off",
+    "back": "wyłączyć",
+    "frontExample": "Try not to switch off during the meeting.",
+    "backExample": "Postaraj się nie wyłączyć podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "take in",
+    "back": "przyjąć kogoś, odbierać coś, pojąć coś",
+    "frontExample": "Try not to take in during the meeting.",
+    "backExample": "Postaraj się nie przyjąć kogoś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "tell off",
+    "back": "upominać kogoś",
+    "frontExample": "Try not to tell off during the meeting.",
+    "backExample": "Postaraj się nie upominać kogoś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "throw up",
+    "back": "wymiotować, wskazywać na coś",
+    "frontExample": "Try not to throw up during the meeting.",
+    "backExample": "Postaraj się nie wymiotować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "turn around",
+    "back": "odwrócić się, zmieniać się na lepsze, skomplementować",
+    "frontExample": "Try not to turn around during the meeting.",
+    "backExample": "Postaraj się nie odwrócić się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "turn down",
+    "back": "odrzucić",
+    "frontExample": "Try not to turn down during the meeting.",
+    "backExample": "Postaraj się nie odrzucić podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "turn up",
+    "back": "pojawić się",
+    "frontExample": "Try not to turn up during the meeting.",
+    "backExample": "Postaraj się nie pojawić się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "wait up",
+    "back": "poczekać",
+    "frontExample": "Try not to wait up during the meeting.",
+    "backExample": "Postaraj się nie poczekać podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "walk off",
+    "back": "odejść",
+    "frontExample": "Try not to walk off during the meeting.",
+    "backExample": "Postaraj się nie odejść podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "wash up",
+    "back": "zmywać naczynia",
+    "frontExample": "Try not to wash up during the meeting.",
+    "backExample": "Postaraj się nie zmywać naczynia podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "wear off",
+    "back": "przestać działać, mijać",
+    "frontExample": "Try not to wear off during the meeting.",
+    "backExample": "Postaraj się nie przestać działać podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "work on",
+    "back": "pracować nad czymś",
+    "frontExample": "Try not to work on during the meeting.",
+    "backExample": "Postaraj się nie pracować nad czymś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "wrap up",
+    "back": "podsumować, ubrać się ciepło",
+    "frontExample": "Try not to wrap up during the meeting.",
+    "backExample": "Postaraj się nie podsumować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "write off",
+    "back": "spisać na straty, uznać coś za nieważne",
+    "frontExample": "Try not to write off during the meeting.",
+    "backExample": "Postaraj się nie spisać na straty podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "zip up",
+    "back": "zasunąć zamek",
+    "frontExample": "Try not to zip up during the meeting.",
+    "backExample": "Postaraj się nie zasunąć zamek podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "zone out",
+    "back": "wyłączyć się, odpłynąć (myślami)",
+    "frontExample": "Try not to zone out during the meeting.",
+    "backExample": "Postaraj się nie wyłączyć się podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "zero in on",
+    "back": "skupić się na czymś",
+    "frontExample": "Try not to zero in on during the meeting.",
+    "backExample": "Postaraj się nie skupić się na czymś podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "wind up",
+    "back": "zakończyć, zlikwidować coś",
+    "frontExample": "Try not to wind up during the meeting.",
+    "backExample": "Postaraj się nie zakończyć podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "watch over",
+    "back": "pilnować, czuwać",
+    "frontExample": "Try not to watch over during the meeting.",
+    "backExample": "Postaraj się nie pilnować podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "try on",
+    "back": "przymierzyć, wypróbować coś",
+    "frontExample": "Try not to try on during the meeting.",
+    "backExample": "Postaraj się nie przymierzyć podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "step up",
+    "back": "podjąć wyzwanie, uzyskać awans",
+    "frontExample": "Try not to step up during the meeting.",
+    "backExample": "Postaraj się nie podjąć wyzwanie podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "show around",
+    "back": "oprowadzić, pokazać komuś coś",
+    "frontExample": "Try not to show around during the meeting.",
+    "backExample": "Postaraj się nie oprowadzić podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "pull over",
+    "back": "zjechać na pobocze, wycofać się z czegoś",
+    "frontExample": "Try not to pull over during the meeting.",
+    "backExample": "Postaraj się nie zjechać na pobocze podczas spotkania.",
+    "phonetic": "",
+    "remembered": false
+  }
+]
