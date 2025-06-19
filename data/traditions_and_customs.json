@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "front": "Tradition",
+    "back": "tradycja",
+    "phonetic": "",
+    "frontExample": "This tradition has been passed down for generations.",
+    "backExample": "Ta tradycja była przekazywana przez pokolenia.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Family",
+    "back": "rodzina",
+    "phonetic": "",
+    "frontExample": "My family gathers every Sunday for dinner.",
+    "backExample": "Moja rodzina spotyka się co niedzielę na obiad.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Marriage",
+    "back": "małżeństwo",
+    "phonetic": "",
+    "frontExample": "Marriage is a lifelong commitment.",
+    "backExample": "Małżeństwo to zobowiązanie na całe życie.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Wedding",
+    "back": "ślub, wesele",
+    "phonetic": "",
+    "frontExample": "The wedding was held in a beautiful garden.",
+    "backExample": "Ślub odbył się w pięknym ogrodzie.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Christmas",
+    "back": "Boże Narodzenie",
+    "phonetic": "",
+    "frontExample": "We always celebrate Christmas with our relatives.",
+    "backExample": "Zawsze obchodzimy Boże Narodzenie z krewnymi.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Easter",
+    "back": "Wielkanoc",
+    "phonetic": "",
+    "frontExample": "Easter is celebrated with painted eggs.",
+    "backExample": "Wielkanoc świętuje się malowanymi jajkami.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Baptism",
+    "back": "chrzest",
+    "phonetic": "",
+    "frontExample": "The baptism was a very emotional ceremony.",
+    "backExample": "Chrzest był bardzo emocjonalną ceremonią.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Custom",
+    "back": "zwyczaj",
+    "phonetic": "",
+    "frontExample": "It's a custom to shake hands when you meet.",
+    "backExample": "Zwyczajem jest podawanie sobie ręki przy powitaniu.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Ceremony",
+    "back": "ceremonia",
+    "phonetic": "",
+    "frontExample": "The graduation ceremony took place in the auditorium.",
+    "backExample": "Ceremonia ukończenia szkoły odbyła się w auli.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Superstition",
+    "back": "przesąd",
+    "phonetic": "",
+    "frontExample": "She believes in every superstition.",
+    "backExample": "Wierzy we wszystkie przesądy.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Feast",
+    "back": "uczta",
+    "phonetic": "",
+    "frontExample": "They prepared a huge feast for the guests.",
+    "backExample": "Przygotowali ogromną ucztę dla gości.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Meal",
+    "back": "posiłek",
+    "phonetic": "",
+    "frontExample": "We had a light meal before the trip.",
+    "backExample": "Zjedliśmy lekki posiłek przed podróżą.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Carols",
+    "back": "kolędy",
+    "phonetic": "",
+    "frontExample": "We sang traditional Christmas carols.",
+    "backExample": "Śpiewaliśmy tradycyjne kolędy.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Customary",
+    "back": "zwyczajowy",
+    "phonetic": "",
+    "frontExample": "It’s customary to bring a gift to the host.",
+    "backExample": "Zwyczajowo przynosi się prezent gospodarzowi.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "New Year",
+    "back": "Nowy Rok",
+    "phonetic": "",
+    "frontExample": "New Year is a time for fresh starts.",
+    "backExample": "Nowy Rok to czas nowych początków.",
+    "remembered": false
+  }
+]

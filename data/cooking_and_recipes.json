@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "front": "Cook",
+    "back": "gotować",
+    "phonetic": "/kʊk/",
+    "frontExample": "I cook dinner every evening for my family.",
+    "backExample": "Gotuję obiad każdego wieczoru dla mojej rodziny.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Boil",
+    "back": "gotować (w wodzie)",
+    "phonetic": "/bɔɪl/",
+    "frontExample": "Can you boil some water for the pasta?",
+    "backExample": "Możesz zagotować wodę na makaron?",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Fry",
+    "back": "smażyć",
+    "phonetic": "/fraɪ/",
+    "frontExample": "She loves to fry eggs with tomatoes in the morning.",
+    "backExample": "Ona uwielbia smażyć jajka z pomidorami rano.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Grill",
+    "back": "grillować",
+    "phonetic": "/ɡrɪl/",
+    "frontExample": "We will grill some vegetables for dinner.",
+    "backExample": "Będziemy grillować warzywa na obiad.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Bake",
+    "back": "piec",
+    "phonetic": "/beɪk/",
+    "frontExample": "My sister likes to bake cookies on weekends.",
+    "backExample": "Moja siostra lubi piec ciastka w weekendy.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Roast",
+    "back": "piec (np. mięso)",
+    "phonetic": "/rəʊst/",
+    "frontExample": "We roast a whole chicken for Sunday lunch.",
+    "backExample": "Pieczemy całego kurczaka na niedzielny obiad.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Steam",
+    "back": "gotować na parze",
+    "phonetic": "/stiːm/",
+    "frontExample": "Steam the carrots until they are soft.",
+    "backExample": "Ugotuj marchewki na parze, aż będą miękkie.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Chop",
+    "back": "siekać",
+    "phonetic": "/tʃɒp/",
+    "frontExample": "Chop the garlic into small pieces.",
+    "backExample": "Posiekaj czosnek na małe kawałki.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Slice",
+    "back": "kroić na plasterki",
+    "phonetic": "/slaɪs/",
+    "frontExample": "Please slice the tomatoes for the salad.",
+    "backExample": "Proszę pokrój pomidory na plasterki do sałatki.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Dice",
+    "back": "kroić w kostkę",
+    "phonetic": "/daɪs/",
+    "frontExample": "He diced the onion quickly while the oil was heating.",
+    "backExample": "Pokroił cebulę w kostkę, gdy olej się nagrzewał.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Peel",
+    "back": "obierać (np. ziemniaki)",
+    "phonetic": "/piːl/",
+    "frontExample": "I need to peel the potatoes before boiling them.",
+    "backExample": "Muszę obrać ziemniaki przed ich gotowaniem.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Stir",
+    "back": "mieszać",
+    "phonetic": "/stɜːr/",
+    "frontExample": "Stir the sauce continuously to avoid lumps.",
+    "backExample": "Mieszaj sos cały czas, aby uniknąć grudek.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Mix",
+    "back": "mieszać (np. składniki)",
+    "phonetic": "/mɪks/",
+    "frontExample": "Mix the flour with water to make the dough.",
+    "backExample": "Wymieszaj mąkę z wodą, aby zrobić ciasto.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Stir-fry",
+    "back": "krótko smażyć na dużym ogniu",
+    "phonetic": "/ˈstɜːr ˌfraɪ/",
+    "frontExample": "We decided to stir-fry the vegetables for a quick meal.",
+    "backExample": "Zdecydowaliśmy się krótko podsmażyć warzywa na szybki posiłek.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Season",
+    "back": "doprawić",
+    "phonetic": "/ˈsiːzən/",
+    "frontExample": "Don't forget to season the meat with salt and pepper.",
+    "backExample": "Nie zapomnij doprawić mięsa solą i pieprzem.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Marinate",
+    "back": "marynować",
+    "phonetic": "/ˈmærɪneɪt/",
+    "frontExample": "She decided to marinate the chicken overnight.",
+    "backExample": "Postanowiła marynować kurczaka przez całą noc.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Grate",
+    "back": "trzeć (np. ser)",
+    "phonetic": "/ɡreɪt/",
+    "frontExample": "Can you grate some cheese for the pasta?",
+    "backExample": "Czy możesz zetrzeć trochę sera do makaronu?",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Knead",
+    "back": "ugniatać (np. ciasto)",
+    "phonetic": "/niːd/",
+    "frontExample": "Knead the dough until it's smooth and elastic.",
+    "backExample": "Ugniataj ciasto, aż będzie gładkie i elastyczne.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Boiling water",
+    "back": "gotująca się woda, wrzątek",
+    "phonetic": "/ˈbɔɪ.lɪŋ ˈwɔː.tər/",
+    "frontExample": "Be careful with the pot of boiling water.",
+    "backExample": "Uważaj na garnek z wrzącą wodą.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Oven",
+    "back": "piekarnik",
+    "phonetic": "/ˈʌv.ən/",
+    "frontExample": "Preheat the oven to 180 degrees Celsius.",
+    "backExample": "Rozgrzej piekarnik do 180 stopni Celsjusza.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Pan",
+    "back": "patelnia",
+    "phonetic": "/pæn/",
+    "frontExample": "Heat the oil in a large pan.",
+    "backExample": "Podgrzej olej na dużej patelni.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Pot",
+    "back": "garnek",
+    "phonetic": "/pɒt/",
+    "frontExample": "She stirred the soup in the pot.",
+    "backExample": "Mieszała zupę w garnku.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Cutting board",
+    "back": "deska do krojenia",
+    "phonetic": "/ˈkʌtɪŋ bɔːd/",
+    "frontExample": "Use a cutting board to slice the bread.",
+    "backExample": "Użyj deski do krojenia, żeby pokroić chleb.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Knife",
+    "back": "nóż",
+    "phonetic": "/naɪf/",
+    "frontExample": "I need a sharp knife to cut the steak.",
+    "backExample": "Potrzebuję ostrego noża, żeby pokroić stek.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Fork",
+    "back": "widelec",
+    "phonetic": "/fɔːk/",
+    "frontExample": "She used a fork to eat the salad.",
+    "backExample": "Użyła widelca, żeby zjeść sałatkę.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Spoon",
+    "back": "łyżka",
+    "phonetic": "/spuːn/",
+    "frontExample": "Please pass me the spoon for the soup.",
+    "backExample": "Podaj mi proszę łyżkę do zupy.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Teaspoon",
+    "back": "łyżeczka",
+    "phonetic": "/ˈtiː.spuːn/",
+    "frontExample": "Add one teaspoon of sugar to the tea.",
+    "backExample": "Dodaj jedną łyżeczkę cukru do herbaty.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Tablespoon",
+    "back": "łyżka stołowa",
+    "phonetic": "/ˈteɪ.bəl.spuːn/",
+    "frontExample": "Mix in a tablespoon of olive oil.",
+    "backExample": "Wymieszaj z łyżką oliwy z oliwek.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Bowl",
+    "back": "miska",
+    "phonetic": "/bəʊl/",
+    "frontExample": "He poured cereal into the bowl.",
+    "backExample": "Wsypał płatki do miski.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Cup",
+    "back": "filiżanka",
+    "phonetic": "/kʌp/",
+    "frontExample": "I drink a cup of coffee every morning.",
+    "backExample": "Codziennie rano piję filiżankę kawy.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Meal",
+    "back": "posiłek",
+    "phonetic": "/miːl/",
+    "frontExample": "We enjoyed a three-course meal at the restaurant.",
+    "backExample": "Zjedliśmy trzydaniowy posiłek w restauracji.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Snack",
+    "back": "przekąska",
+    "phonetic": "/snæk/",
+    "frontExample": "He grabbed a quick snack before the meeting.",
+    "backExample": "Złapał szybką przekąskę przed spotkaniem.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Appetizer",
+    "back": "przystawka",
+    "phonetic": "/ˈæpɪtaɪzər/",
+    "frontExample": "We ordered a cheese platter as an appetizer.",
+    "backExample": "Zamówiliśmy deskę serów jako przystawkę.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Main course",
+    "back": "danie główne",
+    "phonetic": "/meɪn kɔːrs/",
+    "frontExample": "The steak was served as the main course.",
+    "backExample": "Stek został podany jako danie główne.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Dessert",
+    "back": "deser",
+    "phonetic": "/dɪˈzɜːrt/",
+    "frontExample": "I’ll have chocolate cake for dessert.",
+    "backExample": "Wezmę ciasto czekoladowe na deser.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Serve",
+    "back": "serwować, podać (np. posiłek)",
+    "phonetic": "/sɜːrv/",
+    "frontExample": "The waiter served the meal with a smile.",
+    "backExample": "Kelner podał posiłek z uśmiechem.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Tasty",
+    "back": "smaczny",
+    "phonetic": "/ˈteɪsti/",
+    "frontExample": "This soup is really tasty and full of flavor.",
+    "backExample": "Ta zupa jest naprawdę smaczna i pełna smaku.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Delicious",
+    "back": "pyszny",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "frontExample": "The dessert was absolutely delicious.",
+    "backExample": "Deser był absolutnie pyszny.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Sweet",
+    "back": "słodki",
+    "phonetic": "/swiːt/",
+    "frontExample": "These strawberries are sweet and juicy.",
+    "backExample": "Te truskawki są słodkie i soczyste.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Sour",
+    "back": "kwaśny",
+    "phonetic": "/ˈsaʊər/",
+    "frontExample": "The lemonade was too sour for my taste.",
+    "backExample": "Lemoniada była zbyt kwaśna jak na mój gust.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Spicy",
+    "back": "pikantny",
+    "phonetic": "/ˈspaɪsi/",
+    "frontExample": "I love spicy food like Indian curry.",
+    "backExample": "Uwielbiam pikantne jedzenie, takie jak indyjskie curry.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Salty",
+    "back": "słony",
+    "phonetic": "/ˈsɒlti/",
+    "frontExample": "The soup turned out too salty.",
+    "backExample": "Zupa okazała się zbyt słona.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Bitter",
+    "back": "gorzki",
+    "phonetic": "/ˈbɪtər/",
+    "frontExample": "The coffee tasted a bit bitter.",
+    "backExample": "Kawa miała lekko gorzki smak.",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Healthy food",
+    "back": "zdrowe jedzenie",
+    "phonetic": "/ˈhelθi fuːd/",
+    "frontExample": "She prefers eating healthy food over fast food.",
+    "backExample": "Woli jeść zdrowe jedzenie zamiast fast foodów.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Vegetarian dish",
+    "back": "danie wegetariańskie",
+    "phonetic": "/ˌvedʒəˈteriən dɪʃ/",
+    "frontExample": "He ordered a vegetarian dish with tofu.",
+    "backExample": "Zamówił danie wegetariańskie z tofu.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Vegan dish",
+    "back": "danie wegańskie",
+    "phonetic": "/ˈviːɡən dɪʃ/",
+    "frontExample": "This vegan dish is made without any animal products.",
+    "backExample": "To danie wegańskie jest przygotowane bez produktów pochodzenia zwierzęcego.",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Stewing",
+    "back": "duszenie (gotowanie)",
+    "phonetic": "/ˈstjuːɪŋ/",
+    "frontExample": "Stewing meat makes it very tender.",
+    "backExample": "Duszenie mięsa sprawia, że staje się bardzo miękkie.",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Simmering",
+    "back": "gotowanie na wolnym ogniu",
+    "phonetic": "/ˈsɪmərɪŋ/",
+    "frontExample": "The sauce is simmering gently on the stove.",
+    "backExample": "Sos delikatnie gotuje się na wolnym ogniu.",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Roasting pan",
+    "back": "brytfanna",
+    "phonetic": "/ˈrəʊstɪŋ pæn/",
+    "frontExample": "Place the chicken in a roasting pan.",
+    "backExample": "Umieść kurczaka w brytfannie.",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "Mixer",
+    "back": "mikser",
+    "phonetic": "/ˈmɪksər/",
+    "frontExample": "She used a mixer to prepare the cake batter.",
+    "backExample": "Użyła miksera, żeby przygotować ciasto na placek.",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Cooking oil",
+    "back": "olej kuchenny",
+    "phonetic": "/ˈkʊkɪŋ ɔɪl/",
+    "frontExample": "Add a splash of cooking oil to the pan before frying the onions.",
+    "backExample": "Dodaj odrobinę oleju kuchennego na patelnię przed smażeniem cebuli.",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "Butter",
+    "back": "masło",
+    "phonetic": "/ˈbʌtər/",
+    "frontExample": "She spread some butter on her toast.",
+    "backExample": "Posmarowała tosta masłem.",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "Flour",
+    "back": "mąka",
+    "phonetic": "/ˈflaʊər/",
+    "frontExample": "You need two cups of flour for this cake recipe.",
+    "backExample": "Potrzebujesz dwóch filiżanek mąki do tego przepisu na ciasto.",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "Sugar",
+    "back": "cukier",
+    "phonetic": "/ˈʃʊɡər/",
+    "frontExample": "Don't forget to add sugar to the tea.",
+    "backExample": "Nie zapomnij dodać cukru do herbaty.",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Salt",
+    "back": "sól",
+    "phonetic": "/sɔːlt/",
+    "frontExample": "The soup tastes better with a pinch of salt.",
+    "backExample": "Zupa smakuje lepiej z odrobiną soli.",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "Pepper",
+    "back": "pieprz",
+    "phonetic": "/ˈpepər/",
+    "frontExample": "He likes to add black pepper to almost every dish.",
+    "backExample": "Lubi dodawać czarny pieprz do prawie każdego dania.",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "Herbs",
+    "back": "zioła",
+    "phonetic": "/hɜːrbz/",
+    "frontExample": "Fresh herbs make this sauce much more aromatic.",
+    "backExample": "Świeże zioła sprawiają, że ten sos jest o wiele bardziej aromatyczny.",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "Spices",
+    "back": "przyprawy",
+    "phonetic": "/ˈspaɪsɪz/",
+    "frontExample": "Indian dishes often include a variety of spices.",
+    "backExample": "Indyjskie dania często zawierają różnorodne przyprawy.",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "Spoonful",
+    "back": "pełna łyżka",
+    "phonetic": "/ˈspuːnfʊl/",
+    "frontExample": "Add one spoonful of honey to the tea.",
+    "backExample": "Dodaj jedną pełną łyżkę miodu do herbaty.",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "Batter",
+    "back": "ciasto naleśnikowe",
+    "phonetic": "/ˈbætər/",
+    "frontExample": "Pour the batter onto the hot pan for perfect pancakes.",
+    "backExample": "Wlej ciasto naleśnikowe na gorącą patelnię, aby uzyskać idealne naleśniki.",
+    "remembered": false
+  },
+  {
+    "id": 61,
+    "front": "Dough",
+    "back": "ciasto (surowe)",
+    "phonetic": "/doʊ/",
+    "frontExample": "Knead the dough until it’s smooth and elastic.",
+    "backExample": "Ugniataj ciasto, aż będzie gładkie i elastyczne.",
+    "remembered": false
+  },
+  {
+    "id": 62,
+    "front": "Bread crumbs",
+    "back": "bułka tarta",
+    "phonetic": "/brɛd krʌmz/",
+    "frontExample": "Coat the chicken with bread crumbs before frying.",
+    "backExample": "Obtocz kurczaka w bułce tartej przed smażeniem.",
+    "remembered": false
+  },
+  {
+    "id": 63,
+    "front": "Crush",
+    "back": "rozgniatać, miażdżyć",
+    "phonetic": "/krʌʃ/",
+    "frontExample": "Crush the garlic with a press before adding it to the sauce.",
+    "backExample": "Rozgnieć czosnek w prasie przed dodaniem go do sosu.",
+    "remembered": false
+  },
+  {
+    "id": 64,
+    "front": "To taste",
+    "back": "smakować",
+    "phonetic": "/tə teɪst/",
+    "frontExample": "Add salt and pepper to taste.",
+    "backExample": "Dodaj sól i pieprz do smaku.",
+    "remembered": false
+  },
+  {
+    "id": 65,
+    "front": "Bread crumbs",
+    "back": "bułka tarta",
+    "phonetic": "/brɛd krʌmz/",
+    "frontExample": "She coated the chicken with bread crumbs before frying.",
+    "backExample": "Pokryła kurczaka bułką tartą przed smażeniem.",
+    "remembered": false
+  },
+  {
+    "id": 66,
+    "front": "Crush",
+    "back": "rozgniatać, miażdżyć (np. czosnek)",
+    "phonetic": "/krʌʃ/",
+    "frontExample": "Crush the garlic before adding it to the sauce.",
+    "backExample": "Rozgnieć czosnek przed dodaniem go do sosu.",
+    "remembered": false
+  },
+  {
+    "id": 67,
+    "front": "To taste",
+    "back": "smakować",
+    "phonetic": "/tə teɪst/",
+    "frontExample": "Add salt and pepper to taste.",
+    "backExample": "Dodaj soli i pieprzu według uznania.",
+    "remembered": false
+  },
+  {
+    "id": 68,
+    "front": "Spoonful",
+    "back": "pełna łyżka",
+    "phonetic": "/ˈspuːnfʊl/",
+    "frontExample": "Add a spoonful of honey to the tea.",
+    "backExample": "Dodaj pełną łyżkę miodu do herbaty.",
+    "remembered": false
+  },
+  {
+    "id": 69,
+    "front": "Batter",
+    "back": "ciasto naleśnikowe",
+    "phonetic": "/ˈbætə(r)/",
+    "frontExample": "Pour the batter onto the hot pan.",
+    "backExample": "Wlej ciasto naleśnikowe na gorącą patelnię.",
+    "remembered": false
+  },
+  {
+    "id": 70,
+    "front": "Dough",
+    "back": "ciasto (surowe, np. na chleb)",
+    "phonetic": "/dəʊ/",
+    "frontExample": "Knead the dough until it's smooth and elastic.",
+    "backExample": "Zagniataj ciasto, aż będzie gładkie i elastyczne.",
+    "remembered": false
+  },
+  {
+    "id": 71,
+    "front": "Herbs",
+    "back": "zioła",
+    "phonetic": "/hɜːbz/",
+    "frontExample": "Fresh herbs add great flavor to the dish.",
+    "backExample": "Świeże zioła dodają potrawie wspaniałego smaku.",
+    "remembered": false
+  },
+  {
+    "id": 72,
+    "front": "Spices",
+    "back": "przyprawy",
+    "phonetic": "/ˈspaɪsɪz/",
+    "frontExample": "He loves cooking with a variety of spices.",
+    "backExample": "Uwielbia gotować z użyciem różnych przypraw.",
+    "remembered": false
+  }
+]

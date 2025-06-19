@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "front": "Attraction",
+    "back": "atrakcja",
+    "phonetic": "",
+    "frontExample": "This is a popular atrakcja.",
+    "backExample": "To jest popularna atrakcja.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Landmark",
+    "back": "punkt orientacyjny",
+    "phonetic": "",
+    "frontExample": "This is a popular punkt orientacyjny.",
+    "backExample": "To jest popularna punkt orientacyjny.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Monument",
+    "back": "pomnik",
+    "phonetic": "",
+    "frontExample": "This is a popular pomnik.",
+    "backExample": "To jest popularna pomnik.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Museum",
+    "back": "muzeum",
+    "phonetic": "",
+    "frontExample": "This is a popular muzeum.",
+    "backExample": "To jest popularna muzeum.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Gallery",
+    "back": "galeria (sztuki)",
+    "phonetic": "",
+    "frontExample": "This is a popular galeria (sztuki).",
+    "backExample": "To jest popularna galeria (sztuki).",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Castle",
+    "back": "zamek",
+    "phonetic": "",
+    "frontExample": "This is a popular zamek.",
+    "backExample": "To jest popularna zamek.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Palace",
+    "back": "pałac",
+    "phonetic": "",
+    "frontExample": "This is a popular pałac.",
+    "backExample": "To jest popularna pałac.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Park",
+    "back": "park",
+    "phonetic": "",
+    "frontExample": "This is a popular park.",
+    "backExample": "To jest popularna park.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Beach",
+    "back": "plaża",
+    "phonetic": "",
+    "frontExample": "This is a popular plaża.",
+    "backExample": "To jest popularna plaża.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Forest",
+    "back": "las, puszcza",
+    "phonetic": "",
+    "frontExample": "This is a popular las, puszcza.",
+    "backExample": "To jest popularna las, puszcza.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Mountain",
+    "back": "góra",
+    "phonetic": "",
+    "frontExample": "This is a popular góra.",
+    "backExample": "To jest popularna góra.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "National park",
+    "back": "park narodowy",
+    "phonetic": "",
+    "frontExample": "This is a popular park narodowy.",
+    "backExample": "To jest popularna park narodowy.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Botanical garden",
+    "back": "ogród botaniczny",
+    "phonetic": "",
+    "frontExample": "This is a popular ogród botaniczny.",
+    "backExample": "To jest popularna ogród botaniczny.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Aquarium",
+    "back": "akwarium",
+    "phonetic": "",
+    "frontExample": "This is a popular akwarium.",
+    "backExample": "To jest popularna akwarium.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Zoo",
+    "back": "zoo, ogród zoologiczny",
+    "phonetic": "",
+    "frontExample": "This is a popular zoo, ogród zoologiczny.",
+    "backExample": "To jest popularna zoo, ogród zoologiczny.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Historical site",
+    "back": "miejsce historyczne",
+    "phonetic": "",
+    "frontExample": "This is a popular miejsce historyczne.",
+    "backExample": "To jest popularna miejsce historyczne.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Temple",
+    "back": "świątynia",
+    "phonetic": "",
+    "frontExample": "This is a popular świątynia.",
+    "backExample": "To jest popularna świątynia.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Cathedral",
+    "back": "katedra",
+    "phonetic": "",
+    "frontExample": "This is a popular katedra.",
+    "backExample": "To jest popularna katedra.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Church",
+    "back": "kościół",
+    "phonetic": "",
+    "frontExample": "This is a popular kościół.",
+    "backExample": "To jest popularna kościół.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Ruins",
+    "back": "ruiny",
+    "phonetic": "",
+    "frontExample": "This is a popular ruiny.",
+    "backExample": "To jest popularna ruiny.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Square",
+    "back": "plac",
+    "phonetic": "",
+    "frontExample": "This is a popular plac.",
+    "backExample": "To jest popularna plac.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Town hall",
+    "back": "ratusz",
+    "phonetic": "",
+    "frontExample": "This is a popular ratusz.",
+    "backExample": "To jest popularna ratusz.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Stadium",
+    "back": "stadion",
+    "phonetic": "",
+    "frontExample": "This is a popular stadion.",
+    "backExample": "To jest popularna stadion.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Harbour/port",
+    "back": "port",
+    "phonetic": "",
+    "frontExample": "This is a popular port.",
+    "backExample": "To jest popularna port.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Amusement park",
+    "back": "park rozrywki",
+    "phonetic": "",
+    "frontExample": "This is a popular park rozrywki.",
+    "backExample": "To jest popularna park rozrywki.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Cave",
+    "back": "jaskinia",
+    "phonetic": "",
+    "frontExample": "This is a popular jaskinia.",
+    "backExample": "To jest popularna jaskinia.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Ruin",
+    "back": "ruina",
+    "phonetic": "",
+    "frontExample": "This is a popular ruina.",
+    "backExample": "To jest popularna ruina.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Island",
+    "back": "wyspa",
+    "phonetic": "",
+    "frontExample": "This is a popular wyspa.",
+    "backExample": "To jest popularna wyspa.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "River",
+    "back": "rzeka",
+    "phonetic": "",
+    "frontExample": "This is a popular rzeka.",
+    "backExample": "To jest popularna rzeka.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Lake",
+    "back": "jezioro",
+    "phonetic": "",
+    "frontExample": "This is a popular jezioro.",
+    "backExample": "To jest popularna jezioro.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Viewpoint",
+    "back": "punkt widokowy, obserwacyjny",
+    "phonetic": "",
+    "frontExample": "This is a popular punkt widokowy, obserwacyjny.",
+    "backExample": "To jest popularna punkt widokowy, obserwacyjny.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Sculpture",
+    "back": "rzeźba",
+    "phonetic": "",
+    "frontExample": "This is a popular rzeźba.",
+    "backExample": "To jest popularna rzeźba.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Bridge",
+    "back": "most",
+    "phonetic": "",
+    "frontExample": "This is a popular most.",
+    "backExample": "To jest popularna most.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Marketplace",
+    "back": "rynek, targ",
+    "phonetic": "",
+    "frontExample": "This is a popular rynek, targ.",
+    "backExample": "To jest popularna rynek, targ.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Shopping mall",
+    "back": "centrum handlowe",
+    "phonetic": "",
+    "frontExample": "This is a popular centrum handlowe.",
+    "backExample": "To jest popularna centrum handlowe.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Street market",
+    "back": "targ uliczny",
+    "phonetic": "",
+    "frontExample": "This is a popular targ uliczny.",
+    "backExample": "To jest popularna targ uliczny.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Skyscraper",
+    "back": "wieżowiec",
+    "phonetic": "",
+    "frontExample": "This is a popular wieżowiec.",
+    "backExample": "To jest popularna wieżowiec.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Village",
+    "back": "wioska",
+    "phonetic": "",
+    "frontExample": "This is a popular wioska.",
+    "backExample": "To jest popularna wioska.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Resort",
+    "back": "kurort",
+    "phonetic": "",
+    "frontExample": "This is a popular kurort.",
+    "backExample": "To jest popularna kurort.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Tourist information centre",
+    "back": "centrum informacji turystycznej",
+    "phonetic": "",
+    "frontExample": "This is a popular centrum informacji turystycznej.",
+    "backExample": "To jest popularna centrum informacji turystycznej.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Hot spring",
+    "back": "gorące źródło",
+    "phonetic": "",
+    "frontExample": "This is a popular gorące źródło.",
+    "backExample": "To jest popularna gorące źródło.",
+    "remembered": false
+  }
+]

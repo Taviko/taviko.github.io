@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "front": "Bank",
+    "back": "Bank",
+    "phonetic": "",
+    "frontExample": "I need to go to the bank today.",
+    "backExample": "Muszę dziś iść do banku.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Post office",
+    "back": "poczta",
+    "phonetic": "",
+    "frontExample": "She mailed the letter at the post office.",
+    "backExample": "Wysłała list na poczcie.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Pharmacy",
+    "back": "apteka",
+    "phonetic": "",
+    "frontExample": "We bought medicine at the pharmacy.",
+    "backExample": "Kupiliśmy lekarstwa w aptece.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Supermarket",
+    "back": "supermarket/sklep",
+    "phonetic": "",
+    "frontExample": "I always shop at the supermarket.",
+    "backExample": "Zawsze robię zakupy w supermarkecie.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Grocery store",
+    "back": "sklep spożywczy",
+    "phonetic": "",
+    "frontExample": "The grocery store closes at 9 PM.",
+    "backExample": "Sklep spożywczy zamyka się o 21.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Hairdresser's",
+    "back": "fryzjer",
+    "phonetic": "",
+    "frontExample": "He got a haircut at the hairdresser's.",
+    "backExample": "Obciął się u fryzjera.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Beauty salon",
+    "back": "salon piękności/kosmetyczny",
+    "phonetic": "",
+    "frontExample": "She has an appointment at the beauty salon.",
+    "backExample": "Ma wizytę w salonie piękności.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Dry cleaner's",
+    "back": "pralnia chemiczna",
+    "phonetic": "",
+    "frontExample": "My suit was cleaned at the dry cleaner's.",
+    "backExample": "Mój garnitur został wyczyszczony w pralni chemicznej.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Electrician",
+    "back": "elektryk",
+    "phonetic": "",
+    "frontExample": "Call the electrician to fix the light.",
+    "backExample": "Zadzwoń po elektryka, żeby naprawił światło.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Plumber",
+    "back": "hydraulik",
+    "phonetic": "",
+    "frontExample": "We need a plumber for the bathroom.",
+    "backExample": "Potrzebujemy hydraulika do łazienki.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Mechanic",
+    "back": "mechanik",
+    "phonetic": "",
+    "frontExample": "The mechanic repaired my car.",
+    "backExample": "Mechanik naprawił mój samochód.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Tailor's",
+    "back": "zakład krawiecki",
+    "phonetic": "",
+    "frontExample": "I took my pants to the tailor's.",
+    "backExample": "Oddałem spodnie do krawca.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Repair shop",
+    "back": "warsztat naprawczy",
+    "phonetic": "",
+    "frontExample": "They fixed my bike at the repair shop.",
+    "backExample": "Naprawili mój rower w warsztacie.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Optician's",
+    "back": "salon optyczny",
+    "phonetic": "",
+    "frontExample": "I bought glasses at the optician's.",
+    "backExample": "Kupiłem okulary w salonie optycznym.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Car rental",
+    "back": "wypożyczalnia samochodów",
+    "phonetic": "",
+    "frontExample": "We rented a car at the car rental.",
+    "backExample": "Wypożyczyliśmy samochód w wypożyczalni.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Bookstore",
+    "back": "księgarnia",
+    "phonetic": "",
+    "frontExample": "I bought a novel from the bookstore.",
+    "backExample": "Kupiłem powieść w księgarni.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Newsagent's",
+    "back": "kiosk z gazetami",
+    "phonetic": "",
+    "frontExample": "I grabbed a paper from the newsagent's.",
+    "backExample": "Wziąłem gazetę z kiosku.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Cinema",
+    "back": "kino",
+    "phonetic": "",
+    "frontExample": "We're going to the cinema tonight.",
+    "backExample": "Idziemy dziś do kina.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Travel agency",
+    "back": "biuro podróży",
+    "phonetic": "",
+    "frontExample": "I booked a trip at the travel agency.",
+    "backExample": "Zarezerwowałem wycieczkę w biurze podróży.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Laundry",
+    "back": "pralnia",
+    "phonetic": "",
+    "frontExample": "I picked up my clothes at the laundry.",
+    "backExample": "Odebrałem ubrania z pralni.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Clothing store",
+    "back": "sklep odzieżowy",
+    "phonetic": "",
+    "frontExample": "She bought a coat at the clothing store.",
+    "backExample": "Kupiła płaszcz w sklepie odzieżowym.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Electronics store",
+    "back": "sklep z elektroniką",
+    "phonetic": "",
+    "frontExample": "He found a laptop in the electronics store.",
+    "backExample": "Znalazł laptopa w sklepie z elektroniką.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Furniture store",
+    "back": "sklep meblowy",
+    "phonetic": "",
+    "frontExample": "They got a sofa at the furniture store.",
+    "backExample": "Kupili sofę w sklepie meblowym.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Toy store",
+    "back": "sklep z zabawkami",
+    "phonetic": "",
+    "frontExample": "I bought a toy at the toy store.",
+    "backExample": "Kupiłem zabawkę w sklepie z zabawkami.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Sports shop",
+    "back": "sklep sportowy",
+    "phonetic": "",
+    "frontExample": "She found a racket at the sports shop.",
+    "backExample": "Znalazła rakietę w sklepie sportowym.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Convenience store",
+    "back": "sklepik spożywczy (osiedlowy)",
+    "phonetic": "",
+    "frontExample": "He got snacks from the convenience store.",
+    "backExample": "Kupił przekąski w sklepiku osiedlowym.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Music store",
+    "back": "sklep muzyczny",
+    "phonetic": "",
+    "frontExample": "I bought a guitar at the music store.",
+    "backExample": "Kupiłem gitarę w sklepie muzycznym.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Jewelry store",
+    "back": "sklep jubilerski",
+    "phonetic": "",
+    "frontExample": "We chose a ring at the jewelry store.",
+    "backExample": "Wybraliśmy pierścionek w sklepie jubilerskim.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Art gallery",
+    "back": "galeria sztuki",
+    "phonetic": "",
+    "frontExample": "We saw paintings at the art gallery.",
+    "backExample": "Oglądaliśmy obrazy w galerii sztuki.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Hardware store",
+    "back": "sklep budowlany",
+    "phonetic": "",
+    "frontExample": "He bought tools at the hardware store.",
+    "backExample": "Kupił narzędzia w sklepie budowlanym.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "price",
+    "back": "cena",
+    "phonetic": "",
+    "frontExample": "The price was too high.",
+    "backExample": "Cena była za wysoka.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Discount",
+    "back": "zniżka, rabat",
+    "phonetic": "",
+    "frontExample": "We got a big discount on shoes.",
+    "backExample": "Dostaliśmy dużą zniżkę na buty.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Sale",
+    "back": "wyprzedaż",
+    "phonetic": "",
+    "frontExample": "There is a sale this weekend.",
+    "backExample": "W ten weekend jest wyprzedaż.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Receipt",
+    "back": "paragon",
+    "phonetic": "",
+    "frontExample": "Don’t forget to take the receipt.",
+    "backExample": "Nie zapomnij wziąć paragonu.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Refund",
+    "back": "zwrot pieniędzy",
+    "phonetic": "",
+    "frontExample": "She asked for a refund.",
+    "backExample": "Poprosiła o zwrot pieniędzy.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Exchange",
+    "back": "wymiana",
+    "phonetic": "",
+    "frontExample": "They wanted an exchange.",
+    "backExample": "Chcieli wymiany.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Cash",
+    "back": "gotówka",
+    "phonetic": "",
+    "frontExample": "He paid in cash.",
+    "backExample": "Zapłacił gotówką.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Credit card",
+    "back": "karta kredytowa",
+    "phonetic": "",
+    "frontExample": "Can I pay by credit card?",
+    "backExample": "Czy mogę zapłacić kartą kredytową?",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Gift card",
+    "back": "karta podarunkowa",
+    "phonetic": "",
+    "frontExample": "He got a gift card for his birthday.",
+    "backExample": "Dostał kartę podarunkową na urodziny.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Shopping cart",
+    "back": "koszyk zakupowy",
+    "phonetic": "",
+    "frontExample": "I put milk in the shopping cart.",
+    "backExample": "Włożyłem mleko do koszyka.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Store assistant",
+    "back": "sprzedawca",
+    "phonetic": "",
+    "frontExample": "The store assistant was very helpful.",
+    "backExample": "Sprzedawca był bardzo pomocny.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Checkout",
+    "back": "kasa (w sklepie)",
+    "phonetic": "",
+    "frontExample": "We paid at the checkout.",
+    "backExample": "Zapłaciliśmy przy kasie.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Bargain",
+    "back": "okazja",
+    "phonetic": "",
+    "frontExample": "That was a great bargain!",
+    "backExample": "To była świetna okazja!",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Shopping list",
+    "back": "lista zakupów",
+    "phonetic": "",
+    "frontExample": "I wrote a shopping list.",
+    "backExample": "Napisałem listę zakupów.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "To order",
+    "back": "zamawiać",
+    "phonetic": "",
+    "frontExample": "We want to order pizza.",
+    "backExample": "Chcemy zamówić pizzę.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "To pay",
+    "back": "płacić",
+    "phonetic": "",
+    "frontExample": "He forgot to pay.",
+    "backExample": "Zapomniał zapłacić.",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "To return",
+    "back": "zwrócić",
+    "phonetic": "",
+    "frontExample": "I need to return this shirt.",
+    "backExample": "Muszę zwrócić tę koszulę.",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "To try on",
+    "back": "przymierzyć",
+    "phonetic": "",
+    "frontExample": "Can I try on these shoes?",
+    "backExample": "Czy mogę przymierzyć te buty?",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "To compare prices",
+    "back": "porównywać ceny",
+    "phonetic": "",
+    "frontExample": "They always compare prices online.",
+    "backExample": "Zawsze porównują ceny online.",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "To sell",
+    "back": "sprzedawać",
+    "phonetic": "",
+    "frontExample": "They sell fresh bread here.",
+    "backExample": "Sprzedają tu świeży chleb.",
+    "remembered": false
+  }
+]

@@ -1,0 +1,425 @@
+[
+  {
+    "id": 1,
+    "front": "Car",
+    "back": "samochód",
+    "phonetic": "",
+    "frontExample": "I usually travel by samochód.",
+    "backExample": "Zwykle podróżuję samochód.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Bus",
+    "back": "autobus",
+    "phonetic": "",
+    "frontExample": "I usually travel by autobus.",
+    "backExample": "Zwykle podróżuję autobus.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Train",
+    "back": "pociąg",
+    "phonetic": "",
+    "frontExample": "I usually travel by pociąg.",
+    "backExample": "Zwykle podróżuję pociąg.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Bicycle",
+    "back": "rower",
+    "phonetic": "",
+    "frontExample": "I usually travel by rower.",
+    "backExample": "Zwykle podróżuję rower.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Motorbike",
+    "back": "motocykl",
+    "phonetic": "",
+    "frontExample": "I usually travel by motocykl.",
+    "backExample": "Zwykle podróżuję motocykl.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Taxi",
+    "back": "taksówka",
+    "phonetic": "",
+    "frontExample": "I usually travel by taksówka.",
+    "backExample": "Zwykle podróżuję taksówka.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Airplane",
+    "back": "samolot",
+    "phonetic": "",
+    "frontExample": "I usually travel by samolot.",
+    "backExample": "Zwykle podróżuję samolot.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Boat",
+    "back": "łódź",
+    "phonetic": "",
+    "frontExample": "I usually travel by łódź.",
+    "backExample": "Zwykle podróżuję łódź.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Ship",
+    "back": "statek",
+    "phonetic": "",
+    "frontExample": "I usually travel by statek.",
+    "backExample": "Zwykle podróżuję statek.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Ferry",
+    "back": "prom",
+    "phonetic": "",
+    "frontExample": "I usually travel by prom.",
+    "backExample": "Zwykle podróżuję prom.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Tram",
+    "back": "tramwaj",
+    "phonetic": "",
+    "frontExample": "I usually travel by tramwaj.",
+    "backExample": "Zwykle podróżuję tramwaj.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Subway",
+    "back": "metro",
+    "phonetic": "",
+    "frontExample": "I usually travel by metro.",
+    "backExample": "Zwykle podróżuję metro.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Lorry",
+    "back": "ciężarówka",
+    "phonetic": "",
+    "frontExample": "I usually travel by ciężarówka.",
+    "backExample": "Zwykle podróżuję ciężarówka.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Van",
+    "back": "furgonetka",
+    "phonetic": "",
+    "frontExample": "I usually travel by furgonetka.",
+    "backExample": "Zwykle podróżuję furgonetka.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Helicopter",
+    "back": "helikopter",
+    "phonetic": "",
+    "frontExample": "I usually travel by helikopter.",
+    "backExample": "Zwykle podróżuję helikopter.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Coach",
+    "back": "autokar",
+    "phonetic": "",
+    "frontExample": "I usually travel by autokar.",
+    "backExample": "Zwykle podróżuję autokar.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Scooter",
+    "back": "skuter",
+    "phonetic": "",
+    "frontExample": "I usually travel by skuter.",
+    "backExample": "Zwykle podróżuję skuter.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Cable car",
+    "back": "kolejka linowa",
+    "phonetic": "",
+    "frontExample": "I usually travel by kolejka linowa.",
+    "backExample": "Zwykle podróżuję kolejka linowa.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Bus stop",
+    "back": "przystanek autobusowy",
+    "phonetic": "",
+    "frontExample": "I usually travel by przystanek autobusowy.",
+    "backExample": "Zwykle podróżuję przystanek autobusowy.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Train station",
+    "back": "dworzec kolejowy",
+    "phonetic": "",
+    "frontExample": "I usually travel by dworzec kolejowy.",
+    "backExample": "Zwykle podróżuję dworzec kolejowy.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Airport",
+    "back": "lotnisko",
+    "phonetic": "",
+    "frontExample": "I usually travel by lotnisko.",
+    "backExample": "Zwykle podróżuję lotnisko.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Port",
+    "back": "port, przystań",
+    "phonetic": "",
+    "frontExample": "I usually travel by port, przystań.",
+    "backExample": "Zwykle podróżuję port, przystań.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Ticket",
+    "back": "bilet",
+    "phonetic": "",
+    "frontExample": "I usually travel by bilet.",
+    "backExample": "Zwykle podróżuję bilet.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Platform",
+    "back": "peron",
+    "phonetic": "",
+    "frontExample": "I usually travel by peron.",
+    "backExample": "Zwykle podróżuję peron.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Journey",
+    "back": "podróż",
+    "phonetic": "",
+    "frontExample": "I usually travel by podróż.",
+    "backExample": "Zwykle podróżuję podróż.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Route",
+    "back": "trasa",
+    "phonetic": "",
+    "frontExample": "I usually travel by trasa.",
+    "backExample": "Zwykle podróżuję trasa.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Departure",
+    "back": "odjazd, odlot",
+    "phonetic": "",
+    "frontExample": "I usually travel by odjazd, odlot.",
+    "backExample": "Zwykle podróżuję odjazd, odlot.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Arrival",
+    "back": "przyjazd, przylot",
+    "phonetic": "",
+    "frontExample": "I usually travel by przyjazd, przylot.",
+    "backExample": "Zwykle podróżuję przyjazd, przylot.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Delayed",
+    "back": "opóźniony",
+    "phonetic": "",
+    "frontExample": "I usually travel by opóźniony.",
+    "backExample": "Zwykle podróżuję opóźniony.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "On time",
+    "back": "na czas",
+    "phonetic": "",
+    "frontExample": "I usually travel by na czas.",
+    "backExample": "Zwykle podróżuję na czas.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Direct flight",
+    "back": "lot bezpośredni",
+    "phonetic": "",
+    "frontExample": "I usually travel by lot bezpośredni.",
+    "backExample": "Zwykle podróżuję lot bezpośredni.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Connecting flight",
+    "back": "lot z przesiadką",
+    "phonetic": "",
+    "frontExample": "I usually travel by lot z przesiadką.",
+    "backExample": "Zwykle podróżuję lot z przesiadką.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Round trip",
+    "back": "podróż w obie strony",
+    "phonetic": "",
+    "frontExample": "I usually travel by podróż w obie strony.",
+    "backExample": "Zwykle podróżuję podróż w obie strony.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Single ticket",
+    "back": "bilet w jedną stronę",
+    "phonetic": "",
+    "frontExample": "I usually travel by bilet w jedną stronę.",
+    "backExample": "Zwykle podróżuję bilet w jedną stronę.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Return ticket",
+    "back": "bilet powrotny",
+    "phonetic": "",
+    "frontExample": "I usually travel by bilet powrotny.",
+    "backExample": "Zwykle podróżuję bilet powrotny.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Check-in",
+    "back": "odprawa",
+    "phonetic": "",
+    "frontExample": "I usually travel by odprawa.",
+    "backExample": "Zwykle podróżuję odprawa.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Luggage",
+    "back": "bagaż",
+    "phonetic": "",
+    "frontExample": "I usually travel by bagaż.",
+    "backExample": "Zwykle podróżuję bagaż.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Seat belt",
+    "back": "pas bezpieczeństwa",
+    "phonetic": "",
+    "frontExample": "I usually travel by pas bezpieczeństwa.",
+    "backExample": "Zwykle podróżuję pas bezpieczeństwa.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Seat",
+    "back": "miejsce",
+    "phonetic": "",
+    "frontExample": "I usually travel by miejsce.",
+    "backExample": "Zwykle podróżuję miejsce.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Passeger",
+    "back": "pasażer",
+    "phonetic": "",
+    "frontExample": "I usually travel by pasażer.",
+    "backExample": "Zwykle podróżuję pasażer.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Driver",
+    "back": "kierowca",
+    "phonetic": "",
+    "frontExample": "I usually travel by kierowca.",
+    "backExample": "Zwykle podróżuję kierowca.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Route map",
+    "back": "mapa drogowa",
+    "phonetic": "",
+    "frontExample": "I usually travel by mapa drogowa.",
+    "backExample": "Zwykle podróżuję mapa drogowa.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Speed limit",
+    "back": "ograniczenie prędkości",
+    "phonetic": "",
+    "frontExample": "I usually travel by ograniczenie prędkości.",
+    "backExample": "Zwykle podróżuję ograniczenie prędkości.",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Traffic jam",
+    "back": "korek uliczny",
+    "phonetic": "",
+    "frontExample": "I usually travel by korek uliczny.",
+    "backExample": "Zwykle podróżuję korek uliczny.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Roundabout",
+    "back": "rondo",
+    "phonetic": "",
+    "frontExample": "I usually travel by rondo.",
+    "backExample": "Zwykle podróżuję rondo.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Pedestrian crossing",
+    "back": "przejście dla pieszych",
+    "phonetic": "",
+    "frontExample": "I usually travel by przejście dla pieszych.",
+    "backExample": "Zwykle podróżuję przejście dla pieszych.",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Traffic lights",
+    "back": "sygnalizacja świetlna",
+    "phonetic": "",
+    "frontExample": "I usually travel by sygnalizacja świetlna.",
+    "backExample": "Zwykle podróżuję sygnalizacja świetlna.",
+    "remembered": false
+  }
+]

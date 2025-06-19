@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "front": "Cash",
+    "back": "gotówka",
+    "phonetic": "",
+    "frontExample": "I paid with a gotówka.",
+    "backExample": "Zapłaciłem za pomocą gotówka.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Credit card",
+    "back": "karta kredytowa",
+    "phonetic": "",
+    "frontExample": "I paid with a karta kredytowa.",
+    "backExample": "Zapłaciłem za pomocą karta kredytowa.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Debit card",
+    "back": "karta debetowa",
+    "phonetic": "",
+    "frontExample": "I paid with a karta debetowa.",
+    "backExample": "Zapłaciłem za pomocą karta debetowa.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Cheque",
+    "back": "czek",
+    "phonetic": "",
+    "frontExample": "I paid with a czek.",
+    "backExample": "Zapłaciłem za pomocą czek.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Voucher",
+    "back": "kupon, bon",
+    "phonetic": "",
+    "frontExample": "I paid with a kupon, bon.",
+    "backExample": "Zapłaciłem za pomocą kupon, bon.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Online payment",
+    "back": "płatność online",
+    "phonetic": "",
+    "frontExample": "I paid with a płatność online.",
+    "backExample": "Zapłaciłem za pomocą płatność online.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Customer",
+    "back": "klient",
+    "phonetic": "",
+    "frontExample": "I paid with a klient.",
+    "backExample": "Zapłaciłem za pomocą klient.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Cash register",
+    "back": "kasa fiskalna",
+    "phonetic": "",
+    "frontExample": "I paid with a kasa fiskalna.",
+    "backExample": "Zapłaciłem za pomocą kasa fiskalna.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Receipt",
+    "back": "paragon",
+    "phonetic": "",
+    "frontExample": "I paid with a paragon.",
+    "backExample": "Zapłaciłem za pomocą paragon.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Shopping cart",
+    "back": "wózek sklepowy",
+    "phonetic": "",
+    "frontExample": "I paid with a wózek sklepowy.",
+    "backExample": "Zapłaciłem za pomocą wózek sklepowy.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Sale person",
+    "back": "sprzedawca",
+    "phonetic": "",
+    "frontExample": "I paid with a sprzedawca.",
+    "backExample": "Zapłaciłem za pomocą sprzedawca.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Refund",
+    "back": "zwrot pieniędzy",
+    "phonetic": "",
+    "frontExample": "I paid with a zwrot pieniędzy.",
+    "backExample": "Zapłaciłem za pomocą zwrot pieniędzy.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Exchange",
+    "back": "wymiana",
+    "phonetic": "",
+    "frontExample": "I paid with a wymiana.",
+    "backExample": "Zapłaciłem za pomocą wymiana.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Shopping list",
+    "back": "lista zakupów",
+    "phonetic": "",
+    "frontExample": "I paid with a lista zakupów.",
+    "backExample": "Zapłaciłem za pomocą lista zakupów.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Return",
+    "back": "zwrot",
+    "phonetic": "",
+    "frontExample": "I paid with a zwrot.",
+    "backExample": "Zapłaciłem za pomocą zwrot.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Delivery",
+    "back": "dostawa",
+    "phonetic": "",
+    "frontExample": "I paid with a dostawa.",
+    "backExample": "Zapłaciłem za pomocą dostawa.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Packaging",
+    "back": "opakowanie",
+    "phonetic": "",
+    "frontExample": "I paid with a opakowanie.",
+    "backExample": "Zapłaciłem za pomocą opakowanie.",
+    "remembered": false
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "front": "Football",
+    "back": "piłka nożna",
+    "phonetic": "",
+    "frontExample": "Football is the most popular sport in the world.",
+    "backExample": "Piłka nożna to najpopularniejszy sport na świecie.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Basketball",
+    "back": "koszykówka",
+    "phonetic": "",
+    "frontExample": "They play basketball every weekend.",
+    "backExample": "Grają w koszykówkę w każdy weekend.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Volleyball",
+    "back": "siatkówka",
+    "phonetic": "",
+    "frontExample": "Volleyball is fun to play on the beach.",
+    "backExample": "Siatkówka jest fajna do gry na plaży.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Tennis",
+    "back": "tenis ziemny",
+    "phonetic": "",
+    "frontExample": "He plays tennis with his coach every Friday.",
+    "backExample": "W każdy piątek gra w tenisa ze swoim trenerem.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Handball",
+    "back": "piłka ręczna",
+    "phonetic": "",
+    "frontExample": "Handball requires fast reflexes.",
+    "backExample": "Piłka ręczna wymaga szybkiego refleksu.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Rugby",
+    "back": "rugby",
+    "phonetic": "",
+    "frontExample": "Rugby is a very physical game.",
+    "backExample": "Rugby to bardzo fizyczna gra.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Athletics",
+    "back": "lekkoatletyka",
+    "phonetic": "",
+    "frontExample": "Athletics includes running, jumping, and throwing.",
+    "backExample": "Lekkoatletyka obejmuje bieganie, skakanie i rzucanie.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Swimming",
+    "back": "pływanie",
+    "phonetic": "",
+    "frontExample": "Swimming is great for your health.",
+    "backExample": "Pływanie jest świetne dla zdrowia.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Cycling",
+    "back": "kolarstwo",
+    "phonetic": "",
+    "frontExample": "She trains for cycling competitions.",
+    "backExample": "Trenuje do zawodów kolarskich.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Boxing",
+    "back": "boks",
+    "phonetic": "",
+    "frontExample": "Boxing matches are intense.",
+    "backExample": "Walki bokserskie są intensywne.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Wrestling",
+    "back": "zapasy",
+    "phonetic": "",
+    "frontExample": "Wrestling is part of the Olympic Games.",
+    "backExample": "Zapasy są częścią igrzysk olimpijskich.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Golf",
+    "back": "golf",
+    "phonetic": "",
+    "frontExample": "They enjoy playing golf together.",
+    "backExample": "Lubią razem grać w golfa.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Skating",
+    "back": "łyżwiarstwo",
+    "phonetic": "",
+    "frontExample": "We went skating on the frozen lake.",
+    "backExample": "Jeździliśmy na łyżwach po zamarzniętym jeziorze.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Ice hockey",
+    "back": "hokej na lodzie",
+    "phonetic": "",
+    "frontExample": "Ice hockey is popular in Canada.",
+    "backExample": "Hokej na lodzie jest popularny w Kanadzie.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Baseball",
+    "back": "baseball",
+    "phonetic": "",
+    "frontExample": "Baseball is very popular in the USA.",
+    "backExample": "Baseball jest bardzo popularny w USA.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Cricket",
+    "back": "krykiet",
+    "phonetic": "",
+    "frontExample": "He has played cricket since childhood.",
+    "backExample": "Gra w krykieta od dzieciństwa.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Skiing",
+    "back": "narciarstwo",
+    "phonetic": "",
+    "frontExample": "Skiing is my favorite winter activity.",
+    "backExample": "Narciarstwo to moja ulubiona zimowa aktywność.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Snowboarding",
+    "back": "jazda na snowboardzie",
+    "phonetic": "",
+    "frontExample": "They went snowboarding in the Alps.",
+    "backExample": "Jeździli na snowboardzie w Alpach.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Gymnastics",
+    "back": "gimnastyka",
+    "phonetic": "",
+    "frontExample": "Gymnastics requires strength and flexibility.",
+    "backExample": "Gimnastyka wymaga siły i elastyczności.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Table tennis",
+    "back": "tenis stołowy, ping-pong",
+    "phonetic": "",
+    "frontExample": "Table tennis is a fast-paced sport.",
+    "backExample": "Tenis stołowy to dynamiczny sport.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Badminton",
+    "back": "badminton",
+    "phonetic": "",
+    "frontExample": "Badminton is easy to learn and fun.",
+    "backExample": "Badminton jest łatwy do nauki i daje frajdę.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Rowing",
+    "back": "wioślarstwo",
+    "phonetic": "",
+    "frontExample": "Rowing builds upper body strength.",
+    "backExample": "Wioślarstwo buduje siłę górnych partii ciała.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Equestrian",
+    "back": "jeździectwo",
+    "phonetic": "",
+    "frontExample": "She trains in equestrian sports.",
+    "backExample": "Trenuje sporty jeździeckie.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Surfing",
+    "back": "surfing, surfowanie",
+    "phonetic": "",
+    "frontExample": "We went surfing in Portugal.",
+    "backExample": "Surfowaliśmy w Portugalii.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Judo",
+    "back": "judo",
+    "phonetic": "",
+    "frontExample": "Judo teaches discipline and self-defense.",
+    "backExample": "Judo uczy dyscypliny i samoobrony.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Karate",
+    "back": "karate",
+    "phonetic": "",
+    "frontExample": "He has a black belt in karate.",
+    "backExample": "Ma czarny pas w karate.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Martial arts",
+    "back": "sztuki walki",
+    "phonetic": "",
+    "frontExample": "Martial arts improve your balance.",
+    "backExample": "Sztuki walki poprawiają równowagę.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Diving",
+    "back": "nurkowanie",
+    "phonetic": "",
+    "frontExample": "Diving requires strong lungs and focus.",
+    "backExample": "Nurkowanie wymaga silnych płuc i skupienia.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Fencing",
+    "back": "szermierka",
+    "phonetic": "",
+    "frontExample": "Fencing is a fast and elegant sport.",
+    "backExample": "Szermierka to szybki i elegancki sport.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Sailing",
+    "back": "żeglarstwo",
+    "phonetic": "",
+    "frontExample": "Sailing needs both skill and wind.",
+    "backExample": "Żeglarstwo wymaga zarówno umiejętności, jak i wiatru.",
+    "remembered": false
+  }
+]

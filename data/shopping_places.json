@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "front": "Shop",
+    "back": "sklep",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklep.",
+    "backExample": "Często robię zakupy w sklep.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Store",
+    "back": "sklep (większy)",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklep (większy).",
+    "backExample": "Często robię zakupy w sklep (większy).",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Supermarket",
+    "back": "supermarket/sklep",
+    "phonetic": "",
+    "frontExample": "I often shop at the supermarket/sklep.",
+    "backExample": "Często robię zakupy w supermarket/sklep.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Mall",
+    "back": "centrum handlowe",
+    "phonetic": "",
+    "frontExample": "I often shop at the centrum handlowe.",
+    "backExample": "Często robię zakupy w centrum handlowe.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Boutique",
+    "back": "butik",
+    "phonetic": "",
+    "frontExample": "I often shop at the butik.",
+    "backExample": "Często robię zakupy w butik.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Convenience store",
+    "back": "sklepik osiedlowy (24h)",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklepik osiedlowy (24h).",
+    "backExample": "Często robię zakupy w sklepik osiedlowy (24h).",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Grocery store",
+    "back": "sklep spożywczy",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklep spożywczy.",
+    "backExample": "Często robię zakupy w sklep spożywczy.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Pharmacy",
+    "back": "apteka",
+    "phonetic": "",
+    "frontExample": "I often shop at the apteka.",
+    "backExample": "Często robię zakupy w apteka.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Bookstore",
+    "back": "księgarnia",
+    "phonetic": "",
+    "frontExample": "I often shop at the księgarnia.",
+    "backExample": "Często robię zakupy w księgarnia.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Clothing store",
+    "back": "sklep odzieżowy",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklep odzieżowy.",
+    "backExample": "Często robię zakupy w sklep odzieżowy.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Electronics store",
+    "back": "​sklep elektroniczny",
+    "phonetic": "",
+    "frontExample": "I often shop at the ​sklep elektroniczny.",
+    "backExample": "Często robię zakupy w ​sklep elektroniczny.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Toy store",
+    "back": "sklep z zabawkami",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklep z zabawkami.",
+    "backExample": "Często robię zakupy w sklep z zabawkami.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Discount store",
+    "back": "dyskont",
+    "phonetic": "",
+    "frontExample": "I often shop at the dyskont.",
+    "backExample": "Często robię zakupy w dyskont.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Second-hand store",
+    "back": "sklep z używaną odzieżową",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklep z używaną odzieżową.",
+    "backExample": "Często robię zakupy w sklep z używaną odzieżową.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Online store",
+    "back": "sklep internetowy",
+    "phonetic": "",
+    "frontExample": "I often shop at the sklep internetowy.",
+    "backExample": "Często robię zakupy w sklep internetowy.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Shopping centre",
+    "back": "centrum handlowe",
+    "phonetic": "",
+    "frontExample": "I often shop at the centrum handlowe.",
+    "backExample": "Często robię zakupy w centrum handlowe.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Market",
+    "back": "rynek",
+    "phonetic": "",
+    "frontExample": "I often shop at the rynek.",
+    "backExample": "Często robię zakupy w rynek.",
+    "remembered": false
+  }
+]

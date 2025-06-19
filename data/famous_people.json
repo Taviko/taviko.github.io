@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "front": "Famous person",
+    "back": "sławna osoba",
+    "phonetic": "",
+    "frontExample": "A famous person attended the ceremony.",
+    "backExample": "Na ceremonii była obecna sławna osoba.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Writer",
+    "back": "pisarz",
+    "phonetic": "",
+    "frontExample": "The writer published a new novel.",
+    "backExample": "Pisarz opublikował nową powieść.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Producer",
+    "back": "producent",
+    "phonetic": "",
+    "frontExample": "The producer funded the entire project.",
+    "backExample": "Producent sfinansował cały projekt.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Painter",
+    "back": "malarz",
+    "phonetic": "",
+    "frontExample": "The painter exhibited his work in a gallery.",
+    "backExample": "Malarz wystawił swoje prace w galerii.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Artist",
+    "back": "artysta",
+    "phonetic": "",
+    "frontExample": "The artist created a stunning mural.",
+    "backExample": "Artysta stworzył zachwycający mural.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Photographer",
+    "back": "fotograf",
+    "phonetic": "",
+    "frontExample": "The photographer captured amazing shots.",
+    "backExample": "Fotograf zrobił niesamowite zdjęcia.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Poet",
+    "back": "poeta",
+    "phonetic": "",
+    "frontExample": "The poet recited her newest poem.",
+    "backExample": "Poetka wyrecytowała swój najnowszy wiersz.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Playwright",
+    "back": "dramaturg",
+    "phonetic": "",
+    "frontExample": "The playwright wrote a powerful drama.",
+    "backExample": "Dramaturg napisał poruszający dramat.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Composer",
+    "back": "kompozytor",
+    "phonetic": "",
+    "frontExample": "The composer finished the symphony.",
+    "backExample": "Kompozytor ukończył symfonię.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Sculptor",
+    "back": "rzeźbiarz",
+    "phonetic": "",
+    "frontExample": "The sculptor presented a marble statue.",
+    "backExample": "Rzeźbiarz zaprezentował marmurowy posąg.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Premiere",
+    "back": "premiera",
+    "phonetic": "",
+    "frontExample": "The premiere was held last night.",
+    "backExample": "Premiera odbyła się zeszłej nocy.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Award",
+    "back": "nagroda",
+    "phonetic": "",
+    "frontExample": "She received an award for her role.",
+    "backExample": "Otrzymała nagrodę za swoją rolę.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Nomination",
+    "back": "nominacja",
+    "phonetic": "",
+    "frontExample": "The film got an Oscar nomination.",
+    "backExample": "Film otrzymał nominację do Oscara.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Talent show",
+    "back": "konkurs talentów",
+    "phonetic": "",
+    "frontExample": "He won a talent show last year.",
+    "backExample": "Wygrał konkurs talentów w zeszłym roku.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Cultural event",
+    "back": "wydarzenie kulturalne",
+    "phonetic": "",
+    "frontExample": "It was the biggest cultural event in the city.",
+    "backExample": "To było największe wydarzenie kulturalne w mieście.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Public figure",
+    "back": "osoba publiczna",
+    "phonetic": "",
+    "frontExample": "The public figure gave a speech.",
+    "backExample": "Osoba publiczna wygłosiła przemówienie.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Cultural heritage",
+    "back": "dziedzictwo kulturowe",
+    "phonetic": "",
+    "frontExample": "This monument is part of our cultural heritage.",
+    "backExample": "Ten pomnik jest częścią naszego dziedzictwa kulturowego.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Celebrity",
+    "back": "celebryta",
+    "phonetic": "",
+    "frontExample": "The celebrity was followed by paparazzi.",
+    "backExample": "Celebrytę śledzili paparazzi.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Media coverage",
+    "back": "relacja w mediach",
+    "phonetic": "",
+    "frontExample": "The media coverage was extensive.",
+    "backExample": "Relacja w mediach była obszerna.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Biography",
+    "back": "biografia",
+    "phonetic": "",
+    "frontExample": "Her biography became a bestseller.",
+    "backExample": "Jej biografia stała się bestsellerem.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Legacy",
+    "back": "dziedzictwo",
+    "phonetic": "",
+    "frontExample": "His legacy inspired generations.",
+    "backExample": "Jego dziedzictwo inspirowało pokolenia.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Influence",
+    "back": "wpływ",
+    "phonetic": "",
+    "frontExample": "She had a big influence on art history.",
+    "backExample": "Wywarła duży wpływ na historię sztuki.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "World-famous",
+    "back": "światowej sławy",
+    "phonetic": "",
+    "frontExample": "The world-famous chef opened a new restaurant.",
+    "backExample": "Światowej sławy szef kuchni otworzył nową restaurację.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Icon",
+    "back": "ikona",
+    "phonetic": "",
+    "frontExample": "He became a cultural icon.",
+    "backExample": "Został uznany za ikonę kultury.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Pop culture",
+    "back": "kultura masowa",
+    "phonetic": "",
+    "frontExample": "Pop culture affects fashion trends.",
+    "backExample": "Kultura masowa wpływa na trendy w modzie.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Inspiration",
+    "back": "inspiracja",
+    "phonetic": "",
+    "frontExample": "The movie was a source of inspiration.",
+    "backExample": "Film był źródłem inspiracji.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Achievement",
+    "back": "osiągnięcie",
+    "phonetic": "",
+    "frontExample": "This is his greatest achievement.",
+    "backExample": "To jego największe osiągnięcie.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Award-winning",
+    "back": "nagradzany",
+    "phonetic": "",
+    "frontExample": "She is an award-winning director.",
+    "backExample": "Jest reżyserką nagradzaną wieloma nagrodami.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Cultural icon",
+    "back": "ikona kultury",
+    "phonetic": "",
+    "frontExample": "He is considered a cultural icon.",
+    "backExample": "Uważany jest za ikonę kultury.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Historical event",
+    "back": "wydarzenie historyczne",
+    "phonetic": "",
+    "frontExample": "That was a major historical event.",
+    "backExample": "To było ważne wydarzenie historyczne.",
+    "remembered": false
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "front": "Airport",
+    "back": "lotnisko",
+    "phonetic": "",
+    "frontExample": "The airport was very crowded.",
+    "backExample": "Lotnisko było bardzo zatłoczone.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Terminal",
+    "back": "terminal lotniczy",
+    "phonetic": "",
+    "frontExample": "Our terminal is number 3.",
+    "backExample": "Nasz terminal to numer 3.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Check-in desk",
+    "back": "stanowisko odprawy",
+    "phonetic": "",
+    "frontExample": "I went to the check-in desk first.",
+    "backExample": "Najpierw poszedłem do stanowiska odprawy.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Check-in counter",
+    "back": "punkt odprawy",
+    "phonetic": "",
+    "frontExample": "There was a long line at the check-in counter.",
+    "backExample": "Była długa kolejka przy punkcie odprawy.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Boarding gate",
+    "back": "bramka przed wejściem na pokład samolotu",
+    "phonetic": "",
+    "frontExample": "They waited near the boarding gate.",
+    "backExample": "Czekali przy bramce wejściowej.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Security check",
+    "back": "kontrola bezpieczeństwa",
+    "phonetic": "",
+    "frontExample": "We passed through the security check.",
+    "backExample": "Przeszliśmy przez kontrolę bezpieczeństwa.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Baggage claim",
+    "back": "odbiór bagażu",
+    "phonetic": "",
+    "frontExample": "I collected my bag at the baggage claim.",
+    "backExample": "Odebrałem torbę z odbioru bagażu.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Carry-on baggage/Hand luggage",
+    "back": "bagaż podręczny",
+    "phonetic": "",
+    "frontExample": "My carry-on baggage is quite heavy.",
+    "backExample": "Mój bagaż podręczny jest dość ciężki.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Checked luggage",
+    "back": "bagaż rejestrowany",
+    "phonetic": "",
+    "frontExample": "They lost my checked luggage.",
+    "backExample": "Zgubili mój bagaż rejestrowany.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Luggage",
+    "back": "bagaż",
+    "phonetic": "",
+    "frontExample": "She packed her luggage last night.",
+    "backExample": "Spakowała bagaż wczoraj wieczorem.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Flight",
+    "back": "lot, przelot",
+    "phonetic": "",
+    "frontExample": "Our flight leaves at 6 PM.",
+    "backExample": "Nasz lot odlatuje o 18:00.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Departure",
+    "back": "odlot",
+    "phonetic": "",
+    "frontExample": "The departure was delayed.",
+    "backExample": "Odlot był opóźniony.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Arrival",
+    "back": "przylot",
+    "phonetic": "",
+    "frontExample": "We were waiting for the arrival.",
+    "backExample": "Czekaliśmy na przylot.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Flight attendant",
+    "back": "steward/stewardesa",
+    "phonetic": "",
+    "frontExample": "The flight attendant was polite.",
+    "backExample": "Stewardesa była uprzejma.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Pilot",
+    "back": "pilot samolotu",
+    "phonetic": "",
+    "frontExample": "The pilot made an announcement.",
+    "backExample": "Pilot wygłosił ogłoszenie.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Boarding pass",
+    "back": "karta pokładowa",
+    "phonetic": "",
+    "frontExample": "I showed my boarding pass at the gate.",
+    "backExample": "Pokazałem kartę pokładową przy bramce.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Window seat",
+    "back": "miejsce przy oknie",
+    "phonetic": "",
+    "frontExample": "I got a window seat on the plane.",
+    "backExample": "Dostałem miejsce przy oknie.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Aisle seat",
+    "back": "miejsce przy przejściu",
+    "phonetic": "",
+    "frontExample": "He prefers an aisle seat.",
+    "backExample": "On woli miejsce przy przejściu.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Flight delay",
+    "back": "opóźnienie lotu",
+    "phonetic": "",
+    "frontExample": "There was a long flight delay.",
+    "backExample": "Było duże opóźnienie lotu.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Flight cancellation",
+    "back": "odwołanie (lotu)",
+    "phonetic": "",
+    "frontExample": "The flight cancellation was unexpected.",
+    "backExample": "Odwołanie lotu było niespodziewane.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Gate",
+    "back": "bramka na lotnisku",
+    "phonetic": "",
+    "frontExample": "The gate changed at the last minute.",
+    "backExample": "Bramka zmieniła się w ostatniej chwili.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Customs",
+    "back": "odprawa celna",
+    "phonetic": "",
+    "frontExample": "We had to go through customs.",
+    "backExample": "Musieliśmy przejść przez odprawę celną.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Passport control",
+    "back": "kontrola paszportowa",
+    "phonetic": "",
+    "frontExample": "Passport control was quick.",
+    "backExample": "Kontrola paszportowa była szybka.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Immigration",
+    "back": "imigracja",
+    "phonetic": "",
+    "frontExample": "He works in immigration services.",
+    "backExample": "Pracuje w służbie imigracyjnej.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Visa",
+    "back": "wiza",
+    "phonetic": "",
+    "frontExample": "I applied for a visa last month.",
+    "backExample": "Złożyłem wniosek o wizę w zeszłym miesiącu.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Take off",
+    "back": "startować",
+    "phonetic": "",
+    "frontExample": "The plane will take off in 10 minutes.",
+    "backExample": "Samolot wystartuje za 10 minut.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Landing",
+    "back": "lądowanie",
+    "phonetic": "",
+    "frontExample": "We had a smooth landing.",
+    "backExample": "Lądowanie było płynne.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Runway",
+    "back": "pas startowy",
+    "phonetic": "",
+    "frontExample": "The runway was wet from rain.",
+    "backExample": "Pas startowy był mokry od deszczu.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Take-off time",
+    "back": "czas odlotu",
+    "phonetic": "",
+    "frontExample": "Our take-off time is 7:45.",
+    "backExample": "Czas odlotu to 7:45.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Landing time",
+    "back": "czas lądowania",
+    "phonetic": "",
+    "frontExample": "The landing time was 9:00.",
+    "backExample": "Czas lądowania to 9:00.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Departure board",
+    "back": "tablica odlotów",
+    "phonetic": "",
+    "frontExample": "The departure board was updated.",
+    "backExample": "Tablica odlotów została zaktualizowana.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Arrival board",
+    "back": "tablica przylotów",
+    "phonetic": "",
+    "frontExample": "I checked the arrival board for my flight.",
+    "backExample": "Sprawdziłem tablicę przylotów dla mojego lotu.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Reception",
+    "back": "recepcja",
+    "phonetic": "",
+    "frontExample": "We went straight to the reception.",
+    "backExample": "Poszliśmy prosto do recepcji.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Check-in",
+    "back": "zameldować się",
+    "phonetic": "",
+    "frontExample": "We need to check in before 3 PM.",
+    "backExample": "Musimy się zameldować przed 15:00.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Check-out",
+    "back": "wymeldować się",
+    "phonetic": "",
+    "frontExample": "Check-out is at 11 AM.",
+    "backExample": "Wymeldowanie jest o 11:00.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Reservation",
+    "back": "rezerwacja",
+    "phonetic": "",
+    "frontExample": "I confirmed my reservation yesterday.",
+    "backExample": "Wczoraj potwierdziłem rezerwację.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Suite",
+    "back": "apartament",
+    "phonetic": "",
+    "frontExample": "We stayed in a suite on the top floor.",
+    "backExample": "Zamieszkaliśmy w apartamencie na ostatnim piętrze.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Lobby",
+    "back": "hol w hotelu",
+    "phonetic": "",
+    "frontExample": "The lobby was beautifully decorated.",
+    "backExample": "Hol był pięknie udekorowany.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Elevator",
+    "back": "winda",
+    "phonetic": "",
+    "frontExample": "We took the elevator to our room.",
+    "backExample": "Pojechaliśmy windą do naszego pokoju.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Floor",
+    "back": "piętro",
+    "phonetic": "",
+    "frontExample": "Our floor was quiet and clean.",
+    "backExample": "Nasze piętro było ciche i czyste.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Key card",
+    "back": "karta klucz (w hotelu)",
+    "phonetic": "",
+    "frontExample": "They gave us a key card at reception.",
+    "backExample": "Dali nam kartę-klucz w recepcji.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Towels",
+    "back": "ręczniki",
+    "phonetic": "",
+    "frontExample": "Fresh towels were delivered daily.",
+    "backExample": "Codziennie dostarczano świeże ręczniki.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Housekeeping",
+    "back": "obsługa pokojowa",
+    "phonetic": "",
+    "frontExample": "Housekeeping came every morning.",
+    "backExample": "Obsługa pokojowa przychodziła co rano.",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Room service",
+    "back": "obsługa pokojowa",
+    "phonetic": "",
+    "frontExample": "We ordered food via room service.",
+    "backExample": "Zamówiliśmy jedzenie przez room service.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Wake-up call",
+    "back": "budzenie telefoniczne",
+    "phonetic": "",
+    "frontExample": "I requested a wake-up call at 6 AM.",
+    "backExample": "Poprosiłem o pobudkę na 6 rano.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Breakfast",
+    "back": "śniadanie",
+    "phonetic": "",
+    "frontExample": "Breakfast is served until 10 AM.",
+    "backExample": "Śniadanie jest podawane do 10:00.",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Buffet",
+    "back": "bufet",
+    "phonetic": "",
+    "frontExample": "We had dinner at the buffet.",
+    "backExample": "Zjedliśmy kolację przy bufecie.",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Restaurant",
+    "back": "restauracja",
+    "phonetic": "",
+    "frontExample": "The restaurant served Italian food.",
+    "backExample": "Restauracja serwowała dania włoskie.",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Bar",
+    "back": "bar",
+    "phonetic": "",
+    "frontExample": "We had a drink at the bar.",
+    "backExample": "Wypiliśmy drinka w barze.",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "Parking",
+    "back": "parkowanie, parking",
+    "phonetic": "",
+    "frontExample": "Parking is available near the hotel.",
+    "backExample": "Parking jest dostępny przy hotelu.",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Air conditioning",
+    "back": "klimatyzacja",
+    "phonetic": "",
+    "frontExample": "The air conditioning was not working.",
+    "backExample": "Klimatyzacja nie działała.",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "Heating",
+    "back": "ogrzewanie",
+    "phonetic": "",
+    "frontExample": "We turned up the heating.",
+    "backExample": "Podkręciliśmy ogrzewanie.",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "Toiletries",
+    "back": "przybory toaletowe",
+    "phonetic": "",
+    "frontExample": "The hotel provides basic toiletries.",
+    "backExample": "Hotel zapewnia podstawowe przybory toaletowe.",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "Shower",
+    "back": "prysznic",
+    "phonetic": "",
+    "frontExample": "I took a long shower.",
+    "backExample": "Wziąłem długi prysznic.",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Bathhub",
+    "back": "wanna",
+    "phonetic": "",
+    "frontExample": "The bathtub was clean.",
+    "backExample": "Wanna była czysta.",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "Room key",
+    "back": "klucz do pokoju",
+    "phonetic": "",
+    "frontExample": "I forgot the room key in the room.",
+    "backExample": "Zostawiłem klucz do pokoju w środku.",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "Hotel amenities",
+    "back": "udogodnienia hotelowe",
+    "phonetic": "",
+    "frontExample": "The hotel amenities were great.",
+    "backExample": "Udogodnienia hotelowe były świetne.",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "Complaint",
+    "back": "skarga",
+    "phonetic": "",
+    "frontExample": "I made a complaint at the front desk.",
+    "backExample": "Złożyłem skargę przy recepcji.",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "Lost and found",
+    "back": "Zgubiono / Znaleziono",
+    "phonetic": "",
+    "frontExample": "I asked for lost and found.",
+    "backExample": "Zapytałem o zgubione rzeczy.",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "Concierge",
+    "back": "konsjerż",
+    "phonetic": "",
+    "frontExample": "The concierge helped us book a taxi.",
+    "backExample": "Konsjerż pomógł nam zamówić taksówkę.",
+    "remembered": false
+  },
+  {
+    "id": 61,
+    "front": "Reservation number",
+    "back": "numer rezerwacji",
+    "phonetic": "",
+    "frontExample": "They asked for the reservation number.",
+    "backExample": "Poprosili o numer rezerwacji.",
+    "remembered": false
+  }
+]

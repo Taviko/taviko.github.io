@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "front": "Book",
+    "back": "książka",
+    "phonetic": "",
+    "frontExample": "I’m reading a very interesting book.",
+    "backExample": "Czytam bardzo interesującą książkę.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Author",
+    "back": "autor",
+    "phonetic": "",
+    "frontExample": "The author signed my copy of the novel.",
+    "backExample": "Autor podpisał moją kopię powieści.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Writer",
+    "back": "pisarz",
+    "phonetic": "",
+    "frontExample": "This writer is famous for thrillers.",
+    "backExample": "Ten pisarz słynie z thrillerów.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Story",
+    "back": "opowiadanie, historia",
+    "phonetic": "",
+    "frontExample": "The story takes place in London.",
+    "backExample": "Opowiadanie dzieje się w Londynie.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Character",
+    "back": "postać",
+    "phonetic": "",
+    "frontExample": "That character appears in every chapter.",
+    "backExample": "Ta postać pojawia się w każdym rozdziale.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Novel",
+    "back": "powieść",
+    "phonetic": "",
+    "frontExample": "I’ve just finished an exciting novel.",
+    "backExample": "Właśnie skończyłem ekscytującą powieść.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Poem",
+    "back": "wiersz",
+    "phonetic": "",
+    "frontExample": "She wrote a poem about the sea.",
+    "backExample": "Napisała wiersz o morzu.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Poet",
+    "back": "poeta",
+    "phonetic": "",
+    "frontExample": "The poet received a national award.",
+    "backExample": "Poeta otrzymał nagrodę krajową.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Page",
+    "back": "strona",
+    "phonetic": "",
+    "frontExample": "I’m on page thirty-five.",
+    "backExample": "Jestem na stronie trzydziestej piątej.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Plot",
+    "back": "fabuła",
+    "phonetic": "",
+    "frontExample": "The plot was full of twists.",
+    "backExample": "Fabuła była pełna zwrotów akcji.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Theme",
+    "back": "temat, motyw",
+    "phonetic": "",
+    "frontExample": "Love is the main theme of the book.",
+    "backExample": "Miłość to główny motyw książki.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Art",
+    "back": "sztuka",
+    "phonetic": "",
+    "frontExample": "Art is important in every culture.",
+    "backExample": "Sztuka jest ważna w każdej kulturze.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Artist",
+    "back": "artysta",
+    "phonetic": "",
+    "frontExample": "The artist painted a beautiful sunset.",
+    "backExample": "Artysta namalował piękny zachód słońca.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Painting",
+    "back": "obraz",
+    "phonetic": "",
+    "frontExample": "This painting is from the 18th century.",
+    "backExample": "Ten obraz pochodzi z XVIII wieku.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Picture",
+    "back": "obrazek",
+    "phonetic": "",
+    "frontExample": "He drew a picture of his dog.",
+    "backExample": "Narysował obrazek swojego psa.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Gallery",
+    "back": "galeria",
+    "phonetic": "",
+    "frontExample": "We visited a modern art gallery.",
+    "backExample": "Odwiedziliśmy galerię sztuki współczesnej.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Museum",
+    "back": "muzeum",
+    "phonetic": "",
+    "frontExample": "The museum has an Egyptian section.",
+    "backExample": "Muzeum ma dział egipski.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Sculpture",
+    "back": "rzeźba",
+    "phonetic": "",
+    "frontExample": "The sculpture is made of bronze.",
+    "backExample": "Rzeźba jest wykonana z brązu.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Draw",
+    "back": "rysować",
+    "phonetic": "",
+    "frontExample": "Children love to draw with crayons.",
+    "backExample": "Dzieci uwielbiają rysować kredkami.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Paint",
+    "back": "malować",
+    "phonetic": "",
+    "frontExample": "She likes to paint landscapes.",
+    "backExample": "Lubi malować krajobrazy.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Exhibition",
+    "back": "wystawa",
+    "phonetic": "",
+    "frontExample": "The exhibition opens next week.",
+    "backExample": "Wystawa otwiera się w przyszłym tygodniu.",
+    "remembered": false
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "front": "Cinema",
+    "back": "kino",
+    "phonetic": "",
+    "frontExample": "We went to the cinema last night.",
+    "backExample": "Wczoraj wieczorem poszliśmy do kina.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Movie",
+    "back": "ﬁlm",
+    "phonetic": "",
+    "frontExample": "That movie won several awards.",
+    "backExample": "Ten film zdobył kilka nagród.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Film director",
+    "back": "reżyser filmowy",
+    "phonetic": "",
+    "frontExample": "The film director is well-known in Hollywood.",
+    "backExample": "Reżyser filmowy jest znany w Hollywood.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Actor/Actress",
+    "back": "aktor/aktorka",
+    "phonetic": "",
+    "frontExample": "The actor gave an amazing performance.",
+    "backExample": "Aktor zagrał niesamowicie.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Cast",
+    "back": "obsada",
+    "phonetic": "",
+    "frontExample": "The cast includes some famous names.",
+    "backExample": "Obsada zawiera znane nazwiska.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Screenplay",
+    "back": "scenariusz",
+    "phonetic": "",
+    "frontExample": "He wrote the screenplay in three weeks.",
+    "backExample": "Napisał scenariusz w trzy tygodnie.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Genre",
+    "back": "gatunek (np. komedia, dramat)",
+    "phonetic": "",
+    "frontExample": "Comedy is my favorite genre.",
+    "backExample": "Komedia to mój ulubiony gatunek.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Action movie",
+    "back": "film akcji",
+    "phonetic": "",
+    "frontExample": "We watched an action movie yesterday.",
+    "backExample": "Wczoraj oglądaliśmy film akcji.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Comedy",
+    "back": "komedia",
+    "phonetic": "",
+    "frontExample": "This comedy made everyone laugh.",
+    "backExample": "Ta komedia rozbawiła wszystkich.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Drama",
+    "back": "dramat",
+    "phonetic": "",
+    "frontExample": "It’s a drama based on true events.",
+    "backExample": "To dramat oparty na prawdziwych wydarzeniach.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Horror",
+    "back": "horror",
+    "phonetic": "",
+    "frontExample": "I don’t like horror films.",
+    "backExample": "Nie lubię horrorów.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Romance",
+    "back": "film o miłości, romans",
+    "phonetic": "",
+    "frontExample": "They watched a romance together.",
+    "backExample": "Oglądali razem romans.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Documentary",
+    "back": "film dokumentalny",
+    "phonetic": "",
+    "frontExample": "The documentary was about wildlife.",
+    "backExample": "Film dokumentalny był o dzikiej przyrodzie.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Animated film",
+    "back": "film animowany",
+    "phonetic": "",
+    "frontExample": "The animated film was beautifully made.",
+    "backExample": "Film animowany był pięknie zrobiony.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Special effects",
+    "back": "efekty specjalne",
+    "phonetic": "",
+    "frontExample": "The special effects were stunning.",
+    "backExample": "Efekty specjalne były oszałamiające.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Premiere",
+    "back": "premiera",
+    "phonetic": "",
+    "frontExample": "The premiere was a huge success.",
+    "backExample": "Premiera odniosła ogromny sukces.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Cinematography",
+    "back": "kinematografia",
+    "phonetic": "",
+    "frontExample": "Cinematography in this film is outstanding.",
+    "backExample": "Kinematografia w tym filmie jest znakomita.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Scene",
+    "back": "scena",
+    "phonetic": "",
+    "frontExample": "This scene was very emotional.",
+    "backExample": "Ta scena była bardzo emocjonalna.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Dialogue",
+    "back": "dialog",
+    "phonetic": "",
+    "frontExample": "The dialogue felt very natural.",
+    "backExample": "Dialogi brzmiały bardzo naturalnie.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Plot",
+    "back": "fabuła",
+    "phonetic": "",
+    "frontExample": "The plot was a bit confusing.",
+    "backExample": "Fabuła była trochę zagmatwana.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Soundtrack",
+    "back": "ścieżka dźwiękowa",
+    "phonetic": "",
+    "frontExample": "The soundtrack gave me chills.",
+    "backExample": "Ścieżka dźwiękowa przyprawiała o dreszcze.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Ticket",
+    "back": "bilet",
+    "phonetic": "",
+    "frontExample": "I bought a ticket for the evening show.",
+    "backExample": "Kupiłem bilet na wieczorny seans.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Popcorn",
+    "back": "popcorn",
+    "phonetic": "",
+    "frontExample": "We ate popcorn during the film.",
+    "backExample": "Jedliśmy popcorn podczas filmu.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Audience",
+    "back": "publiczność",
+    "phonetic": "",
+    "frontExample": "The audience gave a big round of applause.",
+    "backExample": "Publiczność nagrodziła brawami.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Cinema hall",
+    "back": "sala kinowa",
+    "phonetic": "",
+    "frontExample": "The cinema hall was full.",
+    "backExample": "Sala kinowa była pełna.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Theater",
+    "back": "teatr",
+    "phonetic": "",
+    "frontExample": "We’re going to the theater this weekend.",
+    "backExample": "W weekend idziemy do teatru.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Play",
+    "back": "spektakl, sztuka",
+    "phonetic": "",
+    "frontExample": "The play lasted two hours.",
+    "backExample": "Spektakl trwał dwie godziny.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Stage",
+    "back": "scena",
+    "phonetic": "",
+    "frontExample": "She walked onto the stage confidently.",
+    "backExample": "Pewnie weszła na scenę.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Perfomance",
+    "back": "przedstawienie",
+    "phonetic": "",
+    "frontExample": "It was a powerful performance.",
+    "backExample": "To było mocne przedstawienie.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Show",
+    "back": "występ",
+    "phonetic": "",
+    "frontExample": "The show starts at 7 p.m.",
+    "backExample": "Występ zaczyna się o 19:00.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Rehearsal",
+    "back": "próba",
+    "phonetic": "",
+    "frontExample": "The rehearsal took all afternoon.",
+    "backExample": "Próba trwała całe popołudnie.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Drama",
+    "back": "dramat",
+    "phonetic": "",
+    "frontExample": "He loves writing drama.",
+    "backExample": "Uwielbia pisać dramaty.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Monologue",
+    "back": "monolog",
+    "phonetic": "",
+    "frontExample": "Her monologue moved the audience.",
+    "backExample": "Jej monolog poruszył publiczność.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Musical",
+    "back": "musical, film muzyczny",
+    "phonetic": "",
+    "frontExample": "The musical was fun and colorful.",
+    "backExample": "Musical był zabawny i kolorowy.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Concert",
+    "back": "koncert",
+    "phonetic": "",
+    "frontExample": "The concert was sold out.",
+    "backExample": "Koncert był wyprzedany.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Musican",
+    "back": "muzyk",
+    "phonetic": "",
+    "frontExample": "The musician played the violin beautifully.",
+    "backExample": "Muzyk pięknie zagrał na skrzypcach.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Band",
+    "back": "zespół muzyczny",
+    "phonetic": "",
+    "frontExample": "The band performed five songs.",
+    "backExample": "Zespół zagrał pięć piosenek.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Singer",
+    "back": "piosenkarz",
+    "phonetic": "",
+    "frontExample": "She’s my favorite singer.",
+    "backExample": "To moja ulubiona piosenkarka.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Guitarist",
+    "back": "gitarzysta",
+    "phonetic": "",
+    "frontExample": "The guitarist played an amazing solo.",
+    "backExample": "Gitarzysta zagrał niesamowite solo.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Drummer",
+    "back": "perkusista",
+    "phonetic": "",
+    "frontExample": "The drummer kept a steady rhythm.",
+    "backExample": "Perkusista utrzymywał równe tempo.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Concert hall",
+    "back": "sala koncertowa",
+    "phonetic": "",
+    "frontExample": "The concert hall was packed.",
+    "backExample": "Sala koncertowa była pełna.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Live perfomance",
+    "back": "występ na żywo",
+    "phonetic": "",
+    "frontExample": "It was a great live performance.",
+    "backExample": "To był świetny występ na żywo.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Encore",
+    "back": "bis (na koncercie)",
+    "phonetic": "",
+    "frontExample": "The fans shouted for an encore.",
+    "backExample": "Fani wołali o bis.",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Repertoire",
+    "back": "repertuar",
+    "phonetic": "",
+    "frontExample": "Check the repertoire for this month.",
+    "backExample": "Sprawdź repertuar na ten miesiąc.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Sound system",
+    "back": "system dźwiękowy",
+    "phonetic": "",
+    "frontExample": "The sound system was loud and clear.",
+    "backExample": "System dźwiękowy był głośny i wyraźny.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Festival",
+    "back": "festiwal",
+    "phonetic": "",
+    "frontExample": "They attended a music festival.",
+    "backExample": "Uczestniczyli w festiwalu muzycznym.",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Ticket price",
+    "back": "cena biletu",
+    "phonetic": "",
+    "frontExample": "The ticket price was affordable.",
+    "backExample": "Cena biletu była przystępna.",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Box office",
+    "back": "kasa biletowa",
+    "phonetic": "",
+    "frontExample": "The box office opens at noon.",
+    "backExample": "Kasa biletowa otwiera się w południe.",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Standing ovation",
+    "back": "owacje na stojąco",
+    "phonetic": "",
+    "frontExample": "They got a standing ovation.",
+    "backExample": "Dostali owacje na stojąco.",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "Intermission",
+    "back": "przerwa (w teatrze)",
+    "phonetic": "",
+    "frontExample": "There was a short intermission.",
+    "backExample": "Była krótka przerwa.",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Seats",
+    "back": "miejsca (w kinie, teatrze)",
+    "phonetic": "",
+    "frontExample": "Our seats were in the front row.",
+    "backExample": "Nasze miejsca były w pierwszym rzędzie.",
+    "remembered": false
+  }
+]

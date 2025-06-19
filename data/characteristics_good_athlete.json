@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "front": "Ambitious",
+    "back": "ambitny",
+    "phonetic": "",
+    "frontExample": "She is an ambitious young athlete.",
+    "backExample": "Ona jest ambitną młodą sportsmenką.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Focused",
+    "back": "skupiony, skoncentrowany",
+    "phonetic": "",
+    "frontExample": "He stayed focused throughout the competition.",
+    "backExample": "Pozostał skupiony przez całe zawody.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Motivated",
+    "back": "zmotywowany, zdeterminowany",
+    "phonetic": "",
+    "frontExample": "The team remained motivated despite the loss.",
+    "backExample": "Zespół pozostał zmotywowany mimo porażki.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Disciplined",
+    "back": "zdyscyplinowany",
+    "phonetic": "",
+    "frontExample": "You need to be disciplined to succeed.",
+    "backExample": "Musisz być zdyscyplinowany, żeby odnieść sukces.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Determined",
+    "back": "zdeterminowany",
+    "phonetic": "",
+    "frontExample": "She was determined to win.",
+    "backExample": "Była zdeterminowana, by wygrać.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Strong",
+    "back": "silny",
+    "phonetic": "",
+    "frontExample": "He is a strong swimmer.",
+    "backExample": "On jest silnym pływakiem.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Agile",
+    "back": "zwinny",
+    "phonetic": "",
+    "frontExample": "Gymnasts must be very agile.",
+    "backExample": "Gimnastycy muszą być bardzo zwinni.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Fast",
+    "back": "szybki",
+    "phonetic": "",
+    "frontExample": "The player is fast and responsive.",
+    "backExample": "Zawodnik jest szybki i reaguje błyskawicznie.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Endurance",
+    "back": "wytrzymałość",
+    "phonetic": "",
+    "frontExample": "Marathon runners need great endurance.",
+    "backExample": "Maratończycy potrzebują ogromnej wytrzymałości.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Skilled",
+    "back": "wykwalifikowany, zręczny",
+    "phonetic": "",
+    "frontExample": "She is skilled at handling the ball.",
+    "backExample": "Ona jest zręczna w posługiwaniu się piłką.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Cooperative",
+    "back": "chętny do współpracy",
+    "phonetic": "",
+    "frontExample": "He’s cooperative and always helps his teammates.",
+    "backExample": "On chętnie współpracuje i zawsze pomaga kolegom.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Resilient",
+    "back": "odporny",
+    "phonetic": "",
+    "frontExample": "Athletes must be resilient under pressure.",
+    "backExample": "Sportowcy muszą być odporni na presję.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Confident",
+    "back": "pewny siebie",
+    "phonetic": "",
+    "frontExample": "She feels confident before the match.",
+    "backExample": "Czuje się pewna siebie przed meczem.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Hardworking",
+    "back": "pracowity",
+    "phonetic": "",
+    "frontExample": "He is hardworking and never gives up.",
+    "backExample": "On jest pracowity i nigdy się nie poddaje.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Fair",
+    "back": "sprawiedliwy",
+    "phonetic": "",
+    "frontExample": "The coach is always fair to everyone.",
+    "backExample": "Trener jest zawsze sprawiedliwy wobec wszystkich.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Patient",
+    "back": "cierpliwy",
+    "phonetic": "",
+    "frontExample": "You have to be patient during recovery.",
+    "backExample": "Musisz być cierpliwy w trakcie rehabilitacji.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Courageous",
+    "back": "odważny",
+    "phonetic": "",
+    "frontExample": "Firefighters are courageous people.",
+    "backExample": "Strażacy to odważni ludzie.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Self-disciplined",
+    "back": "charakteryzujący się samodyscypliną",
+    "phonetic": "",
+    "frontExample": "He is self-disciplined in his daily routine.",
+    "backExample": "On jest zdyscyplinowany w codziennej rutynie.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Team player",
+    "back": "osoba umiejąca pracować w zespole",
+    "phonetic": "",
+    "frontExample": "She is a great team player.",
+    "backExample": "Ona świetnie pracuje w zespole.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Competitive",
+    "back": "konkurencyjny",
+    "phonetic": "",
+    "frontExample": "He is very competitive in every match.",
+    "backExample": "Jest bardzo konkurencyjny w każdym meczu.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Healthy",
+    "back": "zdrowy",
+    "phonetic": "",
+    "frontExample": "They lead a healthy lifestyle.",
+    "backExample": "Prowadzą zdrowy styl życia.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Focused on improvement",
+    "back": "nastawiony na poprawę",
+    "phonetic": "",
+    "frontExample": "She is focused on constant improvement.",
+    "backExample": "Jest nastawiona na ciągłą poprawę.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Perseverant",
+    "back": "wytrwały",
+    "phonetic": "",
+    "frontExample": "He is perseverant even when it’s tough.",
+    "backExample": "Jest wytrwały nawet w trudnych chwilach.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Respectful",
+    "back": "pełen szacunku",
+    "phonetic": "",
+    "frontExample": "He is always respectful to others.",
+    "backExample": "Zawsze okazuje szacunek innym.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Tactical",
+    "back": "taktyczny",
+    "phonetic": "",
+    "frontExample": "She made a tactical move in the final game.",
+    "backExample": "Wykonała taktyczny ruch w finałowej grze.",
+    "remembered": false
+  }
+]

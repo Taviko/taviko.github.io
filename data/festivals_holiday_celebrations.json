@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "front": "Festival",
+    "back": "festiwal",
+    "phonetic": "",
+    "frontExample": "The city organizes a big festival every summer.",
+    "backExample": "Miasto organizuje wielki festiwal każdego lata.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Holiday",
+    "back": "święto; wakacje",
+    "phonetic": "",
+    "frontExample": "We always travel during the holiday season.",
+    "backExample": "Zawsze podróżujemy podczas sezonu świątecznego.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Celebration",
+    "back": "uroczystość, świętowanie, obchody",
+    "phonetic": "",
+    "frontExample": "The celebration lasted all night.",
+    "backExample": "Uroczystość trwała całą noc.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Tradition",
+    "back": "tradycja",
+    "phonetic": "",
+    "frontExample": "It's a family tradition to bake cookies together.",
+    "backExample": "To rodzinna tradycja piec ciasteczka razem.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Ceremony",
+    "back": "ceremonia",
+    "phonetic": "",
+    "frontExample": "The wedding ceremony was beautiful.",
+    "backExample": "Ceremonia ślubna była piękna.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Parade",
+    "back": "parady",
+    "phonetic": "",
+    "frontExample": "There was a colorful parade downtown.",
+    "backExample": "W centrum była kolorowa parada.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Event",
+    "back": "wydarzenie",
+    "phonetic": "",
+    "frontExample": "The event attracted thousands of visitors.",
+    "backExample": "Wydarzenie przyciągnęło tysiące odwiedzających.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Public holiday",
+    "back": "święto państwowe",
+    "phonetic": "",
+    "frontExample": "Independence Day is a public holiday.",
+    "backExample": "Dzień Niepodległości to święto państwowe.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Religious holiday",
+    "back": "święto religijne",
+    "phonetic": "",
+    "frontExample": "Christmas is an important religious holiday.",
+    "backExample": "Boże Narodzenie to ważne święto religijne.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "New Year's Eve",
+    "back": "Sylwester",
+    "phonetic": "",
+    "frontExample": "We partied on New Year's Eve.",
+    "backExample": "Imprezowaliśmy w Sylwestra.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Christmas Eve",
+    "back": "Wigilia",
+    "phonetic": "",
+    "frontExample": "We gather for dinner on Christmas Eve.",
+    "backExample": "Spotykamy się na kolacji w Wigilię.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Easter",
+    "back": "Wielkanoc",
+    "phonetic": "",
+    "frontExample": "Children love the Easter egg hunt.",
+    "backExample": "Dzieci uwielbiają szukanie jajek wielkanocnych.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Carnival",
+    "back": "karnawał",
+    "phonetic": "",
+    "frontExample": "Carnival is celebrated with costumes and dancing.",
+    "backExample": "Karnawał świętuje się kostiumami i tańcami.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Saint's day",
+    "back": "dzień świętego patrona",
+    "phonetic": "",
+    "frontExample": "St. Patrick's Day is a popular saint's day.",
+    "backExample": "Dzień św. Patryka to popularny dzień świętego.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Anniversary",
+    "back": "rocznica",
+    "phonetic": "",
+    "frontExample": "They celebrated their 10th anniversary.",
+    "backExample": "Świętowali swoją 10. rocznicę.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "National day",
+    "back": "święto narodowe",
+    "phonetic": "",
+    "frontExample": "The national day was marked with fireworks.",
+    "backExample": "Święto narodowe zakończyło się fajerwerkami.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Fireworks",
+    "back": "fajerwerki",
+    "phonetic": "",
+    "frontExample": "The fireworks lit up the sky.",
+    "backExample": "Fajerwerki rozświetliły niebo.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Costume",
+    "back": "kostium",
+    "phonetic": "",
+    "frontExample": "He wore a scary costume for Halloween.",
+    "backExample": "Na Halloween miał straszny kostium.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Feast",
+    "back": "uczta",
+    "phonetic": "",
+    "frontExample": "They prepared a delicious feast.",
+    "backExample": "Przygotowali pyszną ucztę.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Gift",
+    "back": "prezent",
+    "phonetic": "",
+    "frontExample": "She received a thoughtful gift.",
+    "backExample": "Otrzymała przemyślany prezent.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Gala",
+    "back": "gala, uroczystość",
+    "phonetic": "",
+    "frontExample": "The gala was attended by celebrities.",
+    "backExample": "Na gali byli obecni celebryci.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Music festival",
+    "back": "festiwal muzyczny",
+    "phonetic": "",
+    "frontExample": "We danced all night at the music festival.",
+    "backExample": "Tańczyliśmy całą noc na festiwalu muzycznym.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Mardi Gras",
+    "back": "ostatki",
+    "phonetic": "",
+    "frontExample": "Mardi Gras is famous for its parades.",
+    "backExample": "Ostatki słyną z parad.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Thanksgiving",
+    "back": "Święto Dziękczynienia",
+    "phonetic": "",
+    "frontExample": "Thanksgiving is celebrated in the USA.",
+    "backExample": "Święto Dziękczynienia obchodzi się w USA.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Hanukkah",
+    "back": "Chanuka (święto żydowskie)",
+    "phonetic": "",
+    "frontExample": "Hanukkah lasts eight nights.",
+    "backExample": "Chanuka trwa osiem nocy.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Diwali",
+    "back": "Diwali, hinduistyczne święto światła",
+    "phonetic": "",
+    "frontExample": "Diwali is known as the Festival of Lights.",
+    "backExample": "Diwali jest znane jako Święto Świateł.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Bonfire",
+    "back": "ognisko",
+    "phonetic": "",
+    "frontExample": "We roasted marshmallows at the bonfire.",
+    "backExample": "Piekliśmy pianki przy ognisku.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Christmas tree",
+    "back": "choinka",
+    "phonetic": "",
+    "frontExample": "They decorated the Christmas tree.",
+    "backExample": "Udekorowali choinkę.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Advent",
+    "back": "adwent",
+    "phonetic": "",
+    "frontExample": "Advent begins four Sundays before Christmas.",
+    "backExample": "Adwent zaczyna się cztery niedziele przed Bożym Narodzeniem.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Wreath",
+    "back": "wianek",
+    "phonetic": "",
+    "frontExample": "She hung a wreath on the door.",
+    "backExample": "Zawiesiła wianek na drzwiach.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Card",
+    "back": "karta (np. świąteczna)",
+    "phonetic": "",
+    "frontExample": "He sent a holiday card to his friend.",
+    "backExample": "Wysłał kartkę świąteczną do przyjaciela.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Tradition",
+    "back": "tradycja",
+    "phonetic": "",
+    "frontExample": "We keep our tradition of caroling alive.",
+    "backExample": "Podtrzymujemy tradycję kolędowania.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Gift exchange",
+    "back": "wymiana prezentami",
+    "phonetic": "",
+    "frontExample": "We had a fun gift exchange at the office.",
+    "backExample": "Mieliśmy fajną wymianę prezentów w biurze.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Holiday spirit",
+    "back": "świąteczny nastrój",
+    "phonetic": "",
+    "frontExample": "There's a strong holiday spirit in the air.",
+    "backExample": "W powietrzu czuć świąteczny nastrój.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Festive",
+    "back": "świąteczny, wesoły",
+    "phonetic": "",
+    "frontExample": "The house looked very festive.",
+    "backExample": "Dom wyglądał bardzo świątecznie.",
+    "remembered": false
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "id": 1,
+    "front": "Garden",
+    "back": "ogród",
+    "phonetic": "",
+    "frontExample": "I love spending time in the garden.",
+    "backExample": "Uwielbiam spędzać czas w ogrodzie.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Lawn",
+    "back": "trawnik",
+    "phonetic": "",
+    "frontExample": "He mowed the lawn yesterday.",
+    "backExample": "On skosił trawnik wczoraj.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Flowerbed",
+    "back": "grządka kwiatowa",
+    "phonetic": "",
+    "frontExample": "She planted roses in the flowerbed.",
+    "backExample": "Ona zasadziła róże na grządce kwiatowej.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Tree",
+    "back": "drzewo",
+    "phonetic": "",
+    "frontExample": "There is an old oak tree in our backyard.",
+    "backExample": "Na naszym podwórku rośnie stary dąb.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Bush",
+    "back": "krzew, krzak",
+    "phonetic": "",
+    "frontExample": "A squirrel ran into the bush.",
+    "backExample": "Wiewiórka wbiegła w krzak.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Hedge",
+    "back": "żywopłot",
+    "phonetic": "",
+    "frontExample": "We trimmed the hedge this morning.",
+    "backExample": "Dziś rano przycięliśmy żywopłot.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Fountain",
+    "back": "fontanna",
+    "phonetic": "",
+    "frontExample": "The fountain in the park is beautiful.",
+    "backExample": "Fontanna w parku jest piękna.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Pond",
+    "back": "staw",
+    "phonetic": "",
+    "frontExample": "They built a small pond behind the house.",
+    "backExample": "Zbudowali mały staw na tyłach domu.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Path",
+    "back": "ścieżka, dróżka",
+    "phonetic": "",
+    "frontExample": "The path leads to the back gate.",
+    "backExample": "Ścieżka prowadzi do tylnej bramy.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Flower",
+    "back": "kwiat",
+    "phonetic": "",
+    "frontExample": "This flower smells amazing.",
+    "backExample": "Ten kwiatek pachnie niesamowicie.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Vegetable garden",
+    "back": "ogród warzywny",
+    "phonetic": "",
+    "frontExample": "We grow tomatoes in the vegetable garden.",
+    "backExample": "Uprawiamy pomidory w ogrodzie warzywnym.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Greenhouse",
+    "back": "szklarnia",
+    "phonetic": "",
+    "frontExample": "The greenhouse keeps the plants warm.",
+    "backExample": "Szklarnia utrzymuje rośliny w cieple.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "compost bin",
+    "back": "kompostownik",
+    "phonetic": "",
+    "frontExample": "We throw food waste in the compost bin.",
+    "backExample": "Wrzucamy resztki jedzenia do kompostownika.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Rake",
+    "back": "grabie",
+    "phonetic": "",
+    "frontExample": "Use the rake to gather the leaves.",
+    "backExample": "Użyj grabi, aby zebrać liście.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Watering can",
+    "back": "konewka",
+    "phonetic": "",
+    "frontExample": "Fill the watering can before gardening.",
+    "backExample": "Napełnij konewkę przed rozpoczęciem ogrodnictwa.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Sprinkler",
+    "back": "zraszacz, spryskiwacz",
+    "phonetic": "",
+    "frontExample": "The sprinkler waters the lawn every evening.",
+    "backExample": "Zraszacz podlewa trawnik każdego wieczoru.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Shovel",
+    "back": "łopata",
+    "phonetic": "",
+    "frontExample": "He used the shovel to dig a hole.",
+    "backExample": "Użył łopaty, żeby wykopać dziurę.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Hoe",
+    "back": "motyka",
+    "phonetic": "",
+    "frontExample": "The farmer used a hoe in the field.",
+    "backExample": "Rolnik używał motyki na polu.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "wheelbarrow",
+    "back": "taczka",
+    "phonetic": "",
+    "frontExample": "We moved the bricks with a wheelbarrow.",
+    "backExample": "Przenieśliśmy cegły w taczce.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Fencing",
+    "back": "ogrodzenie",
+    "phonetic": "",
+    "frontExample": "They installed new fencing last year.",
+    "backExample": "Zamontowali nowe ogrodzenie w zeszłym roku.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Garden furniture",
+    "back": "meble ogrodowe",
+    "phonetic": "",
+    "frontExample": "We bought new garden furniture.",
+    "backExample": "Kupiliśmy nowe meble ogrodowe.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Garden tools",
+    "back": "narzędzia ogrodnicze",
+    "phonetic": "",
+    "frontExample": "All the garden tools are in the shed.",
+    "backExample": "Wszystkie narzędzia ogrodowe są w szopie.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Yard",
+    "back": "podwórko",
+    "phonetic": "",
+    "frontExample": "The kids played in the yard all afternoon.",
+    "backExample": "Dzieci bawiły się na podwórku całe popołudnie.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Driveway",
+    "back": "podjazd",
+    "phonetic": "",
+    "frontExample": "Our driveway fits two cars.",
+    "backExample": "Nasz podjazd mieści dwa samochody.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Garage",
+    "back": "garaż",
+    "phonetic": "",
+    "frontExample": "She parked the car in the garage.",
+    "backExample": "Ona zaparkowała samochód w garażu.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Carport",
+    "back": "wiata na samochód, wiata garażowa",
+    "phonetic": "",
+    "frontExample": "We built a carport for extra shade.",
+    "backExample": "Zbudowaliśmy wiatę dla dodatkowego cienia.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Outdoor seating",
+    "back": "miejsce do siedzenia na świeżym powietrzu",
+    "phonetic": "",
+    "frontExample": "We have outdoor seating on the patio.",
+    "backExample": "Mamy miejsce do siedzenia na świeżym powietrzu na patio.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Barbecue",
+    "back": "grillować",
+    "phonetic": "",
+    "frontExample": "Let’s have a barbecue this weekend.",
+    "backExample": "Zróbmy grilla w ten weekend.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Deck",
+    "back": "taras",
+    "phonetic": "",
+    "frontExample": "There is a wooden deck behind the house.",
+    "backExample": "Za domem mamy drewniany taras.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Swing",
+    "back": "huśtawka",
+    "phonetic": "",
+    "frontExample": "The swing hangs from the old tree.",
+    "backExample": "Huśtawka wisi na starym drzewie.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Sandpit",
+    "back": "piaskownica",
+    "phonetic": "",
+    "frontExample": "The children are playing in the sandpit.",
+    "backExample": "Dzieci bawią się w piaskownicy.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Playground",
+    "back": "plac zabaw",
+    "phonetic": "",
+    "frontExample": "The playground is near the school.",
+    "backExample": "Plac zabaw znajduje się w pobliżu szkoły.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Fence",
+    "back": "płot",
+    "phonetic": "",
+    "frontExample": "They painted the fence white.",
+    "backExample": "Pomalowali płot na biało.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Gate",
+    "back": "brama",
+    "phonetic": "",
+    "frontExample": "The gate opens automatically.",
+    "backExample": "Brama otwiera się automatycznie.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Mailbox",
+    "back": "skrzynka pocztowa",
+    "phonetic": "",
+    "frontExample": "The mailbox is next to the front door.",
+    "backExample": "Skrzynka pocztowa jest obok drzwi wejściowych.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Lawnmower",
+    "back": "kosiarka",
+    "phonetic": "",
+    "frontExample": "We bought a new lawnmower last spring.",
+    "backExample": "Kupiliśmy nową kosiarkę zeszłej wiosny.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Tool shed",
+    "back": "szopa na narzędzia",
+    "phonetic": "",
+    "frontExample": "The tool shed needs repair.",
+    "backExample": "Szopa na narzędzia wymaga naprawy.",
+    "remembered": false
+  }
+]

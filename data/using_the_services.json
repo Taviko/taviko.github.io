@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "front": "To book",
+    "back": "zarezerwować",
+    "phonetic": "",
+    "frontExample": "I'd like to book a room for two nights.",
+    "backExample": "Chciałbym zarezerwować pokój na dwie noce.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "To cancel",
+    "back": "anulować",
+    "phonetic": "",
+    "frontExample": "You can cancel the appointment by phone.",
+    "backExample": "Możesz anulować wizytę telefonicznie.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "To make an appointment",
+    "back": "umówić się na wizytę",
+    "phonetic": "",
+    "frontExample": "I need to make an appointment with the doctor.",
+    "backExample": "Muszę umówić się na wizytę do lekarza.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "To confirm",
+    "back": "potwierdzić",
+    "phonetic": "",
+    "frontExample": "Please confirm your reservation by email.",
+    "backExample": "Proszę potwierdzić rezerwację mailem.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "To reschedule",
+    "back": "przełożyć (np. spotkanie)",
+    "phonetic": "",
+    "frontExample": "We had to reschedule the meeting.",
+    "backExample": "Musieliśmy przełożyć spotkanie.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Booking",
+    "back": "rezerwacja",
+    "phonetic": "",
+    "frontExample": "I completed the online booking.",
+    "backExample": "Zakończyłem rezerwację online.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Customer service",
+    "back": "obsługa klienta",
+    "phonetic": "",
+    "frontExample": "Customer service helped me solve the problem.",
+    "backExample": "Obsługa klienta pomogła mi rozwiązać problem.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Service",
+    "back": "usługa",
+    "phonetic": "",
+    "frontExample": "This service is available 24/7.",
+    "backExample": "Ta usługa jest dostępna 24/7.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "To offer a service",
+    "back": "oferować usługę",
+    "phonetic": "",
+    "frontExample": "We offer a cleaning service for apartments.",
+    "backExample": "Oferujemy usługę sprzątania mieszkań.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "To provide a service",
+    "back": "świadczyć usługę",
+    "phonetic": "",
+    "frontExample": "They provide a service for car rentals.",
+    "backExample": "Świadczą usługę wynajmu samochodów.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "To receive a service",
+    "back": "otrzymać usługę",
+    "phonetic": "",
+    "frontExample": "He received a service at the hotel.",
+    "backExample": "Otrzymał usługę w hotelu.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "After-sales service",
+    "back": "serwis posprzedażowy",
+    "phonetic": "",
+    "frontExample": "The company offers excellent after-sales service.",
+    "backExample": "Firma oferuje doskonały serwis posprzedażowy.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "To get a refund",
+    "back": "dostać zwrot pieniędzy",
+    "phonetic": "",
+    "frontExample": "She got a refund for the damaged item.",
+    "backExample": "Dostała zwrot pieniędzy za uszkodzony produkt.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "To exchange",
+    "back": "wymienić",
+    "phonetic": "",
+    "frontExample": "You can exchange it within 30 days.",
+    "backExample": "Możesz to wymienić w ciągu 30 dni.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Warranty",
+    "back": "gwarancja",
+    "phonetic": "",
+    "frontExample": "The product comes with a two-year warranty.",
+    "backExample": "Produkt ma dwuletnią gwarancję.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "To buy",
+    "back": "kupować",
+    "phonetic": "",
+    "frontExample": "I want to buy a new phone.",
+    "backExample": "Chcę kupić nowy telefon.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "To sell",
+    "back": "sprzedawać",
+    "phonetic": "",
+    "frontExample": "They sell high-quality accessories.",
+    "backExample": "Sprzedają wysokiej jakości akcesoria.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "To pay",
+    "back": "płacić",
+    "phonetic": "",
+    "frontExample": "You need to pay at the counter.",
+    "backExample": "Musisz zapłacić przy kasie.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "To pay for",
+    "back": "zapłacić za",
+    "phonetic": "",
+    "frontExample": "I forgot to pay for the ticket.",
+    "backExample": "Zapomniałem zapłacić za bilet.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Payment",
+    "back": "płatność",
+    "phonetic": "",
+    "frontExample": "Payment is due within 7 days.",
+    "backExample": "Płatność jest wymagana w ciągu 7 dni.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Invoice",
+    "back": "faktura",
+    "phonetic": "",
+    "frontExample": "We need an invoice for the purchase.",
+    "backExample": "Potrzebujemy faktury za zakup.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Complain",
+    "back": "skarga",
+    "phonetic": "",
+    "frontExample": "The customer made a formal complaint.",
+    "backExample": "Klient złożył formalną skargę.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "To complain",
+    "back": "składać skargę",
+    "phonetic": "",
+    "frontExample": "I want to complain about the delay.",
+    "backExample": "Chcę złożyć skargę na opóźnienie.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Return policy",
+    "back": "polityka zwrotów",
+    "phonetic": "",
+    "frontExample": "What is your return policy?",
+    "backExample": "Jaka jest wasza polityka zwrotów?",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Room reservation",
+    "back": "rezerwacja pokoju",
+    "phonetic": "",
+    "frontExample": "He made a room reservation online.",
+    "backExample": "Zrobił rezerwację pokoju online.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Bank services",
+    "back": "usługi bankowe",
+    "phonetic": "",
+    "frontExample": "Bank services are available in this branch.",
+    "backExample": "Usługi bankowe są dostępne w tym oddziale.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Cleaning service",
+    "back": "usługa sprzątania",
+    "phonetic": "",
+    "frontExample": "We ordered a cleaning service for tomorrow.",
+    "backExample": "Zamówiliśmy usługę sprzątania na jutro.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Taxi service",
+    "back": "usługi taksówkarskie",
+    "phonetic": "",
+    "frontExample": "I used a taxi service after the party.",
+    "backExample": "Skorzystałem z usługi taksówkarskiej po imprezie.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Legal advice",
+    "back": "porada prawna",
+    "phonetic": "",
+    "frontExample": "He needs legal advice about the contract.",
+    "backExample": "Potrzebuje porady prawnej dotyczącej umowy.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Technical support",
+    "back": "wsparcie techniczne",
+    "phonetic": "",
+    "frontExample": "They offer technical support for free.",
+    "backExample": "Oferują wsparcie techniczne za darmo.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "To hire a lawyer",
+    "back": "wynająć prawnika",
+    "phonetic": "",
+    "frontExample": "She had to hire a lawyer.",
+    "backExample": "Musiała wynająć prawnika.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "To call customer support",
+    "back": "zadzwonić do obsługi klienta",
+    "phonetic": "",
+    "frontExample": "I had to call customer support twice.",
+    "backExample": "Musiałem dwa razy zadzwonić do obsługi klienta.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "To charge",
+    "back": "pobierać opłatę",
+    "phonetic": "",
+    "frontExample": "They charge a small fee for delivery.",
+    "backExample": "Pobierają niewielką opłatę za dostawę.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Fee",
+    "back": "opłata",
+    "phonetic": "",
+    "frontExample": "There is a fee for late cancellations.",
+    "backExample": "Jest opłata za późne odwołanie.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Service charge",
+    "back": "opłata za usługę",
+    "phonetic": "",
+    "frontExample": "The service charge is not included.",
+    "backExample": "Opłata za usługę nie jest wliczona.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "To sign a contract",
+    "back": "podpisać umowę",
+    "phonetic": "",
+    "frontExample": "We are going to sign a contract today.",
+    "backExample": "Dziś podpisujemy umowę.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Terms and conditions",
+    "back": "warunki umowy",
+    "phonetic": "",
+    "frontExample": "Read the terms and conditions before buying.",
+    "backExample": "Przeczytaj warunki przed zakupem.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Agreement",
+    "back": "porozumienie",
+    "phonetic": "",
+    "frontExample": "Both parties agreed to the agreement.",
+    "backExample": "Obie strony zgodziły się na porozumienie.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Subscription",
+    "back": "subskrypcja",
+    "phonetic": "",
+    "frontExample": "I forgot to cancel my subscription.",
+    "backExample": "Zapomniałem anulować subskrypcję.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Terms of service",
+    "back": "warunki usługi",
+    "phonetic": "",
+    "frontExample": "Please read the terms of service.",
+    "backExample": "Proszę przeczytać warunki usługi.",
+    "remembered": false
+  }
+]

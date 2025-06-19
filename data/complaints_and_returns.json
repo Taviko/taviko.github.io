@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "front": "Defect",
+    "back": "wada",
+    "phonetic": "",
+    "frontExample": "There was a wada in the product.",
+    "backExample": "W produkcie była wada.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Faulty",
+    "back": "wadliwy, uszkodzony",
+    "phonetic": "",
+    "frontExample": "There was a wadliwy, uszkodzony in the product.",
+    "backExample": "W produkcie była wadliwy, uszkodzony.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Return",
+    "back": "zwrócić",
+    "phonetic": "",
+    "frontExample": "There was a zwrócić in the product.",
+    "backExample": "W produkcie była zwrócić.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Exchange",
+    "back": "wymiana",
+    "phonetic": "",
+    "frontExample": "There was a wymiana in the product.",
+    "backExample": "W produkcie była wymiana.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Refund",
+    "back": "zwrot pieniędzy",
+    "phonetic": "",
+    "frontExample": "There was a zwrot pieniędzy in the product.",
+    "backExample": "W produkcie była zwrot pieniędzy.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Receipt",
+    "back": "paragon",
+    "phonetic": "",
+    "frontExample": "There was a paragon in the product.",
+    "backExample": "W produkcie była paragon.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Guarantee",
+    "back": "gwarancja",
+    "phonetic": "",
+    "frontExample": "There was a gwarancja in the product.",
+    "backExample": "W produkcie była gwarancja.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Warranty",
+    "back": "gwarancja",
+    "phonetic": "",
+    "frontExample": "There was a gwarancja in the product.",
+    "backExample": "W produkcie była gwarancja.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Complaint",
+    "back": "skarga",
+    "phonetic": "",
+    "frontExample": "There was a skarga in the product.",
+    "backExample": "W produkcie była skarga.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Satisfaction",
+    "back": "zadowolenie",
+    "phonetic": "",
+    "frontExample": "There was a zadowolenie in the product.",
+    "backExample": "W produkcie była zadowolenie.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Customer service",
+    "back": "obsługa klienta",
+    "phonetic": "",
+    "frontExample": "There was a obsługa klienta in the product.",
+    "backExample": "W produkcie była obsługa klienta.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Refund policy",
+    "back": "polityka zwrotów",
+    "phonetic": "",
+    "frontExample": "There was a polityka zwrotów in the product.",
+    "backExample": "W produkcie była polityka zwrotów.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Broken",
+    "back": "zepsuty, złamany",
+    "phonetic": "",
+    "frontExample": "There was a zepsuty, złamany in the product.",
+    "backExample": "W produkcie była zepsuty, złamany.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Unsatisfactory",
+    "back": "niezadowalający",
+    "phonetic": "",
+    "frontExample": "There was a niezadowalający in the product.",
+    "backExample": "W produkcie była niezadowalający.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Delayed",
+    "back": "opóźniony",
+    "phonetic": "",
+    "frontExample": "There was a opóźniony in the product.",
+    "backExample": "W produkcie była opóźniony.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Return period",
+    "back": "okres zwrotu",
+    "phonetic": "",
+    "frontExample": "There was a okres zwrotu in the product.",
+    "backExample": "W produkcie była okres zwrotu.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Fault",
+    "back": "wada",
+    "phonetic": "",
+    "frontExample": "There was a wada in the product.",
+    "backExample": "W produkcie była wada.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Damaged",
+    "back": "uszkodzony",
+    "phonetic": "",
+    "frontExample": "There was a uszkodzony in the product.",
+    "backExample": "W produkcie była uszkodzony.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Unfit for use",
+    "back": "nienadający się do użytku",
+    "phonetic": "",
+    "frontExample": "There was a nienadający się do użytku in the product.",
+    "backExample": "W produkcie była nienadający się do użytku.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Unopened",
+    "back": "nieotwarty",
+    "phonetic": "",
+    "frontExample": "There was a nieotwarty in the product.",
+    "backExample": "W produkcie była nieotwarty.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Terms and conditions",
+    "back": "warunki",
+    "phonetic": "",
+    "frontExample": "There was a warunki in the product.",
+    "backExample": "W produkcie była warunki.",
+    "remembered": false
+  }
+]

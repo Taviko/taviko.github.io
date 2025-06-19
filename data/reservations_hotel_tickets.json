@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "front": "Booking/Reservation",
+    "back": "rezerwacja",
+    "phonetic": "",
+    "frontExample": "I need help with booking/reservation.",
+    "backExample": "Potrzebuję pomocy z booking/reservation.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Hotel",
+    "back": "hotel",
+    "phonetic": "",
+    "frontExample": "I need help with hotel.",
+    "backExample": "Potrzebuję pomocy z hotel.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Hostel",
+    "back": "hostel, schronisko",
+    "phonetic": "",
+    "frontExample": "I need help with hostel.",
+    "backExample": "Potrzebuję pomocy z hostel.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Guesthouse",
+    "back": "pensjonat",
+    "phonetic": "",
+    "frontExample": "I need help with guesthouse.",
+    "backExample": "Potrzebuję pomocy z guesthouse.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Room",
+    "back": "pokój",
+    "phonetic": "",
+    "frontExample": "I need help with room.",
+    "backExample": "Potrzebuję pomocy z room.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Single room",
+    "back": "pokój jednoosobowy",
+    "phonetic": "",
+    "frontExample": "I need help with single room.",
+    "backExample": "Potrzebuję pomocy z single room.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Double room",
+    "back": "pokój dwuosobowy",
+    "phonetic": "",
+    "frontExample": "I need help with double room.",
+    "backExample": "Potrzebuję pomocy z double room.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Triple room",
+    "back": "pokój trzyosobowy",
+    "phonetic": "",
+    "frontExample": "I need help with triple room.",
+    "backExample": "Potrzebuję pomocy z triple room.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Suite",
+    "back": "apartament",
+    "phonetic": "",
+    "frontExample": "I need help with suite.",
+    "backExample": "Potrzebuję pomocy z suite.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Check-in",
+    "back": "zameldować się",
+    "phonetic": "",
+    "frontExample": "I need help with check-in.",
+    "backExample": "Potrzebuję pomocy z check-in.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Check-out",
+    "back": "wymeldować się",
+    "phonetic": "",
+    "frontExample": "I need help with check-out.",
+    "backExample": "Potrzebuję pomocy z check-out.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Reception/Front desk",
+    "back": "recepcja",
+    "phonetic": "",
+    "frontExample": "I need help with reception/front desk.",
+    "backExample": "Potrzebuję pomocy z reception/front desk.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Booking confirmation",
+    "back": "potwierdzenie rezerwacji",
+    "phonetic": "",
+    "frontExample": "I need help with booking confirmation.",
+    "backExample": "Potrzebuję pomocy z booking confirmation.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Deposit",
+    "back": "kaucja, zaliczka",
+    "phonetic": "",
+    "frontExample": "I need help with deposit.",
+    "backExample": "Potrzebuję pomocy z deposit.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "No-show",
+    "back": "niepojawienie się gościa",
+    "phonetic": "",
+    "frontExample": "I need help with no-show.",
+    "backExample": "Potrzebuję pomocy z no-show.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Cancellation",
+    "back": "odwołanie, anulowanie",
+    "phonetic": "",
+    "frontExample": "I need help with cancellation.",
+    "backExample": "Potrzebuję pomocy z cancellation.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Cancelation fee",
+    "back": "opłata za odwołanie, anulowanie",
+    "phonetic": "",
+    "frontExample": "I need help with cancelation fee.",
+    "backExample": "Potrzebuję pomocy z cancelation fee.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Ticket",
+    "back": "bilet",
+    "phonetic": "",
+    "frontExample": "I need help with ticket.",
+    "backExample": "Potrzebuję pomocy z ticket.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Flight ticket",
+    "back": "bilet lotniczy",
+    "phonetic": "",
+    "frontExample": "I need help with flight ticket.",
+    "backExample": "Potrzebuję pomocy z flight ticket.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Train ticket",
+    "back": "bilet kolejowy",
+    "phonetic": "",
+    "frontExample": "I need help with train ticket.",
+    "backExample": "Potrzebuję pomocy z train ticket.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Bus ticket",
+    "back": "bilet autobusowy",
+    "phonetic": "",
+    "frontExample": "I need help with bus ticket.",
+    "backExample": "Potrzebuję pomocy z bus ticket.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "E-ticket",
+    "back": "bilet elektroniczny",
+    "phonetic": "",
+    "frontExample": "I need help with e-ticket.",
+    "backExample": "Potrzebuję pomocy z e-ticket.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Round-trip ticket",
+    "back": "bilet w obie strony",
+    "phonetic": "",
+    "frontExample": "I need help with round-trip ticket.",
+    "backExample": "Potrzebuję pomocy z round-trip ticket.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "One-way ticket",
+    "back": "bilet w jedną stronę",
+    "phonetic": "",
+    "frontExample": "I need help with one-way ticket.",
+    "backExample": "Potrzebuję pomocy z one-way ticket.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Booking website",
+    "back": "strona rezerwacyjna",
+    "phonetic": "",
+    "frontExample": "I need help with booking website.",
+    "backExample": "Potrzebuję pomocy z booking website.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Payment method",
+    "back": "metoda płatności",
+    "phonetic": "",
+    "frontExample": "I need help with payment method.",
+    "backExample": "Potrzebuję pomocy z payment method.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Itinerary",
+    "back": "plan podróży",
+    "phonetic": "",
+    "frontExample": "I need help with itinerary.",
+    "backExample": "Potrzebuję pomocy z itinerary.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Travel agency",
+    "back": "biuro podróży",
+    "phonetic": "",
+    "frontExample": "I need help with travel agency.",
+    "backExample": "Potrzebuję pomocy z travel agency.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Tour operator",
+    "back": "organizator wycieczki",
+    "phonetic": "",
+    "frontExample": "I need help with tour operator.",
+    "backExample": "Potrzebuję pomocy z tour operator.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Reservation system",
+    "back": "system rezerwacji",
+    "phonetic": "",
+    "frontExample": "I need help with reservation system.",
+    "backExample": "Potrzebuję pomocy z reservation system.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Overbooking",
+    "back": "zbyt duża liczba rezerwacji, nadrezerwacja",
+    "phonetic": "",
+    "frontExample": "I need help with overbooking.",
+    "backExample": "Potrzebuję pomocy z overbooking.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Availability",
+    "back": "dostępność",
+    "phonetic": "",
+    "frontExample": "I need help with availability.",
+    "backExample": "Potrzebuję pomocy z availability.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Upgrade",
+    "back": "aktualizacja (np. zmiana pokoju na wyższy standard)",
+    "phonetic": "",
+    "frontExample": "I need help with upgrade.",
+    "backExample": "Potrzebuję pomocy z upgrade.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Downgrade",
+    "back": "zmiana pokoju na niższy standard",
+    "phonetic": "",
+    "frontExample": "I need help with downgrade.",
+    "backExample": "Potrzebuję pomocy z downgrade.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Late check-out",
+    "back": "późne wymeldowanie",
+    "phonetic": "",
+    "frontExample": "I need help with late check-out.",
+    "backExample": "Potrzebuję pomocy z late check-out.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Early check-in",
+    "back": "wcześniejsze zameldowanie",
+    "phonetic": "",
+    "frontExample": "I need help with early check-in.",
+    "backExample": "Potrzebuję pomocy z early check-in.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Travel insurance",
+    "back": "ubezpieczenie podróżne",
+    "phonetic": "",
+    "frontExample": "I need help with travel insurance.",
+    "backExample": "Potrzebuję pomocy z travel insurance.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Confirmation number",
+    "back": "numer potwierdzenia",
+    "phonetic": "",
+    "frontExample": "I need help with confirmation number.",
+    "backExample": "Potrzebuję pomocy z confirmation number.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Reservation code",
+    "back": "kod rezerwacji",
+    "phonetic": "",
+    "frontExample": "I need help with reservation code.",
+    "backExample": "Potrzebuję pomocy z reservation code.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Cancellation policy",
+    "back": "polityka odwoływania rezerwacji",
+    "phonetic": "",
+    "frontExample": "I need help with cancellation policy.",
+    "backExample": "Potrzebuję pomocy z cancellation policy.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Hotel amenities",
+    "back": "udogodnienia hotelowe",
+    "phonetic": "",
+    "frontExample": "I need help with hotel amenities.",
+    "backExample": "Potrzebuję pomocy z hotel amenities.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Baggage claim",
+    "back": "odbiór bagażu",
+    "phonetic": "",
+    "frontExample": "I need help with baggage claim.",
+    "backExample": "Potrzebuję pomocy z baggage claim.",
+    "remembered": false
+  }
+]

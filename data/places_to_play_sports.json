@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "front": "Football pitch",
+    "back": "boisko piłkarskie",
+    "phonetic": "",
+    "frontExample": "We played a match on the football pitch.",
+    "backExample": "Graliśmy mecz na boisku piłkarskim.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Sports hall",
+    "back": "hala sportowa",
+    "phonetic": "",
+    "frontExample": "The tournament was held in the sports hall.",
+    "backExample": "Turniej odbył się w hali sportowej.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Stadium",
+    "back": "stadion",
+    "phonetic": "",
+    "frontExample": "The stadium was full of cheering fans.",
+    "backExample": "Stadion był pełen dopingujących fanów.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Tennis court",
+    "back": "kort tenisowy",
+    "phonetic": "",
+    "frontExample": "He practices tennis at the local court.",
+    "backExample": "Trenuje tenis na lokalnym korcie.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Swimming pool",
+    "back": "basen",
+    "phonetic": "",
+    "frontExample": "We went to the swimming pool on Saturday.",
+    "backExample": "W sobotę poszliśmy na basen.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Gym",
+    "back": "siłownia",
+    "phonetic": "",
+    "frontExample": "I work out at the gym every day.",
+    "backExample": "Codziennie ćwiczę na siłowni.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Football stadium",
+    "back": "stadion piłkarski",
+    "phonetic": "",
+    "frontExample": "The football stadium is near the city center.",
+    "backExample": "Stadion piłkarski jest blisko centrum miasta.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Ice rink",
+    "back": "lodowisko",
+    "phonetic": "",
+    "frontExample": "Children were skating at the ice rink.",
+    "backExample": "Dzieci jeździły na łyżwach na lodowisku.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Racetrack",
+    "back": "tor wyścigowy",
+    "phonetic": "",
+    "frontExample": "The racetrack was slippery after the rain.",
+    "backExample": "Tor wyścigowy był śliski po deszczu.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Boxing ring",
+    "back": "ring bokserski",
+    "phonetic": "",
+    "frontExample": "They trained in the boxing ring.",
+    "backExample": "Trenowali na ringu bokserskim.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Golf course",
+    "back": "pole golfowe",
+    "phonetic": "",
+    "frontExample": "The golf course has 18 holes.",
+    "backExample": "Pole golfowe ma 18 dołków.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Skatepark",
+    "back": "miejsce do jazdy na deskorolce",
+    "phonetic": "",
+    "frontExample": "Teenagers enjoy the new skatepark.",
+    "backExample": "Nastolatki lubią nowy skatepark.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Gymnasium",
+    "back": "gimnazjum ( często używane w kontekście - sala gimnastyczna)",
+    "phonetic": "",
+    "frontExample": "We had PE lessons in the gymnasium.",
+    "backExample": "Mieliśmy WF w sali gimnastycznej.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Running track",
+    "back": "bieżnia",
+    "phonetic": "",
+    "frontExample": "He runs every morning on the running track.",
+    "backExample": "Codziennie rano biega po bieżni.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Fitness club",
+    "back": "klub fitness",
+    "phonetic": "",
+    "frontExample": "I joined a fitness club last week.",
+    "backExample": "W zeszłym tygodniu zapisałem się do klubu fitness.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Exercise room",
+    "back": "sala ćwiczeń",
+    "phonetic": "",
+    "frontExample": "The exercise room has new equipment.",
+    "backExample": "Sala ćwiczeń ma nowy sprzęt.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Climbing wall",
+    "back": "ścianka wspinaczkowa",
+    "phonetic": "",
+    "frontExample": "I climbed the highest climbing wall there.",
+    "backExample": "Wspiąłem się na najwyższą ściankę wspinaczkową.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Volleyball court",
+    "back": "boisko do siatkówki",
+    "phonetic": "",
+    "frontExample": "The volleyball court is in the park.",
+    "backExample": "Boisko do siatkówki znajduje się w parku.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Cycling track",
+    "back": "tor rowerowy",
+    "phonetic": "",
+    "frontExample": "They trained on the cycling track.",
+    "backExample": "Trenowali na torze rowerowym.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "squash court",
+    "back": "kort do squasha",
+    "phonetic": "",
+    "frontExample": "We booked a squash court for 5 PM.",
+    "backExample": "Zarezerwowaliśmy kort do squasha na 17:00.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Archery range",
+    "back": "strzelnica łucznicza",
+    "phonetic": "",
+    "frontExample": "The archery range is open all year.",
+    "backExample": "Strzelnica łucznicza jest otwarta przez cały rok.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Horse-riding arena",
+    "back": "arena jeździecka",
+    "phonetic": "",
+    "frontExample": "She trains at the horse-riding arena.",
+    "backExample": "Trenuje na arenie jeździeckiej.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Sports complex",
+    "back": "kompleks sportowy",
+    "phonetic": "",
+    "frontExample": "The sports complex includes a pool and a gym.",
+    "backExample": "Kompleks sportowy zawiera basen i siłownię.",
+    "remembered": false
+  }
+]
