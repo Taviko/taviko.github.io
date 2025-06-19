@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "front": "To work in an office",
+    "back": "pracować w biurze",
+    "phonetic": "/wɜːk ɪn ən ˈɒfɪs/",
+    "frontExample": "I work in an office from Monday to Friday.",
+    "backExample": "Pracuję w biurze od poniedziałku do piątku.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "To take care of patients",
+    "back": "opiekować się pacjentami",
+    "phonetic": "/teɪk keə əv ˈpeɪʃənts/",
+    "frontExample": "She takes care of patients in the hospital.",
+    "backExample": "Ona opiekuje się pacjentami w szpitalu.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "To build houses",
+    "back": "budować domy",
+    "phonetic": "/bɪld ˈhaʊzɪz/",
+    "frontExample": "They build houses in the countryside.",
+    "backExample": "Oni budują domy na wsi.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "To serve food and drinks",
+    "back": "podawać jedzenie i napoje",
+    "phonetic": "/sɜːv fuːd ənd drɪŋks/",
+    "frontExample": "Waiters serve food and drinks at the restaurant.",
+    "backExample": "Kelnerzy podają jedzenie i napoje w restauracji.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "To teach students",
+    "back": "uczyć uczniów",
+    "phonetic": "/tiːtʃ ˈstjuːdənts/",
+    "frontExample": "He teaches students at a primary school.",
+    "backExample": "On uczy uczniów w szkole podstawowej.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "To play music",
+    "back": "grać muzykę",
+    "phonetic": "/pleɪ ˈmjuːzɪk/",
+    "frontExample": "Tom plays music in a jazz band.",
+    "backExample": "Tom gra muzykę w zespole jazzowym.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "To perform on stage",
+    "back": "występować na scenie",
+    "phonetic": "/pəˈfɔːm ɒn steɪdʒ/",
+    "frontExample": "She performs on stage every weekend.",
+    "backExample": "Ona występuje na scenie w każdy weekend.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "To drive a car/bus/truck",
+    "back": "prowadzić samochód/autobus/ciężarówkę",
+    "phonetic": "/draɪv ə kɑː/bʌs/trʌk/",
+    "frontExample": "My uncle drives a truck across Europe.",
+    "backExample": "Mój wujek prowadzi ciężarówkę po całej Europie.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "To clean rooms",
+    "back": "sprzątać pokoje",
+    "phonetic": "/kliːn ruːmz/",
+    "frontExample": "I clean rooms in a hotel.",
+    "backExample": "Sprzątam pokoje w hotelu.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "To design buildings",
+    "back": "projektować budynki",
+    "phonetic": "/dɪˈzaɪn ˈbɪldɪŋz/",
+    "frontExample": "She designs modern buildings.",
+    "backExample": "Ona projektuje nowoczesne budynki.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "To fix things",
+    "back": "naprawiać rzeczy",
+    "phonetic": "/fɪks θɪŋz/",
+    "frontExample": "He fixes things around the house.",
+    "backExample": "On naprawia rzeczy w domu.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "To take photos",
+    "back": "robić zdjęcia",
+    "phonetic": "/teɪk ˈfəʊtəʊz/",
+    "frontExample": "I love to take photos when I travel.",
+    "backExample": "Uwielbiam robić zdjęcia podczas podróży.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "To solve problems",
+    "back": "rozwiązywać problemy",
+    "phonetic": "/sɒlv ˈprɒbləmz/",
+    "frontExample": "Engineers solve technical problems.",
+    "backExample": "Inżynierowie rozwiązują problemy techniczne.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "To make food",
+    "back": "przygotowywać jedzenie",
+    "phonetic": "/meɪk fuːd/",
+    "frontExample": "I make food for my family every evening.",
+    "backExample": "Codziennie wieczorem przygotowuję jedzenie dla rodziny.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "To protect people",
+    "back": "chronić ludzi",
+    "phonetic": "/prəˈtekt ˈpiːpl/",
+    "frontExample": "Police officers protect people from danger.",
+    "backExample": "Policjanci chronią ludzi przed niebezpieczeństwem.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "To give medical treatment",
+    "back": "udzielać pomocy medycznej",
+    "phonetic": "/ɡɪv ˈmedɪkl ˈtriːtmənt/",
+    "frontExample": "Doctors give medical treatment to patients.",
+    "backExample": "Lekarze udzielają pomocy medycznej pacjentom.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "To take care of animals",
+    "back": "opiekować się zwierzętami",
+    "phonetic": "/teɪk keə əv ˈænɪməlz/",
+    "frontExample": "She takes care of animals at the shelter.",
+    "backExample": "Ona opiekuje się zwierzętami w schronisku.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "To write reports",
+    "back": "pisać raporty",
+    "phonetic": "/raɪt rɪˈpɔːts/",
+    "frontExample": "I write reports at the end of each project.",
+    "backExample": "Piszę raporty na koniec każdego projektu.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "To organize events",
+    "back": "organizować wydarzenia",
+    "phonetic": "/ˈɔːɡənaɪz ɪˈvents/",
+    "frontExample": "We organize events for local businesses.",
+    "backExample": "Organizujemy wydarzenia dla lokalnych firm.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "To teach lessons",
+    "back": "prowadzić lekcję",
+    "phonetic": "/tiːtʃ ˈlesənz/",
+    "frontExample": "He teaches lessons in a driving school.",
+    "backExample": "On prowadzi lekcje w szkole jazdy.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "What does he do for a living?",
+    "back": "Czym on się zajmuje?",
+    "phonetic": "/wɒt dʌz hiː duː fə ə ˈlɪvɪŋ/",
+    "frontExample": "What does he do for a living?",
+    "backExample": "Czym on się zajmuje?",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "She works as a...",
+    "back": "Ona pracuje jako...",
+    "phonetic": "/ʃiː wɜːks æz ə/",
+    "frontExample": "She works as a nurse in a clinic.",
+    "backExample": "Ona pracuje jako pielęgniarka w przychodni.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Im looking for a job as...",
+    "back": "Szukam pracy jako...",
+    "phonetic": "/aɪm ˈlʊkɪŋ fə ə dʒɒb æz/",
+    "frontExample": "I'm looking for a job as an accountant.",
+    "backExample": "Szukam pracy jako księgowy.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "He is responsible for...",
+    "back": "on jest odpowiedzialny za...",
+    "phonetic": "/hiː ɪz rɪˈspɒnsəbl fə/",
+    "frontExample": "He is responsible for training new staff.",
+    "backExample": "On jest odpowiedzialny za szkolenie nowych pracowników.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "In my job, I have to...",
+    "back": "W mojej pracy muszę...",
+    "phonetic": "/ɪn maɪ dʒɒb aɪ hæv tuː/",
+    "frontExample": "In my job, I have to travel a lot.",
+    "backExample": "W mojej pracy muszę dużo podróżować.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "My job involves...",
+    "back": "moja praca polega na...",
+    "phonetic": "/maɪ dʒɒb ɪnˈvɒlvz/",
+    "frontExample": "My job involves managing a team of designers.",
+    "backExample": "Moja praca polega na zarządzaniu zespołem projektantów.",
+    "remembered": false
+  }
+]

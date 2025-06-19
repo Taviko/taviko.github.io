@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "front": "Head",
+    "back": "głowa",
+    "phonetic": "/hed/",
+    "frontExample": "He hit his head on the door.",
+    "backExample": "Uderzył się w głowę o drzwi.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Hair",
+    "back": "włosy",
+    "phonetic": "/heə(r)/",
+    "frontExample": "Her hair is long and curly.",
+    "backExample": "Jej włosy są długie i kręcone.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Face",
+    "back": "twarz",
+    "phonetic": "/feɪs/",
+    "frontExample": "She washed her face with cold water.",
+    "backExample": "Umyła twarz zimną wodą.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Forehead",
+    "back": "czoło",
+    "phonetic": "/ˈfɔːhed/",
+    "frontExample": "He touched his forehead to check for fever.",
+    "backExample": "Dotknął czoła, aby sprawdzić gorączkę.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Eyes",
+    "back": "oczy",
+    "phonetic": "/aɪz/",
+    "frontExample": "Her eyes are bright green.",
+    "backExample": "Jej oczy są jasnozielone.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Eyelash",
+    "back": "rzęsa",
+    "phonetic": "/ˈaɪlæʃ/",
+    "frontExample": "She has very long eyelashes.",
+    "backExample": "Ona ma bardzo długie rzęsy.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Eyebrow",
+    "back": "brew",
+    "phonetic": "/ˈaɪbraʊ/",
+    "frontExample": "He raised his eyebrows in surprise.",
+    "backExample": "Uniósł brwi ze zdziwienia.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Nose",
+    "back": "nos",
+    "phonetic": "/nəʊz/",
+    "frontExample": "I have a runny nose.",
+    "backExample": "Mam katar.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Mouth",
+    "back": "usta",
+    "phonetic": "/maʊθ/",
+    "frontExample": "He opened his mouth to speak.",
+    "backExample": "Otworzył usta, żeby coś powiedzieć.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Teeth",
+    "back": "zęby",
+    "phonetic": "/tiːθ/",
+    "frontExample": "My teeth hurt after eating sweets.",
+    "backExample": "Boli mnie zęby po jedzeniu słodyczy.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Tongue",
+    "back": "język",
+    "phonetic": "/tʌŋ/",
+    "frontExample": "Stick out your tongue!",
+    "backExample": "Wystaw język!",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Chin",
+    "back": "podbródek",
+    "phonetic": "/tʃɪn/",
+    "frontExample": "He rested his chin on his hand.",
+    "backExample": "Oparł podbródek na dłoni.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Cheeks",
+    "back": "policzki",
+    "phonetic": "/tʃiːks/",
+    "frontExample": "Her cheeks turned red.",
+    "backExample": "Jej policzki zrobiły się czerwone.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Neck",
+    "back": "szyja",
+    "phonetic": "/nek/",
+    "frontExample": "He wore a scarf around his neck.",
+    "backExample": "Miał szalik na szyi.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Shoulders, arms",
+    "back": "ramiona",
+    "phonetic": "/ˈʃəʊldəz/, /ɑːmz/",
+    "frontExample": "Stretch your shoulders and arms.",
+    "backExample": "Rozciągnij ramiona.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Elbow",
+    "back": "łokieć",
+    "phonetic": "/ˈelbəʊ/",
+    "frontExample": "He hurt his elbow while playing.",
+    "backExample": "Zranił łokieć podczas zabawy.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Hands",
+    "back": "ręce",
+    "phonetic": "/hændz/",
+    "frontExample": "Wash your hands before eating.",
+    "backExample": "Umyj ręce przed jedzeniem.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Fingers",
+    "back": "palce (ręki)",
+    "phonetic": "/ˈfɪŋɡəz/",
+    "frontExample": "She painted her fingers with red nail polish.",
+    "backExample": "Pomalowała palce czerwonym lakierem.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Nails",
+    "back": "paznokcie",
+    "phonetic": "/neɪlz/",
+    "frontExample": "His nails are very short.",
+    "backExample": "Jego paznokcie są bardzo krótkie.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Chest",
+    "back": "klatka piersiowa",
+    "phonetic": "/tʃest/",
+    "frontExample": "He has a broad chest.",
+    "backExample": "On ma szeroką klatkę piersiową.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Stomach",
+    "back": "brzuch",
+    "phonetic": "/ˈstʌmək/",
+    "frontExample": "My stomach is full.",
+    "backExample": "Mój brzuch jest pełny.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Back",
+    "back": "plecy",
+    "phonetic": "/bæk/",
+    "frontExample": "I have pain in my back.",
+    "backExample": "Boli mnie plecy.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Waist",
+    "back": "talia",
+    "phonetic": "/weɪst/",
+    "frontExample": "She has a slim waist.",
+    "backExample": "Ona ma szczupłą talię.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Hips",
+    "back": "biodra",
+    "phonetic": "/hɪps/",
+    "frontExample": "Her hips are wide.",
+    "backExample": "Ona ma szerokie biodra.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Legs",
+    "back": "nogi",
+    "phonetic": "/leɡz/",
+    "frontExample": "His legs are very muscular.",
+    "backExample": "Jego nogi są bardzo umięśnione.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Knees",
+    "back": "kolana",
+    "phonetic": "/niːz/",
+    "frontExample": "I scraped my knees.",
+    "backExample": "Zdrapałem sobie kolana.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Feet",
+    "back": "stopy",
+    "phonetic": "/fiːt/",
+    "frontExample": "My feet are cold.",
+    "backExample": "Mam zimne stopy.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Toes",
+    "back": "palce (u nogi)",
+    "phonetic": "/təʊz/",
+    "frontExample": "Wiggle your toes!",
+    "backExample": "Poruszaj palcami u stóp!",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Ankle",
+    "back": "kostka",
+    "phonetic": "/ˈæŋkl/",
+    "frontExample": "I twisted my ankle.",
+    "backExample": "Skręciłem kostkę.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Heel",
+    "back": "pięta",
+    "phonetic": "/hiːl/",
+    "frontExample": "She has a sore heel.",
+    "backExample": "Boli ją pięta.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Skin",
+    "back": "skóra",
+    "phonetic": "/skɪn/",
+    "frontExample": "She has very soft skin.",
+    "backExample": "Ma bardzo miękką skórę.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Heart",
+    "back": "serce",
+    "phonetic": "/hɑːt/",
+    "frontExample": "My heart is beating fast.",
+    "backExample": "Moje serce bije szybko.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Lungs",
+    "back": "płuca",
+    "phonetic": "/lʌŋz/",
+    "frontExample": "Smoking damages your lungs.",
+    "backExample": "Palenie niszczy płuca.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Liver",
+    "back": "wątroba",
+    "phonetic": "/ˈlɪvə/",
+    "frontExample": "The liver helps filter blood.",
+    "backExample": "Wątroba pomaga filtrować krew.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Kidneys",
+    "back": "nerki",
+    "phonetic": "/ˈkɪdniːz/",
+    "frontExample": "He has problems with his kidneys.",
+    "backExample": "Ma problemy z nerkami.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Bones",
+    "back": "kości",
+    "phonetic": "/bəʊnz/",
+    "frontExample": "We have 206 bones in the human body.",
+    "backExample": "Mamy 206 kości w ludzkim ciele.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Muscles",
+    "back": "mięśnie",
+    "phonetic": "/ˈmʌslz/",
+    "frontExample": "She has strong muscles.",
+    "backExample": "Ona ma silne mięśnie.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Tendon",
+    "back": "ścięgno",
+    "phonetic": "/ˈtendən/",
+    "frontExample": "A tendon connects muscle to bone.",
+    "backExample": "Ścięgno łączy mięsień z kością.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Blood",
+    "back": "krew",
+    "phonetic": "/blʌd/",
+    "frontExample": "Blood carries oxygen to the body.",
+    "backExample": "Krew przenosi tlen do organizmu.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Pupil",
+    "back": "źrenica",
+    "phonetic": "/ˈpjuːpl/",
+    "frontExample": "The pupil gets bigger in the dark.",
+    "backExample": "Źrenica powiększa się w ciemności.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Spleen",
+    "back": "śledziona",
+    "phonetic": "/spliːn/",
+    "frontExample": "The spleen is part of the immune system.",
+    "backExample": "Śledziona jest częścią układu odpornościowego.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Brain",
+    "back": "mózg",
+    "phonetic": "/breɪn/",
+    "frontExample": "The brain controls all body functions.",
+    "backExample": "Mózg kontroluje wszystkie funkcje ciała.",
+    "remembered": false
+  }
+]

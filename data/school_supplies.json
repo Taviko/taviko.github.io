@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "front": "Pen",
+    "back": "długopis",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Pencil",
+    "back": "ołówek",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Eraser",
+    "back": "gumka do mazania",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Sharpener",
+    "back": "temperówka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Notebook",
+    "back": "zeszyt",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Textbook",
+    "back": "podręcznik",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Binder",
+    "back": "segregator",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Folder",
+    "back": "teczka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Ruler",
+    "back": "linijka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Compass",
+    "back": "cyrkiel",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Protractor",
+    "back": "kątomierz",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Highlighter",
+    "back": "zakreślacz",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Glue",
+    "back": "klej",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Scissors",
+    "back": "nożyczki",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Paper",
+    "back": "papier",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Sticky notes",
+    "back": "karteczki samoprzylepne",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Marker",
+    "back": "flamaster",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Whiteboard",
+    "back": "tablica biała (suchościeralna)",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Blackboard",
+    "back": "tablica",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Chalk",
+    "back": "kreda",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Calculator",
+    "back": "kalkulator",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Bag",
+    "back": "torba",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Backpack",
+    "back": "plecak",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Desk",
+    "back": "biurko",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Chair",
+    "back": "krzesło",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Index cards/Flash Cards",
+    "back": "fiszki",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Binder clips",
+    "back": "spinacz",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Paperclip",
+    "back": "spinacz biurowy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Sticky tape",
+    "back": "taśma klejąca",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Stapler",
+    "back": "zszywacz",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Staples",
+    "back": "zszywki",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Post-it notes",
+    "back": "karteczki samoprzylepne",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

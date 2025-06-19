@@ -1,0 +1,218 @@
+[
+  {
+    "front": "Teacher",
+    "back": "nauczyciel",
+    "phonetic": "",
+    "frontExample": "I'd like to become a teacher someday.",
+    "backExample": "Chciałbym kiedyś zostać nauczyciel.",
+    "remembered": false
+  },
+  {
+    "front": "Doctor",
+    "back": "lekarz",
+    "phonetic": "",
+    "frontExample": "I'd like to become a doctor someday.",
+    "backExample": "Chciałbym kiedyś zostać lekarz.",
+    "remembered": false
+  },
+  {
+    "front": "Nurse",
+    "back": "pielęgniarka",
+    "phonetic": "",
+    "frontExample": "I'd like to become a nurse someday.",
+    "backExample": "Chciałbym kiedyś zostać pielęgniarka.",
+    "remembered": false
+  },
+  {
+    "front": "Engineer",
+    "back": "inżynier",
+    "phonetic": "",
+    "frontExample": "I'd like to become a engineer someday.",
+    "backExample": "Chciałbym kiedyś zostać inżynier.",
+    "remembered": false
+  },
+  {
+    "front": "Architect",
+    "back": "architekt",
+    "phonetic": "",
+    "frontExample": "I'd like to become a architect someday.",
+    "backExample": "Chciałbym kiedyś zostać architekt.",
+    "remembered": false
+  },
+  {
+    "front": "Lawyer",
+    "back": "prawnik",
+    "phonetic": "",
+    "frontExample": "I'd like to become a lawyer someday.",
+    "backExample": "Chciałbym kiedyś zostać prawnik.",
+    "remembered": false
+  },
+  {
+    "front": "Dentist",
+    "back": "dentysta",
+    "phonetic": "",
+    "frontExample": "I'd like to become a dentist someday.",
+    "backExample": "Chciałbym kiedyś zostać dentysta.",
+    "remembered": false
+  },
+  {
+    "front": "Farmer",
+    "back": "rolnik",
+    "phonetic": "",
+    "frontExample": "I'd like to become a farmer someday.",
+    "backExample": "Chciałbym kiedyś zostać rolnik.",
+    "remembered": false
+  },
+  {
+    "front": "Chef",
+    "back": "szef kuchni",
+    "phonetic": "",
+    "frontExample": "I'd like to become a chef someday.",
+    "backExample": "Chciałbym kiedyś zostać szef kuchni.",
+    "remembered": false
+  },
+  {
+    "front": "Waiter/Waitress",
+    "back": "kelner/kelnerka",
+    "phonetic": "",
+    "frontExample": "I'd like to become a waiter/waitress someday.",
+    "backExample": "Chciałbym kiedyś zostać kelner/kelnerka.",
+    "remembered": false
+  },
+  {
+    "front": "Builder",
+    "back": "budowlaniec",
+    "phonetic": "",
+    "frontExample": "I'd like to become a builder someday.",
+    "backExample": "Chciałbym kiedyś zostać budowlaniec.",
+    "remembered": false
+  },
+  {
+    "front": "Artist",
+    "back": "artysta",
+    "phonetic": "",
+    "frontExample": "I'd like to become a artist someday.",
+    "backExample": "Chciałbym kiedyś zostać artysta.",
+    "remembered": false
+  },
+  {
+    "front": "Actor/Actress",
+    "back": "aktor/aktorka",
+    "phonetic": "",
+    "frontExample": "I'd like to become a actor/actress someday.",
+    "backExample": "Chciałbym kiedyś zostać aktor/aktorka.",
+    "remembered": false
+  },
+  {
+    "front": "Musician",
+    "back": "muzyk",
+    "phonetic": "",
+    "frontExample": "I'd like to become a musician someday.",
+    "backExample": "Chciałbym kiedyś zostać muzyk.",
+    "remembered": false
+  },
+  {
+    "front": "Driver",
+    "back": "kierowca",
+    "phonetic": "",
+    "frontExample": "I'd like to become a driver someday.",
+    "backExample": "Chciałbym kiedyś zostać kierowca.",
+    "remembered": false
+  },
+  {
+    "front": "Scientist",
+    "back": "naukowiec",
+    "phonetic": "",
+    "frontExample": "I'd like to become a scientist someday.",
+    "backExample": "Chciałbym kiedyś zostać naukowiec.",
+    "remembered": false
+  },
+  {
+    "front": "Photographer",
+    "back": "fotograf",
+    "phonetic": "",
+    "frontExample": "I'd like to become a photographer someday.",
+    "backExample": "Chciałbym kiedyś zostać fotograf.",
+    "remembered": false
+  },
+  {
+    "front": "Police officer",
+    "back": "policjant",
+    "phonetic": "",
+    "frontExample": "I'd like to become a police officer someday.",
+    "backExample": "Chciałbym kiedyś zostać policjant.",
+    "remembered": false
+  },
+  {
+    "front": "Firefighter",
+    "back": "strażak",
+    "phonetic": "",
+    "frontExample": "I'd like to become a firefighter someday.",
+    "backExample": "Chciałbym kiedyś zostać strażak.",
+    "remembered": false
+  },
+  {
+    "front": "Hairdresser",
+    "back": "fryzjer",
+    "phonetic": "",
+    "frontExample": "I'd like to become a hairdresser someday.",
+    "backExample": "Chciałbym kiedyś zostać fryzjer.",
+    "remembered": false
+  },
+  {
+    "front": "Cleaner",
+    "back": "sprzątaczka",
+    "phonetic": "",
+    "frontExample": "I'd like to become a cleaner someday.",
+    "backExample": "Chciałbym kiedyś zostać sprzątaczka.",
+    "remembered": false
+  },
+  {
+    "front": "Accountant",
+    "back": "księgowy",
+    "phonetic": "",
+    "frontExample": "I'd like to become a accountant someday.",
+    "backExample": "Chciałbym kiedyś zostać księgowy.",
+    "remembered": false
+  },
+  {
+    "front": "Plumber",
+    "back": "hydraulik",
+    "phonetic": "",
+    "frontExample": "I'd like to become a plumber someday.",
+    "backExample": "Chciałbym kiedyś zostać hydraulik.",
+    "remembered": false
+  },
+  {
+    "front": "Electrician",
+    "back": "elektryk",
+    "phonetic": "",
+    "frontExample": "I'd like to become a electrician someday.",
+    "backExample": "Chciałbym kiedyś zostać elektryk.",
+    "remembered": false
+  },
+  {
+    "front": "Veterinarian",
+    "back": "weterynarz",
+    "phonetic": "",
+    "frontExample": "I'd like to become a veterinarian someday.",
+    "backExample": "Chciałbym kiedyś zostać weterynarz.",
+    "remembered": false
+  },
+  {
+    "front": "Manager",
+    "back": "menadżer",
+    "phonetic": "",
+    "frontExample": "I'd like to become a manager someday.",
+    "backExample": "Chciałbym kiedyś zostać menadżer.",
+    "remembered": false
+  },
+  {
+    "front": "Receptionist",
+    "back": "recepcjonista",
+    "phonetic": "",
+    "frontExample": "I'd like to become a receptionist someday.",
+    "backExample": "Chciałbym kiedyś zostać recepcjonista.",
+    "remembered": false
+  }
+]

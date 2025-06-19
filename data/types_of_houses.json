@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "front": "Apartment",
+    "back": "mieszkanie",
+    "phonetic": "/apartment/",
+    "frontExample": "Apartment is very popular in big cities.",
+    "backExample": "Apartment jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Flat",
+    "back": "mieszkanie",
+    "phonetic": "/flat/",
+    "frontExample": "Flat is very popular in big cities.",
+    "backExample": "Flat jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "House",
+    "back": "dom",
+    "phonetic": "/house/",
+    "frontExample": "House is very popular in big cities.",
+    "backExample": "House jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Bungalow",
+    "back": "dom parterowy",
+    "phonetic": "/bungalow/",
+    "frontExample": "Bungalow is very popular in big cities.",
+    "backExample": "Bungalow jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Cottage",
+    "back": "dom wiejski",
+    "phonetic": "/cottage/",
+    "frontExample": "Cottage is very popular in big cities.",
+    "backExample": "Cottage jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Terraced house",
+    "back": "dom szeregowy",
+    "phonetic": "/terraced_house/",
+    "frontExample": "Terraced house is very popular in big cities.",
+    "backExample": "Terraced house jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Semi-detached house",
+    "back": "dom bliźniak",
+    "phonetic": "/semi-detached_house/",
+    "frontExample": "Semi-detached house is very popular in big cities.",
+    "backExample": "Semi-detached house jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Detached house",
+    "back": "dom wolnostojący",
+    "phonetic": "/detached_house/",
+    "frontExample": "Detached house is very popular in big cities.",
+    "backExample": "Detached house jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Villa",
+    "back": "willa",
+    "phonetic": "/villa/",
+    "frontExample": "Villa is very popular in big cities.",
+    "backExample": "Villa jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Mansion",
+    "back": "rezydencja",
+    "phonetic": "/mansion/",
+    "frontExample": "Mansion is very popular in big cities.",
+    "backExample": "Mansion jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Farmhouse",
+    "back": "dom wiejski/gospodarstwo",
+    "phonetic": "/farmhouse/",
+    "frontExample": "Farmhouse is very popular in big cities.",
+    "backExample": "Farmhouse jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Penthouse",
+    "back": "apartament na ostatnim piętrze",
+    "phonetic": "/penthouse/",
+    "frontExample": "Penthouse is very popular in big cities.",
+    "backExample": "Penthouse jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Studio",
+    "back": "kawalerka",
+    "phonetic": "/studio/",
+    "frontExample": "Studio is very popular in big cities.",
+    "backExample": "Studio jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Skyscraper",
+    "back": "wieżowiec",
+    "phonetic": "/skyscraper/",
+    "frontExample": "Skyscraper is very popular in big cities.",
+    "backExample": "Skyscraper jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Log cabin",
+    "back": "drewniana chatka",
+    "phonetic": "/log_cabin/",
+    "frontExample": "Log cabin is very popular in big cities.",
+    "backExample": "Log cabin jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Mobile home",
+    "back": "dom mobilny",
+    "phonetic": "/mobile_home/",
+    "frontExample": "Mobile home is very popular in big cities.",
+    "backExample": "Mobile home jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Caravan",
+    "back": "przyczepa kempingowa",
+    "phonetic": "/caravan/",
+    "frontExample": "Caravan is very popular in big cities.",
+    "backExample": "Caravan jest bardzo popularne w dużych miastach.",
+    "remembered": false
+  }
+]

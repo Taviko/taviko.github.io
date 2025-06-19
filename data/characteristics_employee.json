@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "front": "Hard-working",
+    "back": "pracowity",
+    "phonetic": "/ˌhɑːdˈwɜːkɪŋ/",
+    "frontExample": "She is a hard-working employee who always meets deadlines.",
+    "backExample": "Jest pracowitą pracownicą, która zawsze dotrzymuje terminów.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Reliable",
+    "back": "niezawodny",
+    "phonetic": "/rɪˈlaɪəbl/",
+    "frontExample": "He is very reliable and never lets the team down.",
+    "backExample": "Jest bardzo niezawodny i nigdy nie zawodzi zespołu.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Punctual",
+    "back": "punktualny",
+    "phonetic": "/ˈpʌŋktʃuəl/",
+    "frontExample": "You can count on her because she’s always punctual.",
+    "backExample": "Możesz na nią liczyć, bo zawsze jest punktualna.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Responsible",
+    "back": "odpowiedzialny",
+    "phonetic": "/rɪˈspɒnsəbl/",
+    "frontExample": "He is responsible for managing the whole department.",
+    "backExample": "Jest odpowiedzialny za zarządzanie całym działem.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Creative",
+    "back": "kreatywny",
+    "phonetic": "/kriˈeɪtɪv/",
+    "frontExample": "We need someone creative for this marketing campaign.",
+    "backExample": "Potrzebujemy kogoś kreatywnego do tej kampanii marketingowej.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Organized",
+    "back": "zorganizowany",
+    "phonetic": "/ˈɔːɡənaɪzd/",
+    "frontExample": "She is very organized and keeps everything in order.",
+    "backExample": "Jest bardzo zorganizowana i utrzymuje wszystko w porządku.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Motivated",
+    "back": "zmotywowany",
+    "phonetic": "/ˈməʊtɪveɪtɪd/",
+    "frontExample": "He’s motivated to reach his career goals.",
+    "backExample": "Jest zmotywowany, aby osiągnąć swoje cele zawodowe.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Independent",
+    "back": "samodzielny",
+    "phonetic": "/ˌɪndɪˈpendənt/",
+    "frontExample": "She’s independent and can work without supervision.",
+    "backExample": "Jest samodzielna i potrafi pracować bez nadzoru.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Team player",
+    "back": "gracz zespołowy",
+    "phonetic": "/tiːm ˈpleɪə/",
+    "frontExample": "He’s a great team player and supports his colleagues.",
+    "backExample": "Jest świetnym graczem zespołowym i wspiera swoich kolegów.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Friendly",
+    "back": "przyjazny",
+    "phonetic": "/ˈfrendli/",
+    "frontExample": "Everyone says she’s friendly and easy to talk to.",
+    "backExample": "Wszyscy mówią, że jest przyjazna i łatwo się z nią rozmawia.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Polite",
+    "back": "uprzejmy",
+    "phonetic": "/pəˈlaɪt/",
+    "frontExample": "It’s important to be polite in a professional environment.",
+    "backExample": "W środowisku zawodowym ważne jest bycie uprzejmym.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Flexible",
+    "back": "elastyczny",
+    "phonetic": "/ˈfleksəbl/",
+    "frontExample": "We need someone flexible who can handle different tasks.",
+    "backExample": "Potrzebujemy kogoś elastycznego, kto poradzi sobie z różnymi zadaniami.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Honest",
+    "back": "uczciwy",
+    "phonetic": "/ˈɒnɪst/",
+    "frontExample": "He’s an honest worker who always tells the truth.",
+    "backExample": "Jest uczciwym pracownikiem, który zawsze mówi prawdę.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Trustworthy",
+    "back": "godny zaufania",
+    "phonetic": "/ˈtrʌstwɜːði/",
+    "frontExample": "She is trustworthy and keeps confidential information safe.",
+    "backExample": "Jest godna zaufania i przechowuje poufne informacje bezpiecznie.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Dedicated",
+    "back": "oddany",
+    "phonetic": "/ˈdedɪkeɪtɪd/",
+    "frontExample": "He is dedicated to his job and works with passion.",
+    "backExample": "Jest oddany swojej pracy i wykonuje ją z pasją.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Ambitious",
+    "back": "ambitny",
+    "phonetic": "/æmˈbɪʃəs/",
+    "frontExample": "She’s ambitious and wants to become a manager one day.",
+    "backExample": "Jest ambitna i chce zostać menedżerką.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Adaptable",
+    "back": "zdolny do przystosowania",
+    "phonetic": "/əˈdæptəbl/",
+    "frontExample": "He’s adaptable and can adjust to new environments quickly.",
+    "backExample": "Jest zdolny do adaptacji i szybko dostosowuje się do nowych warunków.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Patient",
+    "back": "cierpliwy",
+    "phonetic": "/ˈpeɪʃnt/",
+    "frontExample": "A good teacher has to be very patient.",
+    "backExample": "Dobry nauczyciel musi być bardzo cierpliwy.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Efficient",
+    "back": "wydajny, efektywny",
+    "phonetic": "/ɪˈfɪʃnt/",
+    "frontExample": "She’s efficient and gets tasks done in no time.",
+    "backExample": "Jest wydajna i wykonuje zadania błyskawicznie.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Calm under pressure",
+    "back": "spokojny pod presją",
+    "phonetic": "/kɑːm ˈʌndə ˈpreʃə/",
+    "frontExample": "He stays calm under pressure even in stressful situations.",
+    "backExample": "Pozostaje spokojny pod presją, nawet w stresujących sytuacjach.",
+    "remembered": false
+  }
+]

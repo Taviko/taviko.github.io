@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "front": "Brush teeth",
+    "back": "myć zęby",
+    "phonetic": "/brʌʃ tiːθ/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Wash hands",
+    "back": "myć ręce",
+    "phonetic": "/wɒʃ hændz/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Take a shower",
+    "back": "brać prysznic",
+    "phonetic": "/teɪk ə ˈʃaʊə/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Take a bath",
+    "back": "brać kąpiel",
+    "phonetic": "/teɪk ə bɑːθ/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Shampoo",
+    "back": "szampon",
+    "phonetic": "/ˈʃæm.puː/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Toothpaste",
+    "back": "pasta do zębów",
+    "phonetic": "/ˈtuːθ.peɪst/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Toothbrush",
+    "back": "szczoteczka do zębów",
+    "phonetic": "/ˈtuːθ.brʌʃ/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Soap",
+    "back": "mydło",
+    "phonetic": "/səʊp/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Towel",
+    "back": "ręcznik",
+    "phonetic": "/ˈtaʊəl/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Deodorant",
+    "back": "dezodorant",
+    "phonetic": "/ˈdiː.ə.dər.ənt/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Comb",
+    "back": "grzebień",
+    "phonetic": "/kɒm/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Hair dryer",
+    "back": "suszarka do włosów",
+    "phonetic": "/ˈheə ˌdraɪ.ər/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Shaving",
+    "back": "golenie",
+    "phonetic": "/ˈʃeɪ.vɪŋ/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Razor",
+    "back": "maszynka do golenia",
+    "phonetic": "/ˈreɪ.zər/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Clothes",
+    "back": "ubrania",
+    "phonetic": "/kləʊðz/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Get dressed",
+    "back": "ubierać się",
+    "phonetic": "/ɡet ˈdrest/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Get undressed",
+    "back": "rozbierać się",
+    "phonetic": "/ɡet ʌnˈdrest/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Put on make up",
+    "back": "malować się",
+    "phonetic": "/pʊt ɒn ˈmeɪ.kʌp/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Take off makeup",
+    "back": "zmywać makijaż",
+    "phonetic": "/teɪk ɒf ˈmeɪ.kʌp/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Nail polish",
+    "back": "lakier do paznokci",
+    "phonetic": "/ˈneɪl ˌpɒ.lɪʃ/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Nail clippers",
+    "back": "obcinacz do paznokci",
+    "phonetic": "/ˈneɪl ˌklɪ.pəz/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Floss",
+    "back": "nić dentystyczna",
+    "phonetic": "/flɒs/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

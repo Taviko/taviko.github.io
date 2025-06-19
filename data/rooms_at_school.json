@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "front": "Classroom",
+        "back": "sala lekcyjna",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 2,
+        "front": "Library",
+        "back": "biblioteka",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 3,
+        "front": "Gym",
+        "back": "sala gimnastyczna",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 4,
+        "front": "Canteen",
+        "back": "stołówka",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 5,
+        "front": "Headmaster's office",
+        "back": "gabinet dyrektora",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 6,
+        "front": "Teacher's room",
+        "back": "pokój nauczycielski",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 7,
+        "front": "Staff room",
+        "back": "pokój nauczycielski(dla wszystkich pracowników)",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 8,
+        "front": "Computer room",
+        "back": "sala komputerowa",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 9,
+        "front": "Science lab",
+        "back": "sala do nauki biologii, chemii, fizyki ( do nauk ścisłych)",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 10,
+        "front": "Art room",
+        "back": "pracownia plastyczna",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 11,
+        "front": "Music room",
+        "back": "sala muzyczna",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 12,
+        "front": "Playground",
+        "back": "plac zabaw",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 13,
+        "front": "Locker room",
+        "back": "szatnia",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 14,
+        "front": "Restroom",
+        "back": "toaleta",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 15,
+        "front": "Hallway",
+        "back": "korytarz",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 16,
+        "front": "Assembly hall",
+        "back": "aula, miejsce zgromadzeń ( do apeli)",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 17,
+        "front": "Sports field",
+        "back": "boisko sportowe",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 18,
+        "front": "Study hall",
+        "back": "czytelnia (sala do nauki)",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 19,
+        "front": "Workshop",
+        "back": "warsztat",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 20,
+        "front": "Courtyard",
+        "back": "dziedziniec",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 21,
+        "front": "Common room/After-school club",
+        "back": "świetlica",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    },
+    {
+        "id": 22,
+        "front": "Swimming pool",
+        "back": "basen",
+        "phonetic": "",
+        "frontExample": "",
+        "backExample": "",
+        "remembered": false
+    }
+]

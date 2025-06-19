@@ -1,0 +1,461 @@
+[
+  {
+    "id": 1,
+    "front": "Cook",
+    "back": "gotować",
+    "phonetic": "/kʊk/",
+    "frontExample": "I love to cook Italian food on weekends.",
+    "backExample": "Uwielbiam gotować włoskie jedzenie w weekendy.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Boil",
+    "back": "gotować (w wodzie)",
+    "phonetic": "/bɔɪl/",
+    "frontExample": "Please boil the eggs for exactly seven minutes.",
+    "backExample": "Proszę gotuj jajka przez dokładnie siedem minut.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Fry",
+    "back": "smażyć",
+    "phonetic": "/fraɪ/",
+    "frontExample": "She likes to fry the potatoes until they are crispy.",
+    "backExample": "Ona lubi smażyć ziemniaki aż będą chrupiące.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Grill",
+    "back": "grillować",
+    "phonetic": "/ɡrɪl/",
+    "frontExample": "They usually grill the meat during summer parties.",
+    "backExample": "Oni zazwyczaj grillują mięso podczas letnich imprez.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Roast/Bake",
+    "back": "piec (w piekarniku)",
+    "phonetic": "/rəʊst/ /beɪk/",
+    "frontExample": "I often roast vegetables and bake fresh bread on Sundays.",
+    "backExample": "Często piekę warzywa i świeży chleb w niedziele.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Stir",
+    "back": "mieszać",
+    "phonetic": "/stɜːr/",
+    "frontExample": "Stir the soup gently so it doesn’t spill.",
+    "backExample": "Mieszaj zupę delikatnie, żeby się nie wylała.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Chop",
+    "back": "kroić, siekać",
+    "phonetic": "/tʃɒp/",
+    "frontExample": "You should chop the onions before frying them.",
+    "backExample": "Powinieneś posiekać cebulę przed smażeniem.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Peel",
+    "back": "obierać",
+    "phonetic": "/piːl/",
+    "frontExample": "I always peel the apples before making a pie.",
+    "backExample": "Zawsze obieram jabłka przed zrobieniem ciasta.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Slice",
+    "back": "kroić na plasterki",
+    "phonetic": "/slaɪs/",
+    "frontExample": "Please slice the tomatoes thinly for the sandwich.",
+    "backExample": "Proszę pokrój pomidory w cienkie plasterki na kanapkę.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Serve",
+    "back": "podawać",
+    "phonetic": "/sɜːv/",
+    "frontExample": "We serve lunch at noon every day.",
+    "backExample": "Podajemy lunch codziennie w południe.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Dish",
+    "back": "danie",
+    "phonetic": "/dɪʃ/",
+    "frontExample": "This dish is made with rice and chicken.",
+    "backExample": "To danie jest zrobione z ryżu i kurczaka.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Meal",
+    "back": "posiłek",
+    "phonetic": "/miːl/",
+    "frontExample": "He prepared a special meal for his guests.",
+    "backExample": "On przygotował specjalny posiłek dla swoich gości.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Beakfast",
+    "back": "śniadanie",
+    "phonetic": "/ˈbrekfəst/",
+    "frontExample": "Breakfast is the most important meal of the day.",
+    "backExample": "Śniadanie to najważniejszy posiłek dnia.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Lunch",
+    "back": "lunch, obiad",
+    "phonetic": "/lʌntʃ/",
+    "frontExample": "I usually eat lunch at work.",
+    "backExample": "Zazwyczaj jem lunch w pracy.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Dinner",
+    "back": "kolacja",
+    "phonetic": "/ˈdɪnər/",
+    "frontExample": "We had dinner together at a nice restaurant.",
+    "backExample": "Zjedliśmy razem kolację w fajnej restauracji.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Snack",
+    "back": "przekąska",
+    "phonetic": "/snæk/",
+    "frontExample": "I grabbed a quick snack between meetings.",
+    "backExample": "Zjadłem szybką przekąskę między spotkaniami.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Appetizer",
+    "back": "przystawka",
+    "phonetic": "/ˈæpətaɪzər/",
+    "frontExample": "The appetizer was delicious and beautifully served.",
+    "backExample": "Przystawka była pyszna i pięknie podana.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Dessert",
+    "back": "deser",
+    "phonetic": "/dɪˈzɜːt/",
+    "frontExample": "We had chocolate cake for dessert.",
+    "backExample": "Na deser mieliśmy czekoladowe ciasto.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Drink",
+    "back": "napój",
+    "phonetic": "/drɪŋk/",
+    "frontExample": "Would you like a drink with your meal?",
+    "backExample": "Czy chciałbyś napój do posiłku?",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Glass",
+    "back": "szklanka",
+    "phonetic": "/ɡlɑːs/",
+    "frontExample": "He poured water into the glass.",
+    "backExample": "On nalał wodę do szklanki.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Cup",
+    "back": "kubek",
+    "phonetic": "/kʌp/",
+    "frontExample": "She drank tea from a large cup.",
+    "backExample": "Ona piła herbatę z dużego kubka.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Plate",
+    "back": "talerz",
+    "phonetic": "/pleɪt/",
+    "frontExample": "Put the salad on the plate.",
+    "backExample": "Połóż sałatkę na talerzu.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Bowl",
+    "back": "miska",
+    "phonetic": "/bəʊl/",
+    "frontExample": "Mix the ingredients in a bowl.",
+    "backExample": "Wymieszaj składniki w misce.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Fork",
+    "back": "widelec",
+    "phonetic": "/fɔːk/",
+    "frontExample": "Use a fork to eat the salad.",
+    "backExample": "Użyj widelca do zjedzenia sałatki.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Knife",
+    "back": "nóż",
+    "phonetic": "/naɪf/",
+    "frontExample": "Be careful with that sharp knife.",
+    "backExample": "Uważaj na ten ostry nóż.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Spoon",
+    "back": "łyżka",
+    "phonetic": "/spuːn/",
+    "frontExample": "He stirred the soup with a spoon.",
+    "backExample": "On mieszał zupę łyżką.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Napkin",
+    "back": "serwetka",
+    "phonetic": "/ˈnæpkɪn/",
+    "frontExample": "Please place a napkin on your lap.",
+    "backExample": "Proszę połóż serwetkę na kolanach.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Salt",
+    "back": "sól",
+    "phonetic": "/sɔːlt/",
+    "frontExample": "Add a pinch of salt to the soup.",
+    "backExample": "Dodaj szczyptę soli do zupy.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Pepper",
+    "back": "pieprz",
+    "phonetic": "/ˈpepər/",
+    "frontExample": "Sprinkle some pepper on the steak.",
+    "backExample": "Posyp stek odrobiną pieprzu.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Sugar",
+    "back": "cukier",
+    "phonetic": "/ˈʃʊɡər/",
+    "frontExample": "Don’t forget to add sugar to the tea.",
+    "backExample": "Nie zapomnij dodać cukru do herbaty.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Oil",
+    "back": "olej",
+    "phonetic": "/ɔɪl/",
+    "frontExample": "Fry the vegetables in a bit of oil.",
+    "backExample": "Smaż warzywa na odrobinie oleju.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Vinegar",
+    "back": "ocet",
+    "phonetic": "/ˈvɪnɪɡər/",
+    "frontExample": "Add vinegar to the salad for extra flavor.",
+    "backExample": "Dodaj ocet do sałatki, aby nadać jej więcej smaku.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Butter",
+    "back": "masło",
+    "phonetic": "/ˈbʌtər/",
+    "frontExample": "Spread some butter on the toast.",
+    "backExample": "Posmaruj tost masłem.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Cheese",
+    "back": "ser",
+    "phonetic": "/tʃiːz/",
+    "frontExample": "I love cheese on top of my pizza.",
+    "backExample": "Uwielbiam ser na mojej pizzy.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Bread",
+    "back": "chleb",
+    "phonetic": "/bred/",
+    "frontExample": "She ate a slice of fresh bread.",
+    "backExample": "Ona zjadła kromkę świeżego chleba.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Fruit",
+    "back": "owoce",
+    "phonetic": "/fruːt/",
+    "frontExample": "Fruit is a healthy snack.",
+    "backExample": "Owoce to zdrowa przekąska.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Vegetables",
+    "back": "warzywa",
+    "phonetic": "/ˈvedʒtəblz/",
+    "frontExample": "Vegetables are essential for a balanced diet.",
+    "backExample": "Warzywa są niezbędne dla zrównoważonej diety.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Meat",
+    "back": "mięso",
+    "phonetic": "/miːt/",
+    "frontExample": "We had grilled meat for dinner.",
+    "backExample": "Na kolację jedliśmy grillowane mięso.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Chicken",
+    "back": "kurczak",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "frontExample": "He roasted a whole chicken.",
+    "backExample": "On upiekł całego kurczaka.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Beef",
+    "back": "wołowina",
+    "phonetic": "/biːf/",
+    "frontExample": "The beef was cooked perfectly.",
+    "backExample": "Wołowina była idealnie przygotowana.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Fish",
+    "back": "ryba",
+    "phonetic": "/fɪʃ/",
+    "frontExample": "She made a delicious fish stew.",
+    "backExample": "Ona zrobiła pyszną zupę rybną.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Egg",
+    "back": "jajko",
+    "phonetic": "/eɡ/",
+    "frontExample": "I had a boiled egg for breakfast.",
+    "backExample": "Zjadłem gotowane jajko na śniadanie.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Rice",
+    "back": "ryż",
+    "phonetic": "/raɪs/",
+    "frontExample": "We served rice with vegetables.",
+    "backExample": "Podaliśmy ryż z warzywami.",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Pasta",
+    "back": "makaron",
+    "phonetic": "/ˈpæstə/",
+    "frontExample": "I made pasta with tomato sauce.",
+    "backExample": "Zrobiłem makaron z sosem pomidorowym.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Soup",
+    "back": "zupa",
+    "phonetic": "/suːp/",
+    "frontExample": "She prepared hot soup for dinner.",
+    "backExample": "Ona przygotowała gorącą zupę na kolację.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Salad",
+    "back": "sałatka",
+    "phonetic": "/ˈsæləd/",
+    "frontExample": "I ordered a green salad.",
+    "backExample": "Zamówiłem zieloną sałatkę.",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Sauce",
+    "back": "sos",
+    "phonetic": "/sɔːs/",
+    "frontExample": "He added more sauce to his dish.",
+    "backExample": "On dodał więcej sosu do swojego dania.",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Juice",
+    "back": "sok",
+    "phonetic": "/dʒuːs/",
+    "frontExample": "Would you like some orange juice?",
+    "backExample": "Czy chciałbyś trochę soku pomarańczowego?",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Water",
+    "back": "woda",
+    "phonetic": "/ˈwɔːtər/",
+    "frontExample": "Drink plenty of water every day.",
+    "backExample": "Pij dużo wody każdego dnia.",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "Coffee",
+    "back": "kawa",
+    "phonetic": "/ˈkɒfi/",
+    "frontExample": "He drinks coffee every morning.",
+    "backExample": "On pije kawę każdego ranka.",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Tea",
+    "back": "herbata",
+    "phonetic": "/tiː/",
+    "frontExample": "She enjoys a cup of tea in the evening.",
+    "backExample": "Ona lubi filiżankę herbaty wieczorem.",
+    "remembered": false
+  }
+]

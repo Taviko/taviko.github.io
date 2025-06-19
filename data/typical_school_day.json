@@ -1,0 +1,515 @@
+[
+  {
+    "id": 1,
+    "front": "Lesson/Class",
+    "back": "lekcja",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Period",
+    "back": "okres (lekcja)",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Classroom",
+    "back": "sala lekcyjna",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Timetable",
+    "back": "plan lekcji",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Recess",
+    "back": "przerwa",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Break",
+    "back": "przerwa",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Morning assembly",
+    "back": "poranny apel",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "End of the school day",
+    "back": "koniec dnia szkolnego",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Start of the school day",
+    "back": "Początek dnia szkolnego",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "To attend a lesson",
+    "back": "uczestniczyć w lekcji",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "To take notes",
+    "back": "robić notatki",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "To answer a question",
+    "back": "odpowiadać na pytanie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "To ask a question",
+    "back": "zadawać pytanie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "To give a presentation",
+    "back": "przedstawić prezentację",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "To do homework",
+    "back": "odrabiać pracę domową",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "To study for a test",
+    "back": "uczyć się do testu",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "To pass an exam",
+    "back": "zdać egzamin",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "To fail an exam",
+    "back": "oblać egzamin",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "To revise",
+    "back": "powtarzać materiał",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "To participate in class",
+    "back": "uczestniczyć w zajęciach",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "To work in groups",
+    "back": "pracować w grupach",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "To work individually",
+    "back": "pracować indywidualnie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "To make a project",
+    "back": "robić projekt",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Teacher",
+    "back": "nauczyciel",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Student",
+    "back": "uczeń",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Headteacher",
+    "back": "dyrektor szkoły",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Classmate/Schoolmate",
+    "back": "kolega z klasy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Group leader",
+    "back": "lider grupy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Tutor/Supervisor",
+    "back": "wychowawca",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Foreign languages",
+    "back": "języki obce",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Grade",
+    "back": "ocena",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Mark",
+    "back": "stopień",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Pass",
+    "back": "zdać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Fail",
+    "back": "oblać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Test",
+    "back": "test",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Exam",
+    "back": "egzamin",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Homework",
+    "back": "praca domowa",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Assessment",
+    "back": "ocena, sprawdzian",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Project",
+    "back": "projekt, plan",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Finał exam",
+    "back": "egzamin końcowy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Quiz",
+    "back": "quiz",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "To wake up",
+    "back": "budzić się",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "To get up",
+    "back": "wstawać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "To go to school",
+    "back": "iść do szkoły",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "To leave school",
+    "back": "skończyć szkołę",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "To catch the bus",
+    "back": "złapać autobus",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "To go by bike",
+    "back": "jechać rowerem",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "To walk to school",
+    "back": "iść do szkoły pieszo",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "To study",
+    "back": "uczyć się",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "To meet friends",
+    "back": "spotykać się z przyjaciółmi",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "To discuss a topic",
+    "back": "omówić temat",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "To explain",
+    "back": "wyjaśniać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "To listen",
+    "back": "słuchać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "To read aloud",
+    "back": "czytać na głos",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "To write on the board",
+    "back": "pisać na tablicy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "To review",
+    "back": "recenzja, recenzować",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "To test",
+    "back": "testować",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

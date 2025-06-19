@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "front": "Meat",
+    "back": "mięso",
+    "phonetic": "/meat/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Beef",
+    "back": "wołowina",
+    "phonetic": "/beef/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Pork",
+    "back": "wieprzowina",
+    "phonetic": "/pork/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Chicken",
+    "back": "kurczak",
+    "phonetic": "/chicken/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Lamb",
+    "back": "jagnięcina",
+    "phonetic": "/lamb/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Fish",
+    "back": "ryba",
+    "phonetic": "/fish/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Seafood",
+    "back": "owoce morza",
+    "phonetic": "/seafood/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Vegetables",
+    "back": "warzywa",
+    "phonetic": "/vegetables/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Fruits",
+    "back": "owoce",
+    "phonetic": "/fruits/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Cereals",
+    "back": "płatki śniadaniowe",
+    "phonetic": "/cereals/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Bread",
+    "back": "chleb",
+    "phonetic": "/bread/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Rice",
+    "back": "ryż",
+    "phonetic": "/rice/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Pasta",
+    "back": "makaron",
+    "phonetic": "/pasta/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Noodles",
+    "back": "kluski",
+    "phonetic": "/noodles/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Cheese",
+    "back": "ser",
+    "phonetic": "/cheese/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Yogurt",
+    "back": "jogurt",
+    "phonetic": "/yogurt/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Egg",
+    "back": "jajko",
+    "phonetic": "/egg/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Salad",
+    "back": "sałatka",
+    "phonetic": "/salad/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Soup",
+    "back": "zupa",
+    "phonetic": "/soup/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Stew",
+    "back": "gulasz",
+    "phonetic": "/stew/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Sandwich",
+    "back": "kanapka",
+    "phonetic": "/sandwich/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Pizza",
+    "back": "pizza",
+    "phonetic": "/pizza/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Cake",
+    "back": "ciasto",
+    "phonetic": "/cake/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Biscuits",
+    "back": "ciastka",
+    "phonetic": "/biscuits/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Pastry",
+    "back": "ciasto kruche",
+    "phonetic": "/pastry/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Chocolate",
+    "back": "czekolada",
+    "phonetic": "/chocolate/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Ice cream",
+    "back": "lody",
+    "phonetic": "/ice-cream/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Juice",
+    "back": "sok",
+    "phonetic": "/juice/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Tea",
+    "back": "herbata",
+    "phonetic": "/tea/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Coffee",
+    "back": "kawa",
+    "phonetic": "/coffee/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Water",
+    "back": "woda",
+    "phonetic": "/water/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Soft drink",
+    "back": "napój bezalkoholowy",
+    "phonetic": "/soft-drink/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Alcohol",
+    "back": "alkohol",
+    "phonetic": "/alcohol/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Beer",
+    "back": "piwo",
+    "phonetic": "/beer/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Wine",
+    "back": "wino",
+    "phonetic": "/wine/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Breakfast",
+    "back": "śniadanie",
+    "phonetic": "/breakfast/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Lunch",
+    "back": "obiad",
+    "phonetic": "/lunch/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Dinner",
+    "back": "kolacja",
+    "phonetic": "/dinner/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Snack",
+    "back": "przekąska",
+    "phonetic": "/snack/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Supper",
+    "back": "podwieczorek",
+    "phonetic": "/supper/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Dessert",
+    "back": "deser",
+    "phonetic": "/dessert/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Appetizer",
+    "back": "przystawka",
+    "phonetic": "/appetizer/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Main course",
+    "back": "danie główne",
+    "phonetic": "/main-course/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Side dish",
+    "back": "dodatek do dania głównego",
+    "phonetic": "/side-dish/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Starter",
+    "back": "przystawka",
+    "phonetic": "/starter/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Takeaway",
+    "back": "jedzenie na wynos",
+    "phonetic": "/takeaway/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Buffet",
+    "back": "bufet",
+    "phonetic": "/buffet/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Catering",
+    "back": "catering",
+    "phonetic": "/catering/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

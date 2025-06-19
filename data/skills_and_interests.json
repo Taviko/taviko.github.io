@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "front": "Play sports",
+    "back": "uprawiać sport",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Swim",
+    "back": "pływać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Sing",
+    "back": "śpiewać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Dance",
+    "back": "tańczyć",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Read",
+    "back": "czytać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Draw",
+    "back": "rysować",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Paint",
+    "back": "malować",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Write",
+    "back": "pisać",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Play an instrument",
+    "back": "grać na instrumencie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Guitar",
+    "back": "gitara",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Piano",
+    "back": "pianino",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Violin",
+    "back": "skrzypce",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Drums",
+    "back": "perkusja",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Travel",
+    "back": "podróżować",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Cook",
+    "back": "gotować",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Watch movies",
+    "back": "oglądać filmy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Listen to music",
+    "back": "słuchać muzyki",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Do yoga",
+    "back": "uprawiać jogę",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Play chess",
+    "back": "grać w szachy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Gardening",
+    "back": "ogrodnictwo",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Photography",
+    "back": "fotografia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Photography editing",
+    "back": "edycja zdjęć",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Baking",
+    "back": "pieczenie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Sewing",
+    "back": "szycie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Knitting",
+    "back": "robienie na drutach",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Cycling",
+    "back": "jazda na rowerze",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Hiking",
+    "back": "piesze wędrówki",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Fishing",
+    "back": "wędkarstwo",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Camping",
+    "back": "biwakowanie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Playing video games",
+    "back": "granie w gry wideo",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Playing board games",
+    "back": "granie w gry planszowe",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Building models",
+    "back": "budowanie modeli (np. z klocków, samolotów)",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Doing puzzles",
+    "back": "układanie puzzli",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Origami",
+    "back": "składanie origami",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Blogging",
+    "back": "pisanie bloga",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Learning languages",
+    "back": "nauka języków",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Volunteering",
+    "back": "wolontariat",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Meditating",
+    "back": "medytacja",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Social media",
+    "back": "media społecznościowe",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Birdwatching",
+    "back": "obserwowanie ptaków",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Collecting",
+    "back": "kolekcjonowanie (np. znaczków, monet)",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Basketball",
+    "back": "koszykówka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Running",
+    "back": "bieganie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Watching sports",
+    "back": "oglądanie sportu",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Making videos",
+    "back": "robienie filmów",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Travelling by train",
+    "back": "podróżowanie pociągiem",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Swimming in the sea",
+    "back": "pływanie w morzu",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Practicing martial arts",
+    "back": "uprawianie sztuk walki",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Horse riding",
+    "back": "jazda konna, jeździectwo",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "A good memory",
+    "back": "dobra pamięć",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Knowledge of foreign languages",
+    "back": "znajomość języków obcych",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "Playing the cello",
+    "back": "grać na wiolonczeli",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "Driving",
+    "back": "prowadzenie pojazdu",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "Mindfulness",
+    "back": "uważność, rozwaga",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Crafting",
+    "back": "rzemiosło, rękodzieło",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "Yoga",
+    "back": "joga",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

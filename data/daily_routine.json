@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "front": "Wake up",
+    "back": "budzić się",
+    "phonetic": "/weɪk ʌp/",
+    "frontExample": "I usually wake up at 7 a.m.",
+    "backExample": "Zwykle budzę się o 7 rano.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Get up",
+    "back": "wstawać",
+    "phonetic": "/ɡet ʌp/",
+    "frontExample": "I get up right after my alarm rings.",
+    "backExample": "Wstaję zaraz po tym, jak zadzwoni budzik.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Get dressed",
+    "back": "ubierać się",
+    "phonetic": "/ɡet drest/",
+    "frontExample": "He gets dressed before breakfast.",
+    "backExample": "Ubiera się przed śniadaniem.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Have breakfast",
+    "back": "jeść śniadanie",
+    "phonetic": "/hæv ˈbrekfəst/",
+    "frontExample": "We have breakfast together every morning.",
+    "backExample": "Codziennie rano jemy razem śniadanie.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Leave home",
+    "back": "wychodzić z domu",
+    "phonetic": "/liːv həʊm/",
+    "frontExample": "She leaves home at 8 to catch the bus.",
+    "backExample": "Wychodzi z domu o 8, żeby złapać autobus.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Go to school",
+    "back": "iść do szkoły",
+    "phonetic": "/ɡəʊ tə skuːl/",
+    "frontExample": "The children go to school on foot.",
+    "backExample": "Dzieci chodzą do szkoły pieszo.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Go to work",
+    "back": "iść do pracy",
+    "phonetic": "/ɡəʊ tə wɜːk/",
+    "frontExample": "My dad goes to work by car.",
+    "backExample": "Mój tata jeździ do pracy samochodem.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Attend classes",
+    "back": "uczęszczać na zajęcia",
+    "phonetic": "/əˈtend ˈklɑːsɪz/",
+    "frontExample": "I attend all my online classes.",
+    "backExample": "Uczęszczam na wszystkie moje zajęcia online.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Take a break",
+    "back": "robić przerwę",
+    "phonetic": "/teɪk ə breɪk/",
+    "frontExample": "Let’s take a break and go for a coffee.",
+    "backExample": "Zróbmy przerwę i pójdźmy na kawę.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Have lunch",
+    "back": "jeść obiad",
+    "phonetic": "/hæv lʌntʃ/",
+    "frontExample": "We usually have lunch around noon.",
+    "backExample": "Zwykle jemy obiad około południa.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Go back home",
+    "back": "wracać do domu",
+    "phonetic": "/ɡəʊ bæk həʊm/",
+    "frontExample": "I go back home after work.",
+    "backExample": "Wracam do domu po pracy.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Do homework",
+    "back": "odrabiać pracę domową",
+    "phonetic": "/duː ˈhəʊmwɜːk/",
+    "frontExample": "He does his homework after dinner.",
+    "backExample": "Odrabia pracę domową po kolacji.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Relax",
+    "back": "odpoczywać",
+    "phonetic": "/rɪˈlæks/",
+    "frontExample": "I relax by reading a book.",
+    "backExample": "Odpoczywam, czytając książkę.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Watch TV",
+    "back": "oglądać telewizję",
+    "phonetic": "/wɒtʃ ˌtiːˈviː/",
+    "frontExample": "We watch TV in the evening.",
+    "backExample": "Wieczorem oglądamy telewizję.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Play games",
+    "back": "grać w gry",
+    "phonetic": "/pleɪ ɡeɪmz/",
+    "frontExample": "They like to play games together.",
+    "backExample": "Lubią razem grać w gry.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Listen to music",
+    "back": "słuchać muzyki",
+    "phonetic": "/ˈlɪsn tə ˈmjuːzɪk/",
+    "frontExample": "She listens to music while studying.",
+    "backExample": "Słucha muzyki podczas nauki.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Take a shower",
+    "back": "brać prysznic",
+    "phonetic": "/teɪk ə ˈʃaʊə/",
+    "frontExample": "I always take a shower before bed.",
+    "backExample": "Zawsze biorę prysznic przed snem.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Have dinner",
+    "back": "jeść kolację",
+    "phonetic": "/hæv ˈdɪnə/",
+    "frontExample": "We usually have dinner at 6 p.m.",
+    "backExample": "Zazwyczaj jemy kolację o 18.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Go to bed",
+    "back": "iść spać",
+    "phonetic": "/ɡəʊ tə bed/",
+    "frontExample": "He goes to bed very late.",
+    "backExample": "On chodzi spać bardzo późno.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Sleep",
+    "back": "spać",
+    "phonetic": "/sliːp/",
+    "frontExample": "I sleep for about eight hours every night.",
+    "backExample": "Śpię około ośmiu godzin każdej nocy.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Read a book",
+    "back": "czytać książkę",
+    "phonetic": "/riːd ə bʊk/",
+    "frontExample": "She loves to read a book before sleeping.",
+    "backExample": "Uwielbia czytać książkę przed snem.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Exercise",
+    "back": "ćwiczyć",
+    "phonetic": "/ˈeksəsaɪz/",
+    "frontExample": "I exercise three times a week.",
+    "backExample": "Ćwiczę trzy razy w tygodniu.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Go for a walk",
+    "back": "iść na spacer",
+    "phonetic": "/ɡəʊ fə ə wɔːk/",
+    "frontExample": "Let's go for a walk in the park.",
+    "backExample": "Chodźmy na spacer do parku.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Study",
+    "back": "uczyć się",
+    "phonetic": "/ˈstʌdi/",
+    "frontExample": "He stayed home to study for the exam.",
+    "backExample": "Został w domu, żeby uczyć się do egzaminu.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Chat with friends",
+    "back": "rozmawiać z przyjaciółmi",
+    "phonetic": "/tʃæt wɪð frendz/",
+    "frontExample": "They like to chat with friends online.",
+    "backExample": "Lubią rozmawiać z przyjaciółmi online.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Cook dinner",
+    "back": "gotować kolację",
+    "phonetic": "/kʊk ˈdɪnə/",
+    "frontExample": "I'm going to cook dinner tonight.",
+    "backExample": "Dziś wieczorem ugotuję kolację.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Clean up",
+    "back": "sprzątać",
+    "phonetic": "/kliːn ʌp/",
+    "frontExample": "Please clean up your room.",
+    "backExample": "Proszę, posprzątaj swój pokój.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Prepare for the next day",
+    "back": "przygotowywać się na następny dzień",
+    "phonetic": "/prɪˈpeə fə ðə nekst deɪ/",
+    "frontExample": "I always prepare for the next day before sleeping.",
+    "backExample": "Zawsze przygotowuję się na następny dzień przed snem.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Take a nap",
+    "back": "zdrzemnąć się",
+    "phonetic": "/teɪk ə næp/",
+    "frontExample": "He took a short nap after lunch.",
+    "backExample": "Zdrzemnął się na chwilę po obiedzie.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Go to sleep",
+    "back": "zasypiać, zasnąć",
+    "phonetic": "/ɡəʊ tə sliːp/",
+    "frontExample": "I usually go to sleep around midnight.",
+    "backExample": "Zazwyczaj zasypiam około północy.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Go grocery shopping",
+    "back": "iść na zakupy spożywcze",
+    "phonetic": "/ɡəʊ ˈɡrəʊsəri ˈʃɒpɪŋ/",
+    "frontExample": "She goes grocery shopping every Saturday.",
+    "backExample": "Robi zakupy spożywcze w każdą sobotę.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Make the bed",
+    "back": "ścielić łóżko",
+    "phonetic": "/meɪk ðə bed/",
+    "frontExample": "Don't forget to make the bed.",
+    "backExample": "Nie zapomnij pościelić łóżka.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Feed the pet",
+    "back": "karmić zwierzę",
+    "phonetic": "/fiːd ðə pet/",
+    "frontExample": "I need to feed the pet before leaving.",
+    "backExample": "Muszę nakarmić zwierzę przed wyjściem.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Do the laundry",
+    "back": "robić pranie, prać",
+    "phonetic": "/duː ðə ˈlɔːndri/",
+    "frontExample": "She does the laundry on Sundays.",
+    "backExample": "Ona robi pranie w niedziele.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Iron clothes",
+    "back": "prasować ubrania",
+    "phonetic": "/ˈaɪən kləʊðz/",
+    "frontExample": "He irons his clothes every morning.",
+    "backExample": "Codziennie rano prasuje ubrania.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Check the email",
+    "back": "sprawdzać pocztę elektroniczną (email)",
+    "phonetic": "/tʃek ði ˈiːmeɪl/",
+    "frontExample": "I check the email first thing at work.",
+    "backExample": "Najpierw w pracy sprawdzam pocztę.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Meet friends",
+    "back": "spotykać się z przyjaciółmi",
+    "phonetic": "/miːt frendz/",
+    "frontExample": "We meet friends for dinner on Fridays.",
+    "backExample": "W piątki spotykamy się z przyjaciółmi na kolację.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Walk the dog",
+    "back": "wyprowadzać psa",
+    "phonetic": "/wɔːk ðə dɒɡ/",
+    "frontExample": "She walks the dog twice a day.",
+    "backExample": "Wyprowadza psa dwa razy dziennie.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Check social media",
+    "back": "sprawdzać media społecznościowe",
+    "phonetic": "/tʃek ˈsəʊʃl ˈmiːdiə/",
+    "frontExample": "I check social media before bed.",
+    "backExample": "Sprawdzam media społecznościowe przed snem.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Go for a run",
+    "back": "iść pobiegać",
+    "phonetic": "/ɡəʊ fə ə rʌn/",
+    "frontExample": "He goes for a run every morning.",
+    "backExample": "Codziennie rano idzie pobiegać.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Take a bath",
+    "back": "brać kąpiel",
+    "phonetic": "/teɪk ə bɑːθ/",
+    "frontExample": "I like to take a bath to relax.",
+    "backExample": "Lubię wziąć kąpiel, żeby się zrelaksować.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Do housework",
+    "back": "wykonywać prace domowe",
+    "phonetic": "/duː ˈhaʊswɜːk/",
+    "frontExample": "We do housework together on weekends.",
+    "backExample": "W weekendy razem wykonujemy prace domowe.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Go to the dentist",
+    "back": "iść do dentysty",
+    "phonetic": "/ɡəʊ tə ðə ˈdentɪst/",
+    "frontExample": "You should go to the dentist once a year.",
+    "backExample": "Powinieneś chodzić do dentysty raz w roku.",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Go to the hairdresser",
+    "back": "iść do fryzjera",
+    "phonetic": "/ɡəʊ tə ðə ˈheədresə/",
+    "frontExample": "I'm going to the hairdresser this afternoon.",
+    "backExample": "Idę dziś po południu do fryzjera.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Do some chores",
+    "back": "wypełniać obowiązki domowe",
+    "phonetic": "/duː səm tʃɔːz/",
+    "frontExample": "I do some chores before watching TV.",
+    "backExample": "Wypełniam obowiązki domowe przed oglądaniem telewizji.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Get ready for bed",
+    "back": "szykować się do spania",
+    "phonetic": "/ɡet ˈredi fə bed/",
+    "frontExample": "She gets ready for bed at 10 p.m.",
+    "backExample": "Ona szykuje się do spania o 22.",
+    "remembered": false
+  }
+]

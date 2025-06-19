@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "front": "Spacious",
+    "back": "przestronny",
+    "phonetic": "/ˈspeɪʃəs/",
+    "frontExample": "The living room is very spacious and perfect for guests.",
+    "backExample": "Salon jest bardzo przestronny i idealny dla gości.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Cozy",
+    "back": "przytulny",
+    "phonetic": "/ˈkəʊzi/",
+    "frontExample": "I love staying in this cozy little cottage.",
+    "backExample": "Uwielbiam zatrzymywać się w tej przytulnej małej chatce.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Modern",
+    "back": "nowoczesny",
+    "phonetic": "/ˈmɒdən/",
+    "frontExample": "They live in a modern apartment downtown.",
+    "backExample": "Mieszkają w nowoczesnym mieszkaniu w centrum.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Old-fashioned",
+    "back": "staromodny, staroświecki",
+    "phonetic": "/ˌəʊldˈfæʃənd/",
+    "frontExample": "Her kitchen looks quite old-fashioned but charming.",
+    "backExample": "Jej kuchnia wygląda dość staromodnie, ale uroczo.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Bright",
+    "back": "jasny",
+    "phonetic": "/braɪt/",
+    "frontExample": "The house has bright rooms with large windows.",
+    "backExample": "Dom ma jasne pokoje z dużymi oknami.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Dark",
+    "back": "ciemny",
+    "phonetic": "/dɑːk/",
+    "frontExample": "The basement is dark and a bit spooky.",
+    "backExample": "Piwnica jest ciemna i trochę straszna.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Well-equipped",
+    "back": "dobrze wyposażony",
+    "phonetic": "/wel ɪˈkwɪpt/",
+    "frontExample": "It's a well-equipped kitchen with all modern appliances.",
+    "backExample": "To dobrze wyposażona kuchnia ze wszystkimi nowoczesnymi urządzeniami.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Furnished",
+    "back": "umeblowany",
+    "phonetic": "/ˈfɜːnɪʃt/",
+    "frontExample": "The apartment comes fully furnished.",
+    "backExample": "Mieszkanie jest w pełni umeblowane.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Unfurnished",
+    "back": "nieumeblowany",
+    "phonetic": "/ʌnˈfɜːnɪʃt/",
+    "frontExample": "This flat is unfurnished and ready for customization.",
+    "backExample": "To mieszkanie jest nieumeblowane i gotowe do urządzenia.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Comfortable",
+    "back": "wygodny",
+    "phonetic": "/ˈkʌmftəbl/",
+    "frontExample": "The sofa is incredibly comfortable.",
+    "backExample": "Sofa jest niesamowicie wygodna.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Neat",
+    "back": "schludny",
+    "phonetic": "/niːt/",
+    "frontExample": "Her room is always neat and organized.",
+    "backExample": "Jej pokój jest zawsze schludny i uporządkowany.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Messy",
+    "back": "nieporządny, bałaganiarski",
+    "phonetic": "/ˈmesi/",
+    "frontExample": "His desk is messy with papers everywhere.",
+    "backExample": "Jego biurko jest zabałaganione, wszędzie leżą papiery.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Quiet",
+    "back": "cichy",
+    "phonetic": "/ˈkwaɪət/",
+    "frontExample": "I enjoy the quiet neighborhood.",
+    "backExample": "Lubię tę cichą okolicę.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Loud",
+    "back": "głośny",
+    "phonetic": "/laʊd/",
+    "frontExample": "The music from the party was too loud.",
+    "backExample": "Muzyka z imprezy była zbyt głośna.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Clean",
+    "back": "czysty",
+    "phonetic": "/kliːn/",
+    "frontExample": "The kitchen was spotless and clean.",
+    "backExample": "Kuchnia była nieskazitelnie czysta.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Dirty",
+    "back": "brudny",
+    "phonetic": "/ˈdɜːti/",
+    "frontExample": "The floor was dirty after the rain.",
+    "backExample": "Podłoga była brudna po deszczu.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Air-conditioned",
+    "back": "klimatyzowany",
+    "phonetic": "/ˈeə kəndɪʃənd/",
+    "frontExample": "This hotel room is air-conditioned and very cool.",
+    "backExample": "Ten pokój hotelowy jest klimatyzowany i bardzo chłodny.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Heated",
+    "back": "ogrzewany",
+    "phonetic": "/ˈhiːtɪd/",
+    "frontExample": "The whole house is centrally heated.",
+    "backExample": "Cały dom jest ogrzewany centralnie.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Well-maintained",
+    "back": "dobrze utrzymany",
+    "phonetic": "/wel ˌmeɪnˈteɪnd/",
+    "frontExample": "It’s a well-maintained garden with fresh flowers.",
+    "backExample": "To dobrze utrzymany ogród z świeżymi kwiatami.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Charming",
+    "back": "uroczy",
+    "phonetic": "/ˈtʃɑːmɪŋ/",
+    "frontExample": "We stayed in a charming little inn by the lake.",
+    "backExample": "Zatrzymaliśmy się w uroczej małej gospodzie nad jeziorem.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Tiny",
+    "back": "malutki",
+    "phonetic": "/ˈtaɪni/",
+    "frontExample": "We live in a tiny studio apartment.",
+    "backExample": "Mieszkamy w malutkiej kawalerce.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Large",
+    "back": "duży",
+    "phonetic": "/lɑːdʒ/",
+    "frontExample": "They bought a large house in the countryside.",
+    "backExample": "Kupili duży dom na wsi.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Compact",
+    "back": "kompaktowy",
+    "phonetic": "/ˈkɒmpækt/",
+    "frontExample": "This compact kitchen has everything you need.",
+    "backExample": "Ta kompaktowa kuchnia ma wszystko, czego potrzebujesz.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Stylish",
+    "back": "stylowy",
+    "phonetic": "/ˈstaɪlɪʃ/",
+    "frontExample": "Her apartment is very stylish and modern.",
+    "backExample": "Jej mieszkanie jest bardzo stylowe i nowoczesne.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Rustic",
+    "back": "rustykalny",
+    "phonetic": "/ˈrʌstɪk/",
+    "frontExample": "The cottage has a rustic charm.",
+    "backExample": "Chatka ma rustykalny urok.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Minimalist",
+    "back": "minimalistyczny",
+    "phonetic": "/ˌmɪnɪˈməlɪst/",
+    "frontExample": "He prefers a minimalist interior design.",
+    "backExample": "Woli minimalistyczny wystrój wnętrza.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Luxury",
+    "back": "luksusowy",
+    "phonetic": "/ˈlʌkʃəri/",
+    "frontExample": "The hotel offers luxury rooms with ocean views.",
+    "backExample": "Hotel oferuje luksusowe pokoje z widokiem na ocean.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Sleek",
+    "back": "elegancki, nowoczesny",
+    "phonetic": "/sliːk/",
+    "frontExample": "They chose a sleek black sofa for their living room.",
+    "backExample": "Wybrali elegancką czarną sofę do salonu.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Vintage",
+    "back": "vintage, stary",
+    "phonetic": "/ˈvɪntɪdʒ/",
+    "frontExample": "She collects vintage furniture.",
+    "backExample": "Kolekcjonuje meble vintage.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Smart home",
+    "back": "inteligentny dom",
+    "phonetic": "/smɑːt həʊm/",
+    "frontExample": "Their smart home system controls everything.",
+    "backExample": "System ich inteligentnego domu kontroluje wszystko.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Light-filled",
+    "back": "pełen światła",
+    "phonetic": "/laɪt fɪld/",
+    "frontExample": "This light-filled room is perfect for reading.",
+    "backExample": "Ten pełen światła pokój jest idealny do czytania.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Suburban",
+    "back": "podmiejski",
+    "phonetic": "/səˈbɜːbən/",
+    "frontExample": "They moved to a suburban neighborhood.",
+    "backExample": "Przeprowadzili się na przedmieścia.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "City-center",
+    "back": "w centrum miasta",
+    "phonetic": "/ˈsɪti ˈsentə/",
+    "frontExample": "We live in a city-center apartment.",
+    "backExample": "Mieszkamy w mieszkaniu w centrum miasta.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Overcrowded",
+    "back": "przepełniony",
+    "phonetic": "/ˌəʊvəˈkraʊdɪd/",
+    "frontExample": "The train was overcrowded with passengers.",
+    "backExample": "Pociąg był przepełniony pasażerami.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Warm",
+    "back": "ciepły",
+    "phonetic": "/wɔːm/",
+    "frontExample": "The room feels warm and welcoming.",
+    "backExample": "Pokój wydaje się ciepły i przytulny.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Secure",
+    "back": "bezpieczny",
+    "phonetic": "/sɪˈkjʊə/",
+    "frontExample": "The building is very secure with cameras and guards.",
+    "backExample": "Budynek jest bardzo bezpieczny, z kamerami i ochroną.",
+    "remembered": false
+  }
+]

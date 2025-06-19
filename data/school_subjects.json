@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "front": "Mathematics",
+    "back": "matematyka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Science",
+    "back": "nauki ścisłe",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Geography",
+    "back": "geografia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "History",
+    "back": "historia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "English",
+    "back": "język angielski",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Physical Education (PE)",
+    "back": "wychowanie fizyczne (WF)",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Art",
+    "back": "plastyka, sztuka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Music",
+    "back": "muzyka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Chemistry",
+    "back": "chemia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Physics",
+    "back": "fizyka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Biology",
+    "back": "biologia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Languages",
+    "back": "języki obce",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Computer Science/IT (Information Technology)",
+    "back": "informatyka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Religious Studies",
+    "back": "religioznawstwo",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Civics",
+    "back": "wiedza o społeczeństwie",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Drama",
+    "back": "zajęcia teatralne, teatr",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Technology",
+    "back": "technika",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Social Studies",
+    "back": "nauki społeczne",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Home Economics",
+    "back": "Edukacja domowa",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Philosophy",
+    "back": "filozofia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Health Education",
+    "back": "edukacja zdrowotna",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Business Studies",
+    "back": "przedsiębiorczość",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Graphic Design",
+    "back": "projektowanie graficzne",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Extracurricular activities",
+    "back": "zajęcia pozalekcyjne",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Sports club",
+    "back": "klub sportowy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Drama club",
+    "back": "kółko teatralne, teatr szkolny",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Choir",
+    "back": "chór",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Art club",
+    "back": "koło plastyczne, klub plastyczny",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Debate club",
+    "back": "klub dyskusyjny",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Dance club",
+    "back": "klub taneczny",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Science club",
+    "back": "koło naukowe, klub naukowy",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Volunteering",
+    "back": "wolontariat",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

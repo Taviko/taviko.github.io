@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "front": "Living room",
+    "back": "salon",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Kitchen",
+    "back": "kuchnia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Bathroom",
+    "back": "łazienka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Bedroom",
+    "back": "sypialnia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Dining room",
+    "back": "jadalnia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Hall",
+    "back": "hol",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Attic",
+    "back": "strych",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Basement",
+    "back": "piwnica",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Garage",
+    "back": "garaż",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Garden",
+    "back": "ogród",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Laundry room",
+    "back": "pralnia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Study",
+    "back": "gabinet",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Playroom",
+    "back": "pokój zabaw",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Home office",
+    "back": "biuro domowe",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Guest room",
+    "back": "pokój gościnny",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Pantry",
+    "back": "spiżarnia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Closet",
+    "back": "schowek/garderoba",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Balcony",
+    "back": "balkon",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Terrace",
+    "back": "taras",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Porch",
+    "back": "ganek",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Deck",
+    "back": "drewniany taras",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Roof",
+    "back": "Dach",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Stairs",
+    "back": "schody",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Corridor",
+    "back": "korytarz",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Entrance",
+    "back": "wejście",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Cellar",
+    "back": "piwniczka",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Conservatory",
+    "back": "oranżeria, szklarnia",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Workshop",
+    "back": "warsztat",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Loft",
+    "back": "mieszkanie typu loft/poddasze użytkowe",
+    "phonetic": "",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "front": "Full-time",
+    "back": "na pełny etat",
+    "phonetic": "/full-time/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Part-time",
+    "back": "na niepełny etat",
+    "phonetic": "/part-time/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Shift work",
+    "back": "praca zmianowa",
+    "phonetic": "/shift-work/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Flexible hours",
+    "back": "elastyczne godziny pracy",
+    "phonetic": "/flexible-hours/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Overtime",
+    "back": "nadgodziny",
+    "phonetic": "/overtime/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Night shift",
+    "back": "nocna zmiana",
+    "phonetic": "/night-shift/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Weekend work",
+    "back": "praca w weekendy",
+    "phonetic": "/weekend-work/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Temporary",
+    "back": "tymczasowy",
+    "phonetic": "/temporary/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Permanent",
+    "back": "stały",
+    "phonetic": "/permanent/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Freelance",
+    "back": "praca na zlecenie (freelancer)",
+    "phonetic": "/freelance/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Work from home",
+    "back": "pracować zdalnie (z domu)",
+    "phonetic": "/work-from-home/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Office",
+    "back": "biuro",
+    "phonetic": "/office/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Factory",
+    "back": "fabryka",
+    "phonetic": "/factory/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Shop",
+    "back": "sklep",
+    "phonetic": "/shop/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Warehouse",
+    "back": "magazyn",
+    "phonetic": "/warehouse/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Construction site",
+    "back": "plac budowy",
+    "phonetic": "/construction-site/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Hospital",
+    "back": "szpital",
+    "phonetic": "/hospital/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "School",
+    "back": "szkoła",
+    "phonetic": "/school/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Restaurant",
+    "back": "restauracja",
+    "phonetic": "/restaurant/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Hotel",
+    "back": "hotel",
+    "phonetic": "/hotel/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Laboratory",
+    "back": "laboratorium",
+    "phonetic": "/laboratory/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Studio",
+    "back": "studio (np. telewizyjne, fotograficzne)",
+    "phonetic": "/studio/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Farm",
+    "back": "farma (gospodarstwo)",
+    "phonetic": "/farm/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Workshop",
+    "back": "warsztat",
+    "phonetic": "/workshop/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Store",
+    "back": "sklep",
+    "phonetic": "/store/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Headquaters",
+    "back": "siedziba główna",
+    "phonetic": "/headquaters/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Office building",
+    "back": "budynek biurowy",
+    "phonetic": "/office-building/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Remote location",
+    "back": "odległa lokalizacja",
+    "phonetic": "/remote-location/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Open-plan office",
+    "back": "biuro z otwartą przestrzenią (open space)",
+    "phonetic": "/open-plan-office/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Co-working space",
+    "back": "wspólna przestrzeń do pracy",
+    "phonetic": "/co-working-space/",
+    "frontExample": "",
+    "backExample": "",
+    "remembered": false
+  }
+]

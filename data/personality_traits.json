@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "front": "Friendly",
+    "back": "przyjazny",
+    "phonetic": "/friendly/",
+    "frontExample": "My friend is very friendly.",
+    "backExample": "Mój przyjaciel jest bardzo przyjazny.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Shy",
+    "back": "nieśmiały",
+    "phonetic": "/shy/",
+    "frontExample": "My friend is very shy.",
+    "backExample": "Mój przyjaciel jest bardzo nieśmiały.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Polite",
+    "back": "uprzejmy",
+    "phonetic": "/polite/",
+    "frontExample": "My friend is very polite.",
+    "backExample": "Mój przyjaciel jest bardzo uprzejmy.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Rude",
+    "back": "niegrzeczny",
+    "phonetic": "/rude/",
+    "frontExample": "My friend is very rude.",
+    "backExample": "Mój przyjaciel jest bardzo niegrzeczny.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Honest",
+    "back": "szczery",
+    "phonetic": "/honest/",
+    "frontExample": "My friend is very honest.",
+    "backExample": "Mój przyjaciel jest bardzo szczery.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Lazy",
+    "back": "leniwy",
+    "phonetic": "/lazy/",
+    "frontExample": "My friend is very lazy.",
+    "backExample": "Mój przyjaciel jest bardzo leniwy.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Clever",
+    "back": "mądry",
+    "phonetic": "/clever/",
+    "frontExample": "My friend is very clever.",
+    "backExample": "Mój przyjaciel jest bardzo mądry.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Funny",
+    "back": "zabawny",
+    "phonetic": "/funny/",
+    "frontExample": "My friend is very funny.",
+    "backExample": "Mój przyjaciel jest bardzo zabawny.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Creative",
+    "back": "kreatywny",
+    "phonetic": "/creative/",
+    "frontExample": "My friend is very creative.",
+    "backExample": "Mój przyjaciel jest bardzo kreatywny.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Talkative",
+    "back": "gadatliwy",
+    "phonetic": "/talkative/",
+    "frontExample": "My friend is very talkative.",
+    "backExample": "Mój przyjaciel jest bardzo gadatliwy.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Serious",
+    "back": "poważny",
+    "phonetic": "/serious/",
+    "frontExample": "My friend is very serious.",
+    "backExample": "Mój przyjaciel jest bardzo poważny.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Generous",
+    "back": "hojny",
+    "phonetic": "/generous/",
+    "frontExample": "My friend is very generous.",
+    "backExample": "Mój przyjaciel jest bardzo hojny.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Kind",
+    "back": "miły",
+    "phonetic": "/kind/",
+    "frontExample": "My friend is very kind.",
+    "backExample": "Mój przyjaciel jest bardzo miły.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Nervous",
+    "back": "nerwowy",
+    "phonetic": "/nervous/",
+    "frontExample": "My friend is very nervous.",
+    "backExample": "Mój przyjaciel jest bardzo nerwowy.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Optimistic",
+    "back": "optymistyczny",
+    "phonetic": "/optimistic/",
+    "frontExample": "My friend is very optimistic.",
+    "backExample": "Mój przyjaciel jest bardzo optymistyczny.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Hardworking",
+    "back": "pracowity",
+    "phonetic": "/hardworking/",
+    "frontExample": "My friend is very hardworking.",
+    "backExample": "Mój przyjaciel jest bardzo pracowity.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Sensitive",
+    "back": "wrażliwy",
+    "phonetic": "/sensitive/",
+    "frontExample": "My friend is very sensitive.",
+    "backExample": "Mój przyjaciel jest bardzo wrażliwy.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Confident",
+    "back": "pewny siebie",
+    "phonetic": "/confident/",
+    "frontExample": "My friend is very confident.",
+    "backExample": "Mój przyjaciel jest bardzo pewny siebie.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Responsible",
+    "back": "odpowiedzialny",
+    "phonetic": "/responsible/",
+    "frontExample": "My friend is very responsible.",
+    "backExample": "Mój przyjaciel jest bardzo odpowiedzialny.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Selfish",
+    "back": "samolubny",
+    "phonetic": "/selfish/",
+    "frontExample": "My friend is very selfish.",
+    "backExample": "Mój przyjaciel jest bardzo samolubny.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Reliable",
+    "back": "niezawodny",
+    "phonetic": "/reliable/",
+    "frontExample": "My friend is very reliable.",
+    "backExample": "Mój przyjaciel jest bardzo niezawodny.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Patient",
+    "back": "cierpliwy",
+    "phonetic": "/patient/",
+    "frontExample": "My friend is very patient.",
+    "backExample": "Mój przyjaciel jest bardzo cierpliwy.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Courageous",
+    "back": "odważny",
+    "phonetic": "/courageous/",
+    "frontExample": "My friend is very courageous.",
+    "backExample": "Mój przyjaciel jest bardzo odważny.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Curious",
+    "back": "ciekawski",
+    "phonetic": "/curious/",
+    "frontExample": "My friend is very curious.",
+    "backExample": "Mój przyjaciel jest bardzo ciekawski.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Loyal",
+    "back": "lojalny",
+    "phonetic": "/loyal/",
+    "frontExample": "My friend is very loyal.",
+    "backExample": "Mój przyjaciel jest bardzo lojalny.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Ambitious",
+    "back": "ambitny",
+    "phonetic": "/ambitious/",
+    "frontExample": "My friend is very ambitious.",
+    "backExample": "Mój przyjaciel jest bardzo ambitny.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Bossy",
+    "back": "apodyktyczny",
+    "phonetic": "/bossy/",
+    "frontExample": "My friend is very bossy.",
+    "backExample": "Mój przyjaciel jest bardzo apodyktyczny.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Tolerant",
+    "back": "tolerancyjny",
+    "phonetic": "/tolerant/",
+    "frontExample": "My friend is very tolerant.",
+    "backExample": "Mój przyjaciel jest bardzo tolerancyjny.",
+    "remembered": false
+  }
+]

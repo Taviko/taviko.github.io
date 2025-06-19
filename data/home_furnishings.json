@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "front": "Armchair",
+    "back": "fotel",
+    "phonetic": "/ˈɑːmˌtʃeə/",
+    "frontExample": "He sat in a comfortable armchair and started reading.",
+    "backExample": "Usiadł w wygodnym fotelu i zaczął czytać.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Bed",
+    "back": "łóżko",
+    "phonetic": "/bed/",
+    "frontExample": "She went to bed early after a long day.",
+    "backExample": "Poszła spać wcześnie po długim dniu.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Bookcase",
+    "back": "regał na książki",
+    "phonetic": "/ˈbʊk.keɪs/",
+    "frontExample": "The bookcase was filled with mystery novels.",
+    "backExample": "Regał na książki był pełen powieści kryminalnych.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Cabinet",
+    "back": "szafka",
+    "phonetic": "/ˈkæb.ɪ.nət/",
+    "frontExample": "I found the plates in the top kitchen cabinet.",
+    "backExample": "Znalazłem talerze w górnej szafce kuchennej.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Chair",
+    "back": "krzesło",
+    "phonetic": "/tʃeə/",
+    "frontExample": "He pulled out a chair and invited me to sit down.",
+    "backExample": "Wyciągnął krzesło i zaprosił mnie do siedzenia.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Coffe table",
+    "back": "stolik kawowy",
+    "phonetic": "/ˈkɒ.fi ˌteɪ.bəl/",
+    "frontExample": "The coffee table had magazines scattered on it.",
+    "backExample": "Na stoliku kawowym porozrzucane były czasopisma.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Couch/Sofa",
+    "back": "kanapa, sofa",
+    "phonetic": "/kaʊtʃ/ or /ˈsəʊ.fə/",
+    "frontExample": "We watched a movie together on the couch.",
+    "backExample": "Oglądaliśmy razem film na kanapie.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Desk",
+    "back": "biurko",
+    "phonetic": "/desk/",
+    "frontExample": "Her desk was neatly organized with pens and papers.",
+    "backExample": "Jej biurko było starannie uporządkowane z długopisami i papierami.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Dining table",
+    "back": "stół jadalny",
+    "phonetic": "/ˈdaɪ.nɪŋ ˌteɪ.bəl/",
+    "frontExample": "We gathered around the dining table for dinner.",
+    "backExample": "Zebraliśmy się przy stole jadalnym na kolację.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Dresser",
+    "back": "komoda, kredens",
+    "phonetic": "/ˈdres.ər/",
+    "frontExample": "She opened the dresser drawer to get a T-shirt.",
+    "backExample": "Otworzyła szufladę komody, żeby wziąć koszulkę.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Wardrobe",
+    "back": "szafa",
+    "phonetic": "/ˈwɔː.drəʊb/",
+    "frontExample": "His wardrobe was full of winter clothes.",
+    "backExample": "Jego szafa była pełna zimowych ubrań.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Nightstand/Night table",
+    "back": "stolik nocny",
+    "phonetic": "/ˈnaɪt.stænd/ or /ˈnaɪt ˌteɪ.bəl/",
+    "frontExample": "He put his glasses on the nightstand before sleeping.",
+    "backExample": "Położył okulary na stoliku nocnym przed snem.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Recliner",
+    "back": "fotel rozkładany",
+    "phonetic": "/rɪˈklaɪ.nər/",
+    "frontExample": "The recliner is perfect for relaxing after work.",
+    "backExample": "Fotel rozkładany jest idealny do relaksu po pracy.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Bookshelf",
+    "back": "półka na książki",
+    "phonetic": "/ˈbʊk.ʃelf/",
+    "frontExample": "The bookshelf collapsed under the weight of the books.",
+    "backExample": "Półka na książki zawaliła się pod ciężarem książek.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Drawer",
+    "back": "szuflada",
+    "phonetic": "/drɔːr/",
+    "frontExample": "She keeps her jewelry in the top drawer.",
+    "backExample": "Trzyma swoją biżuterię w górnej szufladzie.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Cupboard",
+    "back": "szafka kuchenna, szafki",
+    "phonetic": "/ˈkʌb.əd/",
+    "frontExample": "There are fresh towels in the bathroom cupboard.",
+    "backExample": "W szafce łazienkowej są czyste ręczniki.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Chairs",
+    "back": "krzesła",
+    "phonetic": "/tʃeəz/",
+    "frontExample": "The chairs around the table were all different colors.",
+    "backExample": "Krzesła wokół stołu były w różnych kolorach.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Fridge",
+    "back": "lodówka",
+    "phonetic": "/frɪdʒ/",
+    "frontExample": "He opened the fridge and took out some juice.",
+    "backExample": "Otworzył lodówkę i wyjął sok.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Freezer",
+    "back": "zamrażarka",
+    "phonetic": "/ˈfriː.zər/",
+    "frontExample": "The freezer is full of frozen vegetables.",
+    "backExample": "Zamrażarka jest pełna mrożonych warzyw.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Microwave",
+    "back": "mikrofalówka",
+    "phonetic": "/ˈmaɪ.krə.weɪv/",
+    "frontExample": "She heated the soup in the microwave.",
+    "backExample": "Podgrzała zupę w mikrofalówce.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Oven",
+    "back": "piekarnik",
+    "phonetic": "/ˈʌvn/",
+    "frontExample": "She baked a delicious cake in the oven.",
+    "backExample": "Upiekła pyszne ciasto w piekarniku.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Dishwasher",
+    "back": "zmywarka",
+    "phonetic": "/ˈdɪʃˌwɒʃər/",
+    "frontExample": "I put the dirty dishes in the dishwasher.",
+    "backExample": "Włożyłem brudne naczynia do zmywarki.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Washing machine",
+    "back": "pralka",
+    "phonetic": "/ˈwɒʃɪŋ məˌʃiːn/",
+    "frontExample": "The washing machine is running with a load of towels.",
+    "backExample": "Pralka pierze ręczniki.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Iron",
+    "back": "żelazko",
+    "phonetic": "/ˈaɪən/",
+    "frontExample": "He used the iron to straighten his shirt.",
+    "backExample": "Użył żelazka, żeby wyprasować koszulę.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Toaster",
+    "back": "toster, opiekacz",
+    "phonetic": "/ˈtəʊstər/",
+    "frontExample": "She made toast using the new toaster.",
+    "backExample": "Zrobiła tosty, używając nowego tostera.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Blender",
+    "back": "blender",
+    "phonetic": "/ˈblɛndər/",
+    "frontExample": "He mixed the smoothie in a high-speed blender.",
+    "backExample": "Zmiksował smoothie w szybkobieżnym blenderze.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Vacuum cleaner",
+    "back": "odkurzacz",
+    "phonetic": "/ˈvækjuːm ˌkliːnər/",
+    "frontExample": "The vacuum cleaner removed all the dust from the carpet.",
+    "backExample": "Odkurzacz usunął cały kurz z dywanu.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Coffee maker",
+    "back": "ekspres do kawy",
+    "phonetic": "/ˈkɒfi ˌmeɪkər/",
+    "frontExample": "I can't start my day without my coffee maker.",
+    "backExample": "Nie mogę zacząć dnia bez mojego ekspresu do kawy.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Fan",
+    "back": "wentylator",
+    "phonetic": "/fæn/",
+    "frontExample": "We turned on the fan because it was so hot.",
+    "backExample": "Włączyliśmy wentylator, bo było bardzo gorąco.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Air conditioner",
+    "back": "klimatyzator",
+    "phonetic": "/ˈeə kənˌdɪʃənər/",
+    "frontExample": "The air conditioner cooled the room quickly.",
+    "backExample": "Klimatyzator szybko ochłodził pokój.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Kettle",
+    "back": "czajnik",
+    "phonetic": "/ˈkɛtl/",
+    "frontExample": "She boiled water in the kettle for tea.",
+    "backExample": "Zagotowała wodę w czajniku na herbatę.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Hair dryer",
+    "back": "suszarka do włosów",
+    "phonetic": "/ˈheə ˌdraɪər/",
+    "frontExample": "He used the hair dryer after taking a shower.",
+    "backExample": "Użył suszarki do włosów po prysznicu.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Television (TV)",
+    "back": "telewizor",
+    "phonetic": "/ˈtelɪˌvɪʒən/",
+    "frontExample": "They watched a documentary on television.",
+    "backExample": "Oglądali dokument w telewizji.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Computer",
+    "back": "komputer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "frontExample": "She works from home using her computer.",
+    "backExample": "Pracuje zdalnie, używając swojego komputera.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Printer",
+    "back": "drukarka",
+    "phonetic": "/ˈprɪntər/",
+    "frontExample": "I printed the report using the office printer.",
+    "backExample": "Wydrukowałem raport na drukarce biurowej.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "Radio",
+    "back": "radio",
+    "phonetic": "/ˈreɪdiəʊ/",
+    "frontExample": "He listens to the news on the radio every morning.",
+    "backExample": "Codziennie rano słucha wiadomości w radiu.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Lamp",
+    "back": "lampa",
+    "phonetic": "/læmp/",
+    "frontExample": "The lamp on the desk provides great lighting.",
+    "backExample": "Lampa na biurku daje świetne oświetlenie.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Clock",
+    "back": "zegar",
+    "phonetic": "/klɒk/",
+    "frontExample": "There’s a large clock hanging above the fireplace.",
+    "backExample": "Nad kominkiem wisi duży zegar.",
+    "remembered": false
+  },
+  {
+    "id": 39,
+    "front": "Alarm clock",
+    "back": "budzik",
+    "phonetic": "/əˈlɑːm klɒk/",
+    "frontExample": "My alarm clock went off at 6 a.m.",
+    "backExample": "Mój budzik zadzwonił o szóstej rano.",
+    "remembered": false
+  },
+  {
+    "id": 40,
+    "front": "Ironing board",
+    "back": "deska do prasowania",
+    "phonetic": "/ˈaɪənɪŋ bɔːd/",
+    "frontExample": "She unfolded the ironing board to press her clothes.",
+    "backExample": "Rozłożyła deskę do prasowania, żeby wyprasować ubrania.",
+    "remembered": false
+  },
+  {
+    "id": 41,
+    "front": "Heater",
+    "back": "grzejnik",
+    "phonetic": "/ˈhiːtə/",
+    "frontExample": "The heater kept the room warm during the cold night.",
+    "backExample": "Grzejnik utrzymywał ciepło w pokoju podczas zimnej nocy.",
+    "remembered": false
+  },
+  {
+    "id": 42,
+    "front": "Pots and pans",
+    "back": "garnki i patelnie",
+    "phonetic": "/pɒts ənd pænz/",
+    "frontExample": "She bought new pots and pans for her kitchen.",
+    "backExample": "Kupiła nowe garnki i patelnie do swojej kuchni.",
+    "remembered": false
+  },
+  {
+    "id": 43,
+    "front": "Cutlery",
+    "back": "sztućce",
+    "phonetic": "/ˈkʌtləri/",
+    "frontExample": "The cutlery was neatly arranged on the table.",
+    "backExample": "Sztućce były starannie ułożone na stole.",
+    "remembered": false
+  },
+  {
+    "id": 44,
+    "front": "Plates",
+    "back": "talerze",
+    "phonetic": "/pleɪts/",
+    "frontExample": "He stacked the plates in the cupboard.",
+    "backExample": "Ułożył talerze w szafce.",
+    "remembered": false
+  },
+  {
+    "id": 45,
+    "front": "Bowls",
+    "back": "miski",
+    "phonetic": "/bəʊlz/",
+    "frontExample": "She served the soup in ceramic bowls.",
+    "backExample": "Podała zupę w ceramicznych miskach.",
+    "remembered": false
+  },
+  {
+    "id": 46,
+    "front": "Glasses",
+    "back": "szklanki",
+    "phonetic": "/ˈɡlɑːsɪz/",
+    "frontExample": "The glasses were sparkling clean.",
+    "backExample": "Szklanki były lśniąco czyste.",
+    "remembered": false
+  },
+  {
+    "id": 47,
+    "front": "Mugs",
+    "back": "kubki",
+    "phonetic": "/mʌɡz/",
+    "frontExample": "He drank his coffee from a large mug.",
+    "backExample": "Pił kawę z dużego kubka.",
+    "remembered": false
+  },
+  {
+    "id": 48,
+    "front": "Sink",
+    "back": "zlew, umywalka",
+    "phonetic": "/sɪŋk/",
+    "frontExample": "The sink was full of dirty dishes.",
+    "backExample": "Zlew był pełen brudnych naczyń.",
+    "remembered": false
+  },
+  {
+    "id": 49,
+    "front": "Stove",
+    "back": "kuchenka",
+    "phonetic": "/stəʊv/",
+    "frontExample": "The soup is simmering on the stove.",
+    "backExample": "Zupa gotuje się na kuchence.",
+    "remembered": false
+  },
+  {
+    "id": 50,
+    "front": "Frying pan",
+    "back": "patelnia",
+    "phonetic": "/ˈfraɪɪŋ pæn/",
+    "frontExample": "She fried the eggs in a non-stick frying pan.",
+    "backExample": "Usmażyła jajka na nieprzywierającej patelni.",
+    "remembered": false
+  },
+  {
+    "id": 51,
+    "front": "Spatula",
+    "back": "łopatka, szpatułka",
+    "phonetic": "/ˈspætʃələ/",
+    "frontExample": "He flipped the pancake with a spatula.",
+    "backExample": "Przewrócił naleśnik łopatką.",
+    "remembered": false
+  },
+  {
+    "id": 52,
+    "front": "Can opener",
+    "back": "otwieracz do puszek",
+    "phonetic": "/kæn ˈəʊpənə/",
+    "frontExample": "I need a can opener to open this tin.",
+    "backExample": "Potrzebuję otwieracza do puszek, żeby otworzyć tę konserwę.",
+    "remembered": false
+  },
+  {
+    "id": 53,
+    "front": "Peeler",
+    "back": "obieraczka",
+    "phonetic": "/ˈpiːlə/",
+    "frontExample": "Use a peeler to remove the skin from the potatoes.",
+    "backExample": "Użyj obieraczki, aby usunąć skórkę z ziemniaków.",
+    "remembered": false
+  },
+  {
+    "id": 54,
+    "front": "Shower",
+    "back": "prysznic",
+    "phonetic": "/ˈʃaʊə/",
+    "frontExample": "I take a shower every morning.",
+    "backExample": "Biorę prysznic każdego ranka.",
+    "remembered": false
+  },
+  {
+    "id": 55,
+    "front": "Bathtub",
+    "back": "wanna",
+    "phonetic": "/ˈbɑːθtʌb/",
+    "frontExample": "The children splashed water all over the bathtub.",
+    "backExample": "Dzieci chlapały wodą po całej wannie.",
+    "remembered": false
+  },
+  {
+    "id": 56,
+    "front": "Mirror",
+    "back": "lustro",
+    "phonetic": "/ˈmɪrə/",
+    "frontExample": "She looked at herself in the mirror.",
+    "backExample": "Spojrzała na siebie w lustrze.",
+    "remembered": false
+  },
+  {
+    "id": 57,
+    "front": "Toilet",
+    "back": "toaleta",
+    "phonetic": "/ˈtɔɪlət/",
+    "frontExample": "The toilet is at the end of the hallway.",
+    "backExample": "Toaleta znajduje się na końcu korytarza.",
+    "remembered": false
+  },
+  {
+    "id": 58,
+    "front": "Towel",
+    "back": "ręcznik",
+    "phonetic": "/ˈtaʊəl/",
+    "frontExample": "He grabbed a clean towel after his shower.",
+    "backExample": "Sięgnął po czysty ręcznik po prysznicu.",
+    "remembered": false
+  },
+  {
+    "id": 59,
+    "front": "Toothbrush",
+    "back": "szczoteczka do zębów",
+    "phonetic": "/ˈtuːθbrʌʃ/",
+    "frontExample": "Don’t forget to pack your toothbrush.",
+    "backExample": "Nie zapomnij spakować szczoteczki do zębów.",
+    "remembered": false
+  },
+  {
+    "id": 60,
+    "front": "Toothpaste",
+    "back": "pasta do zębów",
+    "phonetic": "/ˈtuːθpeɪst/",
+    "frontExample": "She squeezed some toothpaste onto her brush.",
+    "backExample": "Wycisnęła trochę pasty na szczoteczkę.",
+    "remembered": false
+  }
+]

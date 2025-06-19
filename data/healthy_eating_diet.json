@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "front": "Healthy",
+    "back": "zdrowy",
+    "phonetic": "/ˈhelθi/",
+    "frontExample": "She stays healthy by eating vegetables and exercising regularly.",
+    "backExample": "Ona pozostaje zdrowa, jedząc warzywa i regularnie ćwicząc.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Balanced diet",
+    "back": "zrównoważona dieta",
+    "phonetic": "/ˈbælənst ˈdaɪət/",
+    "frontExample": "A balanced diet includes fruits, vegetables, and lean proteins.",
+    "backExample": "Zrównoważona dieta zawiera owoce, warzywa i chude białka.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Nutrient",
+    "back": "składnik odżywczy",
+    "phonetic": "/ˈnjuːtriənt/",
+    "frontExample": "This fruit is packed with every essential nutrient.",
+    "backExample": "Ten owoc zawiera każdy niezbędny składnik odżywczy.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Vitamins",
+    "back": "witaminy",
+    "phonetic": "/ˈvɪtəmɪnz/",
+    "frontExample": "Citrus fruits are a great source of vitamins.",
+    "backExample": "Owoce cytrusowe są świetnym źródłem witamin.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Minerals",
+    "back": "minerały",
+    "phonetic": "/ˈmɪnərəlz/",
+    "frontExample": "Your body needs minerals like calcium and iron to function well.",
+    "backExample": "Twoje ciało potrzebuje minerałów takich jak wapń i żelazo, aby dobrze funkcjonować.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Protein",
+    "back": "białko",
+    "phonetic": "/ˈprəʊtiːn/",
+    "frontExample": "Eggs are an excellent source of protein.",
+    "backExample": "Jajka to doskonałe źródło białka.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Carbohydrates",
+    "back": "węglowodany",
+    "phonetic": "/ˌkɑːbəʊˈhaɪdreɪts/",
+    "frontExample": "Carbohydrates provide the energy we need for daily activities.",
+    "backExample": "Węglowodany dostarczają energii potrzebnej do codziennych aktywności.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Fat",
+    "back": "tłuszcz",
+    "phonetic": "/fæt/",
+    "frontExample": "Too much fat in the diet can lead to health problems.",
+    "backExample": "Zbyt dużo tłuszczu w diecie może prowadzić do problemów zdrowotnych.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Fiber",
+    "back": "błonnik",
+    "phonetic": "/ˈfaɪbə(r)/",
+    "frontExample": "Fiber helps regulate your digestive system.",
+    "backExample": "Błonnik pomaga regulować układ trawienny.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Sugar",
+    "back": "cukier",
+    "phonetic": "/ˈʃʊɡə(r)/",
+    "frontExample": "Try to reduce your sugar intake to stay fit.",
+    "backExample": "Spróbuj ograniczyć spożycie cukru, aby zachować formę.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Calories",
+    "back": "wartość kaloryczna, kalorie",
+    "phonetic": "/ˈkæləriːz/",
+    "frontExample": "The label says this snack has 120 calories per serving.",
+    "backExample": "Na etykiecie jest napisane, że ta przekąska ma 120 kalorii w porcji.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Junk food",
+    "back": "śmieciowe jedzenie",
+    "phonetic": "/dʒʌŋk fuːd/",
+    "frontExample": "Children love eating junk food, but it’s not healthy.",
+    "backExample": "Dzieci uwielbiają jeść śmieciowe jedzenie, ale nie jest ono zdrowe.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Fast food",
+    "back": "niezdrowe jedzenie, szybkie dania",
+    "phonetic": "/fæst fuːd/",
+    "frontExample": "We grabbed some fast food on the way to the game.",
+    "backExample": "Złapaliśmy coś z fast foodu w drodze na mecz.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Whole grains",
+    "back": "produkty pełnoziarniste",
+    "phonetic": "/həʊl ɡreɪnz/",
+    "frontExample": "Whole grains like oats are good for your heart.",
+    "backExample": "Produkty pełnoziarniste, takie jak owsianka, są dobre dla serca.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Dairy products",
+    "back": "produkty mleczne",
+    "phonetic": "/ˈdeəri ˈprɒdʌkts/",
+    "frontExample": "Dairy products such as cheese and yogurt contain calcium.",
+    "backExample": "Produkty mleczne, takie jak ser i jogurt, zawierają wapń.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Lean meat",
+    "back": "chude mięso",
+    "phonetic": "/liːn miːt/",
+    "frontExample": "Lean meat like turkey is better than fatty cuts.",
+    "backExample": "Chude mięso, takie jak indyk, jest lepsze niż tłuste kawałki.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Processed food",
+    "back": "przetworzona żywność",
+    "phonetic": "/ˈprəʊsest fuːd/",
+    "frontExample": "Processed food often contains artificial ingredients.",
+    "backExample": "Przetworzona żywność często zawiera sztuczne składniki.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Sugar-free",
+    "back": "bez cukru",
+    "phonetic": "/ˈʃʊɡə friː/",
+    "frontExample": "I prefer sugar-free drinks when I'm on a diet.",
+    "backExample": "Wolę napoje bez cukru, gdy jestem na diecie.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Low-fat",
+    "back": "niskotłuszczowy",
+    "phonetic": "/ləʊ fæt/",
+    "frontExample": "She chooses low-fat options to manage her weight.",
+    "backExample": "Wybiera opcje niskotłuszczowe, aby kontrolować swoją wagę.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Gluten-free",
+    "back": "bezglutenowy",
+    "phonetic": "/ˈɡluːtn friː/",
+    "frontExample": "He switched to a gluten-free diet due to an allergy.",
+    "backExample": "Przeszedł na dietę bezglutenową z powodu alergii.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Organic food",
+    "back": "żywność organiczna",
+    "phonetic": "/ɔːˈɡænɪk fuːd/",
+    "frontExample": "Organic food is grown without the use of synthetic chemicals.",
+    "backExample": "Żywność organiczna jest uprawiana bez użycia syntetycznych chemikaliów.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Diet plan",
+    "back": "plan diety",
+    "phonetic": "/ˈdaɪət plæn/",
+    "frontExample": "She follows a strict diet plan to stay fit.",
+    "backExample": "Ona stosuje rygorystyczny plan diety, aby być w formie.",
+    "remembered": false
+  },
+  {
+    "id": 23,
+    "front": "Calories intake",
+    "back": "spożycie kalorii",
+    "phonetic": "/ˈkæləriːz ˈɪnteɪk/",
+    "frontExample": "Tracking your calories intake can help with weight loss.",
+    "backExample": "Śledzenie spożycia kalorii może pomóc w utracie wagi.",
+    "remembered": false
+  },
+  {
+    "id": 24,
+    "front": "Food pyramid",
+    "back": "piramida żywieniowa",
+    "phonetic": "/fuːd ˈpɪrəmɪd/",
+    "frontExample": "The food pyramid shows recommended daily servings of different food groups.",
+    "backExample": "Piramida żywieniowa pokazuje zalecane dzienne porcje różnych grup żywności.",
+    "remembered": false
+  },
+  {
+    "id": 25,
+    "front": "Vegan",
+    "back": "weganin",
+    "phonetic": "/ˈviːɡən/",
+    "frontExample": "My brother is a vegan and avoids all animal products.",
+    "backExample": "Mój brat jest weganinem i unika wszystkich produktów pochodzenia zwierzęcego.",
+    "remembered": false
+  },
+  {
+    "id": 26,
+    "front": "Vegetarian",
+    "back": "wegetarianin",
+    "phonetic": "/ˌvedʒəˈteəriən/",
+    "frontExample": "Being a vegetarian means not eating meat or fish.",
+    "backExample": "Bycie wegetarianinem oznacza niejedzenie mięsa ani ryb.",
+    "remembered": false
+  },
+  {
+    "id": 27,
+    "front": "Detox",
+    "back": "oczyszczający, odtruwający",
+    "phonetic": "/ˈdiːtɒks/",
+    "frontExample": "She drank a green smoothie as part of her detox.",
+    "backExample": "Wypiła zielone smoothie jako część swojego detoksu.",
+    "remembered": false
+  },
+  {
+    "id": 28,
+    "front": "Hydration",
+    "back": "nawodnienie",
+    "phonetic": "/haɪˈdreɪʃən/",
+    "frontExample": "Proper hydration is important during hot weather.",
+    "backExample": "Odpowiednie nawodnienie jest ważne podczas upałów.",
+    "remembered": false
+  },
+  {
+    "id": 29,
+    "front": "Healthy lifestyle",
+    "back": "zdrowy styl życia",
+    "phonetic": "/ˈhelθi ˈlaɪfstaɪl/",
+    "frontExample": "A healthy lifestyle includes exercise and balanced meals.",
+    "backExample": "Zdrowy styl życia obejmuje ćwiczenia i zrównoważone posiłki.",
+    "remembered": false
+  },
+  {
+    "id": 30,
+    "front": "Overeating",
+    "back": "przejadanie się",
+    "phonetic": "/ˌəʊvərˈiːtɪŋ/",
+    "frontExample": "Overeating can lead to weight gain and health issues.",
+    "backExample": "Przejadanie się może prowadzić do przybierania na wadze i problemów zdrowotnych.",
+    "remembered": false
+  },
+  {
+    "id": 31,
+    "front": "Snack",
+    "back": "przekąska",
+    "phonetic": "/snæk/",
+    "frontExample": "He grabbed a quick snack before the meeting.",
+    "backExample": "Złapał szybką przekąskę przed spotkaniem.",
+    "remembered": false
+  },
+  {
+    "id": 32,
+    "front": "Portion size",
+    "back": "wielkość porcji",
+    "phonetic": "/ˈpɔːʃən saɪz/",
+    "frontExample": "Controlling portion size helps prevent overeating.",
+    "backExample": "Kontrolowanie wielkości porcji pomaga zapobiegać przejadaniu się.",
+    "remembered": false
+  },
+  {
+    "id": 33,
+    "front": "Superfood",
+    "back": "superżywność",
+    "phonetic": "/ˈsuːpəfuːd/",
+    "frontExample": "Blueberries are considered a superfood because of their antioxidants.",
+    "backExample": "Jagody są uważane za superżywność ze względu na przeciwutleniacze.",
+    "remembered": false
+  },
+  {
+    "id": 34,
+    "front": "Homemade",
+    "back": "domowy (np.posiłek)",
+    "phonetic": "/ˌhəʊmˈmeɪd/",
+    "frontExample": "She brought homemade cookies to the party.",
+    "backExample": "Przyniosła na przyjęcie domowe ciasteczka.",
+    "remembered": false
+  },
+  {
+    "id": 35,
+    "front": "Low-calorie",
+    "back": "niskokaloryczny",
+    "phonetic": "/ləʊ ˈkæləri/",
+    "frontExample": "This salad is a tasty low-calorie option.",
+    "backExample": "Ta sałatka to smaczna niskokaloryczna opcja.",
+    "remembered": false
+  },
+  {
+    "id": 36,
+    "front": "High-protein",
+    "back": "wysokobiałkowy",
+    "phonetic": "/haɪ ˈprəʊtiːn/",
+    "frontExample": "Athletes often follow a high-protein diet.",
+    "backExample": "Sportowcy często stosują wysokobiałkową dietę.",
+    "remembered": false
+  },
+  {
+    "id": 37,
+    "front": "Artificial additives",
+    "back": "sztuczne dodatki",
+    "phonetic": "/ˌɑːtɪˈfɪʃəl ˈædɪtɪvz/",
+    "frontExample": "This product contains no artificial additives.",
+    "backExample": "Ten produkt nie zawiera sztucznych dodatków.",
+    "remembered": false
+  },
+  {
+    "id": 38,
+    "front": "Fresh",
+    "back": "świeży",
+    "phonetic": "/freʃ/",
+    "frontExample": "I love eating fresh vegetables from the market.",
+    "backExample": "Uwielbiam jeść świeże warzywa z targu.",
+    "remembered": false
+  }
+]
