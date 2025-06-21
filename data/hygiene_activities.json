@@ -4,8 +4,8 @@
     "front": "Brush teeth",
     "back": "myć zęby",
     "phonetic": "/brʌʃ tiːθ/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I brush my teeth every morning and evening.",
+    "backExample": "Myję zęby każdego ranka i wieczoru.",
     "remembered": false
   },
   {
@@ -13,8 +13,8 @@
     "front": "Wash hands",
     "back": "myć ręce",
     "phonetic": "/wɒʃ hændz/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "Please wash your hands before eating.",
+    "backExample": "Proszę umyj ręce przed jedzeniem.",
     "remembered": false
   },
   {
@@ -22,8 +22,8 @@
     "front": "Take a shower",
     "back": "brać prysznic",
     "phonetic": "/teɪk ə ˈʃaʊə/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I take a shower every morning.",
+    "backExample": "Biorę prysznic każdego ranka.",
     "remembered": false
   },
   {
@@ -31,8 +31,8 @@
     "front": "Take a bath",
     "back": "brać kąpiel",
     "phonetic": "/teɪk ə bɑːθ/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "She likes to take a bath in the evening.",
+    "backExample": "Ona lubi brać kąpiel wieczorem.",
     "remembered": false
   },
   {
@@ -40,8 +40,8 @@
     "front": "Shampoo",
     "back": "szampon",
     "phonetic": "/ˈʃæm.puː/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I use shampoo to wash my hair.",
+    "backExample": "Używam szamponu do mycia włosów.",
     "remembered": false
   },
   {
@@ -49,8 +49,8 @@
     "front": "Toothpaste",
     "back": "pasta do zębów",
     "phonetic": "/ˈtuːθ.peɪst/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I need to buy new toothpaste.",
+    "backExample": "Muszę kupić nową pastę do zębów.",
     "remembered": false
   },
   {
@@ -58,8 +58,8 @@
     "front": "Toothbrush",
     "back": "szczoteczka do zębów",
     "phonetic": "/ˈtuːθ.brʌʃ/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I replace my toothbrush every three months.",
+    "backExample": "Wymieniam szczoteczkę do zębów co trzy miesiące.",
     "remembered": false
   },
   {
@@ -67,8 +67,8 @@
     "front": "Soap",
     "back": "mydło",
     "phonetic": "/səʊp/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I wash my hands with soap and water.",
+    "backExample": "Myję ręce mydłem i wodą.",
     "remembered": false
   },
   {
@@ -76,8 +76,8 @@
     "front": "Towel",
     "back": "ręcznik",
     "phonetic": "/ˈtaʊəl/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I dry myself with a clean towel.",
+    "backExample": "Wycieram się czystym ręcznikiem.",
     "remembered": false
   },
   {
@@ -85,8 +85,8 @@
     "front": "Deodorant",
     "back": "dezodorant",
     "phonetic": "/ˈdiː.ə.dər.ənt/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I use deodorant after showering.",
+    "backExample": "Używam dezodorantu po prysznicu.",
     "remembered": false
   },
   {
@@ -94,8 +94,8 @@
     "front": "Comb",
     "back": "grzebień",
     "phonetic": "/kɒm/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I comb my hair every morning.",
+    "backExample": "Czeszę włosy każdego ranka.",
     "remembered": false
   },
   {
@@ -103,8 +103,8 @@
     "front": "Hair dryer",
     "back": "suszarka do włosów",
     "phonetic": "/ˈheə ˌdraɪ.ər/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I use a hair dryer to dry my hair quickly.",
+    "backExample": "Używam suszarki do włosów, żeby szybko wysuszyć włosy.",
     "remembered": false
   },
   {
@@ -112,8 +112,8 @@
     "front": "Shaving",
     "back": "golenie",
     "phonetic": "/ˈʃeɪ.vɪŋ/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "He does shaving every morning.",
+    "backExample": "On goli się każdego ranka.",
     "remembered": false
   },
   {
@@ -121,8 +121,8 @@
     "front": "Razor",
     "back": "maszynka do golenia",
     "phonetic": "/ˈreɪ.zər/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I need to buy a new razor.",
+    "backExample": "Muszę kupić nową maszynkę do golenia.",
     "remembered": false
   },
   {
@@ -130,8 +130,8 @@
     "front": "Clothes",
     "back": "ubrania",
     "phonetic": "/kləʊðz/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I put on clean clothes every morning.",
+    "backExample": "Zakładam czyste ubrania każdego ranka.",
     "remembered": false
   },
   {
@@ -139,8 +139,8 @@
     "front": "Get dressed",
     "back": "ubierać się",
     "phonetic": "/ɡet ˈdrest/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I get dressed after taking a shower.",
+    "backExample": "Ubieram się po prysznicu.",
     "remembered": false
   },
   {
@@ -148,8 +148,8 @@
     "front": "Get undressed",
     "back": "rozbierać się",
     "phonetic": "/ɡet ʌnˈdrest/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I get undressed before going to bed.",
+    "backExample": "Rozbieram się przed pójściem spać.",
     "remembered": false
   },
   {
@@ -157,8 +157,8 @@
     "front": "Put on make up",
     "back": "malować się",
     "phonetic": "/pʊt ɒn ˈmeɪ.kʌp/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "She puts on make up before going to work.",
+    "backExample": "Ona maluje się przed pójściem do pracy.",
     "remembered": false
   },
   {
@@ -166,8 +166,8 @@
     "front": "Take off makeup",
     "back": "zmywać makijaż",
     "phonetic": "/teɪk ɒf ˈmeɪ.kʌp/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I take off makeup before going to bed.",
+    "backExample": "Zmywam makijaż przed pójściem spać.",
     "remembered": false
   },
   {
@@ -175,8 +175,8 @@
     "front": "Nail polish",
     "back": "lakier do paznokci",
     "phonetic": "/ˈneɪl ˌpɒ.lɪʃ/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "She likes to wear red nail polish.",
+    "backExample": "Ona lubi nosić czerwony lakier do paznokci.",
     "remembered": false
   },
   {
@@ -184,8 +184,8 @@
     "front": "Nail clippers",
     "back": "obcinacz do paznokci",
     "phonetic": "/ˈneɪl ˌklɪ.pəz/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I use nail clippers to trim my nails.",
+    "backExample": "Używam obcinacza do paznokci, żeby przyciąć paznokcie.",
     "remembered": false
   },
   {
@@ -193,8 +193,8 @@
     "front": "Floss",
     "back": "nić dentystyczna",
     "phonetic": "/flɒs/",
-    "frontExample": "",
-    "backExample": "",
+    "frontExample": "I floss my teeth every evening.",
+    "backExample": "Używam nici dentystycznej każdego wieczoru.",
     "remembered": false
   }
 ]

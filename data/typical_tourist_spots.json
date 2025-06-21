@@ -1,371 +1,43 @@
 [
-  {
-    "id": 1,
-    "front": "Attraction",
-    "back": "atrakcja",
-    "phonetic": "",
-    "frontExample": "This is a popular atrakcja.",
-    "backExample": "To jest popularna atrakcja.",
-    "remembered": false
-  },
-  {
-    "id": 2,
-    "front": "Landmark",
-    "back": "punkt orientacyjny",
-    "phonetic": "",
-    "frontExample": "This is a popular punkt orientacyjny.",
-    "backExample": "To jest popularna punkt orientacyjny.",
-    "remembered": false
-  },
-  {
-    "id": 3,
-    "front": "Monument",
-    "back": "pomnik",
-    "phonetic": "",
-    "frontExample": "This is a popular pomnik.",
-    "backExample": "To jest popularna pomnik.",
-    "remembered": false
-  },
-  {
-    "id": 4,
-    "front": "Museum",
-    "back": "muzeum",
-    "phonetic": "",
-    "frontExample": "This is a popular muzeum.",
-    "backExample": "To jest popularna muzeum.",
-    "remembered": false
-  },
-  {
-    "id": 5,
-    "front": "Gallery",
-    "back": "galeria (sztuki)",
-    "phonetic": "",
-    "frontExample": "This is a popular galeria (sztuki).",
-    "backExample": "To jest popularna galeria (sztuki).",
-    "remembered": false
-  },
-  {
-    "id": 6,
-    "front": "Castle",
-    "back": "zamek",
-    "phonetic": "",
-    "frontExample": "This is a popular zamek.",
-    "backExample": "To jest popularna zamek.",
-    "remembered": false
-  },
-  {
-    "id": 7,
-    "front": "Palace",
-    "back": "pałac",
-    "phonetic": "",
-    "frontExample": "This is a popular pałac.",
-    "backExample": "To jest popularna pałac.",
-    "remembered": false
-  },
-  {
-    "id": 8,
-    "front": "Park",
-    "back": "park",
-    "phonetic": "",
-    "frontExample": "This is a popular park.",
-    "backExample": "To jest popularna park.",
-    "remembered": false
-  },
-  {
-    "id": 9,
-    "front": "Beach",
-    "back": "plaża",
-    "phonetic": "",
-    "frontExample": "This is a popular plaża.",
-    "backExample": "To jest popularna plaża.",
-    "remembered": false
-  },
-  {
-    "id": 10,
-    "front": "Forest",
-    "back": "las, puszcza",
-    "phonetic": "",
-    "frontExample": "This is a popular las, puszcza.",
-    "backExample": "To jest popularna las, puszcza.",
-    "remembered": false
-  },
-  {
-    "id": 11,
-    "front": "Mountain",
-    "back": "góra",
-    "phonetic": "",
-    "frontExample": "This is a popular góra.",
-    "backExample": "To jest popularna góra.",
-    "remembered": false
-  },
-  {
-    "id": 12,
-    "front": "National park",
-    "back": "park narodowy",
-    "phonetic": "",
-    "frontExample": "This is a popular park narodowy.",
-    "backExample": "To jest popularna park narodowy.",
-    "remembered": false
-  },
-  {
-    "id": 13,
-    "front": "Botanical garden",
-    "back": "ogród botaniczny",
-    "phonetic": "",
-    "frontExample": "This is a popular ogród botaniczny.",
-    "backExample": "To jest popularna ogród botaniczny.",
-    "remembered": false
-  },
-  {
-    "id": 14,
-    "front": "Aquarium",
-    "back": "akwarium",
-    "phonetic": "",
-    "frontExample": "This is a popular akwarium.",
-    "backExample": "To jest popularna akwarium.",
-    "remembered": false
-  },
-  {
-    "id": 15,
-    "front": "Zoo",
-    "back": "zoo, ogród zoologiczny",
-    "phonetic": "",
-    "frontExample": "This is a popular zoo, ogród zoologiczny.",
-    "backExample": "To jest popularna zoo, ogród zoologiczny.",
-    "remembered": false
-  },
-  {
-    "id": 16,
-    "front": "Historical site",
-    "back": "miejsce historyczne",
-    "phonetic": "",
-    "frontExample": "This is a popular miejsce historyczne.",
-    "backExample": "To jest popularna miejsce historyczne.",
-    "remembered": false
-  },
-  {
-    "id": 17,
-    "front": "Temple",
-    "back": "świątynia",
-    "phonetic": "",
-    "frontExample": "This is a popular świątynia.",
-    "backExample": "To jest popularna świątynia.",
-    "remembered": false
-  },
-  {
-    "id": 18,
-    "front": "Cathedral",
-    "back": "katedra",
-    "phonetic": "",
-    "frontExample": "This is a popular katedra.",
-    "backExample": "To jest popularna katedra.",
-    "remembered": false
-  },
-  {
-    "id": 19,
-    "front": "Church",
-    "back": "kościół",
-    "phonetic": "",
-    "frontExample": "This is a popular kościół.",
-    "backExample": "To jest popularna kościół.",
-    "remembered": false
-  },
-  {
-    "id": 20,
-    "front": "Ruins",
-    "back": "ruiny",
-    "phonetic": "",
-    "frontExample": "This is a popular ruiny.",
-    "backExample": "To jest popularna ruiny.",
-    "remembered": false
-  },
-  {
-    "id": 21,
-    "front": "Square",
-    "back": "plac",
-    "phonetic": "",
-    "frontExample": "This is a popular plac.",
-    "backExample": "To jest popularna plac.",
-    "remembered": false
-  },
-  {
-    "id": 22,
-    "front": "Town hall",
-    "back": "ratusz",
-    "phonetic": "",
-    "frontExample": "This is a popular ratusz.",
-    "backExample": "To jest popularna ratusz.",
-    "remembered": false
-  },
-  {
-    "id": 23,
-    "front": "Stadium",
-    "back": "stadion",
-    "phonetic": "",
-    "frontExample": "This is a popular stadion.",
-    "backExample": "To jest popularna stadion.",
-    "remembered": false
-  },
-  {
-    "id": 24,
-    "front": "Harbour/port",
-    "back": "port",
-    "phonetic": "",
-    "frontExample": "This is a popular port.",
-    "backExample": "To jest popularna port.",
-    "remembered": false
-  },
-  {
-    "id": 25,
-    "front": "Amusement park",
-    "back": "park rozrywki",
-    "phonetic": "",
-    "frontExample": "This is a popular park rozrywki.",
-    "backExample": "To jest popularna park rozrywki.",
-    "remembered": false
-  },
-  {
-    "id": 26,
-    "front": "Cave",
-    "back": "jaskinia",
-    "phonetic": "",
-    "frontExample": "This is a popular jaskinia.",
-    "backExample": "To jest popularna jaskinia.",
-    "remembered": false
-  },
-  {
-    "id": 27,
-    "front": "Ruin",
-    "back": "ruina",
-    "phonetic": "",
-    "frontExample": "This is a popular ruina.",
-    "backExample": "To jest popularna ruina.",
-    "remembered": false
-  },
-  {
-    "id": 28,
-    "front": "Island",
-    "back": "wyspa",
-    "phonetic": "",
-    "frontExample": "This is a popular wyspa.",
-    "backExample": "To jest popularna wyspa.",
-    "remembered": false
-  },
-  {
-    "id": 29,
-    "front": "River",
-    "back": "rzeka",
-    "phonetic": "",
-    "frontExample": "This is a popular rzeka.",
-    "backExample": "To jest popularna rzeka.",
-    "remembered": false
-  },
-  {
-    "id": 30,
-    "front": "Lake",
-    "back": "jezioro",
-    "phonetic": "",
-    "frontExample": "This is a popular jezioro.",
-    "backExample": "To jest popularna jezioro.",
-    "remembered": false
-  },
-  {
-    "id": 31,
-    "front": "Viewpoint",
-    "back": "punkt widokowy, obserwacyjny",
-    "phonetic": "",
-    "frontExample": "This is a popular punkt widokowy, obserwacyjny.",
-    "backExample": "To jest popularna punkt widokowy, obserwacyjny.",
-    "remembered": false
-  },
-  {
-    "id": 32,
-    "front": "Sculpture",
-    "back": "rzeźba",
-    "phonetic": "",
-    "frontExample": "This is a popular rzeźba.",
-    "backExample": "To jest popularna rzeźba.",
-    "remembered": false
-  },
-  {
-    "id": 33,
-    "front": "Bridge",
-    "back": "most",
-    "phonetic": "",
-    "frontExample": "This is a popular most.",
-    "backExample": "To jest popularna most.",
-    "remembered": false
-  },
-  {
-    "id": 34,
-    "front": "Marketplace",
-    "back": "rynek, targ",
-    "phonetic": "",
-    "frontExample": "This is a popular rynek, targ.",
-    "backExample": "To jest popularna rynek, targ.",
-    "remembered": false
-  },
-  {
-    "id": 35,
-    "front": "Shopping mall",
-    "back": "centrum handlowe",
-    "phonetic": "",
-    "frontExample": "This is a popular centrum handlowe.",
-    "backExample": "To jest popularna centrum handlowe.",
-    "remembered": false
-  },
-  {
-    "id": 36,
-    "front": "Street market",
-    "back": "targ uliczny",
-    "phonetic": "",
-    "frontExample": "This is a popular targ uliczny.",
-    "backExample": "To jest popularna targ uliczny.",
-    "remembered": false
-  },
-  {
-    "id": 37,
-    "front": "Skyscraper",
-    "back": "wieżowiec",
-    "phonetic": "",
-    "frontExample": "This is a popular wieżowiec.",
-    "backExample": "To jest popularna wieżowiec.",
-    "remembered": false
-  },
-  {
-    "id": 38,
-    "front": "Village",
-    "back": "wioska",
-    "phonetic": "",
-    "frontExample": "This is a popular wioska.",
-    "backExample": "To jest popularna wioska.",
-    "remembered": false
-  },
-  {
-    "id": 39,
-    "front": "Resort",
-    "back": "kurort",
-    "phonetic": "",
-    "frontExample": "This is a popular kurort.",
-    "backExample": "To jest popularna kurort.",
-    "remembered": false
-  },
-  {
-    "id": 40,
-    "front": "Tourist information centre",
-    "back": "centrum informacji turystycznej",
-    "phonetic": "",
-    "frontExample": "This is a popular centrum informacji turystycznej.",
-    "backExample": "To jest popularna centrum informacji turystycznej.",
-    "remembered": false
-  },
-  {
-    "id": 41,
-    "front": "Hot spring",
-    "back": "gorące źródło",
-    "phonetic": "",
-    "frontExample": "This is a popular gorące źródło.",
-    "backExample": "To jest popularna gorące źródło.",
-    "remembered": false
-  }
+  {"id": 1, "front": "Attraction", "back": "atrakcja", "phonetic": "/əˈtræk.ʃən/", "frontExample": "The city's main attraction is the castle.", "backExample": "Główną atrakcją miasta jest zamek."},
+  {"id": 2, "front": "Landmark", "back": "punkt orientacyjny", "phonetic": "/ˈlænd.mɑːk/", "frontExample": "The tower is a famous landmark.", "backExample": "Wieża to znany punkt orientacyjny."},
+  {"id": 3, "front": "Monument", "back": "pomnik", "phonetic": "/ˈmɒn.jə.mənt/", "frontExample": "We visited a war monument.", "backExample": "Odwiedziliśmy pomnik wojenny."},
+  {"id": 4, "front": "Museum", "back": "muzeum", "phonetic": "/mjuːˈziː.əm/", "frontExample": "The museum is open on Sundays.", "backExample": "Muzeum jest otwarte w niedziele."},
+  {"id": 5, "front": "Gallery", "back": "galeria (sztuki)", "phonetic": "/ˈɡæl.ər.i/", "frontExample": "Let's go to the art gallery.", "backExample": "Chodźmy do galerii sztuki."},
+  {"id": 6, "front": "Castle", "back": "zamek", "phonetic": "/ˈkɑː.səl/", "frontExample": "The castle is very old.", "backExample": "Zamek jest bardzo stary."},
+  {"id": 7, "front": "Palace", "back": "pałac", "phonetic": "/ˈpæl.ɪs/", "frontExample": "The palace has beautiful gardens.", "backExample": "Pałac ma piękne ogrody."},
+  {"id": 8, "front": "Park", "back": "park", "phonetic": "/pɑːk/", "frontExample": "Let's walk in the park.", "backExample": "Przejdźmy się po parku."},
+  {"id": 9, "front": "Beach", "back": "plaża", "phonetic": "/biːtʃ/", "frontExample": "We spent the day at the beach.", "backExample": "Spędziliśmy dzień na plaży."},
+  {"id": 10, "front": "Forest", "back": "las, puszcza", "phonetic": "/ˈfɒr.ɪst/", "frontExample": "We went hiking in the forest.", "backExample": "Poszliśmy na wędrówkę do lasu."},
+  {"id": 11, "front": "Mountain", "back": "góra", "phonetic": "/ˈmaʊn.tɪn/", "frontExample": "The mountain is covered in snow.", "backExample": "Góra jest pokryta śniegiem."},
+  {"id": 12, "front": "National park", "back": "park narodowy", "phonetic": "/ˈnæʃ.ən.əl pɑːk/", "frontExample": "We visited a national park.", "backExample": "Odwiedziliśmy park narodowy."},
+  {"id": 13, "front": "Botanical garden", "back": "ogród botaniczny", "phonetic": "/bəˈtæn.ɪ.kəl ˈɡɑː.dən/", "frontExample": "The botanical garden is beautiful in spring.", "backExample": "Ogród botaniczny jest piękny wiosną."},
+  {"id": 14, "front": "Aquarium", "back": "akwarium", "phonetic": "/əˈkweə.ri.əm/", "frontExample": "We saw sharks at the aquarium.", "backExample": "Widzieliśmy rekiny w akwarium."},
+  {"id": 15, "front": "Zoo", "back": "zoo, ogród zoologiczny", "phonetic": "/zuː/", "frontExample": "The zoo has many animals.", "backExample": "W zoo jest wiele zwierząt."},
+  {"id": 16, "front": "Historical site", "back": "miejsce historyczne", "phonetic": "/hɪˈstɒr.ɪ.kəl saɪt/", "frontExample": "This is a famous historical site.", "backExample": "To jest słynne miejsce historyczne."},
+  {"id": 17, "front": "Temple", "back": "świątynia", "phonetic": "/ˈtɛm.pəl/", "frontExample": "The temple is open to visitors.", "backExample": "Świątynia jest otwarta dla zwiedzających."},
+  {"id": 18, "front": "Cathedral", "back": "katedra", "phonetic": "/kəˈθiː.drəl/", "frontExample": "The cathedral is very tall.", "backExample": "Katedra jest bardzo wysoka."},
+  {"id": 19, "front": "Church", "back": "kościół", "phonetic": "/tʃɜːtʃ/", "frontExample": "We visited a small church.", "backExample": "Odwiedziliśmy mały kościół."},
+  {"id": 20, "front": "Ruins", "back": "ruiny", "phonetic": "/ˈruː.ɪnz/", "frontExample": "The ruins are from the 12th century.", "backExample": "Ruiny pochodzą z XII wieku."},
+  {"id": 21, "front": "Square", "back": "plac", "phonetic": "/skweər/", "frontExample": "The market square is busy.", "backExample": "Rynek jest zatłoczony."},
+  {"id": 22, "front": "Town hall", "back": "ratusz", "phonetic": "/taʊn hɔːl/", "frontExample": "The town hall is in the center.", "backExample": "Ratusz jest w centrum."},
+  {"id": 23, "front": "Stadium", "back": "stadion", "phonetic": "/ˈsteɪ.di.əm/", "frontExample": "The stadium is full of fans.", "backExample": "Stadion jest pełen kibiców."},
+  {"id": 24, "front": "Harbour/port", "back": "port", "phonetic": "/ˈhɑː.bər/ /pɔːt/", "frontExample": "The ship is in the harbour.", "backExample": "Statek jest w porcie."},
+  {"id": 25, "front": "Amusement park", "back": "park rozrywki", "phonetic": "/əˈmjuːz.mənt pɑːk/", "frontExample": "We had fun at the amusement park.", "backExample": "Bawiliśmy się w parku rozrywki."},
+  {"id": 26, "front": "Cave", "back": "jaskinia", "phonetic": "/keɪv/", "frontExample": "The cave is dark and deep.", "backExample": "Jaskinia jest ciemna i głęboka."},
+  {"id": 27, "front": "Ruin", "back": "ruina", "phonetic": "/ˈruː.ɪn/", "frontExample": "We explored an old ruin.", "backExample": "Zwiedzaliśmy starą ruinę."},
+  {"id": 28, "front": "Island", "back": "wyspa", "phonetic": "/ˈaɪ.lənd/", "frontExample": "They live on a small island.", "backExample": "Oni mieszkają na małej wyspie."},
+  {"id": 29, "front": "River", "back": "rzeka", "phonetic": "/ˈrɪv.ər/", "frontExample": "The river flows through the city.", "backExample": "Rzeka przepływa przez miasto."},
+  {"id": 30, "front": "Lake", "back": "jezioro", "phonetic": "/leɪk/", "frontExample": "We swam in the lake.", "backExample": "Pływaliśmy w jeziorze."},
+  {"id": 31, "front": "Viewpoint", "back": "punkt widokowy, obserwacyjny", "phonetic": "/ˈvjuː.pɔɪnt/", "frontExample": "The viewpoint offers a great view.", "backExample": "Punkt widokowy oferuje świetny widok."},
+  {"id": 32, "front": "Sculpture", "back": "rzeźba", "phonetic": "/ˈskʌlp.tʃər/", "frontExample": "There is a sculpture in the park.", "backExample": "W parku jest rzeźba."},
+  {"id": 33, "front": "Bridge", "back": "most", "phonetic": "/brɪdʒ/", "frontExample": "The bridge crosses the river.", "backExample": "Most przecina rzekę."},
+  {"id": 34, "front": "Marketplace", "back": "rynek, targ", "phonetic": "/ˈmɑː.kɪt.pleɪs/", "frontExample": "The marketplace is very lively.", "backExample": "Rynek jest bardzo żywy."},
+  {"id": 35, "front": "Shopping mall", "back": "centrum handlowe", "phonetic": "/ˈʃɒp.ɪŋ mɔːl/", "frontExample": "Let's go to the shopping mall.", "backExample": "Chodźmy do centrum handlowego."},
+  {"id": 36, "front": "Street market", "back": "targ uliczny", "phonetic": "/striːt ˈmɑː.kɪt/", "frontExample": "We bought fruit at the street market.", "backExample": "Kupiliśmy owoce na targu ulicznym."},
+  {"id": 37, "front": "Skyscraper", "back": "wieżowiec", "phonetic": "/ˈskaɪˌskreɪ.pər/", "frontExample": "The skyscraper is very tall.", "backExample": "Wieżowiec jest bardzo wysoki."},
+  {"id": 38, "front": "Village", "back": "wioska", "phonetic": "/ˈvɪl.ɪdʒ/", "frontExample": "My grandparents live in a village.", "backExample": "Moi dziadkowie mieszkają w wiosce."},
+  {"id": 39, "front": "Resort", "back": "kurort", "phonetic": "/rɪˈzɔːt/", "frontExample": "We stayed at a seaside resort.", "backExample": "Zatrzymaliśmy się w nadmorskim kurorcie."},
+  {"id": 40, "front": "Tourist information centre", "back": "centrum informacji turystycznej", "phonetic": "/ˈtʊə.rɪst ˌɪn.fəˈmeɪ.ʃən ˈsɛn.tər/", "frontExample": "Ask at the tourist information centre.", "backExample": "Zapytaj w centrum informacji turystycznej."},
+  {"id": 41, "front": "Hot spring", "back": "gorące źródło", "phonetic": "/hɒt sprɪŋ/", "frontExample": "We relaxed in a hot spring.", "backExample": "Odpoczywaliśmy w gorącym źródle."}
 ]

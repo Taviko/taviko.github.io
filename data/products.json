@@ -3,279 +3,248 @@
     "id": 1,
     "front": "Goods",
     "back": "towary",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ɡʊdz/",
+    "frontExample": "These goods are imported from Italy.",
+    "backExample": "Te towary są importowane z Włoch."
   },
   {
     "id": 2,
     "front": "Item",
     "back": "przedmiot, artykuł",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈaɪ.təm/",
+    "frontExample": "Is this item on sale?",
+    "backExample": "Czy ten przedmiot jest na wyprzedaży?"
   },
   {
     "id": 3,
     "front": "Brand",
     "back": "marka",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/brænd/",
+    "frontExample": "What brand is your phone?",
+    "backExample": "Jakiej marki jest twój telefon?"
   },
   {
     "id": 4,
     "front": "Label",
     "back": "etykieta",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈleɪ.bəl/",
+    "frontExample": "Check the label for instructions.",
+    "backExample": "Sprawdź etykietę, aby uzyskać instrukcje."
   },
   {
     "id": 5,
     "front": "Price",
     "back": "cena",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/praɪs/",
+    "frontExample": "What's the price of this shirt?",
+    "backExample": "Jaka jest cena tej koszuli?"
   },
   {
     "id": 6,
     "front": "Sale",
     "back": "wyprzedaż",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/seɪl/",
+    "frontExample": "There's a big sale this weekend.",
+    "backExample": "W ten weekend jest duża wyprzedaż."
   },
   {
     "id": 7,
     "front": "Discount",
     "back": "zniżka, rabat",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈdɪs.kaʊnt/",
+    "frontExample": "Can I get a discount?",
+    "backExample": "Czy mogę dostać zniżkę?"
   },
   {
     "id": 8,
     "front": "Offer",
     "back": "oferta",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈɒf.ər/",
+    "frontExample": "This is a special offer.",
+    "backExample": "To jest specjalna oferta."
   },
   {
     "id": 9,
     "front": "Bargain",
     "back": "okazja cenowa",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈbɑː.ɡɪn/",
+    "frontExample": "That's a real bargain!",
+    "backExample": "To prawdziwa okazja cenowa!"
   },
   {
     "id": 10,
     "front": "Quality",
     "back": "jakość",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈkwɒl.ɪ.ti/",
+    "frontExample": "The quality is excellent.",
+    "backExample": "Jakość jest doskonała."
   },
   {
     "id": 11,
     "front": "Size",
     "back": "rozmiar",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/saɪz/",
+    "frontExample": "What size do you need?",
+    "backExample": "Jaki rozmiar potrzebujesz?"
   },
   {
     "id": 12,
     "front": "Colour",
     "back": "kolor",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈkʌl.ər/",
+    "frontExample": "I like the colour of this dress.",
+    "backExample": "Podoba mi się kolor tej sukienki."
   },
   {
     "id": 13,
     "front": "Material",
     "back": "materiał",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/məˈtɪə.ri.əl/",
+    "frontExample": "What material is this made of?",
+    "backExample": "Z jakiego materiału to jest zrobione?"
   },
   {
     "id": 14,
     "front": "Package",
     "back": "paczka, opakowanie",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈpæk.ɪdʒ/",
+    "frontExample": "Your package has arrived.",
+    "backExample": "Twoja paczka dotarła."
   },
   {
     "id": 15,
     "front": "Stock",
     "back": "zapas",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/stɒk/",
+    "frontExample": "Is this in stock?",
+    "backExample": "Czy to jest na stanie?"
   },
   {
     "id": 16,
     "front": "Shelf",
     "back": "półka",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ʃɛlf/",
+    "frontExample": "The bread is on the top shelf.",
+    "backExample": "Chleb jest na górnej półce."
   },
   {
     "id": 17,
     "front": "New arrival",
     "back": "nowość",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/njuː əˈraɪ.vəl/",
+    "frontExample": "This is a new arrival in our store.",
+    "backExample": "To jest nowość w naszym sklepie."
   },
   {
     "id": 18,
     "front": "Fruit",
     "back": "owoce",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/fruːt/",
+    "frontExample": "Do you want some fruit?",
+    "backExample": "Chcesz trochę owoców?"
   },
   {
     "id": 19,
     "front": "Vegetables",
     "back": "warzywa",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈvɛdʒ.tə.bəlz/",
+    "frontExample": "Eat more vegetables!",
+    "backExample": "Jedz więcej warzyw!"
   },
   {
     "id": 20,
     "front": "Meat",
     "back": "mięso",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/miːt/",
+    "frontExample": "Do you eat meat?",
+    "backExample": "Jesz mięso?"
   },
   {
     "id": 21,
     "front": "Fish",
     "back": "ryba",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/fɪʃ/",
+    "frontExample": "I'd like some fish, please.",
+    "backExample": "Poproszę trochę ryby."
   },
   {
     "id": 22,
     "front": "Dairy products",
     "back": "produkty mleczne",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈdeə.ri ˌprɒd.ʌkts/",
+    "frontExample": "Are you allergic to dairy products?",
+    "backExample": "Czy jesteś uczulony na produkty mleczne?"
   },
   {
     "id": 23,
     "front": "Soda",
     "back": "napój gazowany",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈsəʊ.də/",
+    "frontExample": "Would you like a soda?",
+    "backExample": "Chcesz napój gazowany?"
   },
   {
     "id": 24,
     "front": "Snacks",
     "back": "przekąski",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/snæks/",
+    "frontExample": "Let's get some snacks for the movie.",
+    "backExample": "Kupmy przekąski na film."
   },
   {
     "id": 25,
     "front": "Frozen food",
     "back": "mrożonki",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈfrəʊ.zən fuːd/",
+    "frontExample": "We need more frozen food.",
+    "backExample": "Potrzebujemy więcej mrożonek."
   },
   {
     "id": 26,
     "front": "Toiletries",
     "back": "artykuły higieniczne",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈtɔɪ.lɪ.triz/",
+    "frontExample": "I have to buy some toiletries.",
+    "backExample": "Muszę kupić artykuły higieniczne."
   },
   {
     "id": 27,
     "front": "Cleaning products",
     "back": "środki czystości",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈkliː.nɪŋ ˌprɒd.ʌkts/",
+    "frontExample": "We're out of cleaning products.",
+    "backExample": "Skończyły nam się środki czystości."
   },
   {
     "id": 28,
     "front": "Cosmetics",
     "back": "kosmetyki",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/kɒzˈmɛt.ɪks/",
+    "frontExample": "She loves buying cosmetics.",
+    "backExample": "Ona uwielbia kupować kosmetyki."
   },
   {
     "id": 29,
     "front": "Medicine",
     "back": "leki",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈmɛd.ɪ.sɪn/",
+    "frontExample": "Did you take your medicine?",
+    "backExample": "Wziąłeś swoje leki?"
   },
   {
     "id": 30,
     "front": "Stationery",
     "back": "artykuły papiernicze",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈsteɪ.ʃə.nər.i/",
+    "frontExample": "I need some stationery for school.",
+    "backExample": "Potrzebuję artykułów papierniczych do szkoły."
   },
   {
     "id": 31,
     "front": "Toys",
     "back": "zabawki",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/tɔɪz/",
+    "frontExample": "The kids are playing with toys.",
+    "backExample": "Dzieci bawią się zabawkami."
   }
 ]

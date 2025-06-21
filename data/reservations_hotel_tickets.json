@@ -3,378 +3,336 @@
     "id": 1,
     "front": "Booking/Reservation",
     "back": "rezerwacja",
-    "phonetic": "",
-    "frontExample": "I need help with booking/reservation.",
-    "backExample": "Potrzebuję pomocy z booking/reservation.",
-    "remembered": false
+    "phonetic": "/ˈbʊk.ɪŋ/ /ˌrɛz.əˈveɪ.ʃən/",
+    "frontExample": "I made a reservation online.",
+    "backExample": "Zrobiłem rezerwację przez internet."
   },
   {
     "id": 2,
     "front": "Hotel",
     "back": "hotel",
-    "phonetic": "",
-    "frontExample": "I need help with hotel.",
-    "backExample": "Potrzebuję pomocy z hotel.",
-    "remembered": false
+    "phonetic": "/həʊˈtɛl/",
+    "frontExample": "We stayed at a nice hotel.",
+    "backExample": "Zatrzymaliśmy się w ładnym hotelu."
   },
   {
     "id": 3,
     "front": "Hostel",
     "back": "hostel, schronisko",
-    "phonetic": "",
-    "frontExample": "I need help with hostel.",
-    "backExample": "Potrzebuję pomocy z hostel.",
-    "remembered": false
+    "phonetic": "/ˈhɒs.təl/",
+    "frontExample": "The hostel was very cheap.",
+    "backExample": "Hostel był bardzo tani."
   },
   {
     "id": 4,
     "front": "Guesthouse",
     "back": "pensjonat",
-    "phonetic": "",
-    "frontExample": "I need help with guesthouse.",
-    "backExample": "Potrzebuję pomocy z guesthouse.",
-    "remembered": false
+    "phonetic": "/ˈɡɛst.haʊs/",
+    "frontExample": "We booked a guesthouse by the lake.",
+    "backExample": "Zarezerwowaliśmy pensjonat nad jeziorem."
   },
   {
     "id": 5,
     "front": "Room",
     "back": "pokój",
-    "phonetic": "",
-    "frontExample": "I need help with room.",
-    "backExample": "Potrzebuję pomocy z room.",
-    "remembered": false
+    "phonetic": "/ruːm/",
+    "frontExample": "Is the room ready?",
+    "backExample": "Czy pokój jest gotowy?"
   },
   {
     "id": 6,
     "front": "Single room",
     "back": "pokój jednoosobowy",
-    "phonetic": "",
-    "frontExample": "I need help with single room.",
-    "backExample": "Potrzebuję pomocy z single room.",
-    "remembered": false
+    "phonetic": "/ˈsɪŋ.ɡl ruːm/",
+    "frontExample": "I'd like a single room, please.",
+    "backExample": "Poproszę pokój jednoosobowy."
   },
   {
     "id": 7,
     "front": "Double room",
     "back": "pokój dwuosobowy",
-    "phonetic": "",
-    "frontExample": "I need help with double room.",
-    "backExample": "Potrzebuję pomocy z double room.",
-    "remembered": false
+    "phonetic": "/ˈdʌb.əl ruːm/",
+    "frontExample": "We booked a double room.",
+    "backExample": "Zarezerwowaliśmy pokój dwuosobowy."
   },
   {
     "id": 8,
     "front": "Triple room",
     "back": "pokój trzyosobowy",
-    "phonetic": "",
-    "frontExample": "I need help with triple room.",
-    "backExample": "Potrzebuję pomocy z triple room.",
-    "remembered": false
+    "phonetic": "/ˈtrɪp.əl ruːm/",
+    "frontExample": "Is a triple room available?",
+    "backExample": "Czy jest dostępny pokój trzyosobowy?"
   },
   {
     "id": 9,
-    "front": "Suite",
+    "front": "Suité",
     "back": "apartament",
-    "phonetic": "",
-    "frontExample": "I need help with suite.",
-    "backExample": "Potrzebuję pomocy z suite.",
-    "remembered": false
+    "phonetic": "/swiːt/",
+    "frontExample": "They stayed in a suite.",
+    "backExample": "Oni zatrzymali się w apartamencie."
   },
   {
     "id": 10,
     "front": "Check-in",
     "back": "zameldować się",
-    "phonetic": "",
-    "frontExample": "I need help with check-in.",
-    "backExample": "Potrzebuję pomocy z check-in.",
-    "remembered": false
+    "phonetic": "/ˈtʃɛk ɪn/",
+    "frontExample": "Check-in is at 2 p.m.",
+    "backExample": "Zameldowanie jest o 14:00."
   },
   {
     "id": 11,
     "front": "Check-out",
     "back": "wymeldować się",
-    "phonetic": "",
-    "frontExample": "I need help with check-out.",
-    "backExample": "Potrzebuję pomocy z check-out.",
-    "remembered": false
+    "phonetic": "/ˈtʃɛk aʊt/",
+    "frontExample": "Check-out is before noon.",
+    "backExample": "Wymeldowanie jest przed południem."
   },
   {
     "id": 12,
     "front": "Reception/Front desk",
     "back": "recepcja",
-    "phonetic": "",
-    "frontExample": "I need help with reception/front desk.",
-    "backExample": "Potrzebuję pomocy z reception/front desk.",
-    "remembered": false
+    "phonetic": "/rɪˈsɛp.ʃən/ /frʌnt dɛsk/",
+    "frontExample": "Ask at the reception for help.",
+    "backExample": "Zapytaj w recepcji o pomoc."
   },
   {
     "id": 13,
     "front": "Booking confirmation",
     "back": "potwierdzenie rezerwacji",
-    "phonetic": "",
-    "frontExample": "I need help with booking confirmation.",
-    "backExample": "Potrzebuję pomocy z booking confirmation.",
-    "remembered": false
+    "phonetic": "/ˈbʊk.ɪŋ ˌkɒn.fəˈmeɪ.ʃən/",
+    "frontExample": "I received my booking confirmation.",
+    "backExample": "Otrzymałem potwierdzenie rezerwacji."
   },
   {
     "id": 14,
     "front": "Deposit",
     "back": "kaucja, zaliczka",
-    "phonetic": "",
-    "frontExample": "I need help with deposit.",
-    "backExample": "Potrzebuję pomocy z deposit.",
-    "remembered": false
+    "phonetic": "/dɪˈpɒz.ɪt/",
+    "frontExample": "You need to pay a deposit.",
+    "backExample": "Musisz wpłacić kaucję."
   },
   {
     "id": 15,
     "front": "No-show",
     "back": "niepojawienie się gościa",
-    "phonetic": "",
-    "frontExample": "I need help with no-show.",
-    "backExample": "Potrzebuję pomocy z no-show.",
-    "remembered": false
+    "phonetic": "/ˈnəʊ ʃəʊ/",
+    "frontExample": "There is a fee for a no-show.",
+    "backExample": "Za niepojawienie się gościa jest opłata."
   },
   {
     "id": 16,
     "front": "Cancellation",
     "back": "odwołanie, anulowanie",
-    "phonetic": "",
-    "frontExample": "I need help with cancellation.",
-    "backExample": "Potrzebuję pomocy z cancellation.",
-    "remembered": false
+    "phonetic": "/ˌkæn.səlˈeɪ.ʃən/",
+    "frontExample": "Is cancellation free?",
+    "backExample": "Czy odwołanie jest bezpłatne?"
   },
   {
     "id": 17,
     "front": "Cancelation fee",
     "back": "opłata za odwołanie, anulowanie",
-    "phonetic": "",
-    "frontExample": "I need help with cancelation fee.",
-    "backExample": "Potrzebuję pomocy z cancelation fee.",
-    "remembered": false
+    "phonetic": "/ˌkæn.səlˈeɪ.ʃən fiː/",
+    "frontExample": "There's a cancellation fee.",
+    "backExample": "Jest opłata za odwołanie."
   },
   {
     "id": 18,
     "front": "Ticket",
     "back": "bilet",
-    "phonetic": "",
-    "frontExample": "I need help with ticket.",
-    "backExample": "Potrzebuję pomocy z ticket.",
-    "remembered": false
+    "phonetic": "/ˈtɪk.ɪt/",
+    "frontExample": "I lost my ticket.",
+    "backExample": "Zgubiłem bilet."
   },
   {
     "id": 19,
     "front": "Flight ticket",
     "back": "bilet lotniczy",
-    "phonetic": "",
-    "frontExample": "I need help with flight ticket.",
-    "backExample": "Potrzebuję pomocy z flight ticket.",
-    "remembered": false
+    "phonetic": "/flaɪt ˈtɪk.ɪt/",
+    "frontExample": "Where is your flight ticket?",
+    "backExample": "Gdzie jest twój bilet lotniczy?"
   },
   {
     "id": 20,
     "front": "Train ticket",
     "back": "bilet kolejowy",
-    "phonetic": "",
-    "frontExample": "I need help with train ticket.",
-    "backExample": "Potrzebuję pomocy z train ticket.",
-    "remembered": false
+    "phonetic": "/treɪn ˈtɪk.ɪt/",
+    "frontExample": "I bought a train ticket online.",
+    "backExample": "Kupiłem bilet kolejowy przez internet."
   },
   {
     "id": 21,
     "front": "Bus ticket",
     "back": "bilet autobusowy",
-    "phonetic": "",
-    "frontExample": "I need help with bus ticket.",
-    "backExample": "Potrzebuję pomocy z bus ticket.",
-    "remembered": false
+    "phonetic": "/bʌs ˈtɪk.ɪt/",
+    "frontExample": "Do you have a bus ticket?",
+    "backExample": "Masz bilet autobusowy?"
   },
   {
     "id": 22,
     "front": "E-ticket",
     "back": "bilet elektroniczny",
-    "phonetic": "",
-    "frontExample": "I need help with e-ticket.",
-    "backExample": "Potrzebuję pomocy z e-ticket.",
-    "remembered": false
+    "phonetic": "/ˈiː ˌtɪk.ɪt/",
+    "frontExample": "I received an e-ticket by email.",
+    "backExample": "Otrzymałem bilet elektroniczny mailem."
   },
   {
     "id": 23,
     "front": "Round-trip ticket",
     "back": "bilet w obie strony",
-    "phonetic": "",
-    "frontExample": "I need help with round-trip ticket.",
-    "backExample": "Potrzebuję pomocy z round-trip ticket.",
-    "remembered": false
+    "phonetic": "/ˈraʊnd trɪp ˈtɪk.ɪt/",
+    "frontExample": "I need a round-trip ticket.",
+    "backExample": "Potrzebuję biletu w obie strony."
   },
   {
     "id": 24,
     "front": "One-way ticket",
     "back": "bilet w jedną stronę",
-    "phonetic": "",
-    "frontExample": "I need help with one-way ticket.",
-    "backExample": "Potrzebuję pomocy z one-way ticket.",
-    "remembered": false
+    "phonetic": "/ˈwʌn weɪ ˈtɪk.ɪt/",
+    "frontExample": "Is this a one-way ticket?",
+    "backExample": "Czy to jest bilet w jedną stronę?"
   },
   {
     "id": 25,
     "front": "Booking website",
     "back": "strona rezerwacyjna",
-    "phonetic": "",
-    "frontExample": "I need help with booking website.",
-    "backExample": "Potrzebuję pomocy z booking website.",
-    "remembered": false
+    "phonetic": "/ˈbʊk.ɪŋ ˈwɛb.saɪt/",
+    "frontExample": "I used a booking website.",
+    "backExample": "Skorzystałem ze strony rezerwacyjnej."
   },
   {
     "id": 26,
     "front": "Payment method",
     "back": "metoda płatności",
-    "phonetic": "",
-    "frontExample": "I need help with payment method.",
-    "backExample": "Potrzebuję pomocy z payment method.",
-    "remembered": false
+    "phonetic": "/ˈpeɪ.mənt ˈmeθ.əd/",
+    "frontExample": "What payment method do you accept?",
+    "backExample": "Jaką metodę płatności akceptujecie?"
   },
   {
     "id": 27,
     "front": "Itinerary",
     "back": "plan podróży",
-    "phonetic": "",
-    "frontExample": "I need help with itinerary.",
-    "backExample": "Potrzebuję pomocy z itinerary.",
-    "remembered": false
+    "phonetic": "/aɪˈtɪn.ər.ər.i/",
+    "frontExample": "Can I see your itinerary?",
+    "backExample": "Czy mogę zobaczyć twój plan podróży?"
   },
   {
     "id": 28,
     "front": "Travel agency",
     "back": "biuro podróży",
-    "phonetic": "",
-    "frontExample": "I need help with travel agency.",
-    "backExample": "Potrzebuję pomocy z travel agency.",
-    "remembered": false
+    "phonetic": "/ˈtræv.əl ˈeɪ.dʒən.si/",
+    "frontExample": "We booked through a travel agency.",
+    "backExample": "Zarezerwowaliśmy przez biuro podróży."
   },
   {
     "id": 29,
     "front": "Tour operator",
     "back": "organizator wycieczki",
-    "phonetic": "",
-    "frontExample": "I need help with tour operator.",
-    "backExample": "Potrzebuję pomocy z tour operator.",
-    "remembered": false
+    "phonetic": "/tʊər ˈɒp.ə.reɪ.tər/",
+    "frontExample": "The tour operator arranged everything.",
+    "backExample": "Organizator wycieczki wszystko zorganizował."
   },
   {
     "id": 30,
     "front": "Reservation system",
     "back": "system rezerwacji",
-    "phonetic": "",
-    "frontExample": "I need help with reservation system.",
-    "backExample": "Potrzebuję pomocy z reservation system.",
-    "remembered": false
+    "phonetic": "/ˌrɛz.əˈveɪ.ʃən ˈsɪs.təm/",
+    "frontExample": "The reservation system is easy to use.",
+    "backExample": "System rezerwacji jest łatwy w obsłudze."
   },
   {
     "id": 31,
     "front": "Overbooking",
     "back": "zbyt duża liczba rezerwacji, nadrezerwacja",
-    "phonetic": "",
-    "frontExample": "I need help with overbooking.",
-    "backExample": "Potrzebuję pomocy z overbooking.",
-    "remembered": false
+    "phonetic": "/ˌəʊ.vəˈbʊk.ɪŋ/",
+    "frontExample": "The hotel had an overbooking problem.",
+    "backExample": "Hotel miał problem z nadrezerwacją."
   },
   {
     "id": 32,
     "front": "Availability",
     "back": "dostępność",
-    "phonetic": "",
-    "frontExample": "I need help with availability.",
-    "backExample": "Potrzebuję pomocy z availability.",
-    "remembered": false
+    "phonetic": "/əˌveɪ.ləˈbɪl.ɪ.ti/",
+    "frontExample": "What is the availability for next week?",
+    "backExample": "Jaka jest dostępność na przyszły tydzień?"
   },
   {
     "id": 33,
     "front": "Upgrade",
     "back": "aktualizacja (np. zmiana pokoju na wyższy standard)",
-    "phonetic": "",
-    "frontExample": "I need help with upgrade.",
-    "backExample": "Potrzebuję pomocy z upgrade.",
-    "remembered": false
+    "phonetic": "/ˈʌp.ɡreɪd/",
+    "frontExample": "We got a free room upgrade.",
+    "backExample": "Dostaliśmy darmową aktualizację pokoju."
   },
   {
     "id": 34,
     "front": "Downgrade",
     "back": "zmiana pokoju na niższy standard",
-    "phonetic": "",
-    "frontExample": "I need help with downgrade.",
-    "backExample": "Potrzebuję pomocy z downgrade.",
-    "remembered": false
+    "phonetic": "/ˈdaʊn.ɡreɪd/",
+    "frontExample": "They offered a downgrade instead.",
+    "backExample": "Zaproponowali zmianę pokoju na niższy standard."
   },
   {
     "id": 35,
     "front": "Late check-out",
     "back": "późne wymeldowanie",
-    "phonetic": "",
-    "frontExample": "I need help with late check-out.",
-    "backExample": "Potrzebuję pomocy z late check-out.",
-    "remembered": false
+    "phonetic": "/leɪt ˈtʃɛk aʊt/",
+    "frontExample": "Can I get a late check-out?",
+    "backExample": "Czy mogę mieć późne wymeldowanie?"
   },
   {
     "id": 36,
     "front": "Early check-in",
     "back": "wcześniejsze zameldowanie",
-    "phonetic": "",
-    "frontExample": "I need help with early check-in.",
-    "backExample": "Potrzebuję pomocy z early check-in.",
-    "remembered": false
+    "phonetic": "/ˈɜː.li ˈtʃɛk ɪn/",
+    "frontExample": "Is early check-in possible?",
+    "backExample": "Czy wcześniejsze zameldowanie jest możliwe?"
   },
   {
     "id": 37,
     "front": "Travel insurance",
     "back": "ubezpieczenie podróżne",
-    "phonetic": "",
-    "frontExample": "I need help with travel insurance.",
-    "backExample": "Potrzebuję pomocy z travel insurance.",
-    "remembered": false
+    "phonetic": "/ˈtræv.əl ɪnˈʃʊə.rəns/",
+    "frontExample": "Do you have travel insurance?",
+    "backExample": "Masz ubezpieczenie podróżne?"
   },
   {
     "id": 38,
     "front": "Confirmation number",
     "back": "numer potwierdzenia",
-    "phonetic": "",
-    "frontExample": "I need help with confirmation number.",
-    "backExample": "Potrzebuję pomocy z confirmation number.",
-    "remembered": false
+    "phonetic": "/ˌkɒn.fəˈmeɪ.ʃən ˈnʌm.bər/",
+    "frontExample": "What is your confirmation number?",
+    "backExample": "Jaki jest twój numer potwierdzenia?"
   },
   {
     "id": 39,
     "front": "Reservation code",
     "back": "kod rezerwacji",
-    "phonetic": "",
-    "frontExample": "I need help with reservation code.",
-    "backExample": "Potrzebuję pomocy z reservation code.",
-    "remembered": false
+    "phonetic": "/ˌrɛz.əˈveɪ.ʃən kəʊd/",
+    "frontExample": "Please enter your reservation code.",
+    "backExample": "Proszę podać kod rezerwacji."
   },
   {
     "id": 40,
     "front": "Cancellation policy",
     "back": "polityka odwoływania rezerwacji",
-    "phonetic": "",
-    "frontExample": "I need help with cancellation policy.",
-    "backExample": "Potrzebuję pomocy z cancellation policy.",
-    "remembered": false
+    "phonetic": "/ˌkæn.səlˈeɪ.ʃən ˈpɒl.ɪ.si/",
+    "frontExample": "Read the cancellation policy first.",
+    "backExample": "Najpierw przeczytaj politykę odwoływania rezerwacji."
   },
   {
     "id": 41,
     "front": "Hotel amenities",
     "back": "udogodnienia hotelowe",
-    "phonetic": "",
-    "frontExample": "I need help with hotel amenities.",
-    "backExample": "Potrzebuję pomocy z hotel amenities.",
-    "remembered": false
+    "phonetic": "/həʊˈtɛl əˈmɛn.ɪ.tiz/",
+    "frontExample": "What hotel amenities are included?",
+    "backExample": "Jakie udogodnienia hotelowe są w cenie?"
   },
   {
     "id": 42,
     "front": "Baggage claim",
     "back": "odbiór bagażu",
-    "phonetic": "",
-    "frontExample": "I need help with baggage claim.",
-    "backExample": "Potrzebuję pomocy z baggage claim.",
-    "remembered": false
+    "phonetic": "/ˈbæɡ.ɪdʒ kleɪm/",
+    "frontExample": "Go to baggage claim after landing.",
+    "backExample": "Po lądowaniu idź do odbioru bagażu."
   }
 ]

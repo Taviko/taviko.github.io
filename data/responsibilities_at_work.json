@@ -3,360 +3,320 @@
     "id": 1,
     "front": "Assist",
     "back": "pomagać",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/əˈsɪst/",
+    "frontExample": "Can you assist me with this?",
+    "backExample": "Czy możesz mi w tym pomóc?"
   },
   {
     "id": 2,
     "front": "Supervise",
     "back": "nadzorować, kontrolować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈsuː.pə.vaɪz/",
+    "frontExample": "She supervises the new staff.",
+    "backExample": "Ona nadzoruje nowych pracowników."
   },
   {
     "id": 3,
     "front": "Manage",
     "back": "zarządzać",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈmæn.ɪdʒ/",
+    "frontExample": "He manages a big team.",
+    "backExample": "On zarządza dużym zespołem."
   },
   {
     "id": 4,
     "front": "Negotiate",
     "back": "negocjować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/nɪˈɡəʊ.ʃi.eɪt/",
+    "frontExample": "I have to negotiate a contract.",
+    "backExample": "Muszę negocjować umowę."
   },
   {
     "id": 5,
     "front": "Organize",
     "back": "organizować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈɔː.ɡə.naɪz/",
+    "frontExample": "Can you organize the files?",
+    "backExample": "Możesz uporządkować te pliki?"
   },
   {
     "id": 6,
     "front": "Coordinate",
     "back": "koordynować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/kəʊˈɔː.dɪ.neɪt/",
+    "frontExample": "She coordinates the project.",
+    "backExample": "Ona koordynuje projekt."
   },
   {
     "id": 7,
     "front": "Prepare",
     "back": "przygotowywać",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/prɪˈpeə/",
+    "frontExample": "I need to prepare the documents.",
+    "backExample": "Muszę przygotować dokumenty."
   },
   {
     "id": 8,
     "front": "Schedule",
     "back": "harmonogram",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈʃed.juːl/",
+    "frontExample": "Let's schedule a meeting.",
+    "backExample": "Umówmy się na spotkanie."
   },
   {
     "id": 9,
     "front": "Handle",
     "back": "zajmować się, obsługiwać",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈhæn.dl/",
+    "frontExample": "I handle customer emails.",
+    "backExample": "Zajmuję się mailami od klientów."
   },
   {
     "id": 10,
     "front": "Deliver",
     "back": "dostarczać",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/dɪˈlɪv.ər/",
+    "frontExample": "We deliver the reports every Friday.",
+    "backExample": "Dostarczamy raporty w każdy piątek."
   },
   {
     "id": 11,
     "front": "Communicate",
     "back": "komunikować się",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/kəˈmjuː.nɪ.keɪt/",
+    "frontExample": "We communicate by email.",
+    "backExample": "Komunikujemy się przez e-mail."
   },
   {
     "id": 12,
     "front": "Evaluate",
     "back": "oceniać, szacować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ɪˈvæl.ju.eɪt/",
+    "frontExample": "I evaluate the results every month.",
+    "backExample": "Oceniam wyniki co miesiąc."
   },
   {
     "id": 13,
     "front": "Monitor",
     "back": "monitorować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈmɒn.ɪ.tər/",
+    "frontExample": "He monitors the progress.",
+    "backExample": "On monitoruje postępy."
   },
   {
     "id": 14,
     "front": "Solve problems",
     "back": "rozwiązywać problemy",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/sɒlv ˈprɒb.ləmz/",
+    "frontExample": "I like to solve problems at work.",
+    "backExample": "Lubię rozwiązywać problemy w pracy."
   },
   {
     "id": 15,
     "front": "Train",
     "back": "szkolić",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/treɪn/",
+    "frontExample": "I train new employees.",
+    "backExample": "Szkolę nowych pracowników."
   },
   {
     "id": 16,
     "front": "Develop",
     "back": "rozwijać",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/dɪˈvɛl.əp/",
+    "frontExample": "We develop new ideas together.",
+    "backExample": "Razem rozwijamy nowe pomysły."
   },
   {
     "id": 17,
     "front": "Provide support",
     "back": "zapewniać wsparcie",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/prəˈvaɪd səˈpɔːt/",
+    "frontExample": "I provide support to my team.",
+    "backExample": "Zapewniam wsparcie mojemu zespołowi."
   },
   {
     "id": 18,
     "front": "Report",
     "back": "relacjonować, raportować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/rɪˈpɔːt/",
+    "frontExample": "I report to my manager every week.",
+    "backExample": "Raportuję do mojego menadżera co tydzień."
   },
   {
     "id": 19,
     "front": "Update",
     "back": "aktualizować",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ʌpˈdeɪt/",
+    "frontExample": "Please update the file.",
+    "backExample": "Proszę zaktualizować plik."
   },
   {
     "id": 20,
     "front": "Perform tasks",
     "back": "wykonywać zadania",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/pəˈfɔːm tɑːsks/",
+    "frontExample": "I perform many tasks every day.",
+    "backExample": "Codziennie wykonuję wiele zadań."
   },
   {
     "id": 21,
     "front": "Complete duties",
     "back": "wykonywać obowiązki",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/kəmˈpliːt ˈdjuː.tiz/",
+    "frontExample": "She completes her duties on time.",
+    "backExample": "Ona wykonuje swoje obowiązki na czas."
   },
   {
     "id": 22,
     "front": "Prepare reports",
     "back": "przygotowywać raporty",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/prɪˈpeə rɪˈpɔːts/",
+    "frontExample": "I prepare reports every month.",
+    "backExample": "Przygotowuję raporty co miesiąc."
   },
   {
     "id": 23,
     "front": "Provide feedback",
     "back": "dostarczać informacji zwrotnej",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/prəˈvaɪd ˈfiːd.bæk/",
+    "frontExample": "Can you provide feedback?",
+    "backExample": "Czy możesz dać informację zwrotną?"
   },
   {
     "id": 24,
     "front": "Maintain records",
     "back": "prowadzić dokumentację",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/meɪnˈteɪn ˈrɛk.ɔːdz/",
+    "frontExample": "I maintain all the records.",
+    "backExample": "Prowadzę całą dokumentację."
   },
   {
     "id": 25,
     "front": "Help customers",
     "back": "pomagać klientom",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/hɛlp ˈkʌs.tə.mərz/",
+    "frontExample": "I help customers every day.",
+    "backExample": "Codziennie pomagam klientom."
   },
   {
     "id": 26,
     "front": "Lead a team",
     "back": "prowadzić zespół",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/liːd ə tiːm/",
+    "frontExample": "He leads a team of five people.",
+    "backExample": "On prowadzi zespół pięciu osób."
   },
   {
     "id": 27,
     "front": "Work with clients",
     "back": "pracować z klientami",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/wɜːk wɪð ˈklaɪ.ənts/",
+    "frontExample": "I work with clients from abroad.",
+    "backExample": "Pracuję z klientami z zagranicy."
   },
   {
     "id": 28,
     "front": "Offer solutions",
     "back": "zaoferować rozwiązania",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈɒf.ər səˈluː.ʃənz/",
+    "frontExample": "We offer solutions to problems.",
+    "backExample": "Oferujemy rozwiązania problemów."
   },
   {
     "id": 29,
     "front": "Conduct interviews",
     "back": "przeprowadzać wywiady",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/kənˈdʌkt ˈɪn.tə.vjuːz/",
+    "frontExample": "I conduct interviews with candidates.",
+    "backExample": "Przeprowadzam wywiady z kandydatami."
   },
   {
     "id": 30,
     "front": "Handle complaints",
     "back": "zajmować się skargami",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈhæn.dl kəmˈpleɪnts/",
+    "frontExample": "She handles customer complaints.",
+    "backExample": "Ona zajmuje się skargami klientów."
   },
   {
     "id": 31,
     "front": "Participate in meetings",
     "back": "uczestniczyć w spotkaniach",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/pɑːˈtɪs.ɪ.peɪt ɪn ˈmiː.tɪŋz/",
+    "frontExample": "I participate in meetings every week.",
+    "backExample": "Uczestniczę w spotkaniach co tydzień."
   },
   {
     "id": 32,
     "front": "Manage a budget",
     "back": "zarządzać budżetem",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈmæn.ɪdʒ ə ˈbʌdʒ.ɪt/",
+    "frontExample": "She manages the company budget.",
+    "backExample": "Ona zarządza budżetem firmy."
   },
   {
     "id": 33,
     "front": "Plan activities",
     "back": "planować działalność",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/plæn ækˈtɪv.ɪ.tiz/",
+    "frontExample": "I plan activities for the team.",
+    "backExample": "Planuję działalność zespołu."
   },
   {
     "id": 34,
     "front": "Control inventory",
     "back": "kontrola zapasów",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/kənˈtrəʊl ˈɪn.vən.tər.i/",
+    "frontExample": "He controls the inventory every month.",
+    "backExample": "On kontroluje zapasy co miesiąc."
   },
   {
     "id": 35,
     "front": "Ensure quality",
     "back": "zapewniać jakość",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ɪnˈʃʊə ˈkwɒl.ɪ.ti/",
+    "frontExample": "We ensure quality in our work.",
+    "backExample": "Zapewniamy jakość w naszej pracy."
   },
   {
     "id": 36,
     "front": "Prepare invoices",
     "back": "przygotowywać faktury",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/prɪˈpeə ˈɪn.vɔɪsɪz/",
+    "frontExample": "I prepare invoices for clients.",
+    "backExample": "Przygotowuję faktury dla klientów."
   },
   {
     "id": 37,
     "front": "Assist with paperwork",
     "back": "pomagać w dokumentacji",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/əˈsɪst wɪð ˈpeɪ.pə.wɜːk/",
+    "frontExample": "Can you assist with the paperwork?",
+    "backExample": "Czy możesz pomóc w dokumentacji?"
   },
   {
     "id": 38,
     "front": "Organize events",
     "back": "organizować wydarzenia",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/ˈɔː.ɡə.naɪz ɪˈvɛnts/",
+    "frontExample": "I organize events for the company.",
+    "backExample": "Organizuję wydarzenia dla firmy."
   },
   {
     "id": 39,
     "front": "Perform administrative duties",
     "back": "wykonywać obowiązki administratora",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/pəˈfɔːm ədˌmɪn.ɪˈstreɪ.tɪv ˈdjuː.tiz/",
+    "frontExample": "She performs administrative duties.",
+    "backExample": "Ona wykonuje obowiązki administratora."
   },
   {
     "id": 40,
     "front": "Support colleagues",
     "back": "wspierać kolegów w pracy",
-    "phonetic": "",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
+    "phonetic": "/səˈpɔːt ˈkɒl.iːɡz/",
+    "frontExample": "I always support my colleagues at work.",
+    "backExample": "Zawsze wspieram kolegów w pracy."
   }
 ]

@@ -1,272 +1,32 @@
 [
-  {
-    "id": 1,
-    "front": "Full-time",
-    "back": "na pełny etat",
-    "phonetic": "/full-time/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 2,
-    "front": "Part-time",
-    "back": "na niepełny etat",
-    "phonetic": "/part-time/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 3,
-    "front": "Shift work",
-    "back": "praca zmianowa",
-    "phonetic": "/shift-work/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 4,
-    "front": "Flexible hours",
-    "back": "elastyczne godziny pracy",
-    "phonetic": "/flexible-hours/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 5,
-    "front": "Overtime",
-    "back": "nadgodziny",
-    "phonetic": "/overtime/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 6,
-    "front": "Night shift",
-    "back": "nocna zmiana",
-    "phonetic": "/night-shift/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 7,
-    "front": "Weekend work",
-    "back": "praca w weekendy",
-    "phonetic": "/weekend-work/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 8,
-    "front": "Temporary",
-    "back": "tymczasowy",
-    "phonetic": "/temporary/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 9,
-    "front": "Permanent",
-    "back": "stały",
-    "phonetic": "/permanent/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 10,
-    "front": "Freelance",
-    "back": "praca na zlecenie (freelancer)",
-    "phonetic": "/freelance/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 11,
-    "front": "Work from home",
-    "back": "pracować zdalnie (z domu)",
-    "phonetic": "/work-from-home/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 12,
-    "front": "Office",
-    "back": "biuro",
-    "phonetic": "/office/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 13,
-    "front": "Factory",
-    "back": "fabryka",
-    "phonetic": "/factory/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 14,
-    "front": "Shop",
-    "back": "sklep",
-    "phonetic": "/shop/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 15,
-    "front": "Warehouse",
-    "back": "magazyn",
-    "phonetic": "/warehouse/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 16,
-    "front": "Construction site",
-    "back": "plac budowy",
-    "phonetic": "/construction-site/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 17,
-    "front": "Hospital",
-    "back": "szpital",
-    "phonetic": "/hospital/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 18,
-    "front": "School",
-    "back": "szkoła",
-    "phonetic": "/school/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 19,
-    "front": "Restaurant",
-    "back": "restauracja",
-    "phonetic": "/restaurant/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 20,
-    "front": "Hotel",
-    "back": "hotel",
-    "phonetic": "/hotel/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 21,
-    "front": "Laboratory",
-    "back": "laboratorium",
-    "phonetic": "/laboratory/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 22,
-    "front": "Studio",
-    "back": "studio (np. telewizyjne, fotograficzne)",
-    "phonetic": "/studio/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 23,
-    "front": "Farm",
-    "back": "farma (gospodarstwo)",
-    "phonetic": "/farm/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 24,
-    "front": "Workshop",
-    "back": "warsztat",
-    "phonetic": "/workshop/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 25,
-    "front": "Store",
-    "back": "sklep",
-    "phonetic": "/store/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 26,
-    "front": "Headquaters",
-    "back": "siedziba główna",
-    "phonetic": "/headquaters/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 27,
-    "front": "Office building",
-    "back": "budynek biurowy",
-    "phonetic": "/office-building/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 28,
-    "front": "Remote location",
-    "back": "odległa lokalizacja",
-    "phonetic": "/remote-location/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 29,
-    "front": "Open-plan office",
-    "back": "biuro z otwartą przestrzenią (open space)",
-    "phonetic": "/open-plan-office/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  },
-  {
-    "id": 30,
-    "front": "Co-working space",
-    "back": "wspólna przestrzeń do pracy",
-    "phonetic": "/co-working-space/",
-    "frontExample": "",
-    "backExample": "",
-    "remembered": false
-  }
+  {"id": 1, "front": "Full-time", "back": "na pełny etat", "phonetic": "/ˈfʊl taɪm/", "frontExample": "I work full-time at the office.", "backExample": "Pracuję na pełny etat w biurze."},
+  {"id": 2, "front": "Part-time", "back": "na niepełny etat", "phonetic": "/ˈpɑːt taɪm/", "frontExample": "She has a part-time job.", "backExample": "Ona pracuje na niepełny etat."},
+  {"id": 3, "front": "Shift work", "back": "praca zmianowa", "phonetic": "/ʃɪft wɜːk/", "frontExample": "He does shift work at the factory.", "backExample": "On pracuje na zmiany w fabryce."},
+  {"id": 4, "front": "Flexible hours", "back": "elastyczne godziny pracy", "phonetic": "/ˈflɛk.sɪ.bəl ˈaʊ.ərz/", "frontExample": "I have flexible hours.", "backExample": "Mam elastyczne godziny pracy."},
+  {"id": 5, "front": "Overtime", "back": "nadgodziny", "phonetic": "/ˈəʊ.və.taɪm/", "frontExample": "I worked overtime last week.", "backExample": "Pracowałem w nadgodzinach w zeszłym tygodniu."},
+  {"id": 6, "front": "Night shift", "back": "nocna zmiana", "phonetic": "/naɪt ʃɪft/", "frontExample": "He is on the night shift.", "backExample": "On jest na nocnej zmianie."},
+  {"id": 7, "front": "Weekend work", "back": "praca w weekendy", "phonetic": "/ˈwiːk.end wɜːk/", "frontExample": "Weekend work is sometimes required.", "backExample": "Czasami trzeba pracować w weekendy."},
+  {"id": 8, "front": "Temporary", "back": "tymczasowy", "phonetic": "/ˈtɛm.pər.əri/", "frontExample": "This is a temporary job.", "backExample": "To jest praca tymczasowa."},
+  {"id": 9, "front": "Permanent", "back": "stały", "phonetic": "/ˈpɜː.mə.nənt/", "frontExample": "She has a permanent contract.", "backExample": "Ona ma stałą umowę."},
+  {"id": 10, "front": "Freelance", "back": "praca na zlecenie (freelancer)", "phonetic": "/ˈfriː.lɑːns/", "frontExample": "He works as a freelance designer.", "backExample": "On pracuje jako freelancer."},
+  {"id": 11, "front": "Work from home", "back": "pracować zdalnie (z domu)", "phonetic": "/wɜːk frəm həʊm/", "frontExample": "I work from home twice a week.", "backExample": "Pracuję zdalnie dwa razy w tygodniu."},
+  {"id": 12, "front": "Office", "back": "biuro", "phonetic": "/ˈɒf.ɪs/", "frontExample": "Our office is in the city center.", "backExample": "Nasze biuro jest w centrum miasta."},
+  {"id": 13, "front": "Factory", "back": "fabryka", "phonetic": "/ˈfæk.tər.i/", "frontExample": "He works in a factory.", "backExample": "On pracuje w fabryce."},
+  {"id": 14, "front": "Shop", "back": "sklep", "phonetic": "/ʃɒp/", "frontExample": "She works at a shop.", "backExample": "Ona pracuje w sklepie."},
+  {"id": 15, "front": "Warehouse", "back": "magazyn", "phonetic": "/ˈweə.haʊs/", "frontExample": "The warehouse is very big.", "backExample": "Magazyn jest bardzo duży."},
+  {"id": 16, "front": "Construction site", "back": "plac budowy", "phonetic": "/kənˈstrʌk.ʃən saɪt/", "frontExample": "He works on a construction site.", "backExample": "On pracuje na placu budowy."},
+  {"id": 17, "front": "Hospital", "back": "szpital", "phonetic": "/ˈhɒs.pɪ.təl/", "frontExample": "She works at the hospital.", "backExample": "Ona pracuje w szpitalu."},
+  {"id": 18, "front": "School", "back": "szkoła", "phonetic": "/skuːl/", "frontExample": "The school is close to my house.", "backExample": "Szkoła jest blisko mojego domu."},
+  {"id": 19, "front": "Restaurant", "back": "restauracja", "phonetic": "/ˈres.tər.ɒnt/", "frontExample": "He works in a restaurant.", "backExample": "On pracuje w restauracji."},
+  {"id": 20, "front": "Hotel", "back": "hotel", "phonetic": "/həʊˈtɛl/", "frontExample": "She works at a hotel.", "backExample": "Ona pracuje w hotelu."},
+  {"id": 21, "front": "Laboratory", "back": "laboratorium", "phonetic": "/ləˈbɒr.ə.tər.i/", "frontExample": "He works in a laboratory.", "backExample": "On pracuje w laboratorium."},
+  {"id": 22, "front": "Studio", "back": "studio (np. telewizyjne, fotograficzne)", "phonetic": "/ˈstjuː.di.əʊ/", "frontExample": "She works in a TV studio.", "backExample": "Ona pracuje w studiu telewizyjnym."},
+  {"id": 23, "front": "Farm", "back": "farma (gospodarstwo)", "phonetic": "/fɑːm/", "frontExample": "He lives on a farm.", "backExample": "On mieszka na farmie."},
+  {"id": 24, "front": "Workshop", "back": "warsztat", "phonetic": "/ˈwɜːk.ʃɒp/", "frontExample": "The workshop is next to the house.", "backExample": "Warsztat jest obok domu."},
+  {"id": 25, "front": "Store", "back": "sklep", "phonetic": "/stɔːr/", "frontExample": "She works at a store.", "backExample": "Ona pracuje w sklepie."},
+  {"id": 26, "front": "Headquaters", "back": "siedziba główna", "phonetic": "/ˈhɛdˌkwɔː.təz/", "frontExample": "The headquarters are in London.", "backExample": "Siedziba główna jest w Londynie."},
+  {"id": 27, "front": "Office building", "back": "budynek biurowy", "phonetic": "/ˈɒf.ɪs ˈbɪl.dɪŋ/", "frontExample": "We work in a big office building.", "backExample": "Pracujemy w dużym budynku biurowym."},
+  {"id": 28, "front": "Remote location", "back": "odległa lokalizacja", "phonetic": "/rɪˈməʊt ləʊˈkeɪ.ʃən/", "frontExample": "He works in a remote location.", "backExample": "On pracuje w odległej lokalizacji."},
+  {"id": 29, "front": "Open-plan office", "back": "biuro z otwartą przestrzenią (open space)", "phonetic": "/ˈəʊ.pən plæn ˈɒf.ɪs/", "frontExample": "We have an open-plan office.", "backExample": "Mamy biuro z otwartą przestrzenią."},
+  {"id": 30, "front": "Co-working space", "back": "wspólna przestrzeń do pracy", "phonetic": "/ˈkəʊˌwɜː.kɪŋ speɪs/", "frontExample": "I work in a co-working space.", "backExample": "Pracuję we wspólnej przestrzeni do pracy."}
 ]

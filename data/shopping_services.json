@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Bank",
     "back": "Bank",
-    "phonetic": "",
+    "phonetic": "/bæŋk/",
     "frontExample": "I need to go to the bank today.",
     "backExample": "Muszę dziś iść do banku.",
     "remembered": false
@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Post office",
     "back": "poczta",
-    "phonetic": "",
+    "phonetic": "/pəʊst ˈɒfɪs/",
     "frontExample": "She mailed the letter at the post office.",
     "backExample": "Wysłała list na poczcie.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Pharmacy",
     "back": "apteka",
-    "phonetic": "",
+    "phonetic": "/ˈfɑːməsi/",
     "frontExample": "We bought medicine at the pharmacy.",
     "backExample": "Kupiliśmy lekarstwa w aptece.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Supermarket",
     "back": "supermarket/sklep",
-    "phonetic": "",
+    "phonetic": "/ˈsuːpəmɑːkɪt/",
     "frontExample": "I always shop at the supermarket.",
     "backExample": "Zawsze robię zakupy w supermarkecie.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Grocery store",
     "back": "sklep spożywczy",
-    "phonetic": "",
+    "phonetic": "/ˈɡrəʊsəri stɔː/",
     "frontExample": "The grocery store closes at 9 PM.",
     "backExample": "Sklep spożywczy zamyka się o 21.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Hairdresser's",
     "back": "fryzjer",
-    "phonetic": "",
+    "phonetic": "/ˈheədresəz/",
     "frontExample": "He got a haircut at the hairdresser's.",
     "backExample": "Obciął się u fryzjera.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Beauty salon",
     "back": "salon piękności/kosmetyczny",
-    "phonetic": "",
+    "phonetic": "/ˈbjuːti ˈsælɒn/",
     "frontExample": "She has an appointment at the beauty salon.",
     "backExample": "Ma wizytę w salonie piękności.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Dry cleaner's",
     "back": "pralnia chemiczna",
-    "phonetic": "",
+    "phonetic": "/draɪ ˈkliːnəz/",
     "frontExample": "My suit was cleaned at the dry cleaner's.",
     "backExample": "Mój garnitur został wyczyszczony w pralni chemicznej.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Electrician",
     "back": "elektryk",
-    "phonetic": "",
+    "phonetic": "/ɪˌlekˈtrɪʃən/",
     "frontExample": "Call the electrician to fix the light.",
     "backExample": "Zadzwoń po elektryka, żeby naprawił światło.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Plumber",
     "back": "hydraulik",
-    "phonetic": "",
+    "phonetic": "/ˈplʌmə/",
     "frontExample": "We need a plumber for the bathroom.",
     "backExample": "Potrzebujemy hydraulika do łazienki.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Mechanic",
     "back": "mechanik",
-    "phonetic": "",
+    "phonetic": "/mɪˈkænɪk/",
     "frontExample": "The mechanic repaired my car.",
     "backExample": "Mechanik naprawił mój samochód.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Tailor's",
     "back": "zakład krawiecki",
-    "phonetic": "",
+    "phonetic": "/ˈteɪləz/",
     "frontExample": "I took my pants to the tailor's.",
     "backExample": "Oddałem spodnie do krawca.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Repair shop",
     "back": "warsztat naprawczy",
-    "phonetic": "",
+    "phonetic": "/rɪˈpeə ʃɒp/",
     "frontExample": "They fixed my bike at the repair shop.",
     "backExample": "Naprawili mój rower w warsztacie.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Optician's",
     "back": "salon optyczny",
-    "phonetic": "",
+    "phonetic": "/ɒpˈtɪʃənz/",
     "frontExample": "I bought glasses at the optician's.",
     "backExample": "Kupiłem okulary w salonie optycznym.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Car rental",
     "back": "wypożyczalnia samochodów",
-    "phonetic": "",
+    "phonetic": "/kɑː ˈrentəl/",
     "frontExample": "We rented a car at the car rental.",
     "backExample": "Wypożyczyliśmy samochód w wypożyczalni.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Bookstore",
     "back": "księgarnia",
-    "phonetic": "",
+    "phonetic": "/ˈbʊkstɔː/",
     "frontExample": "I bought a novel from the bookstore.",
     "backExample": "Kupiłem powieść w księgarni.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Newsagent's",
     "back": "kiosk z gazetami",
-    "phonetic": "",
+    "phonetic": "/ˈnjuːzeɪdʒənts/",
     "frontExample": "I grabbed a paper from the newsagent's.",
     "backExample": "Wziąłem gazetę z kiosku.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Cinema",
     "back": "kino",
-    "phonetic": "",
+    "phonetic": "/ˈsɪnəmə/",
     "frontExample": "We're going to the cinema tonight.",
     "backExample": "Idziemy dziś do kina.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Travel agency",
     "back": "biuro podróży",
-    "phonetic": "",
+    "phonetic": "/ˈtrævəl ˈeɪdʒənsi/",
     "frontExample": "I booked a trip at the travel agency.",
     "backExample": "Zarezerwowałem wycieczkę w biurze podróży.",
     "remembered": false
@@ -174,7 +174,7 @@
     "id": 20,
     "front": "Laundry",
     "back": "pralnia",
-    "phonetic": "",
+    "phonetic": "/ˈlɔːndri/",
     "frontExample": "I picked up my clothes at the laundry.",
     "backExample": "Odebrałem ubrania z pralni.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Clothing store",
     "back": "sklep odzieżowy",
-    "phonetic": "",
+    "phonetic": "/ˈkləʊðɪŋ stɔː/",
     "frontExample": "She bought a coat at the clothing store.",
     "backExample": "Kupiła płaszcz w sklepie odzieżowym.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Electronics store",
     "back": "sklep z elektroniką",
-    "phonetic": "",
+    "phonetic": "/ɪˌlekˈtrɒnɪks stɔː/",
     "frontExample": "He found a laptop in the electronics store.",
     "backExample": "Znalazł laptopa w sklepie z elektroniką.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Furniture store",
     "back": "sklep meblowy",
-    "phonetic": "",
+    "phonetic": "/ˈfɜːnɪtʃə stɔː/",
     "frontExample": "They got a sofa at the furniture store.",
     "backExample": "Kupili sofę w sklepie meblowym.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Toy store",
     "back": "sklep z zabawkami",
-    "phonetic": "",
+    "phonetic": "/tɔɪ stɔː/",
     "frontExample": "I bought a toy at the toy store.",
     "backExample": "Kupiłem zabawkę w sklepie z zabawkami.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Sports shop",
     "back": "sklep sportowy",
-    "phonetic": "",
+    "phonetic": "/spɔːts ʃɒp/",
     "frontExample": "She found a racket at the sports shop.",
     "backExample": "Znalazła rakietę w sklepie sportowym.",
     "remembered": false
@@ -228,7 +228,7 @@
     "id": 26,
     "front": "Convenience store",
     "back": "sklepik spożywczy (osiedlowy)",
-    "phonetic": "",
+    "phonetic": "/kənˈviːniəns stɔː/",
     "frontExample": "He got snacks from the convenience store.",
     "backExample": "Kupił przekąski w sklepiku osiedlowym.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Music store",
     "back": "sklep muzyczny",
-    "phonetic": "",
+    "phonetic": "/ˈmjuːzɪk stɔː/",
     "frontExample": "I bought a guitar at the music store.",
     "backExample": "Kupiłem gitarę w sklepie muzycznym.",
     "remembered": false
@@ -246,9 +246,9 @@
     "id": 28,
     "front": "Jewelry store",
     "back": "sklep jubilerski",
-    "phonetic": "",
+    "phonetic": "/ˈdʒuːəlri stɔː/",
     "frontExample": "We chose a ring at the jewelry store.",
-    "backExample": "Wybraliśmy pierścionek w sklepie jubilerskim.",
+    "backExample": "Wybrany pierścionek w sklepie jubilerskim.",
     "remembered": false
   },
   {
@@ -301,7 +301,7 @@
     "front": "Receipt",
     "back": "paragon",
     "phonetic": "",
-    "frontExample": "Don’t forget to take the receipt.",
+    "frontExample": "Don't forget to take the receipt.",
     "backExample": "Nie zapomnij wziąć paragonu.",
     "remembered": false
   },
