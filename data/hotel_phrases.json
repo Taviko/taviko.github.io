@@ -5,7 +5,7 @@
     "back": "Mam rezerwację.",
     "frontExample": "I have a reservation.",
     "backExample": "Mam rezerwację.",
-    "phonetic": "",
+    "phonetic": "/aɪ hæv ə ˌrezəˈveɪʃən/",
     "remembered": false
   },
   {
@@ -14,7 +14,7 @@
     "back": "Zarezerwowałem pokój przez internet.",
     "frontExample": "I booked a room online",
     "backExample": "Zarezerwowałem pokój przez internet.",
-    "phonetic": "",
+    "phonetic": "/aɪ bʊkt ə ruːm ˈɒnlaɪn/",
     "remembered": false
   },
   {
@@ -23,7 +23,7 @@
     "back": "Chciałbym się zameldować.",
     "frontExample": "I would like to check in.",
     "backExample": "Chciałbym się zameldować.",
-    "phonetic": "",
+    "phonetic": "/aɪ wʊd laɪk tə ˈtʃek ɪn/",
     "remembered": false
   },
   {
@@ -32,7 +32,7 @@
     "back": "Chciałbym się wymeldować.",
     "frontExample": "I would like to check out.",
     "backExample": "Chciałbym się wymeldować.",
-    "phonetic": "",
+    "phonetic": "/aɪ wʊd laɪk tə ˈtʃek aʊt/",
     "remembered": false
   },
   {
@@ -41,7 +41,7 @@
     "back": "O której godzinie jest zameldowanie?",
     "frontExample": "What's the check-in time?",
     "backExample": "O której godzinie jest zameldowanie?",
-    "phonetic": "",
+    "phonetic": "/wɒts ðə ˈtʃek ɪn taɪm/",
     "remembered": false
   },
   {
@@ -50,7 +50,7 @@
     "back": "O której godzinie jest wymeldowanie?",
     "frontExample": "What's the check-out time?",
     "backExample": "O której godzinie jest wymeldowanie?",
-    "phonetic": "",
+    "phonetic": "/wɒts ðə ˈtʃek aʊt taɪm/",
     "remembered": false
   },
   {
@@ -59,7 +59,7 @@
     "back": "Czy macie wolny pokój?",
     "frontExample": "Do you have a room available?",
     "backExample": "Czy macie wolny pokój?",
-    "phonetic": "",
+    "phonetic": "/duː juː hæv ə ruːm əˈveɪləbəl/",
     "remembered": false
   },
   {
@@ -68,7 +68,7 @@
     "back": "Potrzebuję pokoju jedno-/dwuosobowego.",
     "frontExample": "I need a single/double room.",
     "backExample": "Potrzebuję pokoju jedno-/dwuosobowego.",
-    "phonetic": "",
+    "phonetic": "/aɪ niːd ə ˈsɪŋɡəl ˈdʌbəl ruːm/",
     "remembered": false
   },
   {
@@ -77,7 +77,7 @@
     "back": "Ile kosztuje pokój za noc?",
     "frontExample": "How much is the room per night?",
     "backExample": "Ile kosztuje pokój za noc?",
-    "phonetic": "",
+    "phonetic": "/haʊ mʌtʃ ɪz ðə ruːm pə naɪt/",
     "remembered": false
   },
   {
@@ -86,7 +86,7 @@
     "back": "Czy śniadanie jest wliczone?",
     "frontExample": "Is breakfast included?",
     "backExample": "Czy śniadanie jest wliczone?",
-    "phonetic": "",
+    "phonetic": "/ɪz ˈbrekfəst ɪnˈkluːdɪd/",
     "remembered": false
   },
   {
@@ -95,7 +95,7 @@
     "back": "Chciałbym pokój z widokiem na morze.",
     "frontExample": "I'd like a room with a sea view.",
     "backExample": "Chciałbym pokój z widokiem na morze.",
-    "phonetic": "",
+    "phonetic": "/aɪd laɪk ə ruːm wɪð ə siː vjuː/",
     "remembered": false
   },
   {
@@ -104,7 +104,7 @@
     "back": "Chciałbym cichy pokój.",
     "frontExample": "I'd like a quiet room.",
     "backExample": "Chciałbym cichy pokój.",
-    "phonetic": "",
+    "phonetic": "/aɪd laɪk ə ˈkwaɪət ruːm/",
     "remembered": false
   },
   {
@@ -113,7 +113,7 @@
     "back": "Chciałbym pokój z balkonem.",
     "frontExample": "I'd like a room with a balcony.",
     "backExample": "Chciałbym pokój z balkonem.",
-    "phonetic": "",
+    "phonetic": "/aɪd laɪk ə ruːm wɪð ə ˈbælkəni/",
     "remembered": false
   },
   {
@@ -122,7 +122,7 @@
     "back": "Czy mogę najpierw zobaczyć pokój?",
     "frontExample": "Can I see the room first?",
     "backExample": "Czy mogę najpierw zobaczyć pokój?",
-    "phonetic": "",
+    "phonetic": "/kæn aɪ siː ðə ruːm fɜːst/",
     "remembered": false
   },
   {
@@ -131,7 +131,7 @@
     "back": "Czy akceptujecie karty kredytowe?",
     "frontExample": "Do you accept credit cards?",
     "backExample": "Czy akceptujecie karty kredytowe?",
-    "phonetic": "",
+    "phonetic": "/duː juː əkˈsept ˈkredɪt kɑːdz/",
     "remembered": false
   },
   {
@@ -140,7 +140,7 @@
     "back": "Oto mój dowód/Paszport.",
     "frontExample": "Herę is my ID/passport.",
     "backExample": "Oto mój dowód/Paszport.",
-    "phonetic": "",
+    "phonetic": "/hɪə ɪz maɪ aɪˈdiː ˈpɑːspɔːt/",
     "remembered": false
   },
   {
@@ -149,7 +149,7 @@
     "back": "Czy mogę zapłacić gotówką?",
     "frontExample": "Can I pay by cash?",
     "backExample": "Czy mogę zapłacić gotówką?",
-    "phonetic": "",
+    "phonetic": "/kæn aɪ peɪ baɪ kæʃ/",
     "remembered": false
   },
   {
@@ -158,7 +158,7 @@
     "back": "Gdzie jest winda?",
     "frontExample": "Where is the elevator?",
     "backExample": "Gdzie jest winda?",
-    "phonetic": "",
+    "phonetic": "/weə ɪz ðiː ˈelɪveɪtə/",
     "remembered": false
   },
   {
@@ -167,7 +167,7 @@
     "back": "Na którym piętrze jest mój pokój?",
     "frontExample": "What floor is my room on?",
     "backExample": "Na którym piętrze jest mój pokój?",
-    "phonetic": "",
+    "phonetic": "/wɒt flɔː ɪz maɪ ruːm ɒn/",
     "remembered": false
   },
   {
@@ -176,7 +176,7 @@
     "back": "Gdzie jest pokój 305?",
     "frontExample": "Where is room 305?",
     "backExample": "Gdzie jest pokój 305?",
-    "phonetic": "",
+    "phonetic": "/weə ɪz ruːm θriː əʊ faɪv/",
     "remembered": false
   },
   {
@@ -185,7 +185,7 @@
     "back": "Mój numer pokoju to...",
     "frontExample": "My room number is...",
     "backExample": "Mój numer pokoju to...",
-    "phonetic": "",
+    "phonetic": "/maɪ ruːm ˈnʌmbə ɪz/",
     "remembered": false
   },
   {
@@ -194,7 +194,7 @@
     "back": "Klucz nie działa.",
     "frontExample": "The key doesn't work.",
     "backExample": "Klucz nie działa.",
-    "phonetic": "",
+    "phonetic": "/ðə kiː ˈdʌznt wɜːk/",
     "remembered": false
   },
   {
@@ -203,7 +203,7 @@
     "back": "Zgubiłem klucz.",
     "frontExample": "I lost my key.",
     "backExample": "Zgubiłem klucz.",
-    "phonetic": "",
+    "phonetic": "/aɪ lɒst maɪ kiː/",
     "remembered": false
   },
   {
@@ -212,7 +212,7 @@
     "back": "Czy mogę dostać nowy klucz?",
     "frontExample": "Can I have another key?",
     "backExample": "Czy mogę dostać nowy klucz?",
-    "phonetic": "",
+    "phonetic": "/kæn aɪ hæv əˈnʌðə kiː/",
     "remembered": false
   },
   {
@@ -221,7 +221,7 @@
     "back": "Klimatyzacja nie działa.",
     "frontExample": "The air conditioning doesn't work.",
     "backExample": "Klimatyzacja nie działa.",
-    "phonetic": "",
+    "phonetic": "/ðə eə kənˈdɪʃənɪŋ ˈdʌznt wɜːk/",
     "remembered": false
   },
   {
@@ -230,7 +230,7 @@
     "back": "Nie ma ciepłej wody.",
     "frontExample": "There's no hot water.",
     "backExample": "Nie ma ciepłej wody.",
-    "phonetic": "",
+    "phonetic": "/ðeəz nəʊ hɒt ˈwɔːtə/",
     "remembered": false
   },
   {
@@ -239,7 +239,7 @@
     "back": "W pokoju jest za zimno.",
     "frontExample": "The room is too cold.",
     "backExample": "W pokoju jest za zimno.",
-    "phonetic": "",
+    "phonetic": "/ðə ruːm ɪz tuː kəʊld/",
     "remembered": false
   },
   {
@@ -248,7 +248,7 @@
     "back": "W pokoju jest za gorąco.",
     "frontExample": "The room is too hot.",
     "backExample": "W pokoju jest za gorąco.",
-    "phonetic": "",
+    "phonetic": "/ðə ruːm ɪz tuː hɒt/",
     "remembered": false
   },
   {
@@ -257,7 +257,7 @@
     "back": "Czy możecie posprzątać pokój?",
     "frontExample": "Can you clean the room, please?",
     "backExample": "Czy możecie posprzątać pokój?",
-    "phonetic": "",
+    "phonetic": "/kæn juː kliːn ðə ruːm pliːz/",
     "remembered": false
   },
   {
@@ -266,7 +266,7 @@
     "back": "Ręczniki nie zostały zmienione.",
     "frontExample": "The towels weren't changed/",
     "backExample": "Ręczniki nie zostały zmienione.",
-    "phonetic": "",
+    "phonetic": "/ðə ˈtaʊəlz wɜːnt tʃeɪndʒd/",
     "remembered": false
   },
   {
@@ -275,7 +275,7 @@
     "back": "Pokój jest brudny.",
     "frontExample": "The room is dirty.",
     "backExample": "Pokój jest brudny.",
-    "phonetic": "",
+    "phonetic": "/ðə ruːm ɪz ˈdɜːti/",
     "remembered": false
   },
   {

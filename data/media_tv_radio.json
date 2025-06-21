@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Television",
     "back": "telewizja",
-    "phonetic": "",
+    "phonetic": "/ˈtelɪvɪʒən/",
     "frontExample": "I watch television every evening.",
     "backExample": "Codziennie wieczorem oglądam telewizję.",
     "remembered": false
@@ -12,7 +12,7 @@
     "id": 2,
     "front": "TV channel",
     "back": "kanał telewizyjny",
-    "phonetic": "",
+    "phonetic": "/tiː viː ˈtʃænəl/",
     "frontExample": "This TV channel airs documentaries.",
     "backExample": "Ten kanał telewizyjny nadaje filmy dokumentalne.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Program",
     "back": "program",
-    "phonetic": "",
+    "phonetic": "/ˈprəʊɡræm/",
     "frontExample": "My favorite program is on at 8 p.m.",
     "backExample": "Mój ulubiony program zaczyna się o 20:00.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Series",
     "back": "serial",
-    "phonetic": "",
+    "phonetic": "/ˈsɪəriːz/",
     "frontExample": "We are watching a new series together.",
     "backExample": "Razem oglądamy nowy serial.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "News",
     "back": "wiadomości",
-    "phonetic": "",
+    "phonetic": "/njuːz/",
     "frontExample": "The news starts in ten minutes.",
     "backExample": "Wiadomości zaczynają się za dziesięć minut.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Station",
     "back": "stacja (radiowa)",
-    "phonetic": "",
+    "phonetic": "/ˈsteɪʃən/",
     "frontExample": "This station plays great music.",
     "backExample": "Ta stacja gra świetną muzykę.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Host",
     "back": "gospodarz programu telewizyjnego, prowadzący",
-    "phonetic": "",
+    "phonetic": "/həʊst/",
     "frontExample": "The host introduced the next guest.",
     "backExample": "Prowadzący przedstawił kolejnego gościa.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Guest",
     "back": "gość",
-    "phonetic": "",
+    "phonetic": "/ɡest/",
     "frontExample": "The guest shared an inspiring story.",
     "backExample": "Gość opowiedział inspirującą historię.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Listener",
     "back": "słuchacz",
-    "phonetic": "",
+    "phonetic": "/ˈlɪsənə/",
     "frontExample": "The listener called to ask a question.",
     "backExample": "Słuchacz zadzwonił z pytaniem.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Audience",
     "back": "widownia",
-    "phonetic": "",
+    "phonetic": "/ˈɔːdiəns/",
     "frontExample": "The audience clapped loudly.",
     "backExample": "Widownia głośno klaskała.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Broadcast",
     "back": "transmisja",
-    "phonetic": "",
+    "phonetic": "/ˈbrɔːdkɑːst/",
     "frontExample": "The match will be broadcast live.",
     "backExample": "Mecz będzie transmitowany na żywo.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Website",
     "back": "strona internetowa",
-    "phonetic": "",
+    "phonetic": "/ˈwebsaɪt/",
     "frontExample": "Check their website for updates.",
     "backExample": "Sprawdź ich stronę internetową po aktualizacje.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Search engine",
     "back": "wyszukiwarka internetowa",
-    "phonetic": "",
+    "phonetic": "/sɜːtʃ ˈendʒɪn/",
     "frontExample": "Google is the most popular search engine.",
     "backExample": "Google to najpopularniejsza wyszukiwarka.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "News website",
     "back": "strona z wiadomościami (informacyjne)",
-    "phonetic": "",
+    "phonetic": "/njuːz ˈwebsaɪt/",
     "frontExample": "She reads the news website every morning.",
     "backExample": "Codziennie rano czyta stronę z wiadomościami.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Advertisement",
     "back": "reklama",
-    "phonetic": "",
+    "phonetic": "/ədˈvɜːtɪsmənt/",
     "frontExample": "That funny advertisement went viral.",
     "backExample": "Ta zabawna reklama stała się viralem.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Commercial",
     "back": "reklama radiowa lub telewizyjna",
-    "phonetic": "",
+    "phonetic": "/kəˈmɜːʃəl/",
     "frontExample": "The commercial break was too long.",
     "backExample": "Przerwa reklamowa była za długa.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Channel",
     "back": "kanał telewizyjny, internetowy",
-    "phonetic": "",
+    "phonetic": "/ˈtʃænəl/",
     "frontExample": "I subscribed to a new channel.",
     "backExample": "Zasubskrybowałem nowy kanał.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Streaming",
     "back": "przesyłanie strumieniowe, streaming",
-    "phonetic": "",
+    "phonetic": "/ˈstriːmɪŋ/",
     "frontExample": "The concert was available via streaming.",
     "backExample": "Koncert był dostępny w streamingu.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Download",
     "back": "pobierać",
-    "phonetic": "",
+    "phonetic": "/ˌdaʊnˈləʊd/",
     "frontExample": "You can download the file here.",
     "backExample": "Możesz pobrać plik tutaj.",
     "remembered": false
@@ -174,7 +174,7 @@
     "id": 20,
     "front": "Upload",
     "back": "przesyłać dane z komputera",
-    "phonetic": "",
+    "phonetic": "/ˈʌpləʊd/",
     "frontExample": "He uploaded the photos last night.",
     "backExample": "Wgrał zdjęcia wczoraj wieczorem.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Internet",
     "back": "internet, internetowy",
-    "phonetic": "",
+    "phonetic": "/ˈɪntənet/",
     "frontExample": "I can't imagine life without the Internet.",
     "backExample": "Nie wyobrażam sobie życia bez internetu.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Video",
     "back": "wideo",
-    "phonetic": "",
+    "phonetic": "/ˈvɪdiəʊ/",
     "frontExample": "She uploaded a new video to her blog.",
     "backExample": "Dodała nowe wideo na swojego bloga.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Community",
     "back": "społeczność",
-    "phonetic": "",
+    "phonetic": "/kəˈmjuːnəti/",
     "frontExample": "The online community is very supportive.",
     "backExample": "Społeczność internetowa jest bardzo wspierająca.",
     "remembered": false

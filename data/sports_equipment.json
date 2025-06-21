@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Ball",
     "back": "piłka",
-    "phonetic": "",
+    "phonetic": "/bɔːl/",
     "frontExample": "He kicked the ball into the goal.",
     "backExample": "Kopnął piłkę do bramki.",
     "remembered": false
@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Football boots",
     "back": "korki, buty piłkarskie",
-    "phonetic": "",
+    "phonetic": "/ˈfʊtbɔːl buːts/",
     "frontExample": "I need new football boots for the season.",
     "backExample": "Potrzebuję nowych korków na sezon.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Basketball hoop",
     "back": "kosz do koszykówki",
-    "phonetic": "",
+    "phonetic": "/ˈbɑːskɪtbɔːl huːp/",
     "frontExample": "He scored a basket with a perfect shot at the hoop.",
     "backExample": "Zdobył kosza perfekcyjnym rzutem do obręczy.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Racket",
     "back": "rakieta",
-    "phonetic": "",
+    "phonetic": "/ˈrækɪt/",
     "frontExample": "She bought a new racket for her tennis lessons.",
     "backExample": "Kupiła nową rakietę do lekcji tenisa.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Tennis ball",
     "back": "piłeczka tenisowa",
-    "phonetic": "",
+    "phonetic": "/ˈtenɪs bɔːl/",
     "frontExample": "The tennis ball bounced twice.",
     "backExample": "Piłeczka tenisowa odbiła się dwa razy.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Shuttecock",
     "back": "lotka do badmintona",
-    "phonetic": "",
+    "phonetic": "/ˈʃʌtlkɒk/",
     "frontExample": "The shuttlecock flew over the net.",
     "backExample": "Lotka przeleciała nad siatką.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Gloves",
     "back": "rękawice",
-    "phonetic": "",
+    "phonetic": "/ɡlʌvz/",
     "frontExample": "The boxer wore red gloves.",
     "backExample": "Bokser miał na sobie czerwone rękawice.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Helmet",
     "back": "kask",
-    "phonetic": "",
+    "phonetic": "/ˈhelmɪt/",
     "frontExample": "You must wear a helmet for safety.",
     "backExample": "Musisz nosić kask dla bezpieczeństwa.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Pads",
     "back": "ochraniacze",
-    "phonetic": "",
+    "phonetic": "/pædz/",
     "frontExample": "He wore pads to protect his knees.",
     "backExample": "Założył ochraniacze na kolana.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Net",
     "back": "siatka",
-    "phonetic": "",
+    "phonetic": "/net/",
     "frontExample": "The net was torn and had to be replaced.",
     "backExample": "Siatka była podarta i trzeba było ją wymienić.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Goalkeeper gloves",
     "back": "rękawice bramkarskie",
-    "phonetic": "",
+    "phonetic": "/ˈɡəʊlkiːpə ɡlʌvz/",
     "frontExample": "He forgot his goalkeeper gloves at home.",
     "backExample": "Zapomniał rękawic bramkarskich w domu.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Dumbbells",
     "back": "hantle",
-    "phonetic": "",
+    "phonetic": "/ˈdʌmbelz/",
     "frontExample": "She lifted dumbbells at the gym.",
     "backExample": "Podnosiła hantle na siłowni.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Barbell",
     "back": "sztanga",
-    "phonetic": "",
+    "phonetic": "/ˈbɑːbel/",
     "frontExample": "He placed heavy weights on the barbell.",
     "backExample": "Założył ciężary na sztangę.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Skipping rope",
     "back": "skakanka",
-    "phonetic": "",
+    "phonetic": "/ˈskɪpɪŋ rəʊp/",
     "frontExample": "Kids love jumping with a skipping rope.",
     "backExample": "Dzieci uwielbiają skakać na skakance.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Yoga mat",
     "back": "mata do jogi",
-    "phonetic": "",
+    "phonetic": "/ˈjəʊɡə mæt/",
     "frontExample": "She rolled out her yoga mat.",
     "backExample": "Rozłożyła matę do jogi.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Bicycle",
     "back": "rower",
-    "phonetic": "",
+    "phonetic": "/ˈbaɪsɪkəl/",
     "frontExample": "I go to work by bicycle.",
     "backExample": "Jeżdżę do pracy rowerem.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Skateboard",
     "back": "deskorolka",
-    "phonetic": "",
+    "phonetic": "/ˈskeɪtbɔːd/",
     "frontExample": "He learned a new trick on his skateboard.",
     "backExample": "Nauczył się nowej sztuczki na deskorolce.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Surfboard",
     "back": "deska surfingowa",
-    "phonetic": "",
+    "phonetic": "/ˈsɜːfbɔːd/",
     "frontExample": "He balanced well on the surfboard.",
     "backExample": "Dobrze trzymał równowagę na desce surfingowej.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Ice skates",
     "back": "łyżwy",
-    "phonetic": "",
+    "phonetic": "/aɪs skeɪts/",
     "frontExample": "She tied her ice skates tightly.",
     "backExample": "Mocno zawiązała łyżwy.",
     "remembered": false
@@ -174,7 +174,7 @@
     "id": 20,
     "front": "Running shoes",
     "back": "buty do biegania",
-    "phonetic": "",
+    "phonetic": "/ˈrʌnɪŋ ʃuːz/",
     "frontExample": "I bought new running shoes yesterday.",
     "backExample": "Wczoraj kupiłem nowe buty do biegania.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Javelin",
     "back": "oszczep",
-    "phonetic": "",
+    "phonetic": "/ˈdʒævlɪn/",
     "frontExample": "He threw the javelin far.",
     "backExample": "Rzucił oszczepem bardzo daleko.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Shot put",
     "back": "pchnięcie kulą",
-    "phonetic": "",
+    "phonetic": "/ʃɒt pʊt/",
     "frontExample": "She practiced shot put in the field.",
     "backExample": "Ćwiczyła pchnięcie kulą na boisku.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Rugby ball",
     "back": "piłka do rugby",
-    "phonetic": "",
+    "phonetic": "/ˈrʌɡbi bɔːl/",
     "frontExample": "He passed the rugby ball quickly.",
     "backExample": "Szybko podał piłkę do rugby.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Cricket bat",
     "back": "kij do krykieta",
-    "phonetic": "",
+    "phonetic": "/ˈkrɪkɪt bæt/",
     "frontExample": "He swung the cricket bat with power.",
     "backExample": "Zamachnął się kijem do krykieta z dużą siłą.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Baseball bat",
     "back": "kij baseballowy",
-    "phonetic": "",
+    "phonetic": "/ˈbeɪsbɔːl bæt/",
     "frontExample": "He hit the ball with a baseball bat.",
     "backExample": "Uderzył piłkę kijem baseballowym.",
     "remembered": false
@@ -228,7 +228,7 @@
     "id": 26,
     "front": "Ski poles",
     "back": "kijki narciarskie",
-    "phonetic": "",
+    "phonetic": "/skiː pəʊlz/",
     "frontExample": "She carried her ski poles up the hill.",
     "backExample": "Niosła kijki narciarskie pod górę.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Ski boots",
     "back": "buty narciarskie",
-    "phonetic": "",
+    "phonetic": "/skiː buːts/",
     "frontExample": "His ski boots were very tight.",
     "backExample": "Jego buty narciarskie były bardzo ciasne.",
     "remembered": false
@@ -246,16 +246,16 @@
     "id": 28,
     "front": "Snorkel",
     "back": "rurka do nurkowania",
-    "phonetic": "",
+    "phonetic": "/ˈsnɔːkəl/",
     "frontExample": "I use a snorkel while swimming in the sea.",
-    "backExample": "Używam rurki do nurkowania w morzu.",
+    "backExample": "Używam rurki do nurkowania podczas pływania w morzu.",
     "remembered": false
   },
   {
     "id": 29,
     "front": "Diving mask",
     "back": "maska do nurkowania",
-    "phonetic": "",
+    "phonetic": "/ˈdaɪvɪŋ mɑːsk/",
     "frontExample": "He bought a new diving mask.",
     "backExample": "Kupił nową maskę do nurkowania.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "Fencing sword",
     "back": "miecz do szermierki",
-    "phonetic": "",
+    "phonetic": "/ˈfensɪŋ sɔːd/",
     "frontExample": "The fencer pointed the fencing sword.",
     "backExample": "Szermierz uniósł miecz do szermierki.",
     "remembered": false

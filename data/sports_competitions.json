@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Match",
     "back": "mecz",
-    "phonetic": "",
+    "phonetic": "/mætʃ/",
     "frontExample": "The match starts at 6 PM.",
     "backExample": "Mecz zaczyna się o 18:00.",
     "remembered": false
@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Competition",
     "back": "zawody",
-    "phonetic": "",
+    "phonetic": "/ˌkɒmpəˈtɪʃən/",
     "frontExample": "They won the national competition.",
     "backExample": "Wygrali krajowe zawody.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Tournament",
     "back": "turniej",
-    "phonetic": "",
+    "phonetic": "/ˈtʊənəmənt/",
     "frontExample": "The tennis tournament lasted two weeks.",
     "backExample": "Turniej tenisowy trwał dwa tygodnie.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Championship",
     "back": "mistrzostwa",
-    "phonetic": "",
+    "phonetic": "/ˈtʃæmpiənʃɪp/",
     "frontExample": "Our team won the championship!",
     "backExample": "Nasza drużyna wygrała mistrzostwa!",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Final",
     "back": "finał",
-    "phonetic": "",
+    "phonetic": "/ˈfaɪnəl/",
     "frontExample": "The final was very exciting.",
     "backExample": "Finał był bardzo ekscytujący.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Semi-final",
     "back": "półfinał",
-    "phonetic": "",
+    "phonetic": "/ˌsemi ˈfaɪnəl/",
     "frontExample": "She qualified for the semi-final.",
     "backExample": "Zakwalifikowała się do półfinału.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Quarter-final",
     "back": "ćwierćfinał",
-    "phonetic": "",
+    "phonetic": "/ˌkwɔːtə ˈfaɪnəl/",
     "frontExample": "They made it to the quarter-final.",
     "backExample": "Dotarli do ćwierćfinału.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Race",
     "back": "wyścig",
-    "phonetic": "",
+    "phonetic": "/reɪs/",
     "frontExample": "He won the race easily.",
     "backExample": "Łatwo wygrał wyścig.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Champions League",
     "back": "Liga Mistrzów",
-    "phonetic": "",
+    "phonetic": "/ˈtʃæmpiənz liːɡ/",
     "frontExample": "The Champions League is very popular.",
     "backExample": "Liga Mistrzów jest bardzo popularna.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Olympics",
     "back": "igrzyska olimpijskie",
-    "phonetic": "",
+    "phonetic": "/əˈlɪmpɪks/",
     "frontExample": "She dreams of competing in the Olympics.",
     "backExample": "Marzy o starcie w igrzyskach olimpijskich.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "World Cup",
     "back": "mistrzostwa świata",
-    "phonetic": "",
+    "phonetic": "/wɜːld kʌp/",
     "frontExample": "They are preparing for the World Cup.",
     "backExample": "Przygotowują się do mistrzostw świata.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Event",
     "back": "wydarzenie",
-    "phonetic": "",
+    "phonetic": "/ɪˈvent/",
     "frontExample": "The event was organized perfectly.",
     "backExample": "Wydarzenie zostało zorganizowane perfekcyjnie.",
     "remembered": false
@@ -111,8 +111,8 @@
     "id": 13,
     "front": "Game",
     "back": "gra",
-    "phonetic": "",
-    "frontExample": "Let’s play a game after dinner.",
+    "phonetic": "/ɡeɪm/",
+    "frontExample": "Let's play a game after dinner.",
     "backExample": "Zagrajmy w grę po kolacji.",
     "remembered": false
   },
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Award",
     "back": "nagroda",
-    "phonetic": "",
+    "phonetic": "/əˈwɔːd/",
     "frontExample": "He received an award for fair play.",
     "backExample": "Otrzymał nagrodę za fair play.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Prize",
     "back": "nagroda",
-    "phonetic": "",
+    "phonetic": "/praɪz/",
     "frontExample": "She won a prize for first place.",
     "backExample": "Zdobyła nagrodę za pierwsze miejsce.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Medal",
     "back": "medal (dla zwycięzcy zawodów sportowych)",
-    "phonetic": "",
+    "phonetic": "/ˈmedəl/",
     "frontExample": "He was awarded a gold medal.",
     "backExample": "Dostał złoty medal.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Trophy",
     "back": "trofeum, puchar",
-    "phonetic": "",
+    "phonetic": "/ˈtrəʊfi/",
     "frontExample": "The team lifted the trophy.",
     "backExample": "Drużyna uniosła puchar.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Athlete",
     "back": "sportowiec",
-    "phonetic": "",
+    "phonetic": "/ˈæθliːt/",
     "frontExample": "Every athlete must train hard.",
     "backExample": "Każdy sportowiec musi ciężko trenować.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Team",
     "back": "drużyna",
-    "phonetic": "",
+    "phonetic": "/tiːm/",
     "frontExample": "Our team is very strong this year.",
     "backExample": "Nasza drużyna jest w tym roku bardzo silna.",
     "remembered": false
@@ -174,7 +174,7 @@
     "id": 20,
     "front": "Supporter",
     "back": "kibic",
-    "phonetic": "",
+    "phonetic": "/səˈpɔːtə/",
     "frontExample": "The supporter waved a flag.",
     "backExample": "Kibic machał flagą.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Spectator",
     "back": "widz",
-    "phonetic": "",
+    "phonetic": "/spekˈteɪtə/",
     "frontExample": "Each spectator had a great view.",
     "backExample": "Każdy widz miał świetny widok.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Coach",
     "back": "trener",
-    "phonetic": "",
+    "phonetic": "/kəʊtʃ/",
     "frontExample": "The coach gave them great advice.",
     "backExample": "Trener dał im świetne rady.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Referee/Judge",
     "back": "sędzia",
-    "phonetic": "",
+    "phonetic": "/ˌrefəˈriː/",
     "frontExample": "The referee stopped the match.",
     "backExample": "Sędzia przerwał mecz.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Record",
     "back": "rekord",
-    "phonetic": "",
+    "phonetic": "/ˈrekɔːd/",
     "frontExample": "She broke the national record.",
     "backExample": "Pobiła rekord kraju.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Personal best",
     "back": "rekord życiowy",
-    "phonetic": "",
+    "phonetic": "/ˈpɜːsənəl best/",
     "frontExample": "He achieved a new personal best.",
     "backExample": "Osiągnął nowy rekord życiowy.",
     "remembered": false
@@ -228,7 +228,7 @@
     "id": 26,
     "front": "Heat/Knockout",
     "back": "eliminacje (w turniejach)",
-    "phonetic": "",
+    "phonetic": "/hiːt/",
     "frontExample": "She passed the heat and made the final.",
     "backExample": "Przeszła eliminacje i weszła do finału.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Doping",
     "back": "doping (stosowanie niedozwolonych substancji)",
-    "phonetic": "",
+    "phonetic": "/ˈdəʊpɪŋ/",
     "frontExample": "The athlete was caught using doping.",
     "backExample": "Sportowiec został przyłapany na dopingu.",
     "remembered": false
@@ -246,16 +246,16 @@
     "id": 28,
     "front": "Fan",
     "back": "kibic",
-    "phonetic": "",
+    "phonetic": "/fæn/",
     "frontExample": "Every fan cheered loudly.",
-    "backExample": "Każdy kibic głośno kibicował.",
+    "backExample": "Każdy kibic głośno dopingował.",
     "remembered": false
   },
   {
     "id": 29,
     "front": "Audience",
     "back": "publiczność",
-    "phonetic": "",
+    "phonetic": "/ˈɔːdiəns/",
     "frontExample": "The audience applauded after the win.",
     "backExample": "Publiczność biła brawo po zwycięstwie.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "Qualifier",
     "back": "osoba zakwalifikowana",
-    "phonetic": "",
+    "phonetic": "/ˈkwɒlɪfaɪə/",
     "frontExample": "He was the fastest qualifier.",
     "backExample": "Był najszybszym zakwalifikowanym zawodnikiem.",
     "remembered": false
@@ -273,7 +273,7 @@
     "id": 31,
     "front": "Opening ceremony",
     "back": "ceremonia otwarcia",
-    "phonetic": "",
+    "phonetic": "/ˈəʊpənɪŋ ˈserəməni/",
     "frontExample": "The opening ceremony was beautiful.",
     "backExample": "Ceremonia otwarcia była piękna.",
     "remembered": false
@@ -282,7 +282,7 @@
     "id": 32,
     "front": "Closing ceremony",
     "back": "ceremonia zamknięcia",
-    "phonetic": "",
+    "phonetic": "/ˈkləʊzɪŋ ˈserəməni/",
     "frontExample": "The closing ceremony had fireworks.",
     "backExample": "Ceremonia zamknięcia miała fajerwerki.",
     "remembered": false

@@ -1,218 +1,218 @@
 [
   {
+    "id": 1,
     "front": "Teacher",
     "back": "nauczyciel",
-    "phonetic": "",
-    "frontExample": "I'd like to become a teacher someday.",
-    "backExample": "Chciałbym kiedyś zostać nauczyciel.",
-    "remembered": false
+    "phonetic": "/ˈtiː.tʃər/",
+    "frontExample": "My teacher is very helpful.",
+    "backExample": "Mój nauczyciel jest bardzo pomocny."
   },
   {
+    "id": 2,
     "front": "Doctor",
     "back": "lekarz",
-    "phonetic": "",
-    "frontExample": "I'd like to become a doctor someday.",
-    "backExample": "Chciałbym kiedyś zostać lekarz.",
-    "remembered": false
+    "phonetic": "/ˈdɒk.tər/",
+    "frontExample": "The doctor will see you now.",
+    "backExample": "Lekarz już cię przyjmie."
   },
   {
+    "id": 3,
     "front": "Nurse",
     "back": "pielęgniarka",
-    "phonetic": "",
-    "frontExample": "I'd like to become a nurse someday.",
-    "backExample": "Chciałbym kiedyś zostać pielęgniarka.",
-    "remembered": false
+    "phonetic": "/nɜːs/",
+    "frontExample": "The nurse gave me medicine.",
+    "backExample": "Pielęgniarka dała mi lekarstwo."
   },
   {
+    "id": 4,
     "front": "Engineer",
     "back": "inżynier",
-    "phonetic": "",
-    "frontExample": "I'd like to become a engineer someday.",
-    "backExample": "Chciałbym kiedyś zostać inżynier.",
-    "remembered": false
+    "phonetic": "/ˌen.dʒɪˈnɪər/",
+    "frontExample": "My brother is an engineer.",
+    "backExample": "Mój brat jest inżynierem."
   },
   {
+    "id": 5,
     "front": "Architect",
     "back": "architekt",
-    "phonetic": "",
-    "frontExample": "I'd like to become a architect someday.",
-    "backExample": "Chciałbym kiedyś zostać architekt.",
-    "remembered": false
+    "phonetic": "/ˈɑː.kɪ.tekt/",
+    "frontExample": "The architect designed our house.",
+    "backExample": "Architekt zaprojektował nasz dom."
   },
   {
+    "id": 6,
     "front": "Lawyer",
     "back": "prawnik",
-    "phonetic": "",
-    "frontExample": "I'd like to become a lawyer someday.",
-    "backExample": "Chciałbym kiedyś zostać prawnik.",
-    "remembered": false
+    "phonetic": "/ˈlɔɪ.ər/",
+    "frontExample": "She works as a lawyer.",
+    "backExample": "Ona pracuje jako prawnik."
   },
   {
+    "id": 7,
     "front": "Dentist",
     "back": "dentysta",
-    "phonetic": "",
-    "frontExample": "I'd like to become a dentist someday.",
-    "backExample": "Chciałbym kiedyś zostać dentysta.",
-    "remembered": false
+    "phonetic": "/ˈden.tɪst/",
+    "frontExample": "I have an appointment with the dentist.",
+    "backExample": "Mam wizytę u dentysty."
   },
   {
+    "id": 8,
     "front": "Farmer",
     "back": "rolnik",
-    "phonetic": "",
-    "frontExample": "I'd like to become a farmer someday.",
-    "backExample": "Chciałbym kiedyś zostać rolnik.",
-    "remembered": false
+    "phonetic": "/ˈfɑː.mər/",
+    "frontExample": "The farmer grows vegetables.",
+    "backExample": "Rolnik uprawia warzywa."
   },
   {
+    "id": 9,
     "front": "Chef",
     "back": "szef kuchni",
-    "phonetic": "",
-    "frontExample": "I'd like to become a chef someday.",
-    "backExample": "Chciałbym kiedyś zostać szef kuchni.",
-    "remembered": false
+    "phonetic": "/ʃɛf/",
+    "frontExample": "The chef made a delicious meal.",
+    "backExample": "Szef kuchni przygotował pyszny posiłek."
   },
   {
+    "id": 10,
     "front": "Waiter/Waitress",
     "back": "kelner/kelnerka",
-    "phonetic": "",
-    "frontExample": "I'd like to become a waiter/waitress someday.",
-    "backExample": "Chciałbym kiedyś zostać kelner/kelnerka.",
-    "remembered": false
+    "phonetic": "/ˈweɪ.tər/ /ˈweɪ.trəs/",
+    "frontExample": "The waiter brought our drinks.",
+    "backExample": "Kelner przyniósł nam napoje."
   },
   {
+    "id": 11,
     "front": "Builder",
     "back": "budowlaniec",
-    "phonetic": "",
-    "frontExample": "I'd like to become a builder someday.",
-    "backExample": "Chciałbym kiedyś zostać budowlaniec.",
-    "remembered": false
+    "phonetic": "/ˈbɪl.dər/",
+    "frontExample": "The builder is working on the roof.",
+    "backExample": "Budowlaniec pracuje na dachu."
   },
   {
+    "id": 12,
     "front": "Artist",
     "back": "artysta",
-    "phonetic": "",
-    "frontExample": "I'd like to become a artist someday.",
-    "backExample": "Chciałbym kiedyś zostać artysta.",
-    "remembered": false
+    "phonetic": "/ˈɑː.tɪst/",
+    "frontExample": "She is a talented artist.",
+    "backExample": "Ona jest utalentowaną artystką."
   },
   {
+    "id": 13,
     "front": "Actor/Actress",
     "back": "aktor/aktorka",
-    "phonetic": "",
-    "frontExample": "I'd like to become a actor/actress someday.",
-    "backExample": "Chciałbym kiedyś zostać aktor/aktorka.",
-    "remembered": false
+    "phonetic": "/ˈæk.tər/ /ˈæk.trəs/",
+    "frontExample": "The actress won an award.",
+    "backExample": "Aktorka zdobyła nagrodę."
   },
   {
+    "id": 14,
     "front": "Musician",
     "back": "muzyk",
-    "phonetic": "",
-    "frontExample": "I'd like to become a musician someday.",
-    "backExample": "Chciałbym kiedyś zostać muzyk.",
-    "remembered": false
+    "phonetic": "/mjuːˈzɪʃ.ən/",
+    "frontExample": "He's a famous musician.",
+    "backExample": "On jest znanym muzykiem."
   },
   {
+    "id": 15,
     "front": "Driver",
     "back": "kierowca",
-    "phonetic": "",
-    "frontExample": "I'd like to become a driver someday.",
-    "backExample": "Chciałbym kiedyś zostać kierowca.",
-    "remembered": false
+    "phonetic": "/ˈdraɪ.vər/",
+    "frontExample": "The driver is waiting outside.",
+    "backExample": "Kierowca czeka na zewnątrz."
   },
   {
+    "id": 16,
     "front": "Scientist",
     "back": "naukowiec",
-    "phonetic": "",
-    "frontExample": "I'd like to become a scientist someday.",
-    "backExample": "Chciałbym kiedyś zostać naukowiec.",
-    "remembered": false
+    "phonetic": "/ˈsaɪən.tɪst/",
+    "frontExample": "The scientist made a discovery.",
+    "backExample": "Naukowiec dokonał odkrycia."
   },
   {
+    "id": 17,
     "front": "Photographer",
     "back": "fotograf",
-    "phonetic": "",
-    "frontExample": "I'd like to become a photographer someday.",
-    "backExample": "Chciałbym kiedyś zostać fotograf.",
-    "remembered": false
+    "phonetic": "/fəˈtɒɡ.rə.fər/",
+    "frontExample": "The photographer took our picture.",
+    "backExample": "Fotograf zrobił nam zdjęcie."
   },
   {
+    "id": 18,
     "front": "Police officer",
     "back": "policjant",
-    "phonetic": "",
-    "frontExample": "I'd like to become a police officer someday.",
-    "backExample": "Chciałbym kiedyś zostać policjant.",
-    "remembered": false
+    "phonetic": "/pəˈliːs ˌɒf.ɪ.sər/",
+    "frontExample": "The police officer helped us.",
+    "backExample": "Policjant nam pomógł."
   },
   {
+    "id": 19,
     "front": "Firefighter",
     "back": "strażak",
-    "phonetic": "",
-    "frontExample": "I'd like to become a firefighter someday.",
-    "backExample": "Chciałbym kiedyś zostać strażak.",
-    "remembered": false
+    "phonetic": "/ˈfaɪəˌfaɪ.tər/",
+    "frontExample": "The firefighter saved the cat.",
+    "backExample": "Strażak uratował kota."
   },
   {
+    "id": 20,
     "front": "Hairdresser",
     "back": "fryzjer",
-    "phonetic": "",
-    "frontExample": "I'd like to become a hairdresser someday.",
-    "backExample": "Chciałbym kiedyś zostać fryzjer.",
-    "remembered": false
+    "phonetic": "/ˈheəˌdrɛs.ər/",
+    "frontExample": "The hairdresser cut my hair.",
+    "backExample": "Fryzjer obciął mi włosy."
   },
   {
+    "id": 21,
     "front": "Cleaner",
     "back": "sprzątaczka",
-    "phonetic": "",
-    "frontExample": "I'd like to become a cleaner someday.",
-    "backExample": "Chciałbym kiedyś zostać sprzątaczka.",
-    "remembered": false
+    "phonetic": "/ˈkliː.nər/",
+    "frontExample": "The cleaner comes every Monday.",
+    "backExample": "Sprzątaczka przychodzi w każdy poniedziałek."
   },
   {
+    "id": 22,
     "front": "Accountant",
     "back": "księgowy",
-    "phonetic": "",
-    "frontExample": "I'd like to become a accountant someday.",
-    "backExample": "Chciałbym kiedyś zostać księgowy.",
-    "remembered": false
+    "phonetic": "/əˈkaʊn.tənt/",
+    "frontExample": "The accountant checks the bills.",
+    "backExample": "Księgowy sprawdza rachunki."
   },
   {
+    "id": 23,
     "front": "Plumber",
     "back": "hydraulik",
-    "phonetic": "",
-    "frontExample": "I'd like to become a plumber someday.",
-    "backExample": "Chciałbym kiedyś zostać hydraulik.",
-    "remembered": false
+    "phonetic": "/ˈplʌm.ər/",
+    "frontExample": "The plumber fixed the leak.",
+    "backExample": "Hydraulik naprawił przeciek."
   },
   {
+    "id": 24,
     "front": "Electrician",
     "back": "elektryk",
-    "phonetic": "",
-    "frontExample": "I'd like to become a electrician someday.",
-    "backExample": "Chciałbym kiedyś zostać elektryk.",
-    "remembered": false
+    "phonetic": "/ɪˌlɛkˈtrɪʃ.ən/",
+    "frontExample": "The electrician installed new lights.",
+    "backExample": "Elektryk zainstalował nowe światła."
   },
   {
+    "id": 25,
     "front": "Veterinarian",
     "back": "weterynarz",
-    "phonetic": "",
-    "frontExample": "I'd like to become a veterinarian someday.",
-    "backExample": "Chciałbym kiedyś zostać weterynarz.",
-    "remembered": false
+    "phonetic": "/ˌvet.ər.ɪˈneə.ri.ən/",
+    "frontExample": "The veterinarian checked my dog.",
+    "backExample": "Weterynarz zbadał mojego psa."
   },
   {
+    "id": 26,
     "front": "Manager",
     "back": "menadżer",
-    "phonetic": "",
-    "frontExample": "I'd like to become a manager someday.",
-    "backExample": "Chciałbym kiedyś zostać menadżer.",
-    "remembered": false
+    "phonetic": "/ˈmæn.ɪ.dʒər/",
+    "frontExample": "The manager is in a meeting.",
+    "backExample": "Menadżer jest na spotkaniu."
   },
   {
+    "id": 27,
     "front": "Receptionist",
     "back": "recepcjonista",
-    "phonetic": "",
-    "frontExample": "I'd like to become a receptionist someday.",
-    "backExample": "Chciałbym kiedyś zostać recepcjonista.",
-    "remembered": false
+    "phonetic": "/rɪˈsɛp.ʃə.nɪst/",
+    "frontExample": "The receptionist answered the phone.",
+    "backExample": "Recepcjonista odebrał telefon."
   }
 ]
