@@ -66,16 +66,20 @@ h1 {
   position: relative;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
+  padding-top: 70px;
 }
 
 .speaker-volume-group {
   display: flex;
   flex-direction: row;
   align-items: center;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
   gap: 8px;
-  margin-top: 10px;
-  margin-left: 10px;
+  margin: 0;
 }
 
 .speaker-btn,
@@ -96,7 +100,7 @@ h1 {
 
 /* Adjust .card-front .main-content to have top margin so it doesn't overlap with the buttons */
 .card-front .main-content {
-  margin-top: 60px;
+  margin-top: 0;
 }
 
 .example-sentence {
