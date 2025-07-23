@@ -153,11 +153,14 @@ function speakText(event) {
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.volume = speechVolume;
 
-  // Get available voices and set to English if available
+  // Get available voices and set to American English if available, otherwise fallback to any English
   const voices = window.speechSynthesis.getVoices();
-  const englishVoice = voices.find(voice => voice.lang.includes('en'));
-  if (englishVoice) {
-    utterance.voice = englishVoice;
+  let selectedVoice = voices.find(voice => voice.lang === 'en-US');
+  if (!selectedVoice) {
+    selectedVoice = voices.find(voice => voice.lang && voice.lang.startsWith('en'));
+  }
+  if (selectedVoice) {
+    utterance.voice = selectedVoice;
   }
 
   window.speechSynthesis.speak(utterance);
