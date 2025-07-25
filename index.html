@@ -10,16 +10,19 @@
   <div id="flashcard" onclick="flipCard()">
     <div class="card-inner">
       <div class="card-front" id="card-front">
-        <button class="volume-btn" title="Głośność">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-            <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z" fill="currentColor"/>
-          </svg>
-          <div class="volume-control">
-            <input type="range" min="0" max="1" step="0.1" value="1" class="volume-slider" title="Głośność" onclick="event.stopPropagation()">
-          </div>
-        </button>
-        <button onclick="speakText(event)" class="speaker-btn" title="Odtwórz wymowę">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-ear-icon lucide-ear"><path d="M6 8.5a6.5 6.5 0 1 1 13 0c0 6-6 6-6 10a3.5 3.5 0 1 1-7 0"/><path d="M15 8.5a2.5 2.5 0 0 0-5 0v1a2 2 0 1 1 0 4"/></svg>        </button>
+        <div class="speaker-volume-group">
+          <button onclick="speakText(event)" class="speaker-btn" title="Odtwórz wymowę">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-ear-icon lucide-ear"><path d="M6 8.5a6.5 6.5 0 1 1 13 0c0 6-6 6-6 10a3.5 3.5 0 1 1-7 0"/><path d="M15 8.5a2.5 2.5 0 0 0-5 0v1a2 2 0 1 1 0 4"/></svg>
+          </button>
+          <button class="volume-btn" title="Głośność">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+              <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z" fill="currentColor"/>
+            </svg>
+            <div class="volume-control">
+              <input type="range" min="0" max="1" step="0.1" value="1" class="volume-slider" title="Głośność" onclick="event.stopPropagation()">
+            </div>
+          </button>
+        </div>
         <div class="main-content"></div>
         <div class="phonetic-transcription hidden" id="front-phonetic"></div>
         <div class="example-sentence hidden" id="front-example"></div>
