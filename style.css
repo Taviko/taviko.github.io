@@ -210,6 +210,13 @@ h1 {
   }
 }
 
+@media (hover: none) {
+  .nav-btn:hover,
+  .nav-btn:active {
+    background-color: white !important;
+  }
+}
+
 #progress {
   font-weight: bold;
   font-size: 1.1rem;
