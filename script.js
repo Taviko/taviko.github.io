@@ -115,9 +115,10 @@ function isRemembered(id) {
 }
 
 function toggleUnknownOnly() {
-  const unknownBtn = document.querySelector('[title="Pokaż tylko nieznane karty"]');
   showUnknownOnly = !showUnknownOnly;
+  const unknownBtn = document.querySelector('[title="Pokaż tylko nieznane karty"]');
   unknownBtn.classList.toggle('active', showUnknownOnly);
+  unknownBtn.offsetHeight; // Force repaint for mobile
   index = 0;
   updateCard();
 }
@@ -141,6 +142,7 @@ function toggleExample() {
   });
 
   exampleBtn.classList.toggle('active', showingExample);
+  exampleBtn.offsetHeight; // Force repaint for mobile
 }
 
 function speakText(event) {
@@ -209,10 +211,52 @@ function togglePhonetic() {
   });
 
   phoneticBtn.classList.toggle('active', showPhonetic);
+  phoneticBtn.offsetHeight; // Force repaint for mobile
 }
 
 // Call loadPhoneticData when the page loads
 document.addEventListener('DOMContentLoaded', () => {
   loadPhoneticData();
   loadCards();
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  const exampleBtn = document.querySelector('[title="Pokaż/ukryj przykłady"]');
+  if (exampleBtn) {
+    exampleBtn.addEventListener('touchend', function(e) {
+      e.preventDefault();
+      toggleExample();
+    });
+  }
+  const phoneticBtn = document.querySelector('[title="Pokaż/ukryj transkrypcję fonetyczną"]');
+  if (phoneticBtn) {
+    phoneticBtn.addEventListener('touchend', function(e) {
+      e.preventDefault();
+      togglePhonetic();
+    });
+  }
+  const unknownBtn = document.querySelector('[title="Pokaż tylko nieznane karty"]');
+  if (unknownBtn) {
+    unknownBtn.addEventListener('touchend', function(e) {
+      e.preventDefault();
+      toggleUnknownOnly();
+    });
+  }
+  const randomBtn = document.querySelector('[title="Losowa karta"]');
+  if (randomBtn) {
+    randomBtn.addEventListener('touchend', function(e) {
+      e.preventDefault();
+      randomCard();
+      randomBtn.classList.toggle('active');
+      randomBtn.offsetHeight;
+    });
+  }
+  const rememberBtn = document.getElementById('rememberBtn');
+  if (rememberBtn) {
+    rememberBtn.addEventListener('touchend', function(e) {
+      e.preventDefault();
+      toggleRemembered();
+      rememberBtn.offsetHeight;
+    });
+  }
 });

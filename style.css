@@ -158,6 +158,7 @@ h1 {
 }
 
 /* Active states for specific buttons */
+.nav-btn.active,
 .nav-btn[title="Losowa karta"].active,
 .nav-btn[title="Pokaż/ukryj przykłady"].active,
 .nav-btn[title="Zapamiętaj/odznacz kartę"].active,
