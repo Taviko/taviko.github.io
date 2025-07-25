@@ -5,7 +5,7 @@ let showingFront = true;
 let showingExample = false;
 let showPhonetic = false;
 let phoneticData = null;
-const category = new URLSearchParams(window.location.search).get('category') || 'restaurant';
+const category = new URLSearchParams(window.location.search).get('category') || 'restaurant_vocabulary';
 const rememberedKey = `remembered-${category}`;
 let speechVolume = 1;
 
