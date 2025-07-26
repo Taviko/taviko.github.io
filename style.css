@@ -386,6 +386,16 @@ h1 {
   display: flex;
 }
 
+/* Mobile/touch: show volume bar when .show-volume is present */
+@media (hover: none) {
+  .volume-btn .volume-control {
+    display: none;
+  }
+  .volume-btn.show-volume .volume-control {
+    display: flex;
+  }
+}
+
 /* Add padding to create a larger hover area */
 .volume-control::before {
   content: '';

@@ -259,4 +259,25 @@ document.addEventListener('DOMContentLoaded', function() {
       rememberBtn.offsetHeight;
     });
   }
+
+  // Mobile/touch toggle for volume bar
+  const volumeBtn = document.querySelector('.volume-btn');
+  const volumeControl = document.querySelector('.volume-control');
+  const isTouchDevice = window.matchMedia('(hover: none)').matches;
+  if (volumeBtn && volumeControl && isTouchDevice) {
+    volumeBtn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      volumeBtn.classList.toggle('show-volume');
+    });
+    // Hide when clicking outside
+    document.addEventListener('click', function(e) {
+      if (!volumeBtn.contains(e.target)) {
+        volumeBtn.classList.remove('show-volume');
+      }
+    });
+    // Prevent closing when interacting with slider
+    volumeControl.addEventListener('click', function(e) {
+      e.stopPropagation();
+    });
+  }
 });
