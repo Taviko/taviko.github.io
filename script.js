@@ -7,7 +7,6 @@ let showPhonetic = false;
 let phoneticData = null;
 const category = new URLSearchParams(window.location.search).get('category') || 'restaurant_vocabulary';
 const rememberedKey = `remembered-${category}`;
-let speechVolume = 1;
 
 async function loadCards() {
   const res = await fetch(`data/${category}.json`);
@@ -145,38 +144,7 @@ function toggleExample() {
   exampleBtn.offsetHeight; // Force repaint for mobile
 }
 
-function speakText(event) {
-  event.stopPropagation(); // Prevent card flip when clicking the speaker button
 
-  const currentCard = getVisibleCards()[index];
-  if (!currentCard) return;
-
-  const text = currentCard.front;
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.volume = speechVolume;
-
-  // Get available voices and set to American English if available, otherwise fallback to any English
-  const voices = window.speechSynthesis.getVoices();
-  let selectedVoice = voices.find(voice => voice.lang === 'en-US');
-  if (!selectedVoice) {
-    selectedVoice = voices.find(voice => voice.lang && voice.lang.startsWith('en'));
-  }
-  if (selectedVoice) {
-    utterance.voice = selectedVoice;
-  }
-
-  window.speechSynthesis.speak(utterance);
-}
-
-// Add event listener for volume control
-document.addEventListener('DOMContentLoaded', function() {
-  const volumeSlider = document.querySelector('.volume-slider');
-  if (volumeSlider) {
-    volumeSlider.addEventListener('input', function(e) {
-      speechVolume = parseFloat(e.target.value);
-    });
-  }
-});
 
 // Load phonetic data
 async function loadPhoneticData() {
@@ -257,27 +225,6 @@ document.addEventListener('DOMContentLoaded', function() {
       e.preventDefault();
       toggleRemembered();
       rememberBtn.offsetHeight;
-    });
-  }
-
-  // Mobile/touch toggle for volume bar
-  const volumeBtn = document.querySelector('.volume-btn');
-  const volumeControl = document.querySelector('.volume-control');
-  const isTouchDevice = window.matchMedia('(hover: none)').matches;
-  if (volumeBtn && volumeControl && isTouchDevice) {
-    volumeBtn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      volumeBtn.classList.toggle('show-volume');
-    });
-    // Hide when clicking outside
-    document.addEventListener('click', function(e) {
-      if (!volumeBtn.contains(e.target)) {
-        volumeBtn.classList.remove('show-volume');
-      }
-    });
-    // Prevent closing when interacting with slider
-    volumeControl.addEventListener('click', function(e) {
-      e.stopPropagation();
     });
   }
 });
