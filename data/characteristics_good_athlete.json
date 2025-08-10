@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Focused",
     "back": "skupiony, skoncentrowany",
-    "phonetic": "/ˈfəʊkəst/",
+    "phonetic": "/ˈfoʊkəst/",
     "frontExample": "She is very focused during training.",
     "backExample": "Jest bardzo skupiona podczas treningu.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Motivated",
     "back": "zmotywowany, zdeterminowany",
-    "phonetic": "/ˈməʊtɪveɪtɪd/",
+    "phonetic": "/ˈmoʊtɪveɪtɪd/",
     "frontExample": "He’s highly motivated to improve every day.",
     "backExample": "Jest bardzo zmotywowany, aby się codziennie poprawiać.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Cooperative",
     "back": "chętny do współpracy",
-    "phonetic": "/kəʊˈɒpərətɪv/",
+    "phonetic": "/koʊˈɑpərətɪv/",
     "frontExample": "A cooperative team always achieves more.",
     "backExample": "Zespół chętny do współpracy zawsze osiąga więcej.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Confident",
     "back": "pewny siebie",
-    "phonetic": "/ˈkɒnfɪdənt/",
+    "phonetic": "/ˈkɑnfɪdənt/",
     "frontExample": "He’s confident before every match.",
     "backExample": "Jest pewny siebie przed każdym meczem.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Team player",
     "back": "osoba umiejąca pracować w zespole",
-    "phonetic": "/tiːm ˈpleɪə/",
+    "phonetic": "/tiːm ˈpleɪər/",
     "frontExample": "A team player always supports their teammates.",
     "backExample": "Osoba umiejąca pracować w zespole zawsze wspiera kolegów.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Focused on improvement",
     "back": "nastawiony na poprawę",
-    "phonetic": "/ˈfəʊkəst ɒn ɪmˈpruːvmənt/",
+    "phonetic": "/ˈfoʊkəst ɒn ɪmˈpruːvmənt/",
     "frontExample": "She is focused on improvement and sets new goals weekly.",
     "backExample": "Jest nastawiona na poprawę i co tydzień stawia sobie nowe cele.",
     "remembered": false

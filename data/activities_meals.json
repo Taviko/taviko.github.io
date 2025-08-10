@@ -14,7 +14,7 @@
     "back": "gotować (w wodzie)",
     "phonetic": "/bɔɪl/",
     "frontExample": "Please boil the eggs for exactly seven minutes.",
-    "backExample": "Proszę gotuj jajka przez dokładnie siedem minut.",
+    "backExample": "Proszę, ugotuj jajka dokładnie przez siedem minut.",
     "remembered": false
   },
   {
@@ -23,7 +23,7 @@
     "back": "smażyć",
     "phonetic": "/fraɪ/",
     "frontExample": "She likes to fry the potatoes until they are crispy.",
-    "backExample": "Ona lubi smażyć ziemniaki aż będą chrupiące.",
+    "backExample": "Ona lubi smażyć ziemniaki, aż staną się chrupiące.",
     "remembered": false
   },
   {
@@ -77,7 +77,7 @@
     "back": "kroić na plasterki",
     "phonetic": "/slaɪs/",
     "frontExample": "Please slice the tomatoes thinly for the sandwich.",
-    "backExample": "Proszę pokrój pomidory w cienkie plasterki na kanapkę.",
+    "backExample": "Proszę, pokrój pomidory w cienkie plasterki na kanapkę.",
     "remembered": false
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "front": "Beakfast",
+    "front": "Breakfast",
     "back": "śniadanie",
     "phonetic": "/ˈbrekfəst/",
     "frontExample": "Breakfast is the most important meal of the day.",
@@ -167,7 +167,7 @@
     "back": "napój",
     "phonetic": "/drɪŋk/",
     "frontExample": "Would you like a drink with your meal?",
-    "backExample": "Czy chciałbyś napój do posiłku?",
+    "backExample": "Czy chciałbyś coś do picia do posiłku?",
     "remembered": false
   },
   {
@@ -239,7 +239,7 @@
     "back": "serwetka",
     "phonetic": "/ˈnæpkɪn/",
     "frontExample": "Please place a napkin on your lap.",
-    "backExample": "Proszę połóż serwetkę na kolanach.",
+    "backExample": "Proszę, połóż serwetkę na kolanach.",
     "remembered": false
   },
   {
@@ -302,7 +302,7 @@
     "back": "ser",
     "phonetic": "/tʃiːz/",
     "frontExample": "I love cheese on top of my pizza.",
-    "backExample": "Uwielbiam ser na mojej pizzy.",
+    "backExample": "Uwielbiam ser na pizzy.",
     "remembered": false
   },
   {
@@ -365,7 +365,7 @@
     "back": "ryba",
     "phonetic": "/fɪʃ/",
     "frontExample": "She made a delicious fish stew.",
-    "backExample": "Ona zrobiła pyszną zupę rybną.",
+    "backExample": "Ona zrobiła pyszną potrawkę rybną.",
     "remembered": false
   },
   {
@@ -455,7 +455,7 @@
     "back": "herbata",
     "phonetic": "/tiː/",
     "frontExample": "She enjoys a cup of tea in the evening.",
-    "backExample": "Ona lubi filiżankę herbaty wieczorem.",
+    "backExample": "Ona lubi wieczorem wypić filiżankę herbaty.",
     "remembered": false
   }
 ]

@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Protein",
     "back": "białko",
-    "phonetic": "/ˈprəʊtiːn/",
+    "phonetic": "/ˈproʊtiːn/",
     "frontExample": "Eggs are an excellent source of protein.",
     "backExample": "Jajka to doskonałe źródło białka.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Carbohydrates",
     "back": "węglowodany",
-    "phonetic": "/ˌkɑːbəʊˈhaɪdreɪts/",
+    "phonetic": "/ˌkɑːrboʊˈhaɪdreɪts/",
     "frontExample": "Carbohydrates provide the energy we need for daily activities.",
     "backExample": "Węglowodany dostarczają energii potrzebnej do codziennych aktywności.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Sugar",
     "back": "cukier",
-    "phonetic": "/ˈʃʊɡə(r)/",
+    "phonetic": "/ˈʃʊɡər(r)/",
     "frontExample": "Try to reduce your sugar intake to stay fit.",
     "backExample": "Spróbuj ograniczyć spożycie cukru, aby zachować formę.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Whole grains",
     "back": "produkty pełnoziarniste",
-    "phonetic": "/həʊl ɡreɪnz/",
+    "phonetic": "/hoʊl ɡreɪnz/",
     "frontExample": "Whole grains like oats are good for your heart.",
     "backExample": "Produkty pełnoziarniste, takie jak owsianka, są dobre dla serca.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Dairy products",
     "back": "produkty mleczne",
-    "phonetic": "/ˈdeəri ˈprɒdʌkts/",
+    "phonetic": "/ˈderi ˈprɒdʌkts/",
     "frontExample": "Dairy products such as cheese and yogurt contain calcium.",
     "backExample": "Produkty mleczne, takie jak ser i jogurt, zawierają wapń.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Processed food",
     "back": "przetworzona żywność",
-    "phonetic": "/ˈprəʊsest fuːd/",
+    "phonetic": "/ˈproʊsest fuːd/",
     "frontExample": "Processed food often contains artificial ingredients.",
     "backExample": "Przetworzona żywność często zawiera sztuczne składniki.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Sugar-free",
     "back": "bez cukru",
-    "phonetic": "/ˈʃʊɡə friː/",
+    "phonetic": "/ˈʃʊɡər friː/",
     "frontExample": "I prefer sugar-free drinks when I'm on a diet.",
     "backExample": "Wolę napoje bez cukru, gdy jestem na diecie.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Low-fat",
     "back": "niskotłuszczowy",
-    "phonetic": "/ləʊ fæt/",
+    "phonetic": "/loʊ fæt/",
     "frontExample": "She chooses low-fat options to manage her weight.",
     "backExample": "Wybiera opcje niskotłuszczowe, aby kontrolować swoją wagę.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Organic food",
     "back": "żywność organiczna",
-    "phonetic": "/ɔːˈɡænɪk fuːd/",
+    "phonetic": "/ɔːrˈɡænɪk fuːd/",
     "frontExample": "Organic food is grown without the use of synthetic chemicals.",
     "backExample": "Żywność organiczna jest uprawiana bez użycia syntetycznych chemikaliów.",
     "remembered": false
@@ -291,7 +291,7 @@
     "id": 33,
     "front": "Superfood",
     "back": "superżywność",
-    "phonetic": "/ˈsuːpəfuːd/",
+    "phonetic": "/ˈsuːpərfuːd/",
     "frontExample": "Blueberries are considered a superfood because of their antioxidants.",
     "backExample": "Jagody są uważane za superżywność ze względu na przeciwutleniacze.",
     "remembered": false
@@ -309,7 +309,7 @@
     "id": 35,
     "front": "Low-calorie",
     "back": "niskokaloryczny",
-    "phonetic": "/ləʊ ˈkæləri/",
+    "phonetic": "/loʊ ˈkæləri/",
     "frontExample": "This salad is a tasty low-calorie option.",
     "backExample": "Ta sałatka to smaczna niskokaloryczna opcja.",
     "remembered": false
@@ -318,7 +318,7 @@
     "id": 36,
     "front": "High-protein",
     "back": "wysokobiałkowy",
-    "phonetic": "/haɪ ˈprəʊtiːn/",
+    "phonetic": "/haɪ ˈproʊtiːn/",
     "frontExample": "Athletes often follow a high-protein diet.",
     "backExample": "Sportowcy często stosują wysokobiałkową dietę.",
     "remembered": false

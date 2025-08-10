@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Wash the dishes",
     "back": "zmywać naczynia",
-    "phonetic": "/wɒʃ ðə ˈdɪʃɪz/",
+    "phonetic": "/wɑːʃ ðə ˈdɪʃɪz/",
     "frontExample": "He always forgets to wash the dishes after dinner.",
     "backExample": "On zawsze zapomina zmyć naczynia po kolacji.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Do the laundry",
     "back": "robić pranie/prać",
-    "phonetic": "/duː ðə ˈlɔːndri/",
+    "phonetic": "/duː ðə ˈlɑːndri/",
     "frontExample": "I usually do the laundry on Saturdays.",
     "backExample": "Zwykle robię pranie w soboty.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Sweep the floor",
     "back": "zamiatać podłogę",
-    "phonetic": "/swiːp ðə flɔː/",
+    "phonetic": "/swiːp ðə flɔːr/",
     "frontExample": "Please sweep the floor before mopping.",
     "backExample": "Proszę, zamieć podłogę przed myciem.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Mop the floor",
     "back": "myć podłogę",
-    "phonetic": "/mɒp ðə flɔː/",
+    "phonetic": "/mɑːp ðə flɔːr/",
     "frontExample": "He mopped the floor after the kids spilled juice.",
     "backExample": "Umył podłogę po tym, jak dzieci rozlały sok.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Wash the windows",
     "back": "myć okna",
-    "phonetic": "/wɒʃ ðə ˈwɪndəʊz/",
+    "phonetic": "/wɑːʃ ðə ˈwɪndoʊz/",
     "frontExample": "He washed the windows before the party.",
     "backExample": "Umył okna przed imprezą.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Polish the furniture",
     "back": "polerować meble",
-    "phonetic": "/ˈpɒlɪʃ ðə ˈfɜːnɪtʃə/",
+    "phonetic": "/ˈpɑːlɪʃ ðə ˈfɜːnɪtʃə/",
     "frontExample": "She polished the furniture until it shined.",
     "backExample": "Wypolerowała meble, aż się błyszczały.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Organize the closet",
     "back": "porządkować szafę",
-    "phonetic": "/ˈɔːɡənaɪz ðə ˈklɒzɪt/",
+    "phonetic": "/ˈɔːɡənaɪz ðə ˈklɑːzɪt/",
     "frontExample": "I need to organize the closet this weekend.",
     "backExample": "Muszę uporządkować szafę w ten weekend.",
     "remembered": false
@@ -255,7 +255,7 @@
     "id": 29,
     "front": "Unload the dishwasher",
     "back": "rozładować zmywarkę",
-    "phonetic": "/ʌnˈləʊd ðə ˈdɪʃˌwɒʃə/",
+    "phonetic": "/ʌnˈləʊd ðə ˈdɪʃˌwɑːʃə/",
     "frontExample": "He unloaded the dishwasher without being asked.",
     "backExample": "Rozładował zmywarkę bez proszenia.",
     "remembered": false

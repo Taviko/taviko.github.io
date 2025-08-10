@@ -3,18 +3,18 @@
     "id": 1,
     "front": "Clean",
     "back": "sprzątać",
-    "phonetic": "/kliːn/",
-    "frontExample": "I need to clean the house today.",
-    "backExample": "Muszę dziś posprzątać dom.",
+    "phonetic": "/klin/",
+    "frontExample": "I clean the living room every Saturday.",
+    "backExample": "Sprzątam salon w każdą sobotę.",
     "remembered": false
   },
   {
     "id": 2,
     "front": "Wash",
     "back": "myć",
-    "phonetic": "/wɒʃ/",
-    "frontExample": "Please wash your hands before dinner.",
-    "backExample": "Proszę umyj ręce przed obiadem.",
+    "phonetic": "/wɑʃ/",
+    "frontExample": "Please wash the dishes after dinner.",
+    "backExample": "Proszę, umyj naczynia po kolacji.",
     "remembered": false
   },
   {
@@ -22,8 +22,8 @@
     "front": "Wipe",
     "back": "wycierać",
     "phonetic": "/waɪp/",
-    "frontExample": "Can you wipe the table?",
-    "backExample": "Możesz wytrzeć stół?",
+    "frontExample": "Can you wipe the counter?",
+    "backExample": "Czy możesz wytrzeć blat?",
     "remembered": false
   },
   {
@@ -31,44 +31,44 @@
     "front": "Dust",
     "back": "ścierać kurze",
     "phonetic": "/dʌst/",
-    "frontExample": "I dust the shelves every week.",
-    "backExample": "Ścieram kurze z półek co tydzień.",
+    "frontExample": "Please dust the bookshelves in the study.",
+    "backExample": "Proszę, zetrzyj kurz z regałów w gabinecie.",
     "remembered": false
   },
   {
     "id": 5,
     "front": "Vacuum",
     "back": "odkurzać",
-    "phonetic": "/ˈvæk.juːm/",
-    "frontExample": "I vacuum the living room on Saturdays.",
-    "backExample": "Odkurzam salon w soboty.",
+    "phonetic": "/ˈvæk.jum/",
+    "frontExample": "I need to vacuum the carpets.",
+    "backExample": "Muszę odkurzyć dywany.",
     "remembered": false
   },
   {
     "id": 6,
     "front": "Sweep",
     "back": "zamiatać",
-    "phonetic": "/swiːp/",
-    "frontExample": "Please sweep the floor.",
-    "backExample": "Proszę zamieść podłogę.",
+    "phonetic": "/swip/",
+    "frontExample": "Sweep the porch before guests arrive.",
+    "backExample": "Zamieć ganek przed przyjazdem gości.",
     "remembered": false
   },
   {
     "id": 7,
     "front": "Mop",
     "back": "myć podłogę (mopem)",
-    "phonetic": "/mɒp/",
-    "frontExample": "I mop the kitchen every evening.",
-    "backExample": "Myję podłogę w kuchni każdego wieczoru.",
+    "phonetic": "/mɑp/",
+    "frontExample": "I mop the kitchen after cooking.",
+    "backExample": "Myję podłogę w kuchni po gotowaniu.",
     "remembered": false
   },
   {
     "id": 8,
     "front": "Polish",
     "back": "polerować",
-    "phonetic": "/ˈpɒl.ɪʃ/",
-    "frontExample": "She likes to polish the silverware.",
-    "backExample": "Lubi polerować srebra.",
+    "phonetic": "/ˈpɑl.ɪʃ/",
+    "frontExample": "She polishes the silverware before holidays.",
+    "backExample": "Poleruje srebrne sztućce przed świętami.",
     "remembered": false
   },
   {
@@ -76,8 +76,8 @@
     "front": "Tidy up",
     "back": "posprzątać",
     "phonetic": "/ˈtaɪdi ʌp/",
-    "frontExample": "Let's tidy up before guests arrive.",
-    "backExample": "Posprzątajmy przed przyjściem gości.",
+    "frontExample": "Let's tidy up the living room.",
+    "backExample": "Posprzątajmy salon.",
     "remembered": false
   },
   {
@@ -85,8 +85,8 @@
     "front": "Take out the trash",
     "back": "wynosić śmieci",
     "phonetic": "/teɪk aʊt ðə træʃ/",
-    "frontExample": "Can you take out the trash?",
-    "backExample": "Możesz wynieść śmieci?",
+    "frontExample": "I'll take out the trash in a minute.",
+    "backExample": "Za chwilę wyniosę śmieci.",
     "remembered": false
   },
   {
@@ -94,8 +94,8 @@
     "front": "Empty the bin",
     "back": "opróżniać kosz na śmieci",
     "phonetic": "/ˈɛm.pɪər ðə bɪn/",
-    "frontExample": "Can you empty the bin?",
-    "backExample": "Możesz opróżnić kosz na śmieci?",
+    "frontExample": "Please empty the trash bin in the kitchen.",
+    "backExample": "Proszę, opróżnij kosz na śmieci w kuchni.",
     "remembered": false
   },
   {
@@ -103,8 +103,8 @@
     "front": "Make the bed",
     "back": "ścielić łóżko",
     "phonetic": "/meɪk ðə bɛd/",
-    "frontExample": "Can you make the bed?",
-    "backExample": "Możesz ścielić łóżko?",
+    "frontExample": "Make the bed before you leave.",
+    "backExample": "Pościel łóżko, zanim wyjdziesz.",
     "remembered": false
   },
   {
@@ -112,8 +112,8 @@
     "front": "Do the laundry",
     "back": "robić pranie, prać",
     "phonetic": "/doʊ ðə ˈleɪ.əri/",
-    "frontExample": "Can you do the laundry?",
-    "backExample": "Możesz zrobić pranie?",
+    "frontExample": "I do the laundry on Sundays.",
+    "backExample": "Robię pranie w niedziele.",
     "remembered": false
   },
   {
@@ -121,8 +121,8 @@
     "front": "Iron",
     "back": "prasować",
     "phonetic": "/ˈaɪən/",
-    "frontExample": "Can you iron the clothes?",
-    "backExample": "Możesz prasować ubrania?",
+    "frontExample": "Could you iron this shirt for me?",
+    "backExample": "Czy możesz wyprasować mi tę koszulę?",
     "remembered": false
   },
   {
@@ -130,35 +130,35 @@
     "front": "Fold clothes",
     "back": "składać ubrania",
     "phonetic": "/foʊld ˈkləʊz/",
-    "frontExample": "Can you fold the clothes?",
-    "backExample": "Możesz składać ubrania?",
+    "frontExample": "Please fold the clean clothes.",
+    "backExample": "Proszę, złóż czyste ubrania.",
     "remembered": false
   },
   {
     "id": 16,
     "front": "Clean the windows",
     "back": "myć okna",
-    "phonetic": "/ˈkliːn ðə ˈwɪndəʊz/",
-    "frontExample": "Can you clean the windows?",
-    "backExample": "Możesz myć okna?",
+    "phonetic": "/ˈklin ðə ˈwɪndəʊz/",
+    "frontExample": "We clean the windows every spring.",
+    "backExample": "Myjemy okna każdej wiosny.",
     "remembered": false
   },
   {
     "id": 17,
     "front": "Change the sheets",
     "back": "zmienić pościel",
-    "phonetic": "/tʃeɪndʒ ðə ʃiːts/",
-    "frontExample": "Can you change the sheets?",
-    "backExample": "Możesz zmienić pościel?",
+    "phonetic": "/tʃeɪndʒ ðə ʃits/",
+    "frontExample": "It's time to change the sheets.",
+    "backExample": "Czas zmienić pościel.",
     "remembered": false
   },
   {
     "id": 18,
     "front": "Clean the bathroom",
     "back": "sprzątać łazienkę",
-    "phonetic": "/kliːn ðə ˈbɑːθruːm/",
-    "frontExample": "I clean the bathroom every week.",
-    "backExample": "Sprzątam łazienkę co tydzień.",
+    "phonetic": "/klin ðə ˈbɑθrum/",
+    "frontExample": "I clean the bathroom every Friday.",
+    "backExample": "Sprzątam łazienkę w każdy piątek.",
     "remembered": false
   },
   {
@@ -166,17 +166,17 @@
     "front": "Scrub",
     "back": "szorować",
     "phonetic": "/skrʌb/",
-    "frontExample": "You need to scrub the floor.",
-    "backExample": "Musisz wyszorować podłogę.",
+    "frontExample": "You need to scrub the pan with a brush.",
+    "backExample": "Musisz wyszorować patelnię szczotką.",
     "remembered": false
   },
   {
     "id": 20,
     "front": "Clean the kitchen",
     "back": "posprzątać kuchnię",
-    "phonetic": "/kliːn ðə ˈkɪtʃɪn/",
-    "frontExample": "Can you clean the kitchen?",
-    "backExample": "Możesz posprzątać kuchnię?",
+    "phonetic": "/klin ðə ˈkɪtʃɪn/",
+    "frontExample": "Let's clean the kitchen after baking.",
+    "backExample": "Posprzątajmy kuchnię po pieczeniu.",
     "remembered": false
   },
   {
@@ -184,8 +184,8 @@
     "front": "Disinfect",
     "back": "dezynfekować",
     "phonetic": "/ˌdɪsɪnˈfɛkt/",
-    "frontExample": "It's important to disinfect surfaces.",
-    "backExample": "Ważne jest, aby dezynfekować powierzchnie.",
+    "frontExample": "Please disinfect the cutting board.",
+    "backExample": "Proszę, zdezynfekuj deskę do krojenia.",
     "remembered": false
   },
   {
@@ -193,8 +193,8 @@
     "front": "Wipe down",
     "back": "wycierać powierzchnię",
     "phonetic": "/waɪp daʊn/",
-    "frontExample": "Please wipe down the table after eating.",
-    "backExample": "Proszę wytrzyj stół po jedzeniu.",
+    "frontExample": "Wipe down the table after breakfast.",
+    "backExample": "Wytrzyj stół po śniadaniu.",
     "remembered": false
   },
   {
@@ -202,8 +202,8 @@
     "front": "Sanitize",
     "back": "zdezynfekować",
     "phonetic": "/ˈsænɪtaɪz/",
-    "frontExample": "Sanitize your hands before cooking.",
-    "backExample": "Zdezynfekuj ręce przed gotowaniem.",
+    "frontExample": "Remember to sanitize the doorknobs.",
+    "backExample": "Pamiętaj, aby zdezynfekować klamki.",
     "remembered": false
   },
   {
@@ -211,8 +211,8 @@
     "front": "Fix",
     "back": "naprawiać",
     "phonetic": "/fɪks/",
-    "frontExample": "Can you fix the door?",
-    "backExample": "Możesz naprawić drzwi?",
+    "frontExample": "I can fix the broken drawer.",
+    "backExample": "Potrafię naprawić zepsutą szufladę.",
     "remembered": false
   },
   {
@@ -220,8 +220,8 @@
     "front": "Repair",
     "back": "reperować, naprawiać",
     "phonetic": "/rɪˈpeər/",
-    "frontExample": "He can repair anything in the house.",
-    "backExample": "On potrafi naprawić wszystko w domu.",
+    "frontExample": "They will repair the washing machine tomorrow.",
+    "backExample": "Jutro naprawią pralkę.",
     "remembered": false
   },
   {
@@ -229,8 +229,8 @@
     "front": "Paint",
     "back": "malować",
     "phonetic": "/peɪnt/",
-    "frontExample": "We need to paint the walls.",
-    "backExample": "Musimy pomalować ściany.",
+    "frontExample": "We plan to paint the bedroom blue.",
+    "backExample": "Planujemy pomalować sypialnię na niebiesko.",
     "remembered": false
   },
   {
@@ -238,7 +238,7 @@
     "front": "Hammer",
     "back": "wbijać młotkiem, młotek",
     "phonetic": "/ˈhæmər/",
-    "frontExample": "Use a hammer to put up the picture.",
+    "frontExample": "Use a hammer to hang the picture.",
     "backExample": "Użyj młotka, żeby powiesić obraz.",
     "remembered": false
   },
@@ -247,17 +247,17 @@
     "front": "Nail",
     "back": "przybić gwoździa",
     "phonetic": "/neɪl/",
-    "frontExample": "Can you nail this board?",
-    "backExample": "Możesz przybić tę deskę?",
+    "frontExample": "Nail the frame to the wall carefully.",
+    "backExample": "Ostrożnie przybij ramę do ściany.",
     "remembered": false
   },
   {
     "id": 29,
     "front": "Screw",
     "back": "wkręcać",
-    "phonetic": "/skruː/",
-    "frontExample": "Screw the shelf to the wall.",
-    "backExample": "Przykręć półkę do ściany.",
+    "phonetic": "/skru/",
+    "frontExample": "Screw the legs onto the table.",
+    "backExample": "Przykręć nogi do stołu.",
     "remembered": false
   },
   {
@@ -265,17 +265,17 @@
     "front": "Drill",
     "back": "wiercić",
     "phonetic": "/drɪl/",
-    "frontExample": "He used a drill to make a hole.",
-    "backExample": "Użył wiertarki, żeby zrobić dziurę.",
+    "frontExample": "Drill a hole for the new shelf.",
+    "backExample": "Wywierć otwór na nową półkę.",
     "remembered": false
   },
   {
     "id": 31,
     "front": "Glue",
     "back": "klej, kleić",
-    "phonetic": "/ɡluː/",
-    "frontExample": "Can you glue this back together?",
-    "backExample": "Możesz to skleić z powrotem?",
+    "phonetic": "/ɡlu/",
+    "frontExample": "Glue the broken handle back on.",
+    "backExample": "Przyklej z powrotem urwany uchwyt.",
     "remembered": false
   },
   {
@@ -283,8 +283,8 @@
     "front": "Patch",
     "back": "łatać (np. dziurę)",
     "phonetic": "/pætʃ/",
-    "frontExample": "He patched the hole in the wall.",
-    "backExample": "Załatał dziurę w ścianie.",
+    "frontExample": "We need to patch the hole in the drywall.",
+    "backExample": "Musimy załatać dziurę w płycie gipsowej.",
     "remembered": false
   },
   {
@@ -292,44 +292,44 @@
     "front": "Replace",
     "back": "wymieniać",
     "phonetic": "/rɪˈpleɪs/",
-    "frontExample": "We need to replace the old lamp.",
-    "backExample": "Musimy wymienić starą lampę.",
+    "frontExample": "Replace the old filter with a new one.",
+    "backExample": "Wymień stary filtr na nowy.",
     "remembered": false
   },
   {
     "id": 34,
     "front": "Install",
     "back": "instalować",
-    "phonetic": "/ɪnˈstɔːl/",
-    "frontExample": "Can you install the new software?",
-    "backExample": "Możesz zainstalować nowe oprogramowanie?",
+    "phonetic": "/ɪnˈstɔl/",
+    "frontExample": "Can you install the new light fixture?",
+    "backExample": "Czy możesz zainstalować nową lampę sufitową?",
     "remembered": false
   },
   {
     "id": 35,
     "front": "Unclog",
     "back": "udrażniać, odetkać",
-    "phonetic": "/ʌnˈklɒɡ/",
-    "frontExample": "He had to unclog the sink.",
-    "backExample": "Musiał udrożnić zlew.",
+    "phonetic": "/ʌnˈklɑɡ/",
+    "frontExample": "He managed to unclog the sink.",
+    "backExample": "Udało mu się odetkać zlew.",
     "remembered": false
   },
   {
     "id": 36,
     "front": "Unblock",
     "back": "odblokować",
-    "phonetic": "/ʌnˈblɒk/",
-    "frontExample": "Can you unblock the drain?",
-    "backExample": "Możesz odblokować odpływ?",
+    "phonetic": "/ʌnˈblɑk/",
+    "frontExample": "Please unblock the shower drain.",
+    "backExample": "Proszę, odblokuj odpływ prysznica.",
     "remembered": false
   },
   {
     "id": 37,
     "front": "Fix the leak",
     "back": "naprawić przeciek",
-    "phonetic": "/fɪks ðə liːk/",
-    "frontExample": "We need to fix the leak in the roof.",
-    "backExample": "Musimy naprawić przeciek w dachu.",
+    "phonetic": "/fɪks ðə lik/",
+    "frontExample": "We need to fix the leak under the sink.",
+    "backExample": "Musimy naprawić przeciek pod zlewem.",
     "remembered": false
   },
   {
@@ -337,8 +337,8 @@
     "front": "Change the lightbulb",
     "back": "wymienić żarówkę",
     "phonetic": "/tʃeɪndʒ ðə ˈlaɪtbʌlb/",
-    "frontExample": "Can you change the lightbulb?",
-    "backExample": "Możesz wymienić żarówkę?",
+    "frontExample": "I'll change the lightbulb in the hallway.",
+    "backExample": "Wymienię żarówkę w korytarzu.",
     "remembered": false
   },
   {
@@ -346,15 +346,15 @@
     "front": "Tighten",
     "back": "dokręcać",
     "phonetic": "/ˈtaɪtən/",
-    "frontExample": "Tighten the screws, please.",
-    "backExample": "Dokręć śruby, proszę.",
+    "frontExample": "Tighten the screws on the chair.",
+    "backExample": "Dokręć śruby w krześle.",
     "remembered": false
   },
   {
     "id": 40,
     "front": "Loosen",
     "back": "poluzować",
-    "phonetic": "/ˈluːsən/",
+    "phonetic": "/ˈlusən/",
     "frontExample": "Loosen the bolt a little.",
     "backExample": "Poluzuj trochę śrubę.",
     "remembered": false
@@ -364,8 +364,8 @@
     "front": "Assemble",
     "back": "montować, składać",
     "phonetic": "/əˈsɛm.bəl/",
-    "frontExample": "We need to assemble the new furniture.",
-    "backExample": "Musimy złożyć nowe meble.",
+    "frontExample": "Let's assemble the new wardrobe.",
+    "backExample": "Złóżmy nową szafę.",
     "remembered": false
   },
   {
@@ -373,8 +373,8 @@
     "front": "Dismantle",
     "back": "demontować",
     "phonetic": "/dɪsˈmæntl/",
-    "frontExample": "He will dismantle the old wardrobe.",
-    "backExample": "On zdemontuje starą szafę.",
+    "frontExample": "We need to dismantle the old crib.",
+    "backExample": "Musimy zdemontować stare łóżeczko.",
     "remembered": false
   },
   {
@@ -382,44 +382,44 @@
     "front": "Adjust",
     "back": "dostosować",
     "phonetic": "/əˈdʒʌst/",
-    "frontExample": "Adjust the height of the chair.",
-    "backExample": "Dostosuj wysokość krzesła.",
+    "frontExample": "Adjust the height of the desk.",
+    "backExample": "Dostosuj wysokość biurka.",
     "remembered": false
   },
   {
     "id": 44,
     "front": "Repaint",
     "back": "przemalować, odmalować",
-    "phonetic": "/ˌriːˈpeɪnt/",
-    "frontExample": "We want to repaint the living room.",
-    "backExample": "Chcemy odmalować salon.",
+    "phonetic": "/ˌriˈpeɪnt/",
+    "frontExample": "We should repaint the living room soon.",
+    "backExample": "Powinniśmy wkrótce odmalować salon.",
     "remembered": false
   },
   {
     "id": 45,
     "front": "Organize",
     "back": "organizować",
-    "phonetic": "/ˈɔːɡənaɪz/",
-    "frontExample": "Let's organize the closet.",
-    "backExample": "Zorganizujmy szafę.",
+    "phonetic": "/ˈɔɡənaɪz/",
+    "frontExample": "I'll organize the closet this afternoon.",
+    "backExample": "Po południu uporządkuję szafę.",
     "remembered": false
   },
   {
     "id": 46,
     "front": "Declutter",
     "back": "posprzątać, uporządkować",
-    "phonetic": "/diːˈklʌtər/",
-    "frontExample": "We need to declutter the garage.",
-    "backExample": "Musimy uporządkować garaż.",
+    "phonetic": "/diˈklʌtər/",
+    "frontExample": "It's time to declutter the garage and get rid of old stuff.",
+    "backExample": "Czas uporządkować garaż i pozbyć się starych rzeczy.",
     "remembered": false
   },
   {
     "id": 47,
     "front": "Do the dishes",
     "back": "zmywać naczynia",
-    "phonetic": "/duː ðə ˈdɪʃɪz/",
-    "frontExample": "Can you do the dishes tonight?",
-    "backExample": "Możesz dziś zmyć naczynia?",
+    "phonetic": "/du ðə ˈdɪʃɪz/",
+    "frontExample": "I'll do the dishes after the movie.",
+    "backExample": "Pozmywam naczynia po filmie.",
     "remembered": false
   },
   {
@@ -427,8 +427,8 @@
     "front": "Make dinner",
     "back": "robić obiad",
     "phonetic": "/meɪk ˈdɪnər/",
-    "frontExample": "I'll make dinner tonight.",
-    "backExample": "Dziś zrobię obiad.",
+    "frontExample": "I'm making dinner for everyone tonight.",
+    "backExample": "Dziś wieczorem robię kolację dla wszystkich.",
     "remembered": false
   },
   {
@@ -436,17 +436,17 @@
     "front": "Set the table",
     "back": "nakryć do stołu",
     "phonetic": "/sɛt ðə ˈteɪbl/",
-    "frontExample": "Can you set the table?",
-    "backExample": "Możesz nakryć do stołu?",
+    "frontExample": "Can you set the table, please?",
+    "backExample": "Czy możesz nakryć do stołu?",
     "remembered": false
   },
   {
     "id": 50,
     "front": "Wash the car",
     "back": "myć samochód",
-    "phonetic": "/wɒʃ ðə kɑːr/",
-    "frontExample": "I need to wash the car.",
-    "backExample": "Muszę umyć samochód.",
+    "phonetic": "/wɑʃ ðə kɑr/",
+    "frontExample": "We need to wash the car before the trip.",
+    "backExample": "Musimy umyć samochód przed wyjazdem.",
     "remembered": false
   },
   {
@@ -454,44 +454,44 @@
     "front": "Shovel snow",
     "back": "odśnieżać",
     "phonetic": "/ˈʃʌvəl snəʊ/",
-    "frontExample": "He will shovel snow in the morning.",
-    "backExample": "On odśnieży rano.",
+    "frontExample": "He will shovel snow after breakfast.",
+    "backExample": "On odśnieży po śniadaniu.",
     "remembered": false
   },
   {
     "id": 52,
     "front": "Water the plants",
     "back": "podlewać rośliny",
-    "phonetic": "/ˈwɔːtər ðə plænts/",
-    "frontExample": "Don't forget to water the plants.",
-    "backExample": "Nie zapomnij podlać roślin.",
+    "phonetic": "/ˈwɔtər ðə plænts/",
+    "frontExample": "Don't forget to water the plants on the balcony.",
+    "backExample": "Nie zapomnij podlać roślin na balkonie.",
     "remembered": false
   },
   {
     "id": 53,
     "front": "Take care of the garden",
     "back": "dbać o ogród",
-    "phonetic": "/teɪk keər əv ðə ˈɡɑːrdən/",
-    "frontExample": "She takes care of the garden every weekend.",
-    "backExample": "Ona dba o ogród w każdy weekend.",
+    "phonetic": "/teɪk keər əv ðə ˈɡɑrdən/",
+    "frontExample": "She takes care of the garden in the evenings.",
+    "backExample": "Ona opiekuje się ogrodem wieczorami.",
     "remembered": false
   },
   {
     "id": 54,
-    "front": "Mów the lawn",
+    "front": "Mow the lawn",
     "back": "kosić trawnik",
-    "phonetic": "/moʊ ðə lɔːn/",
-    "frontExample": "I mow the lawn on Sundays.",
-    "backExample": "Koszę trawnik w niedziele.",
+    "phonetic": "/moʊ ðə lɔn/",
+    "frontExample": "I'll mow the lawn before it rains.",
+    "backExample": "Skoszę trawnik, zanim zacznie padać.",
     "remembered": false
   },
   {
     "id": 55,
     "front": "Clean the gutters",
     "back": "czyścić rynny",
-    "phonetic": "/kliːn ðə ˈɡʌtərz/",
-    "frontExample": "He needs to clean the gutters before winter.",
-    "backExample": "Musi wyczyścić rynny przed zimą.",
+    "phonetic": "/klin ðə ˈɡʌtərz/",
+    "frontExample": "We clean the gutters every autumn.",
+    "backExample": "Czyścimy rynny każdej jesieni.",
     "remembered": false
   }
 ]

@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Modern",
     "back": "nowoczesny",
-    "phonetic": "/ˈmɒdən/",
+    "phonetic": "/ˈmɑːdən/",
     "frontExample": "They live in a modern apartment downtown.",
     "backExample": "Mieszkają w nowoczesnym mieszkaniu w centrum.",
     "remembered": false
@@ -167,7 +167,7 @@
     "back": "dobrze utrzymany",
     "phonetic": "/wel ˌmeɪnˈteɪnd/",
     "frontExample": "It’s a well-maintained garden with fresh flowers.",
-    "backExample": "To dobrze utrzymany ogród z świeżymi kwiatami.",
+    "backExample": "To dobrze utrzymany ogród ze świeżymi kwiatami.",
     "remembered": false
   },
   {
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Compact",
     "back": "kompaktowy",
-    "phonetic": "/ˈkɒmpækt/",
+    "phonetic": "/ˈkɑːmpækt/",
     "frontExample": "This compact kitchen has everything you need.",
     "backExample": "Ta kompaktowa kuchnia ma wszystko, czego potrzebujesz.",
     "remembered": false
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "front": "Vintage",
-    "back": "vintage, stary",
+    "back": "vintage, w stylu retro",
     "phonetic": "/ˈvɪntɪdʒ/",
     "frontExample": "She collects vintage furniture.",
     "backExample": "Kolekcjonuje meble vintage.",

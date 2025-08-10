@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Author",
     "back": "autor",
-    "phonetic": "/ˈɔːθər/",
+    "phonetic": "/ˈɔːθɚ/",
     "frontExample": "Who is the author of this novel?",
     "backExample": "Kto jest autorem tej powieści?",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Writer",
     "back": "pisarz",
-    "phonetic": "/ˈraɪtər/",
+    "phonetic": "/ˈraɪtɚ/",
     "frontExample": "She is a famous writer.",
     "backExample": "Ona jest znaną pisarką.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Character",
     "back": "postać",
-    "phonetic": "/ˈkærɪktər/",
+    "phonetic": "/ˈkærɪktɚ/",
     "frontExample": "Who is your favorite character?",
     "backExample": "Która postać jest twoją ulubioną?",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Novel",
     "back": "powieść",
-    "phonetic": "/ˈnɒvəl/",
+    "phonetic": "/ˈnɑːvəl/",
     "frontExample": "This is a classic novel.",
     "backExample": "To jest klasyczna powieść.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Poem",
     "back": "wiersz",
-    "phonetic": "/ˈpəʊɪm/",
+    "phonetic": "/ˈpoʊəm/",
     "frontExample": "He wrote a beautiful poem.",
     "backExample": "Napisał piękny wiersz.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Poet",
     "back": "poeta",
-    "phonetic": "/ˈpəʊɪt/",
+    "phonetic": "/ˈpoʊət/",
     "frontExample": "She is a famous poet.",
     "backExample": "Ona jest znaną poetką.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Plot",
     "back": "fabuła",
-    "phonetic": "/plɒt/",
+    "phonetic": "/plɑt/",
     "frontExample": "The plot is very interesting.",
     "backExample": "Fabuła jest bardzo ciekawa.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Art",
     "back": "sztuka",
-    "phonetic": "/ɑːt/",
+    "phonetic": "/ɑrt/",
     "frontExample": "Art is important in our lives.",
     "backExample": "Sztuka jest ważna w naszym życiu.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Artist",
     "back": "artysta",
-    "phonetic": "/ˈɑːtɪst/",
+    "phonetic": "/ˈɑrtɪst/",
     "frontExample": "He is a talented artist.",
     "backExample": "On jest utalentowanym artystą.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Picture",
     "back": "obrazek",
-    "phonetic": "/ˈpɪktʃər/",
+    "phonetic": "/ˈpɪktʃɚ/",
     "frontExample": "Can you draw a picture?",
     "backExample": "Możesz narysować obrazek?",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Gallery",
     "back": "galeria",
-    "phonetic": "/ˈɡæləri/",
+    "phonetic": "/ˈɡælɚi/",
     "frontExample": "Let's visit the art gallery.",
     "backExample": "Odwiedźmy galerię sztuki.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Museum",
     "back": "muzeum",
-    "phonetic": "/mjuːˈziːəm/",
+    "phonetic": "/mjuˈziəm/",
     "frontExample": "The museum is closed on Mondays.",
     "backExample": "Muzeum jest zamknięte w poniedziałki.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Sculpture",
     "back": "rzeźba",
-    "phonetic": "/ˈskʌlptʃər/",
+    "phonetic": "/ˈskʌlptʃɚ/",
     "frontExample": "There is a sculpture in the park.",
     "backExample": "W parku jest rzeźba.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Draw",
     "back": "rysować",
-    "phonetic": "/drɔː/",
+    "phonetic": "/drɔ/",
     "frontExample": "I like to draw in my free time.",
     "backExample": "Lubię rysować w wolnym czasie.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Exhibition",
     "back": "wystawa",
-    "phonetic": "/ˌɛksɪˈbɪʃən/",
+    "phonetic": "/ˌeksɪˈbɪʃən/",
     "frontExample": "The exhibition opens tomorrow.",
     "backExample": "Wystawa otwiera się jutro.",
     "remembered": false

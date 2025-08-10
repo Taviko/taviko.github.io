@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Watch TV",
     "back": "oglądać telewizję",
-    "phonetic": "/wɒtʃ ˌtiːˈviː/",
+    "phonetic": "/wɑːtʃ ˌtiːˈviː/",
     "frontExample": "We watch TV in the evening.",
     "backExample": "Wieczorem oglądamy telewizję.",
     "remembered": false
@@ -300,7 +300,7 @@
     "id": 34,
     "front": "Do the laundry",
     "back": "robić pranie, prać",
-    "phonetic": "/duː ðə ˈlɔːndri/",
+    "phonetic": "/duː ðə ˈlɑːndri/",
     "frontExample": "She does the laundry on Sundays.",
     "backExample": "Ona robi pranie w niedziele.",
     "remembered": false
@@ -316,8 +316,8 @@
   },
   {
     "id": 36,
-    "front": "Check the email",
-    "back": "sprawdzać pocztę elektroniczną (email)",
+    "front": "Check email",
+    "back": "sprawdzać pocztę elektroniczną",
     "phonetic": "/tʃek ði ˈiːmeɪl/",
     "frontExample": "I check the email first thing at work.",
     "backExample": "Najpierw w pracy sprawdzam pocztę.",
@@ -398,7 +398,7 @@
   {
     "id": 45,
     "front": "Do some chores",
-    "back": "wypełniać obowiązki domowe",
+    "back": "robić prace domowe",
     "phonetic": "/duː səm tʃɔːz/",
     "frontExample": "I do some chores before watching TV.",
     "backExample": "Wypełniam obowiązki domowe przed oglądaniem telewizji.",

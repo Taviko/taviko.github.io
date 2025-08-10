@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Roast",
     "back": "piec (np. mięso)",
-    "phonetic": "/rəʊst/",
+    "phonetic": "/roʊst/",
     "frontExample": "We roast a whole chicken for Sunday lunch.",
     "backExample": "Pieczemy całego kurczaka na niedzielny obiad.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Pot",
     "back": "garnek",
-    "phonetic": "/pɒt/",
+    "phonetic": "/pɑːt/",
     "frontExample": "She stirred the soup in the pot.",
     "backExample": "Mieszała zupę w garnku.",
     "remembered": false
@@ -372,7 +372,7 @@
     "id": 42,
     "front": "Salty",
     "back": "słony",
-    "phonetic": "/ˈsɒlti/",
+    "phonetic": "/ˈsɔːlti/",
     "frontExample": "The soup turned out too salty.",
     "backExample": "Zupa okazała się zbyt słona.",
     "remembered": false
@@ -435,7 +435,7 @@
     "id": 49,
     "front": "Roasting pan",
     "back": "brytfanna",
-    "phonetic": "/ˈrəʊstɪŋ pæn/",
+    "phonetic": "/ˈroʊstɪŋ pæn/",
     "frontExample": "Place the chicken in a roasting pan.",
     "backExample": "Umieść kurczaka w brytfannie.",
     "remembered": false
@@ -569,19 +569,10 @@
   {
     "id": 64,
     "front": "To taste",
-    "back": "smakować",
+    "back": "do smaku",
     "phonetic": "/tə teɪst/",
     "frontExample": "Add salt and pepper to taste.",
     "backExample": "Dodaj sól i pieprz do smaku.",
-    "remembered": false
-  },
-  {
-    "id": 65,
-    "front": "Bread crumbs",
-    "back": "bułka tarta",
-    "phonetic": "/brɛd krʌmz/",
-    "frontExample": "She coated the chicken with bread crumbs before frying.",
-    "backExample": "Pokryła kurczaka bułką tartą przed smażeniem.",
     "remembered": false
   },
   {
@@ -594,57 +585,12 @@
     "remembered": false
   },
   {
-    "id": 67,
-    "front": "To taste",
-    "back": "smakować",
-    "phonetic": "/tə teɪst/",
-    "frontExample": "Add salt and pepper to taste.",
-    "backExample": "Dodaj soli i pieprzu według uznania.",
-    "remembered": false
-  },
-  {
-    "id": 68,
-    "front": "Spoonful",
-    "back": "pełna łyżka",
-    "phonetic": "/ˈspuːnfʊl/",
-    "frontExample": "Add a spoonful of honey to the tea.",
-    "backExample": "Dodaj pełną łyżkę miodu do herbaty.",
-    "remembered": false
-  },
-  {
-    "id": 69,
-    "front": "Batter",
-    "back": "ciasto naleśnikowe",
-    "phonetic": "/ˈbætə(r)/",
-    "frontExample": "Pour the batter onto the hot pan.",
-    "backExample": "Wlej ciasto naleśnikowe na gorącą patelnię.",
-    "remembered": false
-  },
-  {
     "id": 70,
     "front": "Dough",
     "back": "ciasto (surowe, np. na chleb)",
     "phonetic": "/dəʊ/",
     "frontExample": "Knead the dough until it's smooth and elastic.",
     "backExample": "Zagniataj ciasto, aż będzie gładkie i elastyczne.",
-    "remembered": false
-  },
-  {
-    "id": 71,
-    "front": "Herbs",
-    "back": "zioła",
-    "phonetic": "/hɜːbz/",
-    "frontExample": "Fresh herbs add great flavor to the dish.",
-    "backExample": "Świeże zioła dodają potrawie wspaniałego smaku.",
-    "remembered": false
-  },
-  {
-    "id": 72,
-    "front": "Spices",
-    "back": "przyprawy",
-    "phonetic": "/ˈspaɪsɪz/",
-    "frontExample": "He loves cooking with a variety of spices.",
-    "backExample": "Uwielbia gotować z użyciem różnych przypraw.",
     "remembered": false
   }
 ]

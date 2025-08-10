@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Famous person",
     "back": "sławna osoba",
-    "phonetic": "/ˈfeɪməs ˈpɜːsən/",
+    "phonetic": "/ˈfeɪməs ˈpɜːrsn/",
     "frontExample": "A famous person attended the ceremony.",
     "backExample": "Sławna osoba uczestniczyła w ceremonii.",
     "remembered": false
@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Writer",
     "back": "pisarz",
-    "phonetic": "/ˈraɪtə/",
+    "phonetic": "/ˈraɪtər/",
     "frontExample": "The writer received a prize for her novel.",
     "backExample": "Pisarz otrzymał nagrodę za swoją powieść.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Producer",
     "back": "producent",
-    "phonetic": "/prəˈdjuːsə/",
+    "phonetic": "/prəˈduːsər/",
     "frontExample": "The producer financed the entire film.",
     "backExample": "Producent sfinansował cały film.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Painter",
     "back": "malarz",
-    "phonetic": "/ˈpeɪntə/",
+    "phonetic": "/ˈpeɪntər/",
     "frontExample": "The painter used bold colors in his artwork.",
     "backExample": "Malarz używał intensywnych kolorów w swojej sztuce.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Artist",
     "back": "artysta",
-    "phonetic": "/ˈɑːtɪst/",
+    "phonetic": "/ˈɑːrtɪst/",
     "frontExample": "The artist created a stunning sculpture.",
     "backExample": "Artysta stworzył oszałamiającą rzeźbę.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Photographer",
     "back": "fotograf",
-    "phonetic": "/fəˈtɒɡrəfə/",
+    "phonetic": "/fəˈtɑːɡrəfər/",
     "frontExample": "The photographer captured the perfect moment.",
     "backExample": "Fotograf uchwycił idealny moment.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Poet",
     "back": "poeta",
-    "phonetic": "/ˈpəʊɪt/",
+    "phonetic": "/ˈpoʊət/",
     "frontExample": "The poet wrote about love and nature.",
     "backExample": "Poeta pisał o miłości i naturze.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Composer",
     "back": "kompozytor",
-    "phonetic": "/kəmˈpəʊzə/",
+    "phonetic": "/kəmˈpoʊzər/",
     "frontExample": "The composer finished his seventh symphony.",
     "backExample": "Kompozytor ukończył swoją siódmą symfonię.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Sculptor",
     "back": "rzeźbiarz",
-    "phonetic": "/ˈskʌlptə/",
+    "phonetic": "/ˈskʌlptər/",
     "frontExample": "The sculptor carved a statue from stone.",
     "backExample": "Rzeźbiarz wyrzeźbił posąg z kamienia.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Premiere",
     "back": "premiera",
-    "phonetic": "/ˈpremieə/",
+    "phonetic": "/ˈpremɪer/",
     "frontExample": "The premiere took place in London.",
     "backExample": "Premiera odbyła się w Londynie.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Award",
     "back": "nagroda",
-    "phonetic": "/əˈwɔːd/",
+    "phonetic": "/əˈwɔːrd/",
     "frontExample": "She won an award for best actress.",
     "backExample": "Zdobyła nagrodę dla najlepszej aktorki.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Nomination",
     "back": "nominacja",
-    "phonetic": "/ˌnɒmɪˈneɪʃən/",
+    "phonetic": "/ˌnɑːmɪˈneɪʃən/",
     "frontExample": "He received a nomination for his role.",
     "backExample": "Otrzymał nominację za swoją rolę.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Talent show",
     "back": "konkurs talentów",
-    "phonetic": "/ˈtæl.ənt ʃəʊ/",
+    "phonetic": "/ˈtæl.ənt ʃoʊ/",
     "frontExample": "She sang beautifully at the talent show.",
     "backExample": "Pięknie zaśpiewała na konkursie talentów.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Public figure",
     "back": "osoba publiczna",
-    "phonetic": "/ˈpʌblɪk ˈfɪɡə/",
+    "phonetic": "/ˈpʌblɪk ˈfɪɡjər/",
     "frontExample": "He is a well-known public figure.",
     "backExample": "Jest znaną osobą publiczną.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "World-famous",
     "back": "światowej sławy",
-    "phonetic": "/wɜːld ˈfeɪməs/",
+    "phonetic": "/wɜːrld ˈfeɪməs/",
     "frontExample": "He’s a world-famous scientist.",
     "backExample": "Jest naukowcem światowej sławy.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Icon",
     "back": "ikona",
-    "phonetic": "/ˈaɪkɒn/",
+    "phonetic": "/ˈaɪkɑːn/",
     "frontExample": "She became an icon of fashion.",
     "backExample": "Stała się ikoną mody.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Pop culture",
     "back": "kultura masowa",
-    "phonetic": "/pɒp ˈkʌltʃə/",
+    "phonetic": "/pɑːp ˈkʌltʃə/",
     "frontExample": "That show changed pop culture forever.",
     "backExample": "Ten program na zawsze zmienił kulturę masową.",
     "remembered": false
@@ -246,7 +246,7 @@
     "id": 28,
     "front": "Award-winning",
     "back": "nagradzany",
-    "phonetic": "/əˈwɔːd ˈwɪnɪŋ/",
+    "phonetic": "/əˈwɔːrd ˈwɪnɪŋ/",
     "frontExample": "It’s an award-winning film.",
     "backExample": "To nagradzany film.",
     "remembered": false
@@ -255,7 +255,7 @@
     "id": 29,
     "front": "Cultural icon",
     "back": "ikona kultury",
-    "phonetic": "/ˈkʌltʃərəl ˈaɪkɒn/",
+    "phonetic": "/ˈkʌltʃərəl ˈaɪkɑːn/",
     "frontExample": "The building became a cultural icon.",
     "backExample": "Budynek stał się ikoną kultury.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "Historical event",
     "back": "wydarzenie historyczne",
-    "phonetic": "/hɪˈstɒrɪkəl ɪˈvent/",
+    "phonetic": "/hɪˈstɔːrɪkəl ɪˈvent/",
     "frontExample": "It was a historical event for the nation.",
     "backExample": "To było wydarzenie historyczne dla narodu.",
     "remembered": false

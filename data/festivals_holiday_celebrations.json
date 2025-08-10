@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Holiday",
     "back": "święto; wakacje",
-    "phonetic": "/ˈhɒlədeɪ/",
+    "phonetic": "/ˈhɑːlədeɪ/",
     "frontExample": "We’re planning a holiday in the mountains.",
     "backExample": "Planujemy wakacje w górach.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Public holiday",
     "back": "święto państwowe",
-    "phonetic": "/ˈpʌblɪk ˈhɒlədeɪ/",
+    "phonetic": "/ˈpʌblɪk ˈhɑːlədeɪ/",
     "frontExample": "Banks are closed on public holidays.",
     "backExample": "Banki są zamknięte w święta państwowe.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Religious holiday",
     "back": "święto religijne",
-    "phonetic": "/rɪˈlɪdʒəs ˈhɒlədeɪ/",
+    "phonetic": "/rɪˈlɪdʒəs ˈhɑːlədeɪ/",
     "frontExample": "Easter is a major religious holiday.",
     "backExample": "Wielkanoc to ważne święto religijne.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Fireworks",
     "back": "fajerwerki",
-    "phonetic": "/ˈfaɪəwɜːks/",
+    "phonetic": "/ˈfaɪərwɜːrks/",
     "frontExample": "We watched fireworks at midnight.",
     "backExample": "Oglądaliśmy fajerwerki o północy.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Costume",
     "back": "kostium",
-    "phonetic": "/ˈkɒstjuːm/",
+    "phonetic": "/ˈkɑːstjuːm/",
     "frontExample": "She wore a witch costume for Halloween.",
     "backExample": "Założyła kostium czarownicy na Halloween.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Bonfire",
     "back": "ognisko",
-    "phonetic": "/ˈbɒnfaɪə/",
+    "phonetic": "/ˈbɑːnfaɪə/",
     "frontExample": "We sat around the bonfire and told stories.",
     "backExample": "Siedzieliśmy wokół ogniska i opowiadaliśmy historie.",
     "remembered": false
@@ -291,7 +291,7 @@
     "id": 33,
     "front": "Holiday spirit",
     "back": "świąteczny nastrój",
-    "phonetic": "/ˈhɒlədeɪ ˈspɪrɪt/",
+    "phonetic": "/ˈhɑːlədeɪ ˈspɪrɪt/",
     "frontExample": "The decorations filled the house with holiday spirit.",
     "backExample": "Dekoracje napełniły dom świątecznym nastrojem.",
     "remembered": false

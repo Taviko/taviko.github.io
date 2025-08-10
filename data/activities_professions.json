@@ -66,7 +66,7 @@
     "id": 8,
     "front": "To drive a car/bus/truck",
     "back": "prowadzić samochód/autobus/ciężarówkę",
-    "phonetic": "/draɪv ə kɑː/bʌs/trʌk/",
+    "phonetic": "/draɪv ə kɑːr/ /bʌs/ /trʌk/",
     "frontExample": "My uncle drives a truck across Europe.",
     "backExample": "Mój wujek prowadzi ciężarówkę po całej Europie.",
     "remembered": false
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "front": "To teach lessons",
-    "back": "prowadzić lekcję",
+    "back": "prowadzić lekcje",
     "phonetic": "/tiːtʃ ˈlesənz/",
     "frontExample": "He teaches lessons in a driving school.",
     "backExample": "On prowadzi lekcje w szkole jazdy.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "front": "Im looking for a job as...",
+    "front": "I'm looking for a job as...",
     "back": "Szukam pracy jako...",
     "phonetic": "/aɪm ˈlʊkɪŋ fə ə dʒɒb æz/",
     "frontExample": "I'm looking for a job as an accountant.",
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "front": "He is responsible for...",
-    "back": "on jest odpowiedzialny za...",
+    "back": "On jest odpowiedzialny za...",
     "phonetic": "/hiː ɪz rɪˈspɒnsəbl fə/",
     "frontExample": "He is responsible for training new staff.",
     "backExample": "On jest odpowiedzialny za szkolenie nowych pracowników.",
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "front": "My job involves...",
-    "back": "moja praca polega na...",
+    "back": "Moja praca polega na...",
     "phonetic": "/maɪ dʒɒb ɪnˈvɒlvz/",
     "frontExample": "My job involves managing a team of designers.",
     "backExample": "Moja praca polega na zarządzaniu zespołem projektantów.",

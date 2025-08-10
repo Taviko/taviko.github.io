@@ -5,7 +5,7 @@
     "back": "lotnisko",
     "frontExample": "Let's meet at the airport tomorrow.",
     "backExample": "Spotkajmy się jutro na lotnisku.",
-    "phonetic": "/ˈeəpɔːt/",
+    "phonetic": "/ˈerˌpɔrt/",
     "remembered": false
   },
   {
@@ -113,7 +113,7 @@
     "back": "bagaż podręczny",
     "frontExample": "You can take one carry-on bag on the plane.",
     "backExample": "Możesz zabrać jedną sztukę bagażu podręcznego do samolotu.",
-    "phonetic": "/hænd ˈlʌɡɪdʒ/, /ˈkæri ɒn/",
+    "phonetic": "/hænd ˈlʌɡɪdʒ/, /ˈkæri ɑn/",
     "remembered": false
   },
   {
@@ -122,7 +122,7 @@
     "back": "odprawa",
     "frontExample": "Check-in starts two hours before the flight.",
     "backExample": "Odprawa zaczyna się dwie godziny przed lotem.",
-    "phonetic": "/ˈtʃek ɪn/",
+    "phonetic": "/ˈtʃɛk ɪn/",
     "remembered": false
   },
   {
@@ -131,7 +131,7 @@
     "back": "stanowisko odprawy",
     "frontExample": "Let's go to the check-in desk first.",
     "backExample": "Najpierw idźmy do stanowiska odprawy.",
-    "phonetic": "/ˈtʃek ɪn desk/",
+    "phonetic": "/ˈtʃɛk ɪn desk/",
     "remembered": false
   },
   {
@@ -176,7 +176,7 @@
     "back": "na czas",
     "frontExample": "Is the flight on time?",
     "backExample": "Czy lot jest na czas?",
-    "phonetic": "/ɒn taɪm/",
+    "phonetic": "/ɑn taɪm/",
     "remembered": false
   },
   {
@@ -212,7 +212,7 @@
     "back": "miejsce przy oknie",
     "frontExample": "Can I have a window seat, please?",
     "backExample": "Czy mogę prosić o miejsce przy oknie?",
-    "phonetic": "/ˈwɪndəʊ siːt/",
+    "phonetic": "/ˈwɪndoʊ siːt/",
     "remembered": false
   },
   {
@@ -355,7 +355,7 @@
     "front": "boarding gate",
     "back": "bramka, wejście na pokład",
     "frontExample": "Our boarding gate is number 12.",
-    "backExample": "Nasza bramka to numer 12.",
+    "backExample": "Nasza bramka ma numer 12.",
     "phonetic": "/ˈbɔːdɪŋ ɡeɪt/",
     "remembered": false
   },
@@ -383,7 +383,7 @@
     "back": "wózek bagażowy",
     "frontExample": "I need a trolley for my bags.",
     "backExample": "Potrzebuję wózka na moje torby.",
-    "phonetic": "/ˈtrɒli/",
+    "phonetic": "/ˈtrɑːli/",
     "remembered": false
   },
   {
@@ -400,7 +400,7 @@
     "front": "lost luggage",
     "back": "zagubiony bagaż",
     "frontExample": "I reported my lost luggage at the desk.",
-    "backExample": "Zgłosiłem zagubiony bagaż przy stanowisku.",
+    "backExample": "Zgłosiłem zagubiony bagaż w punkcie obsługi.",
     "phonetic": "/lɒst ˈlʌɡɪdʒ/",
     "remembered": false
   },
@@ -427,8 +427,8 @@
     "front": "overhead bin",
     "back": "schowek na bagaż podręczny",
     "frontExample": "Put your bag in the overhead bin.",
-    "backExample": "Włóż torbę do schowka nad głową.",
-    "phonetic": "/ˈəʊvəhɛd bɪn/",
+    "backExample": "Włóż torbę do schowka nad siedzeniem.",
+    "phonetic": "/ˈoʊvəhɛd bɪn/",
     "remembered": false
   },
   {
@@ -470,9 +470,9 @@
   {
     "id": 53,
     "front": "take-off",
-    "back": "startować",
+    "back": "start, odlot",
     "frontExample": "The plane is ready for take-off.",
-    "backExample": "Samolot jest gotowy do startu.",
+    "backExample": "Samolot jest gotowy do odlotu.",
     "phonetic": "/ˈteɪk ɒf/",
     "remembered": false
   },
@@ -551,7 +551,7 @@
   {
     "id": 62,
     "front": "booking",
-    "back": "rezerwować",
+    "back": "rezerwacja",
     "frontExample": "I made a booking online.",
     "backExample": "Zrobiłem rezerwację przez internet.",
     "phonetic": "/ˈbʊkɪŋ/",
@@ -599,7 +599,7 @@
     "back": "przesiadka",
     "frontExample": "We have a two-hour layover in Amsterdam.",
     "backExample": "Mamy dwugodzinną przesiadkę w Amsterdamie.",
-    "phonetic": "/ˈleɪˌəʊvə/",
+    "phonetic": "/ˈleɪˌoʊvə/",
     "remembered": false
   },
   {
@@ -635,7 +635,7 @@
     "back": "bagaż ponadwymiarowy",
     "frontExample": "Oversized baggage must be checked in separately.",
     "backExample": "Bagaż ponadwymiarowy musi być odprawiony osobno.",
-    "phonetic": "/ˈəʊvəsʌɪzd ˈbæɡɪdʒ/",
+    "phonetic": "/ˈoʊvəsʌɪzd ˈbæɡɪdʒ/",
     "remembered": false
   },
   {
@@ -653,7 +653,7 @@
     "back": "urzędnik imigracyjny",
     "frontExample": "The immigration officer checked my passport.",
     "backExample": "Urzędnik imigracyjny sprawdził mój paszport.",
-    "phonetic": "/ˌɪmɪˈɡreɪʃən ˈɒfɪsə/",
+    "phonetic": "/ˌɪmɪˈɡreɪʃən ˈɔfəsər/",
     "remembered": false
   },
   {
@@ -689,7 +689,7 @@
     "back": "strefa czasowa",
     "frontExample": "We crossed three time zones.",
     "backExample": "Przekroczyliśmy trzy strefy czasowe.",
-    "phonetic": "/taɪm zəʊn/",
+    "phonetic": "/taɪm zoʊn/",
     "remembered": false
   },
   {
@@ -697,7 +697,7 @@
     "front": "jet lag",
     "back": "zmęczenie po podróży samolotem spowodowane zmianą strefy czasowej",
     "frontExample": "I have jet lag after the long flight.",
-    "backExample": "Mam jet lag po długim locie.",
+    "backExample": "Mam zmęczenie po podróży samolotem spowodowane zmianą strefy czasowej.",
     "phonetic": "/dʒet læɡ/",
     "remembered": false
   },
@@ -716,7 +716,7 @@
     "back": "klasa ekonomiczna",
     "frontExample": "We booked seats in economy class.",
     "backExample": "Zarezerwowaliśmy miejsca w klasie ekonomicznej.",
-    "phonetic": "/ɪˈkɒnəmi klɑːs/",
+    "phonetic": "/ɪˈkɑnəmi klɑːs/",
     "remembered": false
   },
   {
@@ -731,7 +731,7 @@
   {
     "id": 82,
     "front": "upgrade",
-    "back": "podniesienie klasy",
+    "back": "podniesienie klasy podróży",
     "frontExample": "I got a free upgrade to first class!",
     "backExample": "Dostałem darmowe podniesienie klasy do pierwszej!",
     "phonetic": "/ˈʌpɡreɪd/",
@@ -752,7 +752,7 @@
     "back": "rząd",
     "frontExample": "My seat is in row 15.",
     "backExample": "Moje miejsce jest w 15 rzędzie.",
-    "phonetic": "/rəʊ/",
+    "phonetic": "/roʊ/",
     "remembered": false
   },
   {
@@ -761,7 +761,7 @@
     "back": "tryb samolotowy",
     "frontExample": "Please switch your phone to airplane mode.",
     "backExample": "Proszę przełączyć telefon w tryb samolotowy.",
-    "phonetic": "/ˈeəpleɪn məʊd/",
+    "phonetic": "/ˈeəpleɪn moʊd/",
     "remembered": false
   },
   {
@@ -824,7 +824,7 @@
     "back": "hotel",
     "frontExample": "Which hotel are you staying at?",
     "backExample": "W którym hotelu się zatrzymujesz?",
-    "phonetic": "/həʊˈtel/",
+    "phonetic": "/hoʊˈtel/",
     "remembered": false
   },
   {

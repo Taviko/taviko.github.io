@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Wash hands",
     "back": "myć ręce",
-    "phonetic": "/wɒʃ hændz/",
+    "phonetic": "/wɑʃ hændz/",
     "frontExample": "Please wash your hands before eating.",
     "backExample": "Proszę umyj ręce przed jedzeniem.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Take a bath",
     "back": "brać kąpiel",
-    "phonetic": "/teɪk ə bɑːθ/",
+    "phonetic": "/teɪk ə bæθ/",
     "frontExample": "She likes to take a bath in the evening.",
     "backExample": "Ona lubi brać kąpiel wieczorem.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Soap",
     "back": "mydło",
-    "phonetic": "/səʊp/",
+    "phonetic": "/soʊp/",
     "frontExample": "I wash my hands with soap and water.",
     "backExample": "Myję ręce mydłem i wodą.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Comb",
     "back": "grzebień",
-    "phonetic": "/kɒm/",
+    "phonetic": "/koʊm/",
     "frontExample": "I comb my hair every morning.",
     "backExample": "Czeszę włosy każdego ranka.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Clothes",
     "back": "ubrania",
-    "phonetic": "/kləʊðz/",
+    "phonetic": "/kloʊðz/",
     "frontExample": "I put on clean clothes every morning.",
     "backExample": "Zakładam czyste ubrania każdego ranka.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Put on make up",
     "back": "malować się",
-    "phonetic": "/pʊt ɒn ˈmeɪ.kʌp/",
+    "phonetic": "/pʊt ɑn ˈmeɪ.kʌp/",
     "frontExample": "She puts on make up before going to work.",
     "backExample": "Ona maluje się przed pójściem do pracy.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Take off makeup",
     "back": "zmywać makijaż",
-    "phonetic": "/teɪk ɒf ˈmeɪ.kʌp/",
+    "phonetic": "/teɪk ɑf ˈmeɪ.kʌp/",
     "frontExample": "I take off makeup before going to bed.",
     "backExample": "Zmywam makijaż przed pójściem spać.",
     "remembered": false
@@ -174,7 +174,7 @@
     "id": 20,
     "front": "Nail polish",
     "back": "lakier do paznokci",
-    "phonetic": "/ˈneɪl ˌpɒ.lɪʃ/",
+    "phonetic": "/ˈneɪl ˌpɑ.lɪʃ/",
     "frontExample": "She likes to wear red nail polish.",
     "backExample": "Ona lubi nosić czerwony lakier do paznokci.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Floss",
     "back": "nić dentystyczna",
-    "phonetic": "/flɒs/",
+    "phonetic": "/flɑs/",
     "frontExample": "I floss my teeth every evening.",
     "backExample": "Używam nici dentystycznej każdego wieczoru.",
     "remembered": false

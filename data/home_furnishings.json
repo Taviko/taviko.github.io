@@ -46,9 +46,9 @@
   },
   {
     "id": 6,
-    "front": "Coffe table",
+    "front": "Coffee table",
     "back": "stolik kawowy",
-    "phonetic": "/ˈkɒfi ˌteɪbl/",
+    "phonetic": "/ˈkɔːfi ˌteɪbəl/",
     "frontExample": "I put my cup on the coffee table.",
     "backExample": "Postawiłem filiżankę na stoliku kawowym.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Wardrobe",
     "back": "szafa",
-    "phonetic": "/ˈwɔːdrəʊb/",
+    "phonetic": "/ˈwɔːrdroʊb/",
     "frontExample": "My clothes are in the wardrobe.",
     "backExample": "Moje ubrania są w szafie.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Dishwasher",
     "back": "zmywarka",
-    "phonetic": "/ˈdɪʃˌwɒʃ.ər/",
+    "phonetic": "/ˈdɪʃˌwɑːʃ.ər/",
     "frontExample": "I put the plates in the dishwasher.",
     "backExample": "Włożyłem talerze do zmywarki.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Washing machine",
     "back": "pralka",
-    "phonetic": "/ˈwɒʃ.ɪŋ məˌʃiːn/",
+    "phonetic": "/ˈwɑːʃ.ɪŋ məˌʃiːn/",
     "frontExample": "The washing machine is running.",
     "backExample": "Pralka właśnie pierze.",
     "remembered": false
@@ -318,7 +318,7 @@
     "id": 36,
     "front": "Radio",
     "back": "radio",
-    "phonetic": "/ˈreɪdiəʊ/",
+    "phonetic": "/ˈreɪdioʊ/",
     "frontExample": "I listen to music on the radio.",
     "backExample": "Słucham muzyki w radiu.",
     "remembered": false
@@ -336,7 +336,7 @@
     "id": 38,
     "front": "Clock",
     "back": "zegar",
-    "phonetic": "/klɒk/",
+    "phonetic": "/klɑːk/",
     "frontExample": "The clock is on the wall.",
     "backExample": "Zegar jest na ścianie.",
     "remembered": false
@@ -345,7 +345,7 @@
     "id": 39,
     "front": "Alarm clock",
     "back": "budzik",
-    "phonetic": "/əˈlɑːm klɒk/",
+    "phonetic": "/əˈlɑːm klɑːk/",
     "frontExample": "My alarm clock rings at 7 a.m.",
     "backExample": "Mój budzik dzwoni o 7 rano.",
     "remembered": false
@@ -615,7 +615,7 @@
     "id": 69,
     "front": "Wallpaper",
     "back": "tapeta",
-    "phonetic": "/ˈwɔːlˌpeɪ.pər/",
+    "phonetic": "/ˈwɑːlˌpeɪ.pər/",
     "frontExample": "The wallpaper is very colorful.",
     "backExample": "Tapeta jest bardzo kolorowa.",
     "remembered": false

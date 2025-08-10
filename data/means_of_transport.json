@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Car",
     "back": "samochód",
-    "phonetic": "/kɑː/",
+    "phonetic": "/kɑr/",
     "frontExample": "We drove the car to the mountains for vacation.",
     "backExample": "Pojechaliśmy samochodem w góry na wakacje.",
     "remembered": false
@@ -39,8 +39,8 @@
     "id": 5,
     "front": "Motorbike",
     "back": "motocykl",
-    "phonetic": "/ˈməʊtəbaɪk/",
-    "frontExample": "The motorcycle roared past us on the highway.",
+    "phonetic": "/ˈmoʊtərbaɪk/",
+    "frontExample": "The motorbike roared past us on the highway.",
     "backExample": "Motocykl przejechał obok nas na autostradzie.",
     "remembered": false
   },
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Airplane",
     "back": "samolot",
-    "phonetic": "/ˈeəpleɪn/",
+    "phonetic": "/ˈɛrpleɪn/",
     "frontExample": "The airplane landed safely despite the storm.",
     "backExample": "Samolot wylądował bezpiecznie mimo burzy.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Boat",
     "back": "łódź",
-    "phonetic": "/bəʊt/",
+    "phonetic": "/boʊt/",
     "frontExample": "The boat sailed across the lake to the island.",
     "backExample": "Łódź przepłynęła przez jezioro na wyspę.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Ferry",
     "back": "prom",
-    "phonetic": "/ˈferi/",
+    "phonetic": "/ˈfɛri/",
     "frontExample": "The ferry crosses the river every hour.",
     "backExample": "Prom przepływa przez rzekę co godzinę.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Lorry",
     "back": "ciężarówka",
-    "phonetic": "/ˈlɒri/",
+    "phonetic": "/ˈlɔri/",
     "frontExample": "The lorry was carrying construction materials.",
     "backExample": "Ciężarówka przewoziła materiały budowlane.",
     "remembered": false
@@ -129,16 +129,16 @@
     "id": 15,
     "front": "Helicopter",
     "back": "helikopter",
-    "phonetic": "/ˈhelɪkɒptə/",
+    "phonetic": "/ˈhɛlɪˌkɑptər/",
     "frontExample": "The helicopter rescued the hikers from the mountain.",
-    "backExample": "Helikopter uratował turystów z góry.",
+    "backExample": "Helikopter uratował turystów z gór.",
     "remembered": false
   },
   {
     "id": 16,
     "front": "Coach",
     "back": "autokar",
-    "phonetic": "/kəʊtʃ/",
+    "phonetic": "/koʊtʃ/",
     "frontExample": "The coach took us to the ski resort.",
     "backExample": "Autokar zabrał nas do ośrodka narciarskiego.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Scooter",
     "back": "skuter",
-    "phonetic": "/ˈskuːtə/",
+    "phonetic": "/ˈskutər/",
     "frontExample": "She rides her scooter to the grocery store.",
     "backExample": "Ona jeździ skuterem do sklepu spożywczego.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Cable car",
     "back": "kolejka linowa",
-    "phonetic": "/ˈkeɪbəl kɑː/",
+    "phonetic": "/ˈkeɪbəl kɑr/",
     "frontExample": "The cable car took us to the top of the mountain.",
     "backExample": "Kolejka linowa zabrała nas na szczyt góry.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Bus stop",
     "back": "przystanek autobusowy",
-    "phonetic": "/bʌs stɒp/",
+    "phonetic": "/bʌs stɑp/",
     "frontExample": "I waited at the bus stop for 10 minutes.",
     "backExample": "Czekałem na przystanku autobusowym przez 10 minut.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Airport",
     "back": "lotnisko",
-    "phonetic": "/ˈeəpɔːt/",
+    "phonetic": "/ˈɛrˌpɔrt/",
     "frontExample": "We arrived at the airport two hours before the flight.",
     "backExample": "Przyjechaliśmy na lotnisko dwie godziny przed lotem.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Port",
     "back": "port, przystań",
-    "phonetic": "/pɔːt/",
+    "phonetic": "/pɔrt/",
     "frontExample": "The ferry left the port at noon.",
     "backExample": "Prom odpłynął z portu w południe.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Platform",
     "back": "peron",
-    "phonetic": "/ˈplætfɔːm/",
+    "phonetic": "/ˈplætfɔrm/",
     "frontExample": "The train leaves from platform 3.",
     "backExample": "Pociąg odjeżdża z peronu 3.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Journey",
     "back": "podróż",
-    "phonetic": "/ˈdʒɜːni/",
+    "phonetic": "/ˈdʒɝːni/",
     "frontExample": "The journey takes two hours.",
     "backExample": "Podróż trwa dwie godziny.",
     "remembered": false
@@ -228,7 +228,7 @@
     "id": 26,
     "front": "Route",
     "back": "trasa",
-    "phonetic": "/ruːt/",
+    "phonetic": "/rut/",
     "frontExample": "This is the fastest route.",
     "backExample": "To jest najszybsza trasa.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Departure",
     "back": "odjazd, odlot",
-    "phonetic": "/dɪˈpɑːtʃə/",
+    "phonetic": "/dɪˈpɑrtʃər/",
     "frontExample": "The departure is at 10 AM.",
     "backExample": "Odlot jest o 10 rano.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "On time",
     "back": "na czas",
-    "phonetic": "/ɒn taɪm/",
+    "phonetic": "/ɑn taɪm/",
     "frontExample": "The bus arrived on time despite the traffic.",
     "backExample": "Autobus przyjechał na czas mimo korków.",
     "remembered": false
@@ -300,7 +300,7 @@
     "id": 34,
     "front": "Single ticket",
     "back": "bilet w jedną stronę",
-    "phonetic": "/ˈsɪŋɡl ˈtɪkɪt/",
+    "phonetic": "/ˈsɪŋɡəl ˈtɪkɪt/",
     "frontExample": "I bought a single ticket because I'm not sure when I'll return.",
     "backExample": "Kupiłem bilet w jedną stronę, bo nie wiem, kiedy wrócę.",
     "remembered": false
@@ -309,7 +309,7 @@
     "id": 35,
     "front": "Return ticket",
     "back": "bilet powrotny",
-    "phonetic": "/rɪˈtɜːn ˈtɪkɪt/",
+    "phonetic": "/rɪˈtɝːn ˈtɪkɪt/",
     "frontExample": "The return ticket is valid for three months.",
     "backExample": "Bilet powrotny jest ważny przez trzy miesiące.",
     "remembered": false
@@ -320,7 +320,7 @@
     "back": "odprawa",
     "phonetic": "/ˈtʃek ɪn/",
     "frontExample": "Online check-in opens 24 hours before departure.",
-    "backExample": "Online odprawa otwiera się 24 godziny przed odlotem.",
+    "backExample": "Odprawa online otwiera się 24 godziny przed odlotem.",
     "remembered": false
   },
   {
@@ -338,7 +338,7 @@
     "back": "pas bezpieczeństwa",
     "frontExample": "Always wear your seat belt when driving.",
     "backExample": "Zawsze zapinaj pas bezpieczeństwa podczas jazdy.",
-    "phonetic": "/siːt belt/",
+    "phonetic": "/siːt bɛlt/",
     "remembered": false
   },
   {
@@ -352,7 +352,7 @@
   },
   {
     "id": 40,
-    "front": "Passeger",
+    "front": "Passenger",
     "back": "pasażer",
     "phonetic": "/ˈpæsɪndʒər/",
     "frontExample": "Each passenger must have a ticket.",
@@ -363,7 +363,7 @@
     "id": 41,
     "front": "Driver",
     "back": "kierowca",
-    "phonetic": "/ˈdraɪvə/",
+    "phonetic": "/ˈdraɪvər/",
     "frontExample": "The driver stopped at the red light.",
     "backExample": "Kierowca zatrzymał się na czerwonym świetle.",
     "remembered": false
@@ -371,10 +371,10 @@
   {
     "id": 42,
     "front": "Route map",
-    "back": "mapa drogowa",
-    "phonetic": "/ruːt mæp/",
+    "back": "mapa trasy",
+    "phonetic": "/rut mæp/",
     "frontExample": "The route map shows all the bus stops in the city.",
-    "backExample": "Mapa drogowa pokazuje wszystkie przystanki autobusowe w mieście.",
+    "backExample": "Mapa trasy pokazuje wszystkie przystanki autobusowe w mieście.",
     "remembered": false
   },
   {
@@ -408,7 +408,7 @@
     "id": 46,
     "front": "Pedestrian crossing",
     "back": "przejście dla pieszych",
-    "phonetic": "/pəˈdɛstrɪən ˈkrɒsɪŋ/",
+    "phonetic": "/pəˈdɛstriən ˈkrɔsɪŋ/",
     "frontExample": "Always use the pedestrian crossing when crossing the street.",
     "backExample": "Zawsze używaj przejścia dla pieszych przy przechodzeniu przez ulicę.",
     "remembered": false

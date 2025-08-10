@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Comedy",
     "back": "komedia",
-    "phonetic": "/ˈkɒmədi/",
+    "phonetic": "/ˈkɑmədi/",
     "frontExample": "That comedy made me laugh so hard!",
     "backExample": "Ta komedia rozbawiła mnie do łez!",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Drama",
     "back": "dramat",
-    "phonetic": "/ˈdrɑːmə/",
+    "phonetic": "/ˈdrɑmə/",
     "frontExample": "The drama was deeply emotional and well-acted.",
     "backExample": "Dramat był bardzo emocjonalny i świetnie zagrany.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Horror",
     "back": "horror",
-    "phonetic": "/ˈhɒrər/",
+    "phonetic": "/ˈhɑrər/",
     "frontExample": "I can't watch horror movies alone.",
     "backExample": "Nie mogę oglądać horrorów sam.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Romance",
     "back": "film o miłości, romans",
-    "phonetic": "/rəʊˈmæns/",
+    "phonetic": "/roʊˈmæns/",
     "frontExample": "She enjoys a good romance from time to time.",
     "backExample": "Lubi od czasu do czasu dobry film o miłości.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "Show",
     "back": "występ",
-    "phonetic": "/ʃəʊ/",
+    "phonetic": "/ʃoʊ/",
     "frontExample": "It was the best show I’ve seen this year.",
     "backExample": "To był najlepszy występ, jaki widziałem w tym roku.",
     "remembered": false
@@ -282,7 +282,7 @@
     "id": 32,
     "front": "Drama",
     "back": "dramat",
-    "phonetic": "/ˈdrɑːmə/",
+    "phonetic": "/ˈdrɑmə/",
     "frontExample": "That drama made me cry at the end.",
     "backExample": "Ten dramat sprawił, że płakałem na końcu.",
     "remembered": false
@@ -291,7 +291,7 @@
     "id": 33,
     "front": "Monologue",
     "back": "monolog",
-    "phonetic": "/ˈmɒnəlɒɡ/",
+    "phonetic": "/ˈmɑnəlɒɡ/",
     "frontExample": "He delivered a powerful monologue.",
     "backExample": "Wygłosił mocny monolog.",
     "remembered": false
@@ -309,7 +309,7 @@
     "id": 35,
     "front": "Concert",
     "back": "koncert",
-    "phonetic": "/ˈkɒnsət/",
+    "phonetic": "/ˈkɑnsət/",
     "frontExample": "We have tickets for tonight’s concert.",
     "backExample": "Mamy bilety na dzisiejszy koncert.",
     "remembered": false
@@ -363,7 +363,7 @@
     "id": 41,
     "front": "Concert hall",
     "back": "sala koncertowa",
-    "phonetic": "/ˈkɒnsət hɔːl/",
+    "phonetic": "/ˈkɑnsət hɔːl/",
     "frontExample": "The concert hall was full of excited fans.",
     "backExample": "Sala koncertowa była pełna podekscytowanych fanów.",
     "remembered": false
@@ -381,7 +381,7 @@
     "id": 43,
     "front": "Encore",
     "back": "bis (na koncercie)",
-    "phonetic": "/ˈɒŋkɔː/",
+    "phonetic": "/ˈɑŋkɔː/",
     "frontExample": "The band came back for an encore.",
     "backExample": "Zespół wrócił na bis.",
     "remembered": false
@@ -435,7 +435,7 @@
     "id": 49,
     "front": "Standing ovation",
     "back": "owacje na stojąco",
-    "phonetic": "/ˈstændɪŋ əʊˈveɪʃn/",
+    "phonetic": "/ˈstændɪŋ oʊˈveɪʃn/",
     "frontExample": "The play ended with a standing ovation.",
     "backExample": "Sztuka zakończyła się owacją na stojąco.",
     "remembered": false
@@ -444,7 +444,7 @@
     "id": 50,
     "front": "Intermission",
     "back": "przerwa (w teatrze)",
-    "phonetic": "/ˌɪntəˈmɪʃn/",
+    "phonetic": "/ˌɪntərˈmɪʃn/",
     "frontExample": "There was a short intermission between acts.",
     "backExample": "Pomiędzy aktami była krótka przerwa.",
     "remembered": false
