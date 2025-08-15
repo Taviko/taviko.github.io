@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Mathematics",
     "back": "matematyka",
-    "phonetic": "/ˌmæθ.əˈmæt.ɪks/",
+    "phonetic": "/ˌmæθəˈmætɪks/",
     "frontExample": "Mathematics is my favorite subject.",
     "backExample": "Matematyka to mój ulubiony przedmiot.",
     "remembered": false
@@ -11,8 +11,8 @@
   {
     "id": 2,
     "front": "Science",
-    "back": "nauki ścisłe",
-    "phonetic": "/ˈsaɪ.əns/",
+    "back": "nauki ścisłe/przyrodnicze",
+    "phonetic": "/ˈsaɪrns/",
     "frontExample": "Science helps us understand the world.",
     "backExample": "Nauki ścisłe pomagają nam zrozumieć świat.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Geography",
     "back": "geografia",
-    "phonetic": "/dʒɪˈɒɡrəfi/",
+    "phonetic": "/dʒiˈɑːɡrəfi/",
     "frontExample": "Geography teaches us about different countries.",
     "backExample": "Geografia uczy nas o różnych krajach.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Physical Education (PE)",
     "back": "wychowanie fizyczne (WF)",
-    "phonetic": "/ˈfɪzɪkəl ˌedʒʊˈkeɪʃən/",
+    "phonetic": "/ˈfɪzɪkəl ˌɛdʒəˈkeɪʃən/",
     "frontExample": "We have PE class twice a week.",
     "backExample": "Mamy lekcję WF dwa razy w tygodniu.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Art",
     "back": "plastyka, sztuka",
-    "phonetic": "/ɑːt/",
+    "phonetic": "/ɑːrt/",
     "frontExample": "I love drawing in art class.",
     "backExample": "Uwielbiam rysować na lekcji plastyki.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Chemistry",
     "back": "chemia",
-    "phonetic": "/ˈkemɪstri/",
+    "phonetic": "/ˈkɛmɪstri/",
     "frontExample": "Chemistry involves many experiments.",
     "backExample": "Chemia obejmuje wiele eksperymentów.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Biology",
     "back": "biologia",
-    "phonetic": "/baɪˈɒlədʒi/",
+    "phonetic": "/baɪˈɑːlədʒi/",
     "frontExample": "Biology studies living organisms.",
     "backExample": "Biologia bada organizmy żywe.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Computer Science/IT (Information Technology)",
     "back": "informatyka",
-    "phonetic": "/kəmˈpjuːtə ˈsaɪəns/",
+    "phonetic": "/kəmˈpjuːtər ˈsaɪrns/",
     "frontExample": "Computer Science teaches programming.",
     "backExample": "Informatyka uczy programowania.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Technology",
     "back": "technika",
-    "phonetic": "/tekˈnɒlədʒi/",
+    "phonetic": "/tɛkˈnɑːlədʒi/",
     "frontExample": "Technology class teaches practical skills.",
     "backExample": "Lekcja techniki uczy umiejętności praktycznych.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Social Studies",
     "back": "nauki społeczne",
-    "phonetic": "/ˈsəʊʃəl ˈstʌdiz/",
+    "phonetic": "/ˈsoʊʃəl ˈstʌdiz/",
     "frontExample": "Social Studies covers history, geography, and culture.",
     "backExample": "Nauki społeczne obejmują historię, geografię i kulturę.",
     "remembered": false
@@ -164,8 +164,8 @@
   {
     "id": 19,
     "front": "Home Economics",
-    "back": "Edukacja domowa",
-    "phonetic": "/həʊm ˌiːkəˈnɒmɪks/",
+    "back": "gospodarstwo domowe",
+    "phonetic": "/hoʊm ˌiːkəˈnɑːmɪks/",
     "frontExample": "Home Economics teaches cooking and budgeting.",
     "backExample": "Edukacja domowa uczy gotowania i planowania budżetu.",
     "remembered": false
@@ -174,7 +174,7 @@
     "id": 20,
     "front": "Philosophy",
     "back": "filozofia",
-    "phonetic": "/fɪˈlɒsəfi/",
+    "phonetic": "/fɪˈlɑːsəfi/",
     "frontExample": "Philosophy explores deep questions about life.",
     "backExample": "Filozofia bada głębokie pytania o życie.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Health Education",
     "back": "edukacja zdrowotna",
-    "phonetic": "/helθ ˌedʒʊˈkeɪʃən/",
+    "phonetic": "/hɛlθ ˌɛdʒəˈkeɪʃən/",
     "frontExample": "Health Education teaches about healthy living.",
     "backExample": "Edukacja zdrowotna uczy o zdrowym życiu.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Extracurricular activities",
     "back": "zajęcia pozalekcyjne",
-    "phonetic": "/ˌekstrəkəˈrɪkjələr ækˈtɪvɪtiz/",
+    "phonetic": "/ˌɛkstrəkəˈrɪkjələr ækˈtɪvɪtiz/",
     "frontExample": "Extracurricular activities are important for personal development.",
     "backExample": "Zajęcia pozalekcyjne są ważne dla rozwoju osobistego.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Sports club",
     "back": "klub sportowy",
-    "phonetic": "/spɔːts klʌb/",
+    "phonetic": "/spɔːrts klʌb/",
     "frontExample": "The sports club meets after school.",
     "backExample": "Klub sportowy spotyka się po lekcjach.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Choir",
     "back": "chór",
-    "phonetic": "/ˈkwaɪə/",
+    "phonetic": "/ˈkwaɪrr/",
     "frontExample": "The school choir sings at special events.",
     "backExample": "Szkolny chór śpiewa na specjalnych wydarzeniach.",
     "remembered": false
@@ -246,7 +246,7 @@
     "id": 28,
     "front": "Art club",
     "back": "koło plastyczne, klub plastyczny",
-    "phonetic": "/ɑːt klʌb/",
+    "phonetic": "/ɑːrt klʌb/",
     "frontExample": "The art club creates beautiful paintings.",
     "backExample": "Koło plastyczne tworzy piękne obrazy.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "Dance club",
     "back": "klub taneczny",
-    "phonetic": "/dɑːns klʌb/",
+    "phonetic": "/dæns klʌb/",
     "frontExample": "The dance club performs at school events.",
     "backExample": "Klub taneczny występuje na szkolnych wydarzeniach.",
     "remembered": false
@@ -273,7 +273,7 @@
     "id": 31,
     "front": "Science club",
     "back": "koło naukowe, klub naukowy",
-    "phonetic": "/ˈsaɪəns klʌb/",
+    "phonetic": "/ˈsaɪrns klʌb/",
     "frontExample": "The science club conducts interesting experiments.",
     "backExample": "Koło naukowe przeprowadza ciekawe eksperymenty.",
     "remembered": false
@@ -282,7 +282,7 @@
     "id": 32,
     "front": "Volunteering",
     "back": "wolontariat",
-    "phonetic": "/ˌvɒlənˈtɪərɪŋ/",
+    "phonetic": "/ˌvɑːlənˈtɪrɪŋ/",
     "frontExample": "Volunteering helps students develop empathy and social skills.",
     "backExample": "Wolontariat pomaga uczniom rozwijać empatię i umiejętności społeczne.",
     "remembered": false

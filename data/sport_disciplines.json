@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Basketball",
     "back": "koszykówka",
-    "phonetic": "/ˈbɑːskɪtbɔːl/",
+    "phonetic": "/ˈbæskɪtˌbɔːl/",
     "frontExample": "They play basketball every weekend.",
     "backExample": "Grają w koszykówkę w każdy weekend.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Volleyball",
     "back": "siatkówka",
-    "phonetic": "/ˈvɒlibɔːl/",
+    "phonetic": "/ˈvɑːlibɔːl/",
     "frontExample": "Volleyball is fun to play on the beach.",
     "backExample": "Siatkówka jest fajna do gry na plaży.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Handball",
     "back": "piłka ręczna",
-    "phonetic": "/ˈhændbɔːl/",
+    "phonetic": "/ˈhændbɔːrl/",
     "frontExample": "Handball requires fast reflexes.",
     "backExample": "Piłka ręczna wymaga szybkiego refleksu.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Boxing",
     "back": "boks",
-    "phonetic": "/ˈbɒksɪŋ/",
+    "phonetic": "/ˈbɑːksɪŋ/",
     "frontExample": "Boxing matches are intense.",
     "backExample": "Walki bokserskie są intensywne.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Golf",
     "back": "golf",
-    "phonetic": "/ɡɒlf/",
+    "phonetic": "/ɡɑːlf/",
     "frontExample": "They enjoy playing golf together.",
     "backExample": "Lubią razem grać w golfa.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Ice hockey",
     "back": "hokej na lodzie",
-    "phonetic": "/aɪs ˈhɒki/",
+    "phonetic": "/aɪs ˈhɑːki/",
     "frontExample": "Ice hockey is popular in Canada.",
     "backExample": "Hokej na lodzie jest popularny w Kanadzie.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Baseball",
     "back": "baseball",
-    "phonetic": "/ˈbeɪsbɔːl/",
+    "phonetic": "/ˈbeɪsbɔːrl/",
     "frontExample": "Baseball is very popular in the USA.",
     "backExample": "Baseball jest bardzo popularny w USA.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Snowboarding",
     "back": "jazda na snowboardzie",
-    "phonetic": "/ˈsnəʊbɔːdɪŋ/",
+    "phonetic": "/ˈsnoʊbɔːrdɪŋ/",
     "frontExample": "They went snowboarding in the Alps.",
     "backExample": "Jeździli na snowboardzie w Alpach.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Rowing",
     "back": "wioślarstwo",
-    "phonetic": "/ˈrəʊɪŋ/",
+    "phonetic": "/ˈroʊɪŋ/",
     "frontExample": "Rowing builds upper body strength.",
     "backExample": "Wioślarstwo buduje siłę górnych partii ciała.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Surfing",
     "back": "surfing, surfowanie",
-    "phonetic": "/ˈsɜːfɪŋ/",
+    "phonetic": "/ˈsɜːrfɪŋ/",
     "frontExample": "We went surfing in Portugal.",
     "backExample": "Surfowaliśmy w Portugalii.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Judo",
     "back": "judo",
-    "phonetic": "/ˈdʒuːdəʊ/",
+    "phonetic": "/ˈdʒuːdoʊ/",
     "frontExample": "Judo teaches discipline and self-defense.",
     "backExample": "Judo uczy dyscypliny i samoobrony.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Martial arts",
     "back": "sztuki walki",
-    "phonetic": "/ˌmɑːʃəl ˈɑːts/",
+    "phonetic": "/ˈmɑːrʃəl ɑːrts/",
     "frontExample": "Martial arts improve your balance.",
     "backExample": "Sztuki walki poprawiają równowagę.",
     "remembered": false

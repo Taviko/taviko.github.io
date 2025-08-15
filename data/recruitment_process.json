@@ -2,17 +2,17 @@
   {
     "id": 1,
     "front": "Application",
-    "back": "aplikacja",
+    "back": "podanie (aplikacja) o pracę",
     "phonetic": "/ˌæplɪˈkeɪʃən/",
     "frontExample": "I submitted my application online.",
-    "backExample": "Złożyłem aplikację online.",
+    "backExample": "Złożyłem podanie o pracę online.",
     "remembered": false
   },
   {
     "id": 2,
     "front": "Job advertisement",
     "back": "ogłoszenie o pracę",
-    "phonetic": "/dʒɒb ədˈvɜːtɪsmənt/",
+    "phonetic": "/dʒɑːb ˌæd.vərˈtaɪzmənt/",
     "frontExample": "I saw a job advertisement on the company's website.",
     "backExample": "Zobaczyłem ogłoszenie o pracę na stronie firmy.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Job description",
     "back": "opis stanowiska",
-    "phonetic": "/dʒɒb dɪˈskrɪpʃən/",
+    "phonetic": "/dʒɑːb dɪˈskrɪpʃən/",
     "frontExample": "The job description was very detailed.",
     "backExample": "Opis stanowiska był bardzo szczegółowy.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Resume/CV",
     "back": "życiorys, CV",
-    "phonetic": "/rɪˈzjuːm/",
+    "phonetic": "/ˈrɛzəˌmeɪ/",
     "frontExample": "He sent his updated resume.",
     "backExample": "Wysłał zaktualizowane CV.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Cover letter",
     "back": "list motywacyjny",
-    "phonetic": "/ˈkʌvə ˈletə/",
+    "phonetic": "/ˈkʌvər ˈlɛtər/",
     "frontExample": "She wrote a strong cover letter.",
     "backExample": "Napisała mocny list motywacyjny.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "References",
     "back": "referencje",
-    "phonetic": "/ˈrefrənsɪz/",
+    "phonetic": "/ˈrɛfərənsɪz/",
     "frontExample": "They asked for professional references.",
     "backExample": "Poprosili o referencje zawodowe.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Candidate",
     "back": "kandydat",
-    "phonetic": "/ˈkændɪdeɪt/",
+    "phonetic": "/ˈkændɪdət/",
     "frontExample": "The company selected five candidates.",
     "backExample": "Firma wybrała pięciu kandydatów.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Interviewer",
     "back": "osoba przeprowadzająca rozmowę kwalifikacyjną",
-    "phonetic": "/ˈɪntəvjuːə/",
+    "phonetic": "/ˈɪntərˌvjuːər/",
     "frontExample": "The interviewer was very friendly.",
     "backExample": "Osoba przeprowadzająca rozmowę była bardzo miła.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Job interview",
     "back": "rozmowa kwalifikacyjna",
-    "phonetic": "/dʒɒb ˈɪntəvjuː/",
+    "phonetic": "/dʒɑːb ˈɪntərˌvjuː/",
     "frontExample": "I have a job interview tomorrow.",
     "backExample": "Mam jutro rozmowę kwalifikacyjną.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Interview questions",
     "back": "pytania na rozmowie kwalifikacyjnej",
-    "phonetic": "/ˈɪntəvjuː ˈkwestʃənz/",
+    "phonetic": "/ˈɪntərˌvjuː ˈkwɛstʃənz/",
     "frontExample": "She prepared for the interview questions.",
     "backExample": "Przygotowała się do pytań na rozmowie.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Hiring manager",
     "back": "kierownik ds. zatrudnienia",
-    "phonetic": "/ˈhaɪərɪŋ ˈmænɪdʒə/",
+    "phonetic": "/ˈhaɪərɪŋ ˈmænɪdʒər/",
     "frontExample": "The hiring manager explained the role.",
     "backExample": "Kierownik ds. zatrudnienia wyjaśnił rolę.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Selection process",
     "back": "proces selekcji",
-    "phonetic": "/sɪˈlekʃən ˈprəʊses/",
+    "phonetic": "/səˈlɛkʃən ˈprɑːsɛs/",
     "frontExample": "The selection process took two weeks.",
     "backExample": "Proces selekcji trwał dwa tygodnie.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Shortlisted",
     "back": "zakwalifikowany do dalszego etapu",
-    "phonetic": "/ˈʃɔːtlɪstɪd/",
+    "phonetic": "/ˈʃɔːrtˌlɪstɪd/",
     "frontExample": "He was shortlisted for the final interview.",
     "backExample": "Został zakwalifikowany do ostatniego etapu rozmów.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Offer letter",
     "back": "oferta pracy",
-    "phonetic": "/ˈɒfə ˈletə/",
+    "phonetic": "/ˈɔːfər ˈlɛtər/",
     "frontExample": "They sent me an offer letter.",
     "backExample": "Wysłali mi ofertę pracy.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Employment contract",
     "back": "umowa o pracę",
-    "phonetic": "/ɪmˈplɔɪmənt ˈkɒntrækt/",
+    "phonetic": "/ɪmˈplɔɪmənt ˈkɑːntrækt/",
     "frontExample": "She signed the employment contract.",
     "backExample": "Podpisała umowę o pracę.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Benefits",
     "back": "dodatki do pensji, korzyści",
-    "phonetic": "/ˈbenɪfɪts/",
+    "phonetic": "/ˈbɛnɪfɪts/",
     "frontExample": "The benefits include health insurance.",
     "backExample": "Dodatki obejmują ubezpieczenie zdrowotne.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Job position",
     "back": "stanowisko pracy",
-    "phonetic": "/dʒɒb pəˈzɪʃən/",
+    "phonetic": "/dʒɑːb pəˈzɪʃən/",
     "frontExample": "He applied for a senior job position.",
     "backExample": "Aplikował na wyższe stanowisko pracy.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Full-time job",
     "back": "praca na pełny etat",
-    "phonetic": "/fʊl taɪm dʒɒb/",
+    "phonetic": "/fʊl taɪm dʒɑːb/",
     "frontExample": "She works a full-time job at the bank.",
     "backExample": "Pracuje na pełny etat w banku.",
     "remembered": false
@@ -174,16 +174,16 @@
     "id": 20,
     "front": "Part-time job",
     "back": "praca na pół etatu",
-    "phonetic": "/pɑːt taɪm dʒɒb/",
+    "phonetic": "/pɑːrt taɪm dʒɑːb/",
     "frontExample": "He is looking for a part-time job.",
-    "backExample": "Szukam pracy na pół etatu.",
+    "backExample": "On szuka pracy na pół etatu.",
     "remembered": false
   },
   {
     "id": 21,
     "front": "Work experience",
     "back": "doświadczenie zawodowe",
-    "phonetic": "/wɜːk ɪkˈspɪəriəns/",
+    "phonetic": "/wɜːrk ɪkˈspɪriəns/",
     "frontExample": "She has five years of work experience.",
     "backExample": "Ma pięcioletnie doświadczenie zawodowe.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Qualification",
     "back": "kwalifikacje",
-    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃən/",
+    "phonetic": "/ˌkwɑːlɪfɪˈkeɪʃən/",
     "frontExample": "She has the right qualification for the job.",
     "backExample": "Ma odpowiednie kwalifikacje do pracy.",
     "remembered": false
@@ -209,8 +209,8 @@
   {
     "id": 24,
     "front": "Job requirements",
-    "back": "wymagania do pracy",
-    "phonetic": "/dʒɒb rɪˈkwaɪəmənts/",
+    "back": "wymagania na stanowisku",
+    "phonetic": "/dʒɑːb rɪˈkwaɪərmənts/",
     "frontExample": "The job requirements are quite strict.",
     "backExample": "Wymagania do pracy są dość rygorystyczne.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Workplace",
     "back": "miejsce pracy",
-    "phonetic": "/ˈwɜːkpleɪs/",
+    "phonetic": "/ˈwɜːrkpleɪs/",
     "frontExample": "We met at his workplace.",
     "backExample": "Spotkaliśmy się w jego miejscu pracy.",
     "remembered": false
@@ -228,7 +228,7 @@
     "id": 26,
     "front": "Trial period",
     "back": "okres próbny",
-    "phonetic": "/ˈtraɪəl ˈpɪəriəd/",
+    "phonetic": "/ˈtraɪəl ˈpɪriəd/",
     "frontExample": "The trial period lasts three months.",
     "backExample": "Okres próbny trwa trzy miesiące.",
     "remembered": false

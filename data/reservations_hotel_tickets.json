@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Booking/Reservation",
     "back": "rezerwacja",
-    "phonetic": "/ˈbʊk.ɪŋ/ /ˌrɛz.əˈveɪ.ʃən/",
+    "phonetic": "/ˈbʊkɪŋ/ /ˌrezərˈveɪʃən/",
     "frontExample": "I made a reservation online.",
     "backExample": "Zrobiłem rezerwację przez internet."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "front": "Hotel",
     "back": "hotel",
-    "phonetic": "/həʊˈtɛl/",
+    "phonetic": "/hoʊˈtɛl/",
     "frontExample": "We stayed at a nice hotel.",
     "backExample": "Zatrzymaliśmy się w ładnym hotelu."
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "front": "Hostel",
     "back": "hostel, schronisko",
-    "phonetic": "/ˈhɒs.təl/",
+    "phonetic": "/ˈhɑːstəl/",
     "frontExample": "The hostel was very cheap.",
     "backExample": "Hostel był bardzo tani."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "front": "Guesthouse",
     "back": "pensjonat",
-    "phonetic": "/ˈɡɛst.haʊs/",
+    "phonetic": "/ˈɡɛstˌhaʊs/",
     "frontExample": "We booked a guesthouse by the lake.",
     "backExample": "Zarezerwowaliśmy pensjonat nad jeziorem."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "front": "Single room",
     "back": "pokój jednoosobowy",
-    "phonetic": "/ˈsɪŋ.ɡl ruːm/",
+    "phonetic": "/ˈsɪŋɡəl ruːm/",
     "frontExample": "I'd like a single room, please.",
     "backExample": "Poproszę pokój jednoosobowy."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "front": "Double room",
     "back": "pokój dwuosobowy",
-    "phonetic": "/ˈdʌb.əl ruːm/",
+    "phonetic": "/ˈdʌbəl ruːm/",
     "frontExample": "We booked a double room.",
     "backExample": "Zarezerwowaliśmy pokój dwuosobowy."
   },
@@ -59,13 +59,13 @@
     "id": 8,
     "front": "Triple room",
     "back": "pokój trzyosobowy",
-    "phonetic": "/ˈtrɪp.əl ruːm/",
+    "phonetic": "/ˈtrɪpəl ruːm/",
     "frontExample": "Is a triple room available?",
     "backExample": "Czy jest dostępny pokój trzyosobowy?"
   },
   {
     "id": 9,
-    "front": "Suité",
+    "front": "Suite",
     "back": "apartament",
     "phonetic": "/swiːt/",
     "frontExample": "They stayed in a suite.",
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "front": "Check-in",
-    "back": "zameldować się",
+    "back": "zameldowanie",
     "phonetic": "/ˈtʃɛk ɪn/",
     "frontExample": "Check-in is at 2 p.m.",
     "backExample": "Zameldowanie jest o 14:00."
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "front": "Check-out",
-    "back": "wymeldować się",
+    "back": "wymeldowanie",
     "phonetic": "/ˈtʃɛk aʊt/",
     "frontExample": "Check-out is before noon.",
     "backExample": "Wymeldowanie jest przed południem."
@@ -91,7 +91,7 @@
     "id": 12,
     "front": "Reception/Front desk",
     "back": "recepcja",
-    "phonetic": "/rɪˈsɛp.ʃən/ /frʌnt dɛsk/",
+    "phonetic": "/rɪˈsɛpʃən/ /frʌnt dɛsk/",
     "frontExample": "Ask at the reception for help.",
     "backExample": "Zapytaj w recepcji o pomoc."
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "front": "Booking confirmation",
     "back": "potwierdzenie rezerwacji",
-    "phonetic": "/ˈbʊk.ɪŋ ˌkɒn.fəˈmeɪ.ʃən/",
+    "phonetic": "/ˈbʊkɪŋ ˌkɑːnfərˈmeɪʃən/",
     "frontExample": "I received my booking confirmation.",
     "backExample": "Otrzymałem potwierdzenie rezerwacji."
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "front": "Deposit",
     "back": "kaucja, zaliczka",
-    "phonetic": "/dɪˈpɒz.ɪt/",
+    "phonetic": "/dɪˈpɑːzɪt/",
     "frontExample": "You need to pay a deposit.",
     "backExample": "Musisz wpłacić kaucję."
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "front": "No-show",
     "back": "niepojawienie się gościa",
-    "phonetic": "/ˈnəʊ ʃəʊ/",
+    "phonetic": "/ˈnoʊ ʃoʊ/",
     "frontExample": "There is a fee for a no-show.",
     "backExample": "Za niepojawienie się gościa jest opłata."
   },
@@ -123,15 +123,15 @@
     "id": 16,
     "front": "Cancellation",
     "back": "odwołanie, anulowanie",
-    "phonetic": "/ˌkæn.səlˈeɪ.ʃən/",
+    "phonetic": "/ˌkæn.səlˈeɪʃən/",
     "frontExample": "Is cancellation free?",
     "backExample": "Czy odwołanie jest bezpłatne?"
   },
   {
     "id": 17,
-    "front": "Cancelation fee",
+    "front": "Cancellation fee",
     "back": "opłata za odwołanie, anulowanie",
-    "phonetic": "/ˌkæn.səlˈeɪ.ʃən fiː/",
+    "phonetic": "/ˌkæn.səlˈeɪʃən fiː/",
     "frontExample": "There's a cancellation fee.",
     "backExample": "Jest opłata za odwołanie."
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "front": "Ticket",
     "back": "bilet",
-    "phonetic": "/ˈtɪk.ɪt/",
+    "phonetic": "/ˈtɪkɪt/",
     "frontExample": "I lost my ticket.",
     "backExample": "Zgubiłem bilet."
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "front": "Flight ticket",
     "back": "bilet lotniczy",
-    "phonetic": "/flaɪt ˈtɪk.ɪt/",
+    "phonetic": "/flaɪt ˈtɪkɪt/",
     "frontExample": "Where is your flight ticket?",
     "backExample": "Gdzie jest twój bilet lotniczy?"
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "front": "Train ticket",
     "back": "bilet kolejowy",
-    "phonetic": "/treɪn ˈtɪk.ɪt/",
+    "phonetic": "/treɪn ˈtɪkɪt/",
     "frontExample": "I bought a train ticket online.",
     "backExample": "Kupiłem bilet kolejowy przez internet."
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "front": "Bus ticket",
     "back": "bilet autobusowy",
-    "phonetic": "/bʌs ˈtɪk.ɪt/",
+    "phonetic": "/bʌs ˈtɪkɪt/",
     "frontExample": "Do you have a bus ticket?",
     "backExample": "Masz bilet autobusowy?"
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "front": "E-ticket",
     "back": "bilet elektroniczny",
-    "phonetic": "/ˈiː ˌtɪk.ɪt/",
+    "phonetic": "/ˈiː ˌtɪkɪt/",
     "frontExample": "I received an e-ticket by email.",
     "backExample": "Otrzymałem bilet elektroniczny mailem."
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "front": "Round-trip ticket",
     "back": "bilet w obie strony",
-    "phonetic": "/ˈraʊnd trɪp ˈtɪk.ɪt/",
+    "phonetic": "/ˈraʊnd trɪp ˈtɪkɪt/",
     "frontExample": "I need a round-trip ticket.",
     "backExample": "Potrzebuję biletu w obie strony."
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "front": "One-way ticket",
     "back": "bilet w jedną stronę",
-    "phonetic": "/ˈwʌn weɪ ˈtɪk.ɪt/",
+    "phonetic": "/ˈwʌn weɪ ˈtɪkɪt/",
     "frontExample": "Is this a one-way ticket?",
     "backExample": "Czy to jest bilet w jedną stronę?"
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "front": "Booking website",
     "back": "strona rezerwacyjna",
-    "phonetic": "/ˈbʊk.ɪŋ ˈwɛb.saɪt/",
+    "phonetic": "/ˈbʊkɪŋ ˈwɛbˌsaɪt/",
     "frontExample": "I used a booking website.",
     "backExample": "Skorzystałem ze strony rezerwacyjnej."
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "front": "Payment method",
     "back": "metoda płatności",
-    "phonetic": "/ˈpeɪ.mənt ˈmeθ.əd/",
+    "phonetic": "/ˈpeɪmənt ˈmɛθəd/",
     "frontExample": "What payment method do you accept?",
     "backExample": "Jaką metodę płatności akceptujecie?"
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "front": "Itinerary",
     "back": "plan podróży",
-    "phonetic": "/aɪˈtɪn.ər.ər.i/",
+    "phonetic": "/aɪˈtɪnəˌreri/",
     "frontExample": "Can I see your itinerary?",
     "backExample": "Czy mogę zobaczyć twój plan podróży?"
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "front": "Travel agency",
     "back": "biuro podróży",
-    "phonetic": "/ˈtræv.əl ˈeɪ.dʒən.si/",
+    "phonetic": "/ˈtrævəl ˈeɪdʒənsi/",
     "frontExample": "We booked through a travel agency.",
     "backExample": "Zarezerwowaliśmy przez biuro podróży."
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "front": "Tour operator",
     "back": "organizator wycieczki",
-    "phonetic": "/tʊər ˈɒp.ə.reɪ.tər/",
+    "phonetic": "/tʊr ˈɑːpəˌreɪtər/",
     "frontExample": "The tour operator arranged everything.",
     "backExample": "Organizator wycieczki wszystko zorganizował."
   },
@@ -235,15 +235,15 @@
     "id": 30,
     "front": "Reservation system",
     "back": "system rezerwacji",
-    "phonetic": "/ˌrɛz.əˈveɪ.ʃən ˈsɪs.təm/",
+    "phonetic": "/ˌrezərˈveɪʃən ˈsɪstəm/",
     "frontExample": "The reservation system is easy to use.",
     "backExample": "System rezerwacji jest łatwy w obsłudze."
   },
   {
     "id": 31,
     "front": "Overbooking",
-    "back": "zbyt duża liczba rezerwacji, nadrezerwacja",
-    "phonetic": "/ˌəʊ.vəˈbʊk.ɪŋ/",
+    "back": "nadrezerwacja (overbooking)",
+    "phonetic": "/ˌoʊvərˈbʊkɪŋ/",
     "frontExample": "The hotel had an overbooking problem.",
     "backExample": "Hotel miał problem z nadrezerwacją."
   },
@@ -251,23 +251,23 @@
     "id": 32,
     "front": "Availability",
     "back": "dostępność",
-    "phonetic": "/əˌveɪ.ləˈbɪl.ɪ.ti/",
+    "phonetic": "/əˌveɪləˈbɪləti/",
     "frontExample": "What is the availability for next week?",
     "backExample": "Jaka jest dostępność na przyszły tydzień?"
   },
   {
     "id": 33,
     "front": "Upgrade",
-    "back": "aktualizacja (np. zmiana pokoju na wyższy standard)",
-    "phonetic": "/ˈʌp.ɡreɪd/",
+    "back": "zmiana na wyższy standard (upgrade)",
+    "phonetic": "/ˈʌpɡreɪd/",
     "frontExample": "We got a free room upgrade.",
-    "backExample": "Dostaliśmy darmową aktualizację pokoju."
+    "backExample": "Dostaliśmy wyższy standard pokoju za darmo."
   },
   {
     "id": 34,
     "front": "Downgrade",
     "back": "zmiana pokoju na niższy standard",
-    "phonetic": "/ˈdaʊn.ɡreɪd/",
+    "phonetic": "/ˈdaʊnɡreɪd/",
     "frontExample": "They offered a downgrade instead.",
     "backExample": "Zaproponowali zmianę pokoju na niższy standard."
   },
@@ -283,7 +283,7 @@
     "id": 36,
     "front": "Early check-in",
     "back": "wcześniejsze zameldowanie",
-    "phonetic": "/ˈɜː.li ˈtʃɛk ɪn/",
+    "phonetic": "/ˈɜːrli ˈtʃɛk ɪn/",
     "frontExample": "Is early check-in possible?",
     "backExample": "Czy wcześniejsze zameldowanie jest możliwe?"
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "front": "Travel insurance",
     "back": "ubezpieczenie podróżne",
-    "phonetic": "/ˈtræv.əl ɪnˈʃʊə.rəns/",
+    "phonetic": "/ˈtrævəl ɪnˈʃʊrəns/",
     "frontExample": "Do you have travel insurance?",
     "backExample": "Masz ubezpieczenie podróżne?"
   },
@@ -299,7 +299,7 @@
     "id": 38,
     "front": "Confirmation number",
     "back": "numer potwierdzenia",
-    "phonetic": "/ˌkɒn.fəˈmeɪ.ʃən ˈnʌm.bər/",
+    "phonetic": "/ˌkɑːnfərˈmeɪʃən ˈnʌmbər/",
     "frontExample": "What is your confirmation number?",
     "backExample": "Jaki jest twój numer potwierdzenia?"
   },
@@ -307,15 +307,15 @@
     "id": 39,
     "front": "Reservation code",
     "back": "kod rezerwacji",
-    "phonetic": "/ˌrɛz.əˈveɪ.ʃən kəʊd/",
+    "phonetic": "/ˌrezərˈveɪʃən koʊd/",
     "frontExample": "Please enter your reservation code.",
     "backExample": "Proszę podać kod rezerwacji."
   },
   {
     "id": 40,
     "front": "Cancellation policy",
-    "back": "polityka odwoływania rezerwacji",
-    "phonetic": "/ˌkæn.səlˈeɪ.ʃən ˈpɒl.ɪ.si/",
+    "back": "polityka anulowania rezerwacji",
+    "phonetic": "/ˌkæn.səlˈeɪʃən ˈpɑːləsi/",
     "frontExample": "Read the cancellation policy first.",
     "backExample": "Najpierw przeczytaj politykę odwoływania rezerwacji."
   },
@@ -323,7 +323,7 @@
     "id": 41,
     "front": "Hotel amenities",
     "back": "udogodnienia hotelowe",
-    "phonetic": "/həʊˈtɛl əˈmɛn.ɪ.tiz/",
+    "phonetic": "/hoʊˈtɛl əˈmɛnɪtiz/",
     "frontExample": "What hotel amenities are included?",
     "backExample": "Jakie udogodnienia hotelowe są w cenie?"
   },
@@ -331,7 +331,7 @@
     "id": 42,
     "front": "Baggage claim",
     "back": "odbiór bagażu",
-    "phonetic": "/ˈbæɡ.ɪdʒ kleɪm/",
+    "phonetic": "/ˈbæɡɪdʒ kleɪm/",
     "frontExample": "Go to baggage claim after landing.",
     "backExample": "Po lądowaniu idź do odbioru bagażu."
   }

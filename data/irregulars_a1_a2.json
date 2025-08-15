@@ -5,7 +5,7 @@
     "back": "być, istnieć, znajdować się",
     "frontExample": "I want to be a doctor in the future.",
     "backExample": "Chcę zostać lekarzem w przyszłości.",
-    "phonetic": "/biː/",
+    "phonetic": "/biː/, /wəz/, /wɜːr/, /bɪn/",
     "remembered": false
   },
   {
@@ -14,7 +14,7 @@
     "back": "stawać się, zostawać, przemieniać się",
     "frontExample": "He became very famous after the show.",
     "backExample": "Po tym programie stał się bardzo sławny.",
-    "phonetic": "/bɪˈkʌm/",
+    "phonetic": "/bɪˈkʌm/, /bɪˈkeɪm/, /bɪˈkʌm/",
     "remembered": false
   },
   {
@@ -23,7 +23,7 @@
     "back": "zaczynać, rozpoczynać, inicjować",
     "frontExample": "They always begin work at 9 a.m.",
     "backExample": "Zawsze zaczynają pracę o 9 rano.",
-    "phonetic": "/bɪˈɡɪn/",
+    "phonetic": "/bɪˈɡɪn/, /bɪˈɡæn/, /bɪˈɡʌn/",
     "remembered": false
   },
   {
@@ -32,7 +32,7 @@
     "back": "łamać, pękać, rozbijać, tłuc",
     "frontExample": "I broke my phone yesterday.",
     "backExample": "Wczoraj zepsułem telefon.",
-    "phonetic": "/breɪk/",
+    "phonetic": "/breɪk/, /broʊk/, /ˈbroʊkən/",
     "remembered": false
   },
   {
@@ -41,7 +41,7 @@
     "back": "przynosić, przyprowadzać, dostarczać",
     "frontExample": "She brought her dog to the party.",
     "backExample": "Przyniosła psa na imprezę.",
-    "phonetic": "/brɪŋ/",
+    "phonetic": "/brɪŋ/, /brɔːt/, /brɔːt/",
     "remembered": false
   },
   {
@@ -50,7 +50,7 @@
     "back": "budować, wznosić, konstruować",
     "frontExample": "They built this house in 1990.",
     "backExample": "Zbudowali ten dom w 1990 roku.",
-    "phonetic": "/bɪld/",
+    "phonetic": "/bɪld/, /bɪlt/, /bɪlt/",
     "remembered": false
   },
   {
@@ -59,7 +59,7 @@
     "back": "kupować, nabywać, zaopatrywać się",
     "frontExample": "Did you buy that book online?",
     "backExample": "Kupiłeś tę książkę przez internet?",
-    "phonetic": "/baɪ/",
+    "phonetic": "/baɪ/, /bɔːt/, /bɔːt/",
     "remembered": false
   },
   {
@@ -68,7 +68,7 @@
     "back": "łapać, chwytać, schwytać",
     "frontExample": "I caught the ball easily.",
     "backExample": "Z łatwością złapałem piłkę.",
-    "phonetic": "/kætʃ/",
+    "phonetic": "/kætʃ/, /kɔːt/, /kɔːt/",
     "remembered": false
   },
   {
@@ -77,7 +77,7 @@
     "back": "wybierać, decydować się, selekcjonować",
     "frontExample": "She chose the red dress.",
     "backExample": "Wybrała czerwoną sukienkę.",
-    "phonetic": "/tʃuːz/",
+    "phonetic": "/tʃuːz/, /tʃoʊz/, /ˈtʃoʊzn/",
     "remembered": false
   },
   {
@@ -86,7 +86,7 @@
     "back": "przyjść, przyjechać, nadchodzić",
     "frontExample": "We came home late.",
     "backExample": "Wróciliśmy do domu późno.",
-    "phonetic": "/kʌm/",
+    "phonetic": "/kʌm/, /keɪm/, /kʌm/",
     "remembered": false
   },
   {
@@ -95,7 +95,7 @@
     "back": "kosztować, wynosić, być wartym",
     "frontExample": "How much did it cost?",
     "backExample": "Ile to kosztowało?",
-    "phonetic": "/kɒst/",
+    "phonetic": "/kɔːst/, /kɔːst/, /kɔːst/",
     "remembered": false
   },
   {
@@ -104,7 +104,7 @@
     "back": "ciąć, kroić, obcinać",
     "frontExample": "Be careful not to cut yourself.",
     "backExample": "Uważaj, żeby się nie skaleczyć.",
-    "phonetic": "/kʌt/",
+    "phonetic": "/kʌt/, /kʌt/, /kʌt/",
     "remembered": false
   },
   {
@@ -113,7 +113,7 @@
     "back": "robić, wykonywać, zajmować się",
     "frontExample": "He always does his homework on time.",
     "backExample": "Zawsze odrabia pracę domową na czas.",
-    "phonetic": "/duː/",
+    "phonetic": "/duː/, /dɪd/, /dʌn/",
     "remembered": false
   },
   {
@@ -122,7 +122,7 @@
     "back": "rysować, ciągnąć, remisować",
     "frontExample": "Can you draw a cat?",
     "backExample": "Potrafisz narysować kota?",
-    "phonetic": "/drɔː/",
+    "phonetic": "/drɔː/, /druː/, /drɔːn/",
     "remembered": false
   },
   {
@@ -131,7 +131,7 @@
     "back": "śnić, marzyć, fantazjować",
     "frontExample": "I dreamed about flying.",
     "backExample": "Śniło mi się, że latam.",
-    "phonetic": "/driːm/",
+    "phonetic": "/driːm/, /drimd/, /drimd/",
     "remembered": false
   },
   {
@@ -140,7 +140,7 @@
     "back": "pić, spożywać, wychylać",
     "frontExample": "He drank all the juice.",
     "backExample": "Wypił cały sok.",
-    "phonetic": "/drɪŋk/",
+    "phonetic": "/drɪŋk/, /dræŋk/, /drʌŋk/",
     "remembered": false
   },
   {
@@ -149,7 +149,7 @@
     "back": "prowadzić, kierować, zawozić",
     "frontExample": "She drove to work today.",
     "backExample": "Dzisiaj pojechała do pracy samochodem.",
-    "phonetic": "/draɪv/",
+    "phonetic": "/draɪv/, /droʊv/, /ˈdrɪvən/",
     "remembered": false
   },
   {
@@ -158,7 +158,7 @@
     "back": "jeść, spożywać, konsumować",
     "frontExample": "We eat dinner at 6 p.m.",
     "backExample": "Jemy obiad o 18:00.",
-    "phonetic": "/iːt/",
+    "phonetic": "/iːt/, /et/, /ˈiːtn/",
     "remembered": false
   },
   {
@@ -167,7 +167,7 @@
     "back": "upadać, spadać, przewracać się",
     "frontExample": "The baby fell asleep quickly.",
     "backExample": "Dziecko szybko zasnęło.",
-    "phonetic": "/fɔːl/",
+    "phonetic": "/fɔːl/, /fel/, /ˈfɔːlən/",
     "remembered": false
   },
   {
@@ -176,7 +176,7 @@
     "back": "znaleźć, odkryć, natknąć się",
     "frontExample": "She found a coin on the ground.",
     "backExample": "Znalazła monetę na ziemi.",
-    "phonetic": "/faɪnd/",
+    "phonetic": "/faɪnd/, /faʊnd/, /faʊnd/",
     "remembered": false
   },
   {
@@ -185,7 +185,7 @@
     "back": "latać, fruwać, unosić się",
     "frontExample": "Birds fly south in winter.",
     "backExample": "Ptaki lecą na południe zimą.",
-    "phonetic": "/flaɪ/",
+    "phonetic": "/flaɪ/, /fluː/, /floʊn/",
     "remembered": false
   },
   {
@@ -194,7 +194,7 @@
     "back": "dostawać, otrzymywać, uzyskiwać",
     "frontExample": "Did you get my message?",
     "backExample": "Dostałeś moją wiadomość?",
-    "phonetic": "/ɡet/",
+    "phonetic": "/ɡet/, /ɡɑːt/, /ɡɑːt/",
     "remembered": false
   },
   {
@@ -203,7 +203,7 @@
     "back": "dawać, wręczać, przekazywać",
     "frontExample": "Please give me a pen.",
     "backExample": "Proszę, podaj mi długopis.",
-    "phonetic": "/ɡɪv/",
+    "phonetic": "/ɡɪv/, /ɡeɪv/, /ˈɡɪvn/",
     "remembered": false
   },
   {
@@ -212,7 +212,7 @@
     "back": "iść, chodzić, jechać",
     "frontExample": "I go to school by bus.",
     "backExample": "Jadę do szkoły autobusem.",
-    "phonetic": "/ɡəʊ/",
+    "phonetic": "/ɡoʊ/, /went/, /ɡɔn/",
     "remembered": false
   },
   {
@@ -221,7 +221,7 @@
     "back": "rosnąć, rozwijać się, uprawiać",
     "frontExample": "This plant grows very fast.",
     "backExample": "Ta roślina rośnie bardzo szybko.",
-    "phonetic": "/ɡrəʊ/",
+    "phonetic": "/ɡroʊ/, /ɡruː/, /ɡroʊn/",
     "remembered": false
   },
   {
@@ -230,7 +230,7 @@
     "back": "mieć, posiadać, zawierać",
     "frontExample": "We have two dogs.",
     "backExample": "Mamy dwa psy.",
-    "phonetic": "/hæv/",
+    "phonetic": "/hæv/, /hæd/, /hæd/",
     "remembered": false
   },
   {
@@ -239,7 +239,7 @@
     "back": "słyszeć, usłyszeć, dowiedzieć się",
     "frontExample": "Did you hear that noise?",
     "backExample": "Słyszałeś ten hałas?",
-    "phonetic": "/hɪə(r)/",
+    "phonetic": "/hɪr/, /hɜːrd/, /hɜːrd/",
     "remembered": false
   },
   {
@@ -248,7 +248,7 @@
     "back": "uderzać, trafiać, bić",
     "frontExample": "He hit the ball hard.",
     "backExample": "Uderzył piłkę mocno.",
-    "phonetic": "/hɪt/",
+    "phonetic": "/hɪt/, /hɪt/, /hɪt/",
     "remembered": false
   },
   {
@@ -257,7 +257,7 @@
     "back": "trzymać, utrzymywać, obejmować",
     "frontExample": "Hold my hand.",
     "backExample": "Trzymaj mnie za rękę.",
-    "phonetic": "/həʊld/",
+    "phonetic": "/hoʊld/, /held/, /held/",
     "remembered": false
   },
   {
@@ -266,7 +266,7 @@
     "back": "ranić, boleć, krzywdzić",
     "frontExample": "Did it hurt?",
     "backExample": "Bolało?",
-    "phonetic": "/hɜːt/",
+    "phonetic": "/hɜːrt/, /hɜːrt/, /hɜːrt/",
     "remembered": false
   },
   {
@@ -275,7 +275,7 @@
     "back": "trzymać, zatrzymywać, przechowywać",
     "frontExample": "Keep this letter safe.",
     "backExample": "Zachowaj ten list w bezpiecznym miejscu.",
-    "phonetic": "/kiːp/",
+    "phonetic": "/kiːp/, /kept/, /kept/",
     "remembered": false
   },
   {
@@ -284,7 +284,7 @@
     "back": "wiedzieć, znać, rozumieć",
     "frontExample": "I know the answer.",
     "backExample": "Znam odpowiedź.",
-    "phonetic": "/nəʊ/",
+    "phonetic": "/noʊ/, /nuː/, /noʊn/",
     "remembered": false
   },
   {
@@ -293,7 +293,7 @@
     "back": "uczyć się, przyswajać, zdobywać wiedzę",
     "frontExample": "He is learning Spanish.",
     "backExample": "Uczy się hiszpańskiego.",
-    "phonetic": "/lɜːn/",
+    "phonetic": "/lɜːrn/, /lɜːrnd/, /lɜːrnd/",
     "remembered": false
   },
   {
@@ -302,7 +302,7 @@
     "back": "opuszczać, wyjeżdżać, zostawiać",
     "frontExample": "She left early.",
     "backExample": "Wyszła wcześniej.",
-    "phonetic": "/liːv/",
+    "phonetic": "/liːv/, /left/, /left/",
     "remembered": false
   },
   {
@@ -311,7 +311,7 @@
     "back": "pożyczać, użyczać, udostępniać",
     "frontExample": "Can you lend me a pencil?",
     "backExample": "Pożyczysz mi ołówek?",
-    "phonetic": "/lend/",
+    "phonetic": "/lend/, /lent/, /lent/",
     "remembered": false
   },
   {
@@ -320,7 +320,7 @@
     "back": "gubić, tracić, przegrywać",
     "frontExample": "I lost my wallet.",
     "backExample": "Zgubiłem portfel.",
-    "phonetic": "/luːz/",
+    "phonetic": "/luːz/, /lɔːst/, /lɔːst/",
     "remembered": false
   },
   {
@@ -329,7 +329,7 @@
     "back": "robić, tworzyć, produkować",
     "frontExample": "We made a cake.",
     "backExample": "Zrobiliśmy ciasto.",
-    "phonetic": "/meɪk/",
+    "phonetic": "/meɪk/, /meɪd/, /meɪd/",
     "remembered": false
   },
   {
@@ -338,7 +338,7 @@
     "back": "oznaczać, znaczyć, mieć na myśli",
     "frontExample": "What does this word mean?",
     "backExample": "Co znaczy to słowo?",
-    "phonetic": "/miːn/",
+    "phonetic": "/miːn/, /ment/, /ment/",
     "remembered": false
   },
   {
@@ -347,7 +347,7 @@
     "back": "spotykać, poznawać, napotykać",
     "frontExample": "I met him at the station.",
     "backExample": "Spotkałem go na stacji.",
-    "phonetic": "/miːt/",
+    "phonetic": "/miːt/, /met/, /met/",
     "remembered": false
   },
   {
@@ -356,7 +356,7 @@
     "back": "płacić, opłacać, wynagradzać",
     "frontExample": "She paid for the coffee.",
     "backExample": "Zapłaciła za kawę.",
-    "phonetic": "/peɪ/",
+    "phonetic": "/peɪ/, /peɪd/, /peɪd/",
     "remembered": false
   },
   {
@@ -365,7 +365,7 @@
     "back": "kłaść, położyć, umieszczać",
     "frontExample": "Put your phone away.",
     "backExample": "Odłóż telefon.",
-    "phonetic": "/pʊt/",
+    "phonetic": "/pʊt/, /pʊt/, /pʊt/",
     "remembered": false
   },
   {
@@ -374,7 +374,7 @@
     "back": "czytać, przeglądać, zapoznawać się",
     "frontExample": "I read this book last week.",
     "backExample": "Przeczytałem tę książkę w zeszłym tygodniu.",
-    "phonetic": "/riːd/",
+    "phonetic": "/riːd/, /red/, /red/",
     "remembered": false
   },
   {
@@ -383,7 +383,7 @@
     "back": "jeździć, ujeżdżać, dosiadać",
     "frontExample": "He rode his bike to school.",
     "backExample": "Pojechał rowerem do szkoły.",
-    "phonetic": "/raɪd/",
+    "phonetic": "/raɪd/, /roʊd/, /ˈrɪdn/",
     "remembered": false
   },
   {
@@ -392,7 +392,7 @@
     "back": "dzwonić, zadzwonić, obwieszczać",
     "frontExample": "The phone rang twice.",
     "backExample": "Telefon zadzwonił dwa razy.",
-    "phonetic": "/rɪŋ/",
+    "phonetic": "/rɪŋ/, /ræŋ/, /rʌŋ/",
     "remembered": false
   },
   {
@@ -401,7 +401,7 @@
     "back": "biegać, prowadzić, uciekać",
     "frontExample": "He runs every morning.",
     "backExample": "Biega codziennie rano.",
-    "phonetic": "/rʌn/",
+    "phonetic": "/rʌn/, /ræn/, /rʌn/",
     "remembered": false
   },
   {
@@ -410,7 +410,7 @@
     "back": "mówić, powiedzieć, wypowiadać",
     "frontExample": "What did you say?",
     "backExample": "Co powiedziałeś?",
-    "phonetic": "/seɪ/",
+    "phonetic": "/seɪ/, /sed/, /sed/",
     "remembered": false
   },
   {
@@ -419,7 +419,7 @@
     "back": "widzieć, zobaczyć, oglądać",
     "frontExample": "I saw a rainbow.",
     "backExample": "Widziałem tęczę.",
-    "phonetic": "/siː/",
+    "phonetic": "/siː/, /sɔː/, /siːn/",
     "remembered": false
   },
   {
@@ -428,7 +428,7 @@
     "back": "sprzedawać, handlować, zbywać",
     "frontExample": "They sold their car.",
     "backExample": "Sprzedali swój samochód.",
-    "phonetic": "/sel/",
+    "phonetic": "/sel/, /soʊld/, /soʊld/",
     "remembered": false
   },
   {
@@ -437,7 +437,7 @@
     "back": "wysyłać, słać, nadawać",
     "frontExample": "She sent me a letter.",
     "backExample": "Wysłała mi list.",
-    "phonetic": "/send/",
+    "phonetic": "/send/, /sent/, /sent/",
     "remembered": false
   },
   {
@@ -446,7 +446,7 @@
     "back": "pokazywać, ukazywać, prezentować",
     "frontExample": "Please show me how.",
     "backExample": "Pokaż mi proszę jak to zrobić.",
-    "phonetic": "/ʃəʊ/",
+    "phonetic": "/ʃoʊ/, /ʃoʊd/, /ʃoʊn/",
     "remembered": false
   },
   {
@@ -455,7 +455,7 @@
     "back": "zamykać, zatrzaskiwać, przymykać",
     "frontExample": "Shut the door, please.",
     "backExample": "Zamknij drzwi, proszę.",
-    "phonetic": "/ʃʌt/",
+    "phonetic": "/ʃʌt/, /ʃʌt/, /ʃʌt/",
     "remembered": false
   },
   {
@@ -464,7 +464,7 @@
     "back": "śpiewać, nucić, wyśpiewywać",
     "frontExample": "She sings beautifully.",
     "backExample": "Ona pięknie śpiewa.",
-    "phonetic": "/sɪŋ/",
+    "phonetic": "/sɪŋ/, /sæŋ/, /sʌŋ/",
     "remembered": false
   },
   {
@@ -473,7 +473,7 @@
     "back": "siedzieć, siadać, przesiadywać",
     "frontExample": "He sat on the bench.",
     "backExample": "Usiadł na ławce.",
-    "phonetic": "/sɪt/",
+    "phonetic": "/sɪt/, /sæt/, /sæt/",
     "remembered": false
   },
   {
@@ -482,7 +482,7 @@
     "back": "spać, zdrzemnąć się, zasypiać",
     "frontExample": "They sleep for eight hours.",
     "backExample": "Śpią osiem godzin.",
-    "phonetic": "/sliːp/",
+    "phonetic": "/sliːp/, /slept/, /slept/",
     "remembered": false
   },
   {
@@ -491,7 +491,7 @@
     "back": "mówić, rozmawiać, przemawiać",
     "frontExample": "We spoke for hours.",
     "backExample": "Rozmawialiśmy godzinami.",
-    "phonetic": "/spiːk/",
+    "phonetic": "/spiːk/, /spoʊk/, /ˈspoʊkən/",
     "remembered": false
   },
   {
@@ -500,7 +500,7 @@
     "back": "spędzać, wydawać, zużywać",
     "frontExample": "She spent all her money.",
     "backExample": "Wydała wszystkie swoje pieniądze.",
-    "phonetic": "/spend/",
+    "phonetic": "/spend/, /spent/, /spent/",
     "remembered": false
   },
   {
@@ -509,7 +509,7 @@
     "back": "stać, wstawać, znajdować się",
     "frontExample": "I can’t stand the noise.",
     "backExample": "Nie mogę znieść tego hałasu.",
-    "phonetic": "/stænd/",
+    "phonetic": "/stænd/, /stud/, /stud/",
     "remembered": false
   },
   {
@@ -518,7 +518,7 @@
     "back": "kraść, podkradać, przywłaszczać",
     "frontExample": "He stole my idea!",
     "backExample": "Ukradł mój pomysł!",
-    "phonetic": "/stiːl/",
+    "phonetic": "/stiːl/, /stoʊl/, /ˈstoʊlən/",
     "remembered": false
   },
   {
@@ -527,7 +527,7 @@
     "back": "pływać, zanurzać się, unosić się",
     "frontExample": "Let's swim in the lake.",
     "backExample": "Popływajmy w jeziorze.",
-    "phonetic": "/swɪm/",
+    "phonetic": "/swɪm/, /swæm/, /swʌm/",
     "remembered": false
   },
   {
@@ -536,7 +536,7 @@
     "back": "brać, zabierać, przyjmować",
     "frontExample": "Take your umbrella.",
     "backExample": "Weź swoją parasolkę.",
-    "phonetic": "/teɪk/",
+    "phonetic": "/teɪk/, /tʊk/, /ˈteɪkən/",
     "remembered": false
   },
   {
@@ -545,7 +545,7 @@
     "back": "uczyć, nauczać, szkolić",
     "frontExample": "I taught him English.",
     "backExample": "Nauczyłem go angielskiego.",
-    "phonetic": "/tiːtʃ/",
+    "phonetic": "/tiːtʃ/, /tɔːt/, /tɔːt/",
     "remembered": false
   },
   {
@@ -554,7 +554,7 @@
     "back": "mówić, opowiadać, informować",
     "frontExample": "Can you tell me the time?",
     "backExample": "Możesz powiedzieć mi, która jest godzina?",
-    "phonetic": "/tel/",
+    "phonetic": "/tel/, /toʊld/, /toʊld/",
     "remembered": false
   },
   {
@@ -563,7 +563,7 @@
     "back": "myśleć, sądzić, uważać",
     "frontExample": "I think it's a good idea.",
     "backExample": "Myślę, że to dobry pomysł.",
-    "phonetic": "/θɪŋk/",
+    "phonetic": "/θɪŋk/, /θɔːt/, /θɔːt/",
     "remembered": false
   },
   {
@@ -572,7 +572,7 @@
     "back": "rzucać, ciskać, wyrzucać",
     "frontExample": "She threw the ball far.",
     "backExample": "Rzuciła piłkę daleko.",
-    "phonetic": "/θrəʊ/",
+    "phonetic": "/θroʊ/, /θruː/, /θroʊn/",
     "remembered": false
   },
   {
@@ -581,7 +581,7 @@
     "back": "budzić, obudzić, przebudzać się",
     "frontExample": "I woke up early.",
     "backExample": "Obudziłem się wcześnie.",
-    "phonetic": "/weɪk/",
+    "phonetic": "/weɪk/, /woʊk/, /ˈwoʊkən/",
     "remembered": false
   },
   {
@@ -590,7 +590,7 @@
     "back": "nosić, zakładać, ubierać",
     "frontExample": "Do you wear that?",
     "backExample": "Nosisz to?",
-    "phonetic": "/weə(r)/",
+    "phonetic": "/wer/, /wɔːr/, /wɔːrn/",
     "remembered": false
   },
   {
@@ -599,7 +599,7 @@
     "back": "rozumieć, pojmować, ogarniać",
     "frontExample": "I understand now.",
     "backExample": "Teraz rozumiem.",
-    "phonetic": "/ˌʌndəˈstænd/",
+    "phonetic": "/ˌʌndərˈstænd/, /ˌʌndərˈstʊd/, /ˌʌndərˈstʊd/",
     "remembered": false
   },
   {
@@ -608,7 +608,7 @@
     "back": "wygrywać, zwyciężać, odnosić sukces",
     "frontExample": "Did you win the game?",
     "backExample": "Wygrałeś mecz?",
-    "phonetic": "/wɪn/",
+    "phonetic": "/wɪn/, /wʌn/, /wʌn/",
     "remembered": false
   },
   {
@@ -617,7 +617,7 @@
     "back": "pisać, notować, redagować",
     "frontExample": "He writes in his journal.",
     "backExample": "On pisze w swoim dzienniku.",
-    "phonetic": "/raɪt/",
+    "phonetic": "/raɪt/, /roʊt/, /ˈrɪtn/",
     "remembered": false
   }
 ]

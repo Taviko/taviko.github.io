@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Living room",
     "back": "salon",
-    "phonetic": "/ˈlɪv.ɪŋ ruːm/",
+    "phonetic": "/ˈlɪvɪŋ ruːm/",
     "frontExample": "We watch TV in the living room.",
     "backExample": "Oglądamy telewizję w salonie."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "front": "Kitchen",
     "back": "kuchnia",
-    "phonetic": "/ˈkɪtʃ.ɪn/",
+    "phonetic": "/ˈkɪtʃɪn/",
     "frontExample": "She is cooking in the kitchen.",
     "backExample": "Ona gotuje w kuchni."
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "front": "Bathroom",
     "back": "łazienka",
-    "phonetic": "/ˈbɑːθ.ruːm/",
+    "phonetic": "/ˈbæθruːm/",
     "frontExample": "The bathroom is upstairs.",
     "backExample": "Łazienka jest na górze."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "front": "Bedroom",
     "back": "sypialnia",
-    "phonetic": "/ˈbed.ruːm/",
+    "phonetic": "/ˈbɛdruːm/",
     "frontExample": "My bedroom is very cozy.",
     "backExample": "Moja sypialnia jest bardzo przytulna."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "front": "Dining room",
     "back": "jadalnia",
-    "phonetic": "/ˈdaɪ.nɪŋ ruːm/",
+    "phonetic": "/ˈdaɪnɪŋ ruːm/",
     "frontExample": "We eat dinner in the dining room.",
     "backExample": "Jemy obiad w jadalni."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "front": "Hall",
     "back": "hol",
-    "phonetic": "/hɔːl/",
+    "phonetic": "/hɔːrl/",
     "frontExample": "Leave your shoes in the hall.",
     "backExample": "Zostaw buty w holu."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "front": "Attic",
     "back": "strych",
-    "phonetic": "/ˈæt.ɪk/",
+    "phonetic": "/ˈætɪk/",
     "frontExample": "We keep old things in the attic.",
     "backExample": "Trzymamy stare rzeczy na strychu."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "front": "Basement",
     "back": "piwnica",
-    "phonetic": "/ˈbeɪs.mənt/",
+    "phonetic": "/ˈbeɪsmənt/",
     "frontExample": "The basement is cold.",
     "backExample": "Piwnica jest zimna."
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "front": "Garage",
     "back": "garaż",
-    "phonetic": "/ˈɡær.ɑːʒ/",
+    "phonetic": "/ɡəˈrɑːʒ/",
     "frontExample": "The car is in the garage.",
     "backExample": "Samochód jest w garażu."
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "front": "Garden",
     "back": "ogród",
-    "phonetic": "/ˈɡɑː.dən/",
+    "phonetic": "/ˈɡɑːrdən/",
     "frontExample": "We have flowers in the garden.",
     "backExample": "Mamy kwiaty w ogrodzie."
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "front": "Laundry room",
     "back": "pralnia",
-    "phonetic": "/ˈlɔːn.dri ruːm/",
+    "phonetic": "/ˈlɔːrndri ruːm/",
     "frontExample": "The laundry room is next to the kitchen.",
     "backExample": "Pralnia jest obok kuchni."
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "front": "Study",
     "back": "gabinet",
-    "phonetic": "/ˈstʌd.i/",
+    "phonetic": "/ˈstʌdi/",
     "frontExample": "He works in his study.",
     "backExample": "On pracuje w swoim gabinecie."
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "front": "Playroom",
     "back": "pokój zabaw",
-    "phonetic": "/ˈpleɪ.ruːm/",
+    "phonetic": "/ˈpleɪruːm/",
     "frontExample": "The kids are in the playroom.",
     "backExample": "Dzieci są w pokoju zabaw."
   },
@@ -107,9 +107,9 @@
     "id": 14,
     "front": "Home office",
     "back": "biuro domowe",
-    "phonetic": "/həʊm ˈɒf.ɪs/",
+    "phonetic": "/hoʊm ˈɔfɪs/",
     "frontExample": "I work from my home office.",
-    "backExample": "Pracuję z biura domowego."
+    "backExample": "Pracuję z domowego biura."
   },
   {
     "id": 15,
@@ -123,15 +123,15 @@
     "id": 16,
     "front": "Pantry",
     "back": "spiżarnia",
-    "phonetic": "/ˈpæn.tri/",
+    "phonetic": "/ˈpæntri/",
     "frontExample": "The pantry is full of food.",
     "backExample": "Spiżarnia jest pełna jedzenia."
   },
   {
     "id": 17,
     "front": "Closet",
-    "back": "schowek/garderoba",
-    "phonetic": "/ˈklɒz.ɪt/",
+    "back": "szafa/garderoba",
+    "phonetic": "/ˈklɑːzɪt/",
     "frontExample": "My clothes are in the closet.",
     "backExample": "Moje ubrania są w garderobie."
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "front": "Balcony",
     "back": "balkon",
-    "phonetic": "/ˈbæl.kə.ni/",
+    "phonetic": "/ˈbælkəni/",
     "frontExample": "We drink coffee on the balcony.",
     "backExample": "Pijemy kawę na balkonie."
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "front": "Terrace",
     "back": "taras",
-    "phonetic": "/ˈter.əs/",
+    "phonetic": "/ˈtɛrəs/",
     "frontExample": "Let's sit on the terrace.",
     "backExample": "Usiądźmy na tarasie."
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "front": "Porch",
     "back": "ganek",
-    "phonetic": "/pɔːtʃ/",
+    "phonetic": "/pɔːrtʃ/",
     "frontExample": "He is waiting on the porch.",
     "backExample": "On czeka na ganku."
   },
@@ -170,7 +170,7 @@
   {
     "id": 22,
     "front": "Roof",
-    "back": "Dach",
+    "back": "dach",
     "phonetic": "/ruːf/",
     "frontExample": "The cat is on the roof.",
     "backExample": "Kot jest na dachu."
@@ -179,7 +179,7 @@
     "id": 23,
     "front": "Stairs",
     "back": "schody",
-    "phonetic": "/steəz/",
+    "phonetic": "/stɛrz/",
     "frontExample": "Be careful on the stairs.",
     "backExample": "Uważaj na schodach."
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "front": "Corridor",
     "back": "korytarz",
-    "phonetic": "/ˈkɒr.ɪ.dɔːr/",
+    "phonetic": "/ˈkɔːrɪˌdɔːr/",
     "frontExample": "The corridor is long and narrow.",
     "backExample": "Korytarz jest długi i wąski."
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "front": "Entrance",
     "back": "wejście",
-    "phonetic": "/ˈɛn.trəns/",
+    "phonetic": "/ˈɛntrəns/",
     "frontExample": "The entrance is on the left.",
     "backExample": "Wejście jest po lewej stronie."
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "front": "Cellar",
     "back": "piwniczka",
-    "phonetic": "/ˈsɛl.ər/",
+    "phonetic": "/ˈsɛlər/",
     "frontExample": "We keep wine in the cellar.",
     "backExample": "Trzymamy wino w piwniczce."
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "front": "Conservatory",
     "back": "oranżeria, szklarnia",
-    "phonetic": "/kənˈsɜː.və.tər.i/",
+    "phonetic": "/kənˈsɜːrvəˌtɔːri/",
     "frontExample": "The plants are in the conservatory.",
     "backExample": "Rośliny są w oranżerii."
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "front": "Workshop",
     "back": "warsztat",
-    "phonetic": "/ˈwɜːk.ʃɒp/",
+    "phonetic": "/ˈwɜːrkˌʃɑːp/",
     "frontExample": "He fixes things in the workshop.",
     "backExample": "On naprawia rzeczy w warsztacie."
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "front": "Loft",
     "back": "mieszkanie typu loft/poddasze użytkowe",
-    "phonetic": "/lɒft/",
+    "phonetic": "/lɔft/",
     "frontExample": "They live in a loft downtown.",
     "backExample": "Mieszkają w lofcie w centrum miasta."
   }

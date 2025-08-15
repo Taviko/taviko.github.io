@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Credit card",
     "back": "karta kredytowa",
-    "phonetic": "/ˈkredɪt kɑːd/",
+    "phonetic": "/ˈkredɪt kɑːrd/",
     "frontExample": "I paid with a credit card.",
     "backExample": "Zapłaciłem kartą kredytową.",
     "remembered": false
@@ -21,17 +21,17 @@
     "id": 3,
     "front": "Debit card",
     "back": "karta debetowa",
-    "phonetic": "/ˈdebɪt kɑːd/",
+    "phonetic": "/ˈdebɪt kɑːrd/",
     "frontExample": "I paid with a debit card.",
     "backExample": "Zapłaciłem kartą debetową.",
     "remembered": false
   },
   {
     "id": 4,
-    "front": "Cheque",
+    "front": "Check",
     "back": "czek",
     "phonetic": "/tʃek/",
-    "frontExample": "I paid with a cheque.",
+    "frontExample": "I paid with a check.",
     "backExample": "Zapłaciłem czekiem.",
     "remembered": false
   },
@@ -39,16 +39,16 @@
     "id": 5,
     "front": "Voucher",
     "back": "kupon, bon",
-    "phonetic": "/ˈvaʊtʃə/",
+    "phonetic": "/ˈvaʊtʃər/",
     "frontExample": "I paid with a voucher.",
-    "backExample": "Zapłaciłem kuponem.",
+    "backExample": "Zapłaciłem bonem.",
     "remembered": false
   },
   {
     "id": 6,
     "front": "Online payment",
     "back": "płatność online",
-    "phonetic": "/ˈɒnlaɪn ˈpeɪmənt/",
+    "phonetic": "/ˈɑnlaɪn ˈpeɪmənt/",
     "frontExample": "I made an online payment.",
     "backExample": "Zrobiłem płatność online.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Customer",
     "back": "klient",
-    "phonetic": "/ˈkʌstəmə/",
+    "phonetic": "/ˈkʌstəmər/",
     "frontExample": "The customer was satisfied with the service.",
     "backExample": "Klient był zadowolony z usługi.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Cash register",
     "back": "kasa fiskalna",
-    "phonetic": "/kæʃ ˈredʒɪstə/",
+    "phonetic": "/kæʃ ˈredʒɪstər/",
     "frontExample": "The cashier used the cash register.",
     "backExample": "Kasjer używał kasy fiskalnej.",
     "remembered": false
@@ -84,17 +84,17 @@
     "id": 10,
     "front": "Shopping cart",
     "back": "wózek sklepowy",
-    "phonetic": "/ˈʃɒpɪŋ kɑːt/",
+    "phonetic": "/ˈʃɑːpɪŋ kɑːrt/",
     "frontExample": "I pushed the shopping cart through the store.",
     "backExample": "Pchałem wózek sklepowy przez sklep.",
     "remembered": false
   },
   {
     "id": 11,
-    "front": "Sale person",
+    "front": "Salesperson",
     "back": "sprzedawca",
-    "phonetic": "/seɪl ˈpɜːsən/",
-    "frontExample": "The sales person helped me find the right size.",
+    "phonetic": "/ˈseɪlzˌpɜːrsən/",
+    "frontExample": "The salesperson helped me find the right size.",
     "backExample": "Sprzedawca pomógł mi znaleźć odpowiedni rozmiar.",
     "remembered": false
   },
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Shopping list",
     "back": "lista zakupów",
-    "phonetic": "/ˈʃɒpɪŋ lɪst/",
+    "phonetic": "/ˈʃɑːpɪŋ lɪst/",
     "frontExample": "I made a shopping list before going to the store.",
     "backExample": "Zrobiłem listę zakupów przed pójściem do sklepu.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Return",
     "back": "zwrot",
-    "phonetic": "/rɪˈtɜːn/",
+    "phonetic": "/rɪˈtɜːrn/",
     "frontExample": "I need to return this book to the library.",
     "backExample": "Muszę zwrócić tę książkę do biblioteki.",
     "remembered": false

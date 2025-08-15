@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Shop",
     "back": "sklep",
-    "phonetic": "/ʃɒp/",
+    "phonetic": "/ʃɑːp/",
     "frontExample": "I need to go to the shop to buy some bread.",
     "backExample": "Muszę iść do sklepu, żeby kupić chleb.",
     "remembered": false
@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Store",
     "back": "sklep (większy)",
-    "phonetic": "/stɔː/",
+    "phonetic": "/stɔːr/",
     "frontExample": "The department store has everything we need.",
     "backExample": "Dom towarowy ma wszystko, czego potrzebujemy.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Supermarket",
     "back": "supermarket/sklep",
-    "phonetic": "/ˈsuːpəmɑːkɪt/",
+    "phonetic": "/ˈsuːpərˌmɑːrkɪt/",
     "frontExample": "We do our weekly shopping at the supermarket.",
     "backExample": "Robimy cotygodniowe zakupy w supermarkecie.",
     "remembered": false
@@ -41,14 +41,14 @@
     "back": "butik",
     "phonetic": "/buːˈtiːk/",
     "frontExample": "She bought a designer dress at the boutique.",
-    "backExample": "Kupiła projektantką sukienkę w butiku.",
+    "backExample": "Kupiła sukienkę od projektanta w butiku.",
     "remembered": false
   },
   {
     "id": 6,
     "front": "Convenience store",
-    "back": "sklepik osiedlowy (24h)",
-    "phonetic": "/kənˈviːniəns stɔː/",
+    "back": "sklepik osiedlowy (24/7)",
+    "phonetic": "/kənˈviːniəns stɔːr/",
     "frontExample": "The convenience store is open 24 hours a day.",
     "backExample": "Sklepik osiedlowy jest otwarty 24 godziny na dobę.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Grocery store",
     "back": "sklep spożywczy",
-    "phonetic": "/ˈɡrəʊsəri stɔː/",
+    "phonetic": "/ˈɡroʊsəri stɔːr/",
     "frontExample": "I buy fresh vegetables at the grocery store.",
     "backExample": "Kupuję świeże warzywa w sklepie spożywczym.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Pharmacy",
     "back": "apteka",
-    "phonetic": "/ˈfɑːməsi/",
+    "phonetic": "/ˈfɑːrməsi/",
     "frontExample": "The pharmacy is next to the hospital.",
     "backExample": "Apteka znajduje się obok szpitala.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Bookstore",
     "back": "księgarnia",
-    "phonetic": "/ˈbʊkstɔː/",
+    "phonetic": "/ˈbʊkstɔːr/",
     "frontExample": "I love browsing in the bookstore.",
     "backExample": "Uwielbiam przeglądać książki w księgarni.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Clothing store",
     "back": "sklep odzieżowy",
-    "phonetic": "/ˈkləʊðɪŋ stɔː/",
+    "phonetic": "/ˈkloʊðɪŋ stɔːr/",
     "frontExample": "The clothing store has a sale this week.",
     "backExample": "Sklep odzieżowy ma wyprzedaż w tym tygodniu.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Electronics store",
     "back": "​sklep elektroniczny",
-    "phonetic": "/ɪˌlekˈtrɒnɪks stɔː/",
+    "phonetic": "/ɪˌlɛkˈtrɑːnɪks stɔːr/",
     "frontExample": "He bought a new laptop at the electronics store.",
     "backExample": "Kupił nowego laptopa w sklepie elektronicznym.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Toy store",
     "back": "sklep z zabawkami",
-    "phonetic": "/tɔɪ stɔː/",
+    "phonetic": "/tɔɪ stɔːr/",
     "frontExample": "Children love visiting the toy store.",
     "backExample": "Dzieci uwielbiają odwiedzać sklep z zabawkami.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Discount store",
     "back": "dyskont",
-    "phonetic": "/ˈdɪskaʊnt stɔː/",
+    "phonetic": "/ˈdɪskaʊnt stɔːr/",
     "frontExample": "You can find good deals at the discount store.",
     "backExample": "Możesz znaleźć dobre okazje w dyskoncie.",
     "remembered": false
@@ -119,8 +119,8 @@
   {
     "id": 14,
     "front": "Second-hand store",
-    "back": "sklep z używaną odzieżową",
-    "phonetic": "/ˌsekənd ˈhænd stɔː/",
+    "back": "sklep z używaną odzieżą",
+    "phonetic": "/ˌsɛkənd ˈhænd stɔːr/",
     "frontExample": "I found a vintage jacket at the second-hand store.",
     "backExample": "Znalazłem vintage'ową kurtkę w sklepie z używaną odzieżą.",
     "remembered": false
@@ -129,16 +129,16 @@
     "id": 15,
     "front": "Online store",
     "back": "sklep internetowy",
-    "phonetic": "/ˈɒnlaɪn stɔː/",
+    "phonetic": "/ˈɑnlaɪn stɔːr/",
     "frontExample": "Online stores are convenient for busy people.",
     "backExample": "Sklepy internetowe są wygodne dla zapracowanych osób.",
     "remembered": false
   },
   {
     "id": 16,
-    "front": "Shopping centre",
+    "front": "Shopping center",
     "back": "centrum handlowe",
-    "phonetic": "/ˈʃɒpɪŋ ˈsentə/",
+    "phonetic": "/ˈʃɑːpɪŋ ˈsentər/",
     "frontExample": "The shopping centre has many different shops.",
     "backExample": "Centrum handlowe ma wiele różnych sklepów.",
     "remembered": false
@@ -146,8 +146,8 @@
   {
     "id": 17,
     "front": "Market",
-    "back": "rynek",
-    "phonetic": "/ˈmɑːkɪt/",
+    "back": "targ",
+    "phonetic": "/ˈmɑːrkɪt/",
     "frontExample": "The local market sells fresh produce.",
     "backExample": "Lokalny rynek sprzedaje świeże produkty.",
     "remembered": false

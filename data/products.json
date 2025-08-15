@@ -29,7 +29,7 @@
     "back": "etykieta",
     "phonetic": "/ˈleɪ.bəl/",
     "frontExample": "Check the label for instructions.",
-    "backExample": "Sprawdź etykietę, aby uzyskać instrukcje."
+    "backExample": "Sprawdź etykietę, aby zobaczyć instrukcję."
   },
   {
     "id": 5,
@@ -59,7 +59,7 @@
     "id": 8,
     "front": "Offer",
     "back": "oferta",
-    "phonetic": "/ˈɒf.ər/",
+    "phonetic": "/ˈɔːfər/",
     "frontExample": "This is a special offer.",
     "backExample": "To jest specjalna oferta."
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "front": "Quality",
     "back": "jakość",
-    "phonetic": "/ˈkwɒl.ɪ.ti/",
+    "phonetic": "/ˈkwɑːləti/",
     "frontExample": "The quality is excellent.",
     "backExample": "Jakość jest doskonała."
   },
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "front": "Colour",
+    "front": "Color",
     "back": "kolor",
     "phonetic": "/ˈkʌl.ər/",
     "frontExample": "I like the colour of this dress.",
@@ -99,7 +99,7 @@
     "id": 13,
     "front": "Material",
     "back": "materiał",
-    "phonetic": "/məˈtɪə.ri.əl/",
+    "phonetic": "/məˈtɪriəl/",
     "frontExample": "What material is this made of?",
     "backExample": "Z jakiego materiału to jest zrobione?"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "front": "Package",
     "back": "paczka, opakowanie",
-    "phonetic": "/ˈpæk.ɪdʒ/",
+    "phonetic": "/ˈpækɪdʒ/",
     "frontExample": "Your package has arrived.",
     "backExample": "Twoja paczka dotarła."
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "front": "Stock",
     "back": "zapas",
-    "phonetic": "/stɒk/",
+    "phonetic": "/stɑːk/",
     "frontExample": "Is this in stock?",
     "backExample": "Czy to jest na stanie?"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "front": "New arrival",
     "back": "nowość",
-    "phonetic": "/njuː əˈraɪ.vəl/",
+    "phonetic": "/nuː əˈraɪvəl/",
     "frontExample": "This is a new arrival in our store.",
     "backExample": "To jest nowość w naszym sklepie."
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "front": "Dairy products",
     "back": "produkty mleczne",
-    "phonetic": "/ˈdeə.ri ˌprɒd.ʌkts/",
+    "phonetic": "/ˈdɛri ˈprɑːdʌkts/",
     "frontExample": "Are you allergic to dairy products?",
     "backExample": "Czy jesteś uczulony na produkty mleczne?"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "front": "Soda",
     "back": "napój gazowany",
-    "phonetic": "/ˈsəʊ.də/",
+    "phonetic": "/ˈsoʊdə/",
     "frontExample": "Would you like a soda?",
     "backExample": "Chcesz napój gazowany?"
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "front": "Frozen food",
     "back": "mrożonki",
-    "phonetic": "/ˈfrəʊ.zən fuːd/",
+    "phonetic": "/ˈfroʊzən fuːd/",
     "frontExample": "We need more frozen food.",
     "backExample": "Potrzebujemy więcej mrożonek."
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "front": "Cleaning products",
     "back": "środki czystości",
-    "phonetic": "/ˈkliː.nɪŋ ˌprɒd.ʌkts/",
+    "phonetic": "/ˈkliːnɪŋ ˈprɑːdʌkts/",
     "frontExample": "We're out of cleaning products.",
     "backExample": "Skończyły nam się środki czystości."
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "front": "Cosmetics",
     "back": "kosmetyki",
-    "phonetic": "/kɒzˈmɛt.ɪks/",
+    "phonetic": "/kɑːzˈmɛtɪks/",
     "frontExample": "She loves buying cosmetics.",
     "backExample": "Ona uwielbia kupować kosmetyki."
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "front": "Medicine",
     "back": "leki",
-    "phonetic": "/ˈmɛd.ɪ.sɪn/",
+    "phonetic": "/ˈmɛdɪsɪn/",
     "frontExample": "Did you take your medicine?",
     "backExample": "Wziąłeś swoje leki?"
   },
@@ -235,7 +235,7 @@
     "id": 30,
     "front": "Stationery",
     "back": "artykuły papiernicze",
-    "phonetic": "/ˈsteɪ.ʃə.nər.i/",
+    "phonetic": "/ˈsteɪʃəˌnɛri/",
     "frontExample": "I need some stationery for school.",
     "backExample": "Potrzebuję artykułów papierniczych do szkoły."
   },

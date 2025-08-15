@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Pen",
     "back": "długopis",
-    "phonetic": "/pen/",
+    "phonetic": "/pɛn/",
     "frontExample": "I need a blue pen for writing.",
     "backExample": "Potrzebuję niebieskiego długopisu do pisania.",
     "remembered": false
@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Pencil",
     "back": "ołówek",
-    "phonetic": "/ˈpensəl/",
+    "phonetic": "/ˈpɛnsəl/",
     "frontExample": "She sharpened her pencil before the test.",
     "backExample": "Zatemperowała ołówek przed testem.",
     "remembered": false
@@ -21,7 +21,7 @@
     "id": 3,
     "front": "Eraser",
     "back": "gumka do mazania",
-    "phonetic": "/ɪˈreɪzə/",
+    "phonetic": "/ɪˈreɪzər/",
     "frontExample": "I used an eraser to correct my mistake.",
     "backExample": "Użyłem gumki do mazania, żeby poprawić błąd.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Sharpener",
     "back": "temperówka",
-    "phonetic": "/ˈʃɑːpənə/",
+    "phonetic": "/ˈʃɑːrpənər/",
     "frontExample": "The sharpener broke when I tried to use it.",
     "backExample": "Temperówka zepsuła się, gdy próbowałem jej użyć.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Notebook",
     "back": "zeszyt",
-    "phonetic": "/ˈnəʊtbʊk/",
+    "phonetic": "/ˈnoʊtbʊk/",
     "frontExample": "I write my notes in a notebook.",
     "backExample": "Piszę notatki w zeszycie.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Textbook",
     "back": "podręcznik",
-    "phonetic": "/ˈtekstbʊk/",
+    "phonetic": "/ˈtɛkstbʊk/",
     "frontExample": "The textbook contains all the important information.",
     "backExample": "Podręcznik zawiera wszystkie ważne informacje.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Binder",
     "back": "segregator",
-    "phonetic": "/ˈbaɪndə/",
+    "phonetic": "/ˈbaɪndər/",
     "frontExample": "I keep all my papers organized in a binder.",
     "backExample": "Trzymam wszystkie papiery uporządkowane w segregatorze.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Folder",
     "back": "teczka",
-    "phonetic": "/ˈfəʊldə/",
+    "phonetic": "/ˈfoʊldər/",
     "frontExample": "She put her homework in a folder.",
     "backExample": "Włożyła zadanie domowe do teczki.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Ruler",
     "back": "linijka",
-    "phonetic": "/ˈruːlə/",
+    "phonetic": "/ˈruːlər/",
     "frontExample": "I used a ruler to draw straight lines.",
     "backExample": "Użyłem linijki do rysowania prostych linii.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Protractor",
     "back": "kątomierz",
-    "phonetic": "/prəˈtræktə/",
+    "phonetic": "/prəˈtræktər/",
     "frontExample": "We used a protractor to measure angles.",
     "backExample": "Użyliśmy kątomierza do mierzenia kątów.",
     "remembered": false
@@ -102,7 +102,7 @@
     "id": 12,
     "front": "Highlighter",
     "back": "zakreślacz",
-    "phonetic": "/ˈhaɪlaɪtə/",
+    "phonetic": "/ˈhaɪlaɪtər/",
     "frontExample": "I marked important text with a highlighter.",
     "backExample": "Zaznaczyłem ważny tekst zakreślaczem.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Scissors",
     "back": "nożyczki",
-    "phonetic": "/ˈsɪzəz/",
+    "phonetic": "/ˈsɪzərz/",
     "frontExample": "She cut the paper with scissors.",
     "backExample": "Przecięła papier nożyczkami.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Paper",
     "back": "papier",
-    "phonetic": "/ˈpeɪpə/",
+    "phonetic": "/ˈpeɪpər/",
     "frontExample": "I need more paper for my project.",
     "backExample": "Potrzebuję więcej papieru do mojego projektu.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Sticky notes",
     "back": "karteczki samoprzylepne",
-    "phonetic": "/ˈstɪki nəʊts/",
+    "phonetic": "/ˈstɪki noʊts/",
     "frontExample": "I left a message on a sticky note.",
     "backExample": "Zostawiłem wiadomość na karteczce samoprzylepnej.",
     "remembered": false
@@ -147,7 +147,7 @@
     "id": 17,
     "front": "Marker",
     "back": "flamaster",
-    "phonetic": "/ˈmɑːkə/",
+    "phonetic": "/ˈmɑːrkər/",
     "frontExample": "The teacher wrote on the board with a marker.",
     "backExample": "Nauczyciel pisał na tablicy flamastrem.",
     "remembered": false
@@ -155,8 +155,8 @@
   {
     "id": 18,
     "front": "Whiteboard",
-    "back": "tablica biała (suchościeralna)",
-    "phonetic": "/ˈwaɪtbɔːd/",
+    "back": "tablica suchościeralna",
+    "phonetic": "/ˈwaɪtbɔːrd/",
     "frontExample": "The whiteboard is easy to clean.",
     "backExample": "Biała tablica jest łatwa do wyczyszczenia.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Blackboard",
     "back": "tablica",
-    "phonetic": "/ˈblækbɔːd/",
+    "phonetic": "/ˈblækbɔːrd/",
     "frontExample": "The teacher wrote the lesson on the blackboard.",
     "backExample": "Nauczyciel napisał lekcję na tablicy.",
     "remembered": false
@@ -174,7 +174,7 @@
     "id": 20,
     "front": "Chalk",
     "back": "kreda",
-    "phonetic": "/tʃɔːk/",
+    "phonetic": "/tʃɔːrk/",
     "frontExample": "The chalk broke when I tried to write.",
     "backExample": "Kreda złamała się, gdy próbowałem pisać.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Calculator",
     "back": "kalkulator",
-    "phonetic": "/ˈkælkjuleɪtə/",
+    "phonetic": "/ˈkælkjəˌleɪtər/",
     "frontExample": "I used a calculator for the math problem.",
     "backExample": "Użyłem kalkulatora do zadania matematycznego.",
     "remembered": false
@@ -201,7 +201,7 @@
     "id": 23,
     "front": "Backpack",
     "back": "plecak",
-    "phonetic": "/ˈbækpæk/",
+    "phonetic": "/ˈbækˌpæk/",
     "frontExample": "My backpack is heavy with all my books.",
     "backExample": "Mój plecak jest ciężki ze wszystkimi książkami.",
     "remembered": false
@@ -210,7 +210,7 @@
     "id": 24,
     "front": "Desk",
     "back": "biurko",
-    "phonetic": "/desk/",
+    "phonetic": "/dɛsk/",
     "frontExample": "I do my homework at my desk.",
     "backExample": "Odrabiam zadanie domowe przy biurku.",
     "remembered": false
@@ -219,7 +219,7 @@
     "id": 25,
     "front": "Chair",
     "back": "krzesło",
-    "phonetic": "/tʃeə/",
+    "phonetic": "/tʃɛr/",
     "frontExample": "The chair is comfortable to sit on.",
     "backExample": "Krzesło jest wygodne do siedzenia.",
     "remembered": false
@@ -228,7 +228,7 @@
     "id": 26,
     "front": "Index cards/Flash Cards",
     "back": "fiszki",
-    "phonetic": "/ˈɪndeks kɑːdz/",
+    "phonetic": "/ˈɪndɛks kɑːrdz/",
     "frontExample": "I use flash cards to study vocabulary.",
     "backExample": "Używam fiszek do nauki słownictwa.",
     "remembered": false
@@ -236,8 +236,8 @@
   {
     "id": 27,
     "front": "Binder clips",
-    "back": "spinacz",
-    "phonetic": "/ˈbaɪndə klɪps/",
+    "back": "spinacze",
+    "phonetic": "/ˈbaɪndər klɪps/",
     "frontExample": "I used binder clips to organize my papers.",
     "backExample": "Użyłem spinaczy do uporządkowania papierów.",
     "remembered": false
@@ -246,7 +246,7 @@
     "id": 28,
     "front": "Paperclip",
     "back": "spinacz biurowy",
-    "phonetic": "/ˈpeɪpəklɪp/",
+    "phonetic": "/ˈpeɪpərˌklɪp/",
     "frontExample": "I attached the papers with a paperclip.",
     "backExample": "Przypiąłem papiery spinaczem biurowym.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "Stapler",
     "back": "zszywacz",
-    "phonetic": "/ˈsteɪplə/",
+    "phonetic": "/ˈsteɪplər/",
     "frontExample": "The stapler is on the teacher's desk.",
     "backExample": "Zszywacz jest na biurku nauczyciela.",
     "remembered": false
@@ -282,7 +282,7 @@
     "id": 32,
     "front": "Post-it notes",
     "back": "karteczki samoprzylepne",
-    "phonetic": "/ˈpəʊst ɪt nəʊts/",
+    "phonetic": "/ˈpoʊst ɪt noʊts/",
     "frontExample": "I left a reminder on a Post-it note.",
     "backExample": "Zostawiłem przypomnienie na karteczce samoprzylepnej.",
     "remembered": false

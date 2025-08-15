@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Friendly",
     "back": "przyjazny",
-    "phonetic": "/ˈfrendli/",
+    "phonetic": "/ˈfrɛndli/",
     "frontExample": "She is always friendly to new students at school.",
     "backExample": "Ona zawsze jest przyjazna dla nowych uczniów w szkole.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Honest",
     "back": "szczery",
-    "phonetic": "/ˈɒnɪst/",
+    "phonetic": "/ˈɑːnɪst/",
     "frontExample": "He is honest and always tells the truth.",
     "backExample": "On jest szczery i zawsze mówi prawdę.",
     "remembered": false
@@ -56,10 +56,10 @@
   {
     "id": 7,
     "front": "Clever",
-    "back": "mądry",
-    "phonetic": "/ˈklevə/",
+    "back": "bystry, sprytny",
+    "phonetic": "/ˈklevər/",
     "frontExample": "The clever student solved the puzzle quickly.",
-    "backExample": "Mądry uczeń szybko rozwiązał zagadkę.",
+    "backExample": "Bystry uczeń szybko rozwiązał zagadkę.",
     "remembered": false
   },
   {
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Serious",
     "back": "poważny",
-    "phonetic": "/ˈsɪəriəs/",
+    "phonetic": "/ˈsɪriəs/",
     "frontExample": "She looked very serious during the meeting.",
     "backExample": "Wyglądała bardzo poważnie podczas spotkania.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Nervous",
     "back": "nerwowy",
-    "phonetic": "/ˈnɜːvəs/",
+    "phonetic": "/ˈnɜːrvəs/",
     "frontExample": "He felt nervous before the exam.",
     "backExample": "Czuł się nerwowy przed egzaminem.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Hardworking",
     "back": "pracowity",
-    "phonetic": "/ˌhɑːdˈwɜːkɪŋ/",
+    "phonetic": "/ˌhɑːrdˈwɜːrkɪŋ/",
     "frontExample": "He is hardworking and always finishes his tasks.",
     "backExample": "On jest pracowity i zawsze kończy swoje zadania.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Confident",
     "back": "pewny siebie",
-    "phonetic": "/ˈkɒnfɪdənt/",
+    "phonetic": "/ˈkɑːnfɪdənt/",
     "frontExample": "He is confident when speaking in public.",
     "backExample": "On jest pewny siebie podczas wystąpień publicznych.",
     "remembered": false
@@ -165,7 +165,7 @@
     "id": 19,
     "front": "Responsible",
     "back": "odpowiedzialny",
-    "phonetic": "/rɪˈspɒnsəbəl/",
+    "phonetic": "/rɪˈspɑːnsəbl/",
     "frontExample": "She is responsible for taking care of her younger brother.",
     "backExample": "Ona jest odpowiedzialna za opiekę nad młodszym bratem.",
     "remembered": false
@@ -209,10 +209,10 @@
   {
     "id": 24,
     "front": "Curious",
-    "back": "ciekawski",
-    "phonetic": "/ˈkjʊəriəs/",
+    "back": "ciekawy",
+    "phonetic": "/ˈkjʊriəs/",
     "frontExample": "The curious child asked many questions.",
-    "backExample": "Ciekawskie dziecko zadawało wiele pytań.",
+    "backExample": "Ciekawe dziecko zadawało wiele pytań.",
     "remembered": false
   },
   {
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "Bossy",
     "back": "apodyktyczny",
-    "phonetic": "/ˈbɒsi/",
+    "phonetic": "/ˈbɑːsi/",
     "frontExample": "Her bossy attitude makes it hard to work with her.",
     "backExample": "Jej apodyktyczne nastawienie utrudnia współpracę.",
     "remembered": false
@@ -246,7 +246,7 @@
     "id": 28,
     "front": "Tolerant",
     "back": "tolerancyjny",
-    "phonetic": "/ˈtɒlərənt/",
+    "phonetic": "/ˈtɑːlərənt/",
     "frontExample": "He is tolerant of people with different opinions.",
     "backExample": "On jest tolerancyjny wobec osób o innych poglądach.",
     "remembered": false

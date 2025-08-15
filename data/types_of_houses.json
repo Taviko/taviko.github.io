@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Apartment",
     "back": "mieszkanie",
-    "phonetic": "/əˈpɑːtmənt/",
+    "phonetic": "/əˈpɑːrtmənt/",
     "frontExample": "I live in a small apartment in the city center.",
     "backExample": "Mieszkam w małym mieszkaniu w centrum miasta.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Bungalow",
     "back": "dom parterowy",
-    "phonetic": "/ˈbʌŋɡələʊ/",
+    "phonetic": "/ˈbʌŋɡəˌloʊ/",
     "frontExample": "My grandparents live in a cozy bungalow.",
     "backExample": "Moi dziadkowie mieszkają w przytulnym domu parterowym.",
     "remembered": false
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "Cottage",
     "back": "dom wiejski",
-    "phonetic": "/ˈkɒtɪdʒ/",
+    "phonetic": "/ˈkɑːtɪdʒ/",
     "frontExample": "We spent our vacation in a charming cottage.",
     "backExample": "Spędziliśmy wakacje w uroczym domu wiejskim.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Terraced house",
     "back": "dom szeregowy",
-    "phonetic": "/ˈterɪst haʊs/",
+    "phonetic": "/ˈtɛrəst haʊs/",
     "frontExample": "Terraced houses are common in British cities.",
     "backExample": "Domy szeregowe są powszechne w brytyjskich miastach.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Semi-detached house",
     "back": "dom bliźniak",
-    "phonetic": "/ˌsemi dɪˈtætʃt haʊs/",
+    "phonetic": "/ˌsɛmi dɪˈtætʃt haʊs/",
     "frontExample": "They live in a semi-detached house with a garden.",
     "backExample": "Mieszkają w domu bliźniaku z ogrodem.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Farmhouse",
     "back": "dom wiejski/gospodarstwo",
-    "phonetic": "/ˈfɑːmhaʊs/",
+    "phonetic": "/ˈfɑːrmhaʊs/",
     "frontExample": "The farmhouse has been in the family for generations.",
     "backExample": "Dom wiejski należy do rodziny od pokoleń.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Studio",
     "back": "kawalerka",
-    "phonetic": "/ˈstjuːdiəʊ/",
+    "phonetic": "/ˈstjuːdioʊ/",
     "frontExample": "He lives in a small studio apartment.",
     "backExample": "On mieszka w małej kawalerce.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Log cabin",
     "back": "drewniana chatka",
-    "phonetic": "/lɒɡ ˈkæbɪn/",
+    "phonetic": "/lɑːɡ ˈkæbɪn/",
     "frontExample": "We stayed in a log cabin during our mountain trip.",
     "backExample": "Mieszkaliśmy w drewnianej chatce podczas wycieczki w góry.",
     "remembered": false
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Mobile home",
     "back": "dom mobilny",
-    "phonetic": "/ˈməʊbaɪl həʊm/",
+    "phonetic": "/ˈmoʊbaɪl hoʊm/",
     "frontExample": "They live in a mobile home park.",
     "backExample": "Mieszkają w parku domów mobilnych.",
     "remembered": false

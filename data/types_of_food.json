@@ -1,50 +1,386 @@
 [
-  {"id": 1, "front": "Meat", "back": "mięso", "phonetic": "/miːt/", "frontExample": "Do you eat meat?", "backExample": "Jesz mięso?"},
-  {"id": 2, "front": "Beef", "back": "wołowina", "phonetic": "/biːf/", "frontExample": "I like beef steaks.", "backExample": "Lubię steki z wołowiny."},
-  {"id": 3, "front": "Pork", "back": "wieprzowina", "phonetic": "/pɔːk/", "frontExample": "Pork is popular in Poland.", "backExample": "Wieprzowina jest popularna w Polsce."},
-  {"id": 4, "front": "Chicken", "back": "kurczak", "phonetic": "/ˈtʃɪk.ɪn/", "frontExample": "We had chicken for dinner.", "backExample": "Jedliśmy kurczaka na obiad."},
-  {"id": 5, "front": "Lamb", "back": "jagnięcina", "phonetic": "/læm/", "frontExample": "Lamb is very tender.", "backExample": "Jagnięcina jest bardzo delikatna."},
-  {"id": 6, "front": "Fish", "back": "ryba", "phonetic": "/fɪʃ/", "frontExample": "I'd like some fish, please.", "backExample": "Poproszę trochę ryby."},
-  {"id": 7, "front": "Seafood", "back": "owoce morza", "phonetic": "/ˈsiː.fuːd/", "frontExample": "Do you like seafood?", "backExample": "Lubisz owoce morza?"},
-  {"id": 8, "front": "Vegetables", "back": "warzywa", "phonetic": "/ˈvɛdʒ.tə.bəlz/", "frontExample": "Eat more vegetables!", "backExample": "Jedz więcej warzyw!"},
-  {"id": 9, "front": "Fruits", "back": "owoce", "phonetic": "/fruːts/", "frontExample": "Fruits are healthy.", "backExample": "Owoce są zdrowe."},
-  {"id": 10, "front": "Cereals", "back": "płatki śniadaniowe", "phonetic": "/ˈsɪə.ri.əlz/", "frontExample": "I eat cereals for breakfast.", "backExample": "Jem płatki śniadaniowe na śniadanie."},
-  {"id": 11, "front": "Bread", "back": "chleb", "phonetic": "/brɛd/", "frontExample": "Can you pass the bread?", "backExample": "Podasz chleb?"},
-  {"id": 12, "front": "Rice", "back": "ryż", "phonetic": "/raɪs/", "frontExample": "Rice is easy to cook.", "backExample": "Ryż jest łatwy do ugotowania."},
-  {"id": 13, "front": "Pasta", "back": "makaron", "phonetic": "/ˈpæs.tə/", "frontExample": "I love Italian pasta.", "backExample": "Uwielbiam włoski makaron."},
-  {"id": 14, "front": "Noodles", "back": "kluski", "phonetic": "/ˈnuː.dəlz/", "frontExample": "She made noodles for lunch.", "backExample": "Ona zrobiła kluski na obiad."},
-  {"id": 15, "front": "Cheese", "back": "ser", "phonetic": "/tʃiːz/", "frontExample": "Would you like some cheese?", "backExample": "Chcesz trochę sera?"},
-  {"id": 16, "front": "Yogurt", "back": "jogurt", "phonetic": "/ˈjəʊ.ɡɜːt/", "frontExample": "Yogurt is good for breakfast.", "backExample": "Jogurt jest dobry na śniadanie."},
-  {"id": 17, "front": "Egg", "back": "jajko", "phonetic": "/ɛɡ/", "frontExample": "I had an egg for breakfast.", "backExample": "Zjadłem jajko na śniadanie."},
-  {"id": 18, "front": "Salad", "back": "sałatka", "phonetic": "/ˈsæl.əd/", "frontExample": "Let's make a salad.", "backExample": "Zróbmy sałatkę."},
-  {"id": 19, "front": "Soup", "back": "zupa", "phonetic": "/suːp/", "frontExample": "The soup is hot.", "backExample": "Zupa jest gorąca."},
-  {"id": 20, "front": "Stew", "back": "gulasz", "phonetic": "/stjuː/", "frontExample": "I cooked a beef stew.", "backExample": "Ugotowałem gulasz wołowy."},
-  {"id": 21, "front": "Sandwich", "back": "kanapka", "phonetic": "/ˈsæn.wɪtʃ/", "frontExample": "I made a cheese sandwich.", "backExample": "Zrobiłem kanapkę z serem."},
-  {"id": 22, "front": "Pizza", "back": "pizza", "phonetic": "/ˈpiːt.sə/", "frontExample": "Let's order a pizza.", "backExample": "Zamówmy pizzę."},
-  {"id": 23, "front": "Cake", "back": "ciasto", "phonetic": "/keɪk/", "frontExample": "The cake is delicious.", "backExample": "Ciasto jest pyszne."},
-  {"id": 24, "front": "Biscuits", "back": "ciastka", "phonetic": "/ˈbɪs.kɪts/", "frontExample": "Would you like some biscuits?", "backExample": "Chcesz trochę ciastek?"},
-  {"id": 25, "front": "Pastry", "back": "ciasto kruche", "phonetic": "/ˈpeɪ.stri/", "frontExample": "She baked a pastry.", "backExample": "Ona upiekła ciasto kruche."},
-  {"id": 26, "front": "Chocolate", "back": "czekolada", "phonetic": "/ˈtʃɒk.lət/", "frontExample": "Chocolate is my favorite treat.", "backExample": "Czekolada to mój ulubiony przysmak."},
-  {"id": 27, "front": "Ice cream", "back": "lody", "phonetic": "/aɪs kriːm/", "frontExample": "Let's get some ice cream.", "backExample": "Kupmy lody."},
-  {"id": 28, "front": "Juice", "back": "sok", "phonetic": "/dʒuːs/", "frontExample": "Would you like some juice?", "backExample": "Chcesz trochę soku?"},
-  {"id": 29, "front": "Tea", "back": "herbata", "phonetic": "/tiː/", "frontExample": "Would you like some tea?", "backExample": "Chcesz herbaty?"},
-  {"id": 30, "front": "Coffee", "back": "kawa", "phonetic": "/ˈkɒf.i/", "frontExample": "I drink coffee every morning.", "backExample": "Piję kawę każdego ranka."},
-  {"id": 31, "front": "Water", "back": "woda", "phonetic": "/ˈwɔː.tər/", "frontExample": "Drink more water.", "backExample": "Pij więcej wody."},
-  {"id": 32, "front": "Soft drink", "back": "napój bezalkoholowy", "phonetic": "/sɒft drɪŋk/", "frontExample": "Would you like a soft drink?", "backExample": "Chcesz napój bezalkoholowy?"},
-  {"id": 33, "front": "Alcohol", "back": "alkohol", "phonetic": "/ˈæl.kə.hɒl/", "frontExample": "Do you drink alcohol?", "backExample": "Pijesz alkohol?"},
-  {"id": 34, "front": "Beer", "back": "piwo", "phonetic": "/bɪər/", "frontExample": "He ordered a beer.", "backExample": "On zamówił piwo."},
-  {"id": 35, "front": "Wine", "back": "wino", "phonetic": "/waɪn/", "frontExample": "Would you like some wine?", "backExample": "Chcesz trochę wina?"},
-  {"id": 36, "front": "Breakfast", "back": "śniadanie", "phonetic": "/ˈbrɛk.fəst/", "frontExample": "Breakfast is ready.", "backExample": "Śniadanie jest gotowe."},
-  {"id": 37, "front": "Lunch", "back": "obiad", "phonetic": "/lʌntʃ/", "frontExample": "Let's have lunch together.", "backExample": "Zjedzmy razem obiad."},
-  {"id": 38, "front": "Dinner", "back": "kolacja", "phonetic": "/ˈdɪn.ər/", "frontExample": "Dinner is at 7 p.m.", "backExample": "Kolacja jest o 19:00."},
-  {"id": 39, "front": "Snack", "back": "przekąska", "phonetic": "/snæk/", "frontExample": "I need a snack.", "backExample": "Potrzebuję przekąski."},
-  {"id": 40, "front": "Supper", "back": "podwieczorek", "phonetic": "/ˈsʌp.ər/", "frontExample": "We had supper at 8.", "backExample": "Zjedliśmy podwieczorek o ósmej."},
-  {"id": 41, "front": "Dessert", "back": "deser", "phonetic": "/dɪˈzɜːt/", "frontExample": "What's for dessert?", "backExample": "Co jest na deser?"},
-  {"id": 42, "front": "Appetizer", "back": "przystawka", "phonetic": "/ˈæp.ɪ.taɪ.zər/", "frontExample": "We had soup as an appetizer.", "backExample": "Zjedliśmy zupę jako przystawkę."},
-  {"id": 43, "front": "Main course", "back": "danie główne", "phonetic": "/meɪn kɔːs/", "frontExample": "The main course is fish.", "backExample": "Danie główne to ryba."},
-  {"id": 44, "front": "Side dish", "back": "dodatek do dania głównego", "phonetic": "/saɪd dɪʃ/", "frontExample": "Rice is a common side dish.", "backExample": "Ryż to popularny dodatek do dania głównego."},
-  {"id": 45, "front": "Starter", "back": "przystawka", "phonetic": "/ˈstɑː.tər/", "frontExample": "We ordered a starter.", "backExample": "Zamówiliśmy przystawkę."},
-  {"id": 46, "front": "Takeaway", "back": "jedzenie na wynos", "phonetic": "/ˈteɪ.kə.weɪ/", "frontExample": "Let's get a takeaway tonight.", "backExample": "Weźmy dziś jedzenie na wynos."},
-  {"id": 47, "front": "Buffet", "back": "bufet", "phonetic": "/ˈbʊf.eɪ/", "frontExample": "The hotel has a breakfast buffet.", "backExample": "Hotel ma bufet śniadaniowy."},
-  {"id": 48, "front": "Catering", "back": "catering", "phonetic": "/ˈkeɪ.tər.ɪŋ/", "frontExample": "We ordered catering for the party.", "backExample": "Zamówiliśmy catering na przyjęcie."}
+  {
+    "id": 1,
+    "front": "Meat",
+    "back": "mięso",
+    "phonetic": "/miːt/",
+    "frontExample": "Do you eat meat?",
+    "backExample": "Jesz mięso?"
+  },
+  {
+    "id": 2,
+    "front": "Beef",
+    "back": "wołowina",
+    "phonetic": "/biːf/",
+    "frontExample": "I like beef steaks.",
+    "backExample": "Lubię steki z wołowiny."
+  },
+  {
+    "id": 3,
+    "front": "Pork",
+    "back": "wieprzowina",
+    "phonetic": "/pɔːrk/",
+    "frontExample": "Pork is popular in Poland.",
+    "backExample": "Wieprzowina jest popularna w Polsce."
+  },
+  {
+    "id": 4,
+    "front": "Chicken",
+    "back": "kurczak",
+    "phonetic": "/ˈtʃɪk.ɪn/",
+    "frontExample": "We had chicken for dinner.",
+    "backExample": "Jedliśmy kurczaka na obiad."
+  },
+  {
+    "id": 5,
+    "front": "Lamb",
+    "back": "jagnięcina",
+    "phonetic": "/læm/",
+    "frontExample": "Lamb is very tender.",
+    "backExample": "Jagnięcina jest bardzo delikatna."
+  },
+  {
+    "id": 6,
+    "front": "Fish",
+    "back": "ryba",
+    "phonetic": "/fɪʃ/",
+    "frontExample": "I'd like some fish, please.",
+    "backExample": "Poproszę trochę ryby."
+  },
+  {
+    "id": 7,
+    "front": "Seafood",
+    "back": "owoce morza",
+    "phonetic": "/ˈsiːfuːd/",
+    "frontExample": "Do you like seafood?",
+    "backExample": "Lubisz owoce morza?"
+  },
+  {
+    "id": 8,
+    "front": "Vegetables",
+    "back": "warzywa",
+    "phonetic": "/ˈvɛdʒ.tə.bəlz/",
+    "frontExample": "Eat more vegetables!",
+    "backExample": "Jedz więcej warzyw!"
+  },
+  {
+    "id": 9,
+    "front": "Fruits",
+    "back": "owoce",
+    "phonetic": "/fruːts/",
+    "frontExample": "Fruits are healthy.",
+    "backExample": "Owoce są zdrowe."
+  },
+  {
+    "id": 10,
+    "front": "Cereals",
+    "back": "płatki śniadaniowe",
+    "phonetic": "/ˈsɪr.ri.əlz/",
+    "frontExample": "I eat cereals for breakfast.",
+    "backExample": "Jem płatki śniadaniowe na śniadanie."
+  },
+  {
+    "id": 11,
+    "front": "Bread",
+    "back": "chleb",
+    "phonetic": "/brɛd/",
+    "frontExample": "Can you pass the bread?",
+    "backExample": "Podasz chleb?"
+  },
+  {
+    "id": 12,
+    "front": "Rice",
+    "back": "ryż",
+    "phonetic": "/raɪs/",
+    "frontExample": "Rice is easy to cook.",
+    "backExample": "Ryż jest łatwy do ugotowania."
+  },
+  {
+    "id": 13,
+    "front": "Pasta",
+    "back": "makaron",
+    "phonetic": "/ˈpæs.tə/",
+    "frontExample": "I love Italian pasta.",
+    "backExample": "Uwielbiam włoski makaron."
+  },
+  {
+    "id": 14,
+    "front": "Noodles",
+    "back": "kluski",
+    "phonetic": "/ˈnuː.dəlz/",
+    "frontExample": "She made noodles for lunch.",
+    "backExample": "Ona zrobiła kluski na obiad."
+  },
+  {
+    "id": 15,
+    "front": "Cheese",
+    "back": "ser",
+    "phonetic": "/tʃiːz/",
+    "frontExample": "Would you like some cheese?",
+    "backExample": "Chcesz trochę sera?"
+  },
+  {
+    "id": 16,
+    "front": "Yogurt",
+    "back": "jogurt",
+    "phonetic": "/ˈjoʊ.ɡɜːrt/",
+    "frontExample": "Yogurt is good for breakfast.",
+    "backExample": "Jogurt jest dobry na śniadanie."
+  },
+  {
+    "id": 17,
+    "front": "Egg",
+    "back": "jajko",
+    "phonetic": "/ɛɡ/",
+    "frontExample": "I had an egg for breakfast.",
+    "backExample": "Zjadłem jajko na śniadanie."
+  },
+  {
+    "id": 18,
+    "front": "Salad",
+    "back": "sałatka",
+    "phonetic": "/ˈsæl.əd/",
+    "frontExample": "Let's make a salad.",
+    "backExample": "Zróbmy sałatkę."
+  },
+  {
+    "id": 19,
+    "front": "Soup",
+    "back": "zupa",
+    "phonetic": "/suːp/",
+    "frontExample": "The soup is hot.",
+    "backExample": "Zupa jest gorąca."
+  },
+  {
+    "id": 20,
+    "front": "Stew",
+    "back": "gulasz",
+    "phonetic": "/stjuː/",
+    "frontExample": "I cooked a beef stew.",
+    "backExample": "Ugotowałem gulasz wołowy."
+  },
+  {
+    "id": 21,
+    "front": "Sandwich",
+    "back": "kanapka",
+    "phonetic": "/ˈsæn.wɪtʃ/",
+    "frontExample": "I made a cheese sandwich.",
+    "backExample": "Zrobiłem kanapkę z serem."
+  },
+  {
+    "id": 22,
+    "front": "Pizza",
+    "back": "pizza",
+    "phonetic": "/ˈpiːt.sə/",
+    "frontExample": "Let's order a pizza.",
+    "backExample": "Zamówmy pizzę."
+  },
+  {
+    "id": 23,
+    "front": "Cake",
+    "back": "ciasto",
+    "phonetic": "/keɪk/",
+    "frontExample": "The cake is delicious.",
+    "backExample": "Ciasto jest pyszne."
+  },
+  {
+    "id": 24,
+    "front": "Biscuits",
+    "back": "ciastka",
+    "phonetic": "/ˈbɪs.kɪts/",
+    "frontExample": "Would you like some biscuits?",
+    "backExample": "Chcesz trochę ciastek?"
+  },
+  {
+    "id": 25,
+    "front": "Pastry",
+    "back": "ciasto kruche",
+    "phonetic": "/ˈpeɪ.stri/",
+    "frontExample": "She baked a pastry.",
+    "backExample": "Ona upiekła ciasto kruche."
+  },
+  {
+    "id": 26,
+    "front": "Chocolate",
+    "back": "czekolada",
+    "phonetic": "/ˈtʃɑːk.lət/",
+    "frontExample": "Chocolate is my favorite treat.",
+    "backExample": "Czekolada to mój ulubiony przysmak."
+  },
+  {
+    "id": 27,
+    "front": "Ice cream",
+    "back": "lody",
+    "phonetic": "/aɪs kriːm/",
+    "frontExample": "Let's get some ice cream.",
+    "backExample": "Kupmy lody."
+  },
+  {
+    "id": 28,
+    "front": "Juice",
+    "back": "sok",
+    "phonetic": "/dʒuːs/",
+    "frontExample": "Would you like some juice?",
+    "backExample": "Chcesz trochę soku?"
+  },
+  {
+    "id": 29,
+    "front": "Tea",
+    "back": "herbata",
+    "phonetic": "/tiː/",
+    "frontExample": "Would you like some tea?",
+    "backExample": "Chcesz herbaty?"
+  },
+  {
+    "id": 30,
+    "front": "Coffee",
+    "back": "kawa",
+    "phonetic": "/ˈkɑːf.i/",
+    "frontExample": "I drink coffee every morning.",
+    "backExample": "Piję kawę każdego ranka."
+  },
+  {
+    "id": 31,
+    "front": "Water",
+    "back": "woda",
+    "phonetic": "/ˈwɔːr.tər/",
+    "frontExample": "Drink more water.",
+    "backExample": "Pij więcej wody."
+  },
+  {
+    "id": 32,
+    "front": "Soft drink",
+    "back": "napój bezalkoholowy",
+    "phonetic": "/sɑːft drɪŋk/",
+    "frontExample": "Would you like a soft drink?",
+    "backExample": "Chcesz napój bezalkoholowy?"
+  },
+  {
+    "id": 33,
+    "front": "Alcohol",
+    "back": "alkohol",
+    "phonetic": "/ˈæl.kə.hɑːl/",
+    "frontExample": "Do you drink alcohol?",
+    "backExample": "Pijesz alkohol?"
+  },
+  {
+    "id": 34,
+    "front": "Beer",
+    "back": "piwo",
+    "phonetic": "/bɪrr/",
+    "frontExample": "He ordered a beer.",
+    "backExample": "On zamówił piwo."
+  },
+  {
+    "id": 35,
+    "front": "Wine",
+    "back": "wino",
+    "phonetic": "/waɪn/",
+    "frontExample": "Would you like some wine?",
+    "backExample": "Chcesz trochę wina?"
+  },
+  {
+    "id": 36,
+    "front": "Breakfast",
+    "back": "śniadanie",
+    "phonetic": "/ˈbrɛk.fəst/",
+    "frontExample": "Breakfast is ready.",
+    "backExample": "Śniadanie jest gotowe."
+  },
+  {
+    "id": 37,
+    "front": "Lunch",
+    "back": "obiad",
+    "phonetic": "/lʌntʃ/",
+    "frontExample": "Let's have lunch together.",
+    "backExample": "Zjedzmy razem obiad."
+  },
+  {
+    "id": 38,
+    "front": "Dinner",
+    "back": "kolacja",
+    "phonetic": "/ˈdɪn.ər/",
+    "frontExample": "Dinner is at 7 p.m.",
+    "backExample": "Kolacja jest o 19:00."
+  },
+  {
+    "id": 39,
+    "front": "Snack",
+    "back": "przekąska",
+    "phonetic": "/snæk/",
+    "frontExample": "I need a snack.",
+    "backExample": "Potrzebuję przekąski."
+  },
+  {
+    "id": 40,
+    "front": "Supper",
+    "back": "podwieczorek",
+    "phonetic": "/ˈsʌp.ər/",
+    "frontExample": "We had supper at 8.",
+    "backExample": "Zjedliśmy podwieczorek o ósmej."
+  },
+  {
+    "id": 41,
+    "front": "Dessert",
+    "back": "deser",
+    "phonetic": "/dɪˈzɜːrt/",
+    "frontExample": "What's for dessert?",
+    "backExample": "Co jest na deser?"
+  },
+  {
+    "id": 42,
+    "front": "Appetizer",
+    "back": "przystawka",
+    "phonetic": "/ˈæp.ɪ.taɪ.zər/",
+    "frontExample": "We had soup as an appetizer.",
+    "backExample": "Zjedliśmy zupę jako przystawkę."
+  },
+  {
+    "id": 43,
+    "front": "Main course",
+    "back": "danie główne",
+    "phonetic": "/meɪn kɔːrs/",
+    "frontExample": "The main course is fish.",
+    "backExample": "Danie główne to ryba."
+  },
+  {
+    "id": 44,
+    "front": "Side dish",
+    "back": "dodatek do dania głównego",
+    "phonetic": "/saɪd dɪʃ/",
+    "frontExample": "Rice is a common side dish.",
+    "backExample": "Ryż to popularny dodatek do dania głównego."
+  },
+  {
+    "id": 45,
+    "front": "Starter",
+    "back": "przystawka",
+    "phonetic": "/ˈstɑː.tər/",
+    "frontExample": "We ordered a starter.",
+    "backExample": "Zamówiliśmy przystawkę."
+  },
+  {
+    "id": 46,
+    "front": "Takeaway",
+    "back": "jedzenie na wynos",
+    "phonetic": "/ˈteɪ.kə.weɪ/",
+    "frontExample": "Let's get a takeaway tonight.",
+    "backExample": "Weźmy dziś jedzenie na wynos."
+  },
+  {
+    "id": 47,
+    "front": "Buffet",
+    "back": "bufet",
+    "phonetic": "/ˈbʊf.eɪ/",
+    "frontExample": "The hotel has a breakfast buffet.",
+    "backExample": "Hotel ma bufet śniadaniowy."
+  },
+  {
+    "id": 48,
+    "front": "Catering",
+    "back": "catering",
+    "phonetic": "/ˈkeɪ.tər.ɪŋ/",
+    "frontExample": "We ordered catering for the party.",
+    "backExample": "Zamówiliśmy catering na przyjęcie."
+  }
 ]

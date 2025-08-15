@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Teacher",
     "back": "nauczyciel",
-    "phonetic": "/ˈtiː.tʃər/",
+    "phonetic": "/ˈtiːtʃər/",
     "frontExample": "My teacher is very helpful.",
     "backExample": "Mój nauczyciel jest bardzo pomocny."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "front": "Doctor",
     "back": "lekarz",
-    "phonetic": "/ˈdɒk.tər/",
+    "phonetic": "/ˈdɑːktər/",
     "frontExample": "The doctor will see you now.",
     "backExample": "Lekarz już cię przyjmie."
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "front": "Nurse",
     "back": "pielęgniarka",
-    "phonetic": "/nɜːs/",
+    "phonetic": "/nɜːrs/",
     "frontExample": "The nurse gave me medicine.",
     "backExample": "Pielęgniarka dała mi lekarstwo."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "front": "Engineer",
     "back": "inżynier",
-    "phonetic": "/ˌen.dʒɪˈnɪər/",
+    "phonetic": "/ˌɛn.dʒɪˈnɪr/",
     "frontExample": "My brother is an engineer.",
     "backExample": "Mój brat jest inżynierem."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "front": "Architect",
     "back": "architekt",
-    "phonetic": "/ˈɑː.kɪ.tekt/",
+    "phonetic": "/ˈɑːrkɪˌtɛkt/",
     "frontExample": "The architect designed our house.",
     "backExample": "Architekt zaprojektował nasz dom."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "front": "Lawyer",
     "back": "prawnik",
-    "phonetic": "/ˈlɔɪ.ər/",
+    "phonetic": "/ˈlɔɪər/",
     "frontExample": "She works as a lawyer.",
     "backExample": "Ona pracuje jako prawnik."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "front": "Dentist",
     "back": "dentysta",
-    "phonetic": "/ˈden.tɪst/",
+    "phonetic": "/ˈdɛntɪst/",
     "frontExample": "I have an appointment with the dentist.",
     "backExample": "Mam wizytę u dentysty."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "front": "Farmer",
     "back": "rolnik",
-    "phonetic": "/ˈfɑː.mər/",
+    "phonetic": "/ˈfɑːrmər/",
     "frontExample": "The farmer grows vegetables.",
     "backExample": "Rolnik uprawia warzywa."
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "front": "Waiter/Waitress",
     "back": "kelner/kelnerka",
-    "phonetic": "/ˈweɪ.tər/ /ˈweɪ.trəs/",
+    "phonetic": "/ˈweɪtər/, /ˈweɪtrəs/",
     "frontExample": "The waiter brought our drinks.",
     "backExample": "Kelner przyniósł nam napoje."
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "front": "Builder",
     "back": "budowlaniec",
-    "phonetic": "/ˈbɪl.dər/",
+    "phonetic": "/ˈbɪldər/",
     "frontExample": "The builder is working on the roof.",
     "backExample": "Budowlaniec pracuje na dachu."
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "front": "Artist",
     "back": "artysta",
-    "phonetic": "/ˈɑː.tɪst/",
+    "phonetic": "/ˈɑːrtɪst/",
     "frontExample": "She is a talented artist.",
     "backExample": "Ona jest utalentowaną artystką."
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "front": "Actor/Actress",
     "back": "aktor/aktorka",
-    "phonetic": "/ˈæk.tər/ /ˈæk.trəs/",
+    "phonetic": "/ˈæktər/, /ˈæktrəs/",
     "frontExample": "The actress won an award.",
     "backExample": "Aktorka zdobyła nagrodę."
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "front": "Musician",
     "back": "muzyk",
-    "phonetic": "/mjuːˈzɪʃ.ən/",
+    "phonetic": "/mjuːˈzɪʃən/",
     "frontExample": "He's a famous musician.",
     "backExample": "On jest znanym muzykiem."
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "front": "Driver",
     "back": "kierowca",
-    "phonetic": "/ˈdraɪ.vər/",
+    "phonetic": "/ˈdraɪvər/",
     "frontExample": "The driver is waiting outside.",
     "backExample": "Kierowca czeka na zewnątrz."
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "front": "Scientist",
     "back": "naukowiec",
-    "phonetic": "/ˈsaɪən.tɪst/",
+    "phonetic": "/ˈsaɪəntɪst/",
     "frontExample": "The scientist made a discovery.",
     "backExample": "Naukowiec dokonał odkrycia."
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "front": "Photographer",
     "back": "fotograf",
-    "phonetic": "/fəˈtɒɡ.rə.fər/",
+    "phonetic": "/fəˈtɑːɡrəfər/",
     "frontExample": "The photographer took our picture.",
     "backExample": "Fotograf zrobił nam zdjęcie."
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "front": "Police officer",
     "back": "policjant",
-    "phonetic": "/pəˈliːs ˌɒf.ɪ.sər/",
+    "phonetic": "/pəˈliːs ˌɑːfɪsər/",
     "frontExample": "The police officer helped us.",
     "backExample": "Policjant nam pomógł."
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "front": "Firefighter",
     "back": "strażak",
-    "phonetic": "/ˈfaɪəˌfaɪ.tər/",
+    "phonetic": "/ˈfaɪərˌfaɪtər/",
     "frontExample": "The firefighter saved the cat.",
     "backExample": "Strażak uratował kota."
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "front": "Hairdresser",
     "back": "fryzjer",
-    "phonetic": "/ˈheəˌdrɛs.ər/",
+    "phonetic": "/ˈhɛrˌdrɛsər/",
     "frontExample": "The hairdresser cut my hair.",
     "backExample": "Fryzjer obciął mi włosy."
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "front": "Cleaner",
     "back": "sprzątaczka",
-    "phonetic": "/ˈkliː.nər/",
+    "phonetic": "/ˈkliːnər/",
     "frontExample": "The cleaner comes every Monday.",
     "backExample": "Sprzątaczka przychodzi w każdy poniedziałek."
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "front": "Accountant",
     "back": "księgowy",
-    "phonetic": "/əˈkaʊn.tənt/",
+    "phonetic": "/əˈkaʊntənt/",
     "frontExample": "The accountant checks the bills.",
     "backExample": "Księgowy sprawdza rachunki."
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "front": "Plumber",
     "back": "hydraulik",
-    "phonetic": "/ˈplʌm.ər/",
+    "phonetic": "/ˈplʌmər/",
     "frontExample": "The plumber fixed the leak.",
     "backExample": "Hydraulik naprawił przeciek."
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "front": "Electrician",
     "back": "elektryk",
-    "phonetic": "/ɪˌlɛkˈtrɪʃ.ən/",
+    "phonetic": "/ɪˌlɛkˈtrɪʃən/",
     "frontExample": "The electrician installed new lights.",
     "backExample": "Elektryk zainstalował nowe światła."
   },
@@ -195,15 +195,15 @@
     "id": 25,
     "front": "Veterinarian",
     "back": "weterynarz",
-    "phonetic": "/ˌvet.ər.ɪˈneə.ri.ən/",
+    "phonetic": "/ˌvɛtərəˈnɛriən/",
     "frontExample": "The veterinarian checked my dog.",
     "backExample": "Weterynarz zbadał mojego psa."
   },
   {
     "id": 26,
     "front": "Manager",
-    "back": "menadżer",
-    "phonetic": "/ˈmæn.ɪ.dʒər/",
+    "back": "menedżer",
+    "phonetic": "/ˈmænɪdʒər/",
     "frontExample": "The manager is in a meeting.",
     "backExample": "Menadżer jest na spotkaniu."
   },

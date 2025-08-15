@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Sports hall",
     "back": "hala sportowa",
-    "phonetic": "/spɔːts hɔːl/",
+    "phonetic": "/spɔːrts hɔːl/",
     "frontExample": "The tournament was held in the sports hall.",
     "backExample": "Turniej odbył się w hali sportowej.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Tennis court",
     "back": "kort tenisowy",
-    "phonetic": "/ˈtenɪs kɔːt/",
+    "phonetic": "/ˈtɛnɪs kɔːrt/",
     "frontExample": "He practices tennis at the local court.",
     "backExample": "Trenuje tenis na lokalnym korcie.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "Boxing ring",
     "back": "ring bokserski",
-    "phonetic": "/ˈbɒksɪŋ rɪŋ/",
+    "phonetic": "/ˈbɑːksɪŋ rɪŋ/",
     "frontExample": "They trained in the boxing ring.",
     "backExample": "Trenowali na ringu bokserskim.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Golf course",
     "back": "pole golfowe",
-    "phonetic": "/ɡɒlf kɔːs/",
+    "phonetic": "/ɡɑːlf kɔːrs/",
     "frontExample": "The golf course has 18 holes.",
     "backExample": "Pole golfowe ma 18 dołków.",
     "remembered": false
@@ -101,8 +101,8 @@
   {
     "id": 12,
     "front": "Skatepark",
-    "back": "miejsce do jazdy na deskorolce",
-    "phonetic": "/ˈskeɪtpɑːk/",
+    "back": "skatepark",
+    "phonetic": "/ˈskeɪtpɑːrk/",
     "frontExample": "Teenagers enjoy the new skatepark.",
     "backExample": "Nastolatki lubią nowy skatepark.",
     "remembered": false
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "front": "Gymnasium",
-    "back": "gimnazjum ( często używane w kontekście - sala gimnastyczna)",
+    "back": "sala gimnastyczna",
     "phonetic": "/dʒɪmˈneɪziəm/",
     "frontExample": "We had PE lessons in the gymnasium.",
     "backExample": "Mieliśmy WF w sali gimnastycznej.",
@@ -138,7 +138,7 @@
     "id": 16,
     "front": "Exercise room",
     "back": "sala ćwiczeń",
-    "phonetic": "/ˈeksəsaɪz ruːm/",
+    "phonetic": "/ˈɛksərsaɪz ruːm/",
     "frontExample": "The exercise room has new equipment.",
     "backExample": "Sala ćwiczeń ma nowy sprzęt.",
     "remembered": false
@@ -156,7 +156,7 @@
     "id": 18,
     "front": "Volleyball court",
     "back": "boisko do siatkówki",
-    "phonetic": "/ˈvɒlibɔːl kɔːt/",
+    "phonetic": "/ˈvɑːlibɔːl kɔːrt/",
     "frontExample": "The volleyball court is in the park.",
     "backExample": "Boisko do siatkówki znajduje się w parku.",
     "remembered": false
@@ -172,9 +172,9 @@
   },
   {
     "id": 20,
-    "front": "squash court",
+    "front": "Squash court",
     "back": "kort do squasha",
-    "phonetic": "/skwɒʃ kɔːt/",
+    "phonetic": "/skwɑːʃ kɔːrt/",
     "frontExample": "We booked a squash court for 5 PM.",
     "backExample": "Zarezerwowaliśmy kort do squasha na 17:00.",
     "remembered": false
@@ -183,7 +183,7 @@
     "id": 21,
     "front": "Archery range",
     "back": "strzelnica łucznicza",
-    "phonetic": "/ˈɑːtʃəri reɪndʒ/",
+    "phonetic": "/ˈɑːrtʃəri reɪndʒ/",
     "frontExample": "The archery range is open all year.",
     "backExample": "Strzelnica łucznicza jest otwarta przez cały rok.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "Horse-riding arena",
     "back": "arena jeździecka",
-    "phonetic": "/hɔːs ˈraɪdɪŋ əˈriːnə/",
+    "phonetic": "/hɔːrs ˈraɪdɪŋ əˈriːnə/",
     "frontExample": "She trains at the horse-riding arena.",
     "backExample": "Trenuje na arenie jeździeckiej.",
     "remembered": false
@@ -201,9 +201,9 @@
     "id": 23,
     "front": "Sports complex",
     "back": "kompleks sportowy",
-    "phonetic": "/spɔːts ˈkɒmpleks/",
+    "phonetic": "/spɔːrts ˈkɑːmpleks/",
     "frontExample": "The sports complex includes a pool and a gym.",
-    "backExample": "Kompleks sportowy zawiera basen i siłownię.",
+    "backExample": "Kompleks sportowy obejmuje basen i siłownię.",
     "remembered": false
   }
 ]

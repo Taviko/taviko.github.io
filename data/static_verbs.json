@@ -32,7 +32,7 @@
     "back": "słyszeć",
     "frontExample": "Can you hear me?",
     "backExample": "Czy mnie słyszysz?",
-    "phonetic": "/hɪə(r)/",
+    "phonetic": "/hɪr/",
     "remembered": false
   },
   {
@@ -86,7 +86,7 @@
     "back": "wydawać się",
     "frontExample": "He appears confident.",
     "backExample": "On wydaje się pewny siebie.",
-    "phonetic": "/əˈpɪə(r)/",
+    "phonetic": "/əˈpɪr/",
     "remembered": false
   },
   {
@@ -158,7 +158,7 @@
     "back": "wiedzieć",
     "frontExample": "She knows the answer.",
     "backExample": "Ona zna odpowiedź.",
-    "phonetic": "/nəʊ/",
+    "phonetic": "/noʊ/",
     "remembered": false
   },
   {
@@ -176,7 +176,7 @@
     "back": "pamiętać",
     "frontExample": "I remember this place.",
     "backExample": "Pamiętam to miejsce.",
-    "phonetic": "/rɪˈmembə(r)/",
+    "phonetic": "/rɪˈmɛmbər/",
     "remembered": false
   },
   {
@@ -203,7 +203,7 @@
     "back": "chcieć",
     "frontExample": "I want more time.",
     "backExample": "Chcę więcej czasu.",
-    "phonetic": "/wɒnt/",
+    "phonetic": "/wɑːnt/",
     "remembered": false
   },
   {
@@ -221,7 +221,7 @@
     "back": "należeć",
     "frontExample": "This pen belongs to me.",
     "backExample": "Ten długopis należy do mnie.",
-    "phonetic": "/bɪˈlɒŋ/",
+    "phonetic": "/bɪˈlɔːŋ/",
     "remembered": false
   },
   {
@@ -248,7 +248,7 @@
     "back": "kosztować",
     "frontExample": "It costs a lot.",
     "backExample": "To dużo kosztuje.",
-    "phonetic": "/kɒst/",
+    "phonetic": "/kɔːst/",
     "remembered": false
   }
 ]

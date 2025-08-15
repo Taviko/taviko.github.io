@@ -1,39 +1,298 @@
 [
-  {"id": 1, "front": "Garden", "back": "ogród", "phonetic": "/ˈɡɑː.dən/", "frontExample": "We have a big garden.", "backExample": "Mamy duży ogród."},
-  {"id": 2, "front": "Lawn", "back": "trawnik", "phonetic": "/lɔːn/", "frontExample": "The lawn is green.", "backExample": "Trawnik jest zielony."},
-  {"id": 3, "front": "Flowerbed", "back": "grządka kwiatowa", "phonetic": "/ˈflaʊ.ə.bɛd/", "frontExample": "She planted roses in the flowerbed.", "backExample": "Ona posadziła róże na grządce kwiatowej."},
-  {"id": 4, "front": "Tree", "back": "drzewo", "phonetic": "/triː/", "frontExample": "There is a tree in the yard.", "backExample": "Na podwórku jest drzewo."},
-  {"id": 5, "front": "Bush", "back": "krzew, krzak", "phonetic": "/bʊʃ/", "frontExample": "A bird is in the bush.", "backExample": "Ptak jest w krzaku."},
-  {"id": 6, "front": "Hedge", "back": "żywopłot", "phonetic": "/hɛdʒ/", "frontExample": "The hedge is very tall.", "backExample": "Żywopłot jest bardzo wysoki."},
-  {"id": 7, "front": "Fountain", "back": "fontanna", "phonetic": "/ˈfaʊn.tɪn/", "frontExample": "There is a fountain in the park.", "backExample": "W parku jest fontanna."},
-  {"id": 8, "front": "Pond", "back": "staw", "phonetic": "/pɒnd/", "frontExample": "Fish live in the pond.", "backExample": "Ryby żyją w stawie."},
-  {"id": 9, "front": "Path", "back": "ścieżka, dróżka", "phonetic": "/pɑːθ/", "frontExample": "Follow the path to the house.", "backExample": "Idź ścieżką do domu."},
-  {"id": 10, "front": "Flower", "back": "kwiat", "phonetic": "/ˈflaʊ.ər/", "frontExample": "This flower smells nice.", "backExample": "Ten kwiat ładnie pachnie."},
-  {"id": 11, "front": "Vegetable garden", "back": "ogród warzywny", "phonetic": "/ˈvɛdʒ.tə.bəl ˈɡɑː.dən/", "frontExample": "We grow tomatoes in the vegetable garden.", "backExample": "Uprawiamy pomidory w ogrodzie warzywnym."},
-  {"id": 12, "front": "Greenhouse", "back": "szklarnia", "phonetic": "/ˈɡriːn.haʊs/", "frontExample": "The greenhouse is warm.", "backExample": "Szklarnia jest ciepła."},
-  {"id": 13, "front": "compost bin", "back": "kompostownik", "phonetic": "/ˈkɒm.pɒst bɪn/", "frontExample": "Put the leaves in the compost bin.", "backExample": "Wrzuć liście do kompostownika."},
-  {"id": 14, "front": "Rake", "back": "grabie", "phonetic": "/reɪk/", "frontExample": "Use the rake to gather leaves.", "backExample": "Użyj grabi do zgrabiania liści."},
-  {"id": 15, "front": "Watering can", "back": "konewka", "phonetic": "/ˈwɔː.tər.ɪŋ kæn/", "frontExample": "Fill the watering can.", "backExample": "Napełnij konewkę."},
-  {"id": 16, "front": "Sprinkler", "back": "zraszacz, spryskiwacz", "phonetic": "/ˈsprɪŋ.klər/", "frontExample": "The sprinkler is on.", "backExample": "Zraszacz jest włączony."},
-  {"id": 17, "front": "Shovel", "back": "łopata", "phonetic": "/ˈʃʌv.əl/", "frontExample": "He used a shovel to dig.", "backExample": "Użył łopaty do kopania."},
-  {"id": 18, "front": "Hoe", "back": "motyka", "phonetic": "/həʊ/", "frontExample": "The hoe is in the shed.", "backExample": "Motyka jest w szopie."},
-  {"id": 19, "front": "wheelbarrow", "back": "taczka", "phonetic": "/ˈwiːlˌbær.əʊ/", "frontExample": "Put the soil in the wheelbarrow.", "backExample": "Wsyp ziemię do taczki."},
-  {"id": 20, "front": "Fencing", "back": "ogrodzenie", "phonetic": "/ˈfens.ɪŋ/", "frontExample": "The fencing is new.", "backExample": "Ogrodzenie jest nowe."},
-  {"id": 21, "front": "Garden furniture", "back": "meble ogrodowe", "phonetic": "/ˈɡɑː.dən ˈfɜː.nɪ.tʃər/", "frontExample": "We bought new garden furniture.", "backExample": "Kupiliśmy nowe meble ogrodowe."},
-  {"id": 22, "front": "Garden tools", "back": "narzędzia ogrodnicze", "phonetic": "/ˈɡɑː.dən tuːlz/", "frontExample": "Where are the garden tools?", "backExample": "Gdzie są narzędzia ogrodnicze?"},
-  {"id": 23, "front": "Yard", "back": "podwórko", "phonetic": "/jɑːd/", "frontExample": "The kids are playing in the yard.", "backExample": "Dzieci bawią się na podwórku."},
-  {"id": 24, "front": "Driveway", "back": "podjazd", "phonetic": "/ˈdraɪv.weɪ/", "frontExample": "Park the car in the driveway.", "backExample": "Zaparkuj samochód na podjeździe."},
-  {"id": 25, "front": "Garage", "back": "garaż", "phonetic": "/ˈɡær.ɑːʒ/", "frontExample": "The garage is full.", "backExample": "Garaż jest pełny."},
-  {"id": 26, "front": "Carport", "back": "wiata na samochód, wiata garażowa", "phonetic": "/ˈkɑː.pɔːt/", "frontExample": "The car is under the carport.", "backExample": "Samochód stoi pod wiatą."},
-  {"id": 27, "front": "Outdoor seating", "back": "miejsce do siedzenia na świeżym powietrzu", "phonetic": "/ˈaʊt.dɔː ˈsiː.tɪŋ/", "frontExample": "We have outdoor seating in the garden.", "backExample": "Mamy miejsce do siedzenia na świeżym powietrzu w ogrodzie."},
-  {"id": 28, "front": "Barbecue", "back": "grillować", "phonetic": "/ˈbɑː.bɪ.kjuː/", "frontExample": "Let's barbecue this weekend.", "backExample": "Zróbmy grilla w ten weekend."},
-  {"id": 29, "front": "Deck", "back": "taras", "phonetic": "/dɛk/", "frontExample": "We sat on the deck.", "backExample": "Siedzieliśmy na tarasie."},
-  {"id": 30, "front": "Swing", "back": "huśtawka", "phonetic": "/swɪŋ/", "frontExample": "The swing is in the garden.", "backExample": "Huśtawka jest w ogrodzie."},
-  {"id": 31, "front": "Sandpit", "back": "piaskownica", "phonetic": "/ˈsænd.pɪt/", "frontExample": "The children are playing in the sandpit.", "backExample": "Dzieci bawią się w piaskownicy."},
-  {"id": 32, "front": "Playground", "back": "plac zabaw", "phonetic": "/ˈpleɪ.ɡraʊnd/", "frontExample": "There is a playground nearby.", "backExample": "W pobliżu jest plac zabaw."},
-  {"id": 33, "front": "Fence", "back": "płot", "phonetic": "/fens/", "frontExample": "The fence is white.", "backExample": "Płot jest biały."},
-  {"id": 34, "front": "Gate", "back": "brama", "phonetic": "/ɡeɪt/", "frontExample": "Close the gate, please.", "backExample": "Zamknij bramę, proszę."},
-  {"id": 35, "front": "Mailbox", "back": "skrzynka pocztowa", "phonetic": "/ˈmeɪl.bɒks/", "frontExample": "Check the mailbox for letters.", "backExample": "Sprawdź skrzynkę pocztową."},
-  {"id": 36, "front": "Lawnmower", "back": "kosiarka", "phonetic": "/ˈlɔːnˌməʊ.ər/", "frontExample": "The lawnmower is in the shed.", "backExample": "Kosiarka jest w szopie."},
-  {"id": 37, "front": "Tool shed", "back": "szopa na narzędzia", "phonetic": "/tuːl ʃɛd/", "frontExample": "The tools are in the tool shed.", "backExample": "Narzędzia są w szopie na narzędzia."}
+  {
+    "id": 1,
+    "front": "Garden",
+    "back": "ogród",
+    "phonetic": "/ˈɡɑː.dən/",
+    "frontExample": "We have a big garden.",
+    "backExample": "Mamy duży ogród."
+  },
+  {
+    "id": 2,
+    "front": "Lawn",
+    "back": "trawnik",
+    "phonetic": "/lɔːrn/",
+    "frontExample": "The lawn is green.",
+    "backExample": "Trawnik jest zielony."
+  },
+  {
+    "id": 3,
+    "front": "Flowerbed",
+    "back": "grządka kwiatowa",
+    "phonetic": "/ˈflaʊ.ə.bɛd/",
+    "frontExample": "She planted roses in the flowerbed.",
+    "backExample": "Ona posadziła róże na grządce kwiatowej."
+  },
+  {
+    "id": 4,
+    "front": "Tree",
+    "back": "drzewo",
+    "phonetic": "/triː/",
+    "frontExample": "There is a tree in the yard.",
+    "backExample": "Na podwórku jest drzewo."
+  },
+  {
+    "id": 5,
+    "front": "Bush",
+    "back": "krzew, krzak",
+    "phonetic": "/bʊʃ/",
+    "frontExample": "A bird is in the bush.",
+    "backExample": "Ptak jest w krzaku."
+  },
+  {
+    "id": 6,
+    "front": "Hedge",
+    "back": "żywopłot",
+    "phonetic": "/hɛdʒ/",
+    "frontExample": "The hedge is very tall.",
+    "backExample": "Żywopłot jest bardzo wysoki."
+  },
+  {
+    "id": 7,
+    "front": "Fountain",
+    "back": "fontanna",
+    "phonetic": "/ˈfaʊn.tɪn/",
+    "frontExample": "There is a fountain in the park.",
+    "backExample": "W parku jest fontanna."
+  },
+  {
+    "id": 8,
+    "front": "Pond",
+    "back": "staw",
+    "phonetic": "/pɑːnd/",
+    "frontExample": "Fish live in the pond.",
+    "backExample": "Ryby żyją w stawie."
+  },
+  {
+    "id": 9,
+    "front": "Path",
+    "back": "ścieżka, dróżka",
+    "phonetic": "/pɑːθ/",
+    "frontExample": "Follow the path to the house.",
+    "backExample": "Idź ścieżką do domu."
+  },
+  {
+    "id": 10,
+    "front": "Flower",
+    "back": "kwiat",
+    "phonetic": "/ˈflaʊ.ər/",
+    "frontExample": "This flower smells nice.",
+    "backExample": "Ten kwiat ładnie pachnie."
+  },
+  {
+    "id": 11,
+    "front": "Vegetable garden",
+    "back": "ogród warzywny",
+    "phonetic": "/ˈvɛdʒ.tə.bəl ˈɡɑː.dən/",
+    "frontExample": "We grow tomatoes in the vegetable garden.",
+    "backExample": "Uprawiamy pomidory w ogrodzie warzywnym."
+  },
+  {
+    "id": 12,
+    "front": "Greenhouse",
+    "back": "szklarnia",
+    "phonetic": "/ˈɡriːn.haʊs/",
+    "frontExample": "The greenhouse is warm.",
+    "backExample": "Szklarnia jest ciepła."
+  },
+  {
+    "id": 13,
+    "front": "compost bin",
+    "back": "kompostownik",
+    "phonetic": "/ˈkɑːm.pɑːst bɪn/",
+    "frontExample": "Put the leaves in the compost bin.",
+    "backExample": "Wrzuć liście do kompostownika."
+  },
+  {
+    "id": 14,
+    "front": "Rake",
+    "back": "grabie",
+    "phonetic": "/reɪk/",
+    "frontExample": "Use the rake to gather leaves.",
+    "backExample": "Użyj grabi do zgrabiania liści."
+  },
+  {
+    "id": 15,
+    "front": "Watering can",
+    "back": "konewka",
+    "phonetic": "/ˈwɔːr.tər.ɪŋ kæn/",
+    "frontExample": "Fill the watering can.",
+    "backExample": "Napełnij konewkę."
+  },
+  {
+    "id": 16,
+    "front": "Sprinkler",
+    "back": "zraszacz, spryskiwacz",
+    "phonetic": "/ˈsprɪŋ.klər/",
+    "frontExample": "The sprinkler is on.",
+    "backExample": "Zraszacz jest włączony."
+  },
+  {
+    "id": 17,
+    "front": "Shovel",
+    "back": "łopata",
+    "phonetic": "/ˈʃʌv.əl/",
+    "frontExample": "He used a shovel to dig.",
+    "backExample": "Użył łopaty do kopania."
+  },
+  {
+    "id": 18,
+    "front": "Hoe",
+    "back": "motyka",
+    "phonetic": "/hoʊ/",
+    "frontExample": "The hoe is in the shed.",
+    "backExample": "Motyka jest w szopie."
+  },
+  {
+    "id": 19,
+    "front": "wheelbarrow",
+    "back": "taczka",
+    "phonetic": "/ˈwiːlˌbær.oʊ/",
+    "frontExample": "Put the soil in the wheelbarrow.",
+    "backExample": "Wsyp ziemię do taczki."
+  },
+  {
+    "id": 20,
+    "front": "Fencing",
+    "back": "ogrodzenie",
+    "phonetic": "/ˈfens.ɪŋ/",
+    "frontExample": "The fencing is new.",
+    "backExample": "Ogrodzenie jest nowe."
+  },
+  {
+    "id": 21,
+    "front": "Garden furniture",
+    "back": "meble ogrodowe",
+    "phonetic": "/ˈɡɑː.dən ˈfɜːr.nɪ.tʃər/",
+    "frontExample": "We bought new garden furniture.",
+    "backExample": "Kupiliśmy nowe meble ogrodowe."
+  },
+  {
+    "id": 22,
+    "front": "Garden tools",
+    "back": "narzędzia ogrodnicze",
+    "phonetic": "/ˈɡɑː.dən tuːlz/",
+    "frontExample": "Where are the garden tools?",
+    "backExample": "Gdzie są narzędzia ogrodnicze?"
+  },
+  {
+    "id": 23,
+    "front": "Yard",
+    "back": "podwórko",
+    "phonetic": "/jɑːd/",
+    "frontExample": "The kids are playing in the yard.",
+    "backExample": "Dzieci bawią się na podwórku."
+  },
+  {
+    "id": 24,
+    "front": "Driveway",
+    "back": "podjazd",
+    "phonetic": "/ˈdraɪv.weɪ/",
+    "frontExample": "Park the car in the driveway.",
+    "backExample": "Zaparkuj samochód na podjeździe."
+  },
+  {
+    "id": 25,
+    "front": "Garage",
+    "back": "garaż",
+    "phonetic": "/ˈɡær.ɑːʒ/",
+    "frontExample": "The garage is full.",
+    "backExample": "Garaż jest pełny."
+  },
+  {
+    "id": 26,
+    "front": "Carport",
+    "back": "wiata na samochód, wiata garażowa",
+    "phonetic": "/ˈkɑː.pɔːrt/",
+    "frontExample": "The car is under the carport.",
+    "backExample": "Samochód stoi pod wiatą."
+  },
+  {
+    "id": 27,
+    "front": "Outdoor seating",
+    "back": "miejsce do siedzenia na świeżym powietrzu",
+    "phonetic": "/ˈaʊt.dɔːr ˈsiː.tɪŋ/",
+    "frontExample": "We have outdoor seating in the garden.",
+    "backExample": "Mamy miejsce do siedzenia na świeżym powietrzu w ogrodzie."
+  },
+  {
+    "id": 28,
+    "front": "Barbecue",
+    "back": "grillować",
+    "phonetic": "/ˈbɑː.bɪ.kjuː/",
+    "frontExample": "Let's barbecue this weekend.",
+    "backExample": "Zróbmy grilla w ten weekend."
+  },
+  {
+    "id": 29,
+    "front": "Deck",
+    "back": "taras",
+    "phonetic": "/dɛk/",
+    "frontExample": "We sat on the deck.",
+    "backExample": "Siedzieliśmy na tarasie."
+  },
+  {
+    "id": 30,
+    "front": "Swing",
+    "back": "huśtawka",
+    "phonetic": "/swɪŋ/",
+    "frontExample": "The swing is in the garden.",
+    "backExample": "Huśtawka jest w ogrodzie."
+  },
+  {
+    "id": 31,
+    "front": "Sandpit",
+    "back": "piaskownica",
+    "phonetic": "/ˈsænd.pɪt/",
+    "frontExample": "The children are playing in the sandpit.",
+    "backExample": "Dzieci bawią się w piaskownicy."
+  },
+  {
+    "id": 32,
+    "front": "Playground",
+    "back": "plac zabaw",
+    "phonetic": "/ˈpleɪˌɡraʊnd/",
+    "frontExample": "There is a playground nearby.",
+    "backExample": "W pobliżu jest plac zabaw."
+  },
+  {
+    "id": 33,
+    "front": "Fence",
+    "back": "płot",
+    "phonetic": "/fens/",
+    "frontExample": "The fence is white.",
+    "backExample": "Płot jest biały."
+  },
+  {
+    "id": 34,
+    "front": "Gate",
+    "back": "brama",
+    "phonetic": "/ɡeɪt/",
+    "frontExample": "Close the gate, please.",
+    "backExample": "Zamknij bramę, proszę."
+  },
+  {
+    "id": 35,
+    "front": "Mailbox",
+    "back": "skrzynka pocztowa",
+    "phonetic": "/ˈmeɪl.bɑːks/",
+    "frontExample": "Check the mailbox for letters.",
+    "backExample": "Sprawdź skrzynkę pocztową."
+  },
+  {
+    "id": 36,
+    "front": "Lawnmower",
+    "back": "kosiarka",
+    "phonetic": "/ˈlɔːrnˌmoʊ.ər/",
+    "frontExample": "The lawnmower is in the shed.",
+    "backExample": "Kosiarka jest w szopie."
+  },
+  {
+    "id": 37,
+    "front": "Tool shed",
+    "back": "szopa na narzędzia",
+    "phonetic": "/tuːl ʃɛd/",
+    "frontExample": "The tools are in the tool shed.",
+    "backExample": "Narzędzia są w szopie na narzędzia."
+  }
 ]

@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Play sports",
     "back": "uprawiać sport",
-    "phonetic": "/pleɪ spɔːts/",
+    "phonetic": "/pleɪ spɔːrts/",
     "frontExample": "I like to play sports after school.",
     "backExample": "Lubię uprawiać sport po szkole."
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "front": "Piano",
     "back": "pianino",
-    "phonetic": "/piˈæn.oʊ/",
+    "phonetic": "/piˈænoʊ/",
     "frontExample": "She is learning to play the piano.",
     "backExample": "Ona uczy się grać na pianinie."
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "front": "Violin",
     "back": "skrzypce",
-    "phonetic": "/ˌvaɪ.əˈlɪn/",
+    "phonetic": "/ˌvaɪəˈlɪn/",
     "frontExample": "The violin sounds beautiful.",
     "backExample": "Skrzypce brzmią pięknie."
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "front": "Watch movies",
     "back": "oglądać filmy",
-    "phonetic": "/wɒtʃ ˈmuː.viz/",
+    "phonetic": "/wɑːtʃ ˈmuːviz/",
     "frontExample": "Let's watch a movie tonight.",
     "backExample": "Obejrzyjmy dziś wieczorem film."
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "front": "Listen to music",
     "back": "słuchać muzyki",
-    "phonetic": "/ˈlɪs.ən tə ˈmjuː.zɪk/",
+    "phonetic": "/ˈlɪsən tə ˈmjuːzɪk/",
     "frontExample": "I listen to music every day.",
     "backExample": "Codziennie słucham muzyki."
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "front": "Do yoga",
     "back": "uprawiać jogę",
-    "phonetic": "/duː ˈjəʊ.ɡə/",
+    "phonetic": "/duː ˈjoʊɡə/",
     "frontExample": "She does yoga in the morning.",
     "backExample": "Ona uprawia jogę rano."
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "front": "Gardening",
     "back": "ogrodnictwo",
-    "phonetic": "/ˈɡɑː.dən.ɪŋ/",
+    "phonetic": "/ˈɡɑːrdənɪŋ/",
     "frontExample": "My mom enjoys gardening.",
     "backExample": "Moja mama lubi ogrodnictwo."
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "front": "Photography",
     "back": "fotografia",
-    "phonetic": "/fəˈtɒɡ.rə.fi/",
+    "phonetic": "/fəˈtɑːɡrəfi/",
     "frontExample": "Photography is my passion.",
     "backExample": "Fotografia to moja pasja."
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "front": "Photography editing",
     "back": "edycja zdjęć",
-    "phonetic": "/fəˈtɒɡ.rə.fi ˈed.ɪ.tɪŋ/",
+    "phonetic": "/fəˈtɑːɡrəfi ˈɛdɪtɪŋ/",
     "frontExample": "He is good at photo editing.",
     "backExample": "On jest dobry w edycji zdjęć."
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "front": "Sewing",
     "back": "szycie",
-    "phonetic": "/ˈsəʊ.ɪŋ/",
+    "phonetic": "/ˈsoʊ.ɪŋ/",
     "frontExample": "She enjoys sewing clothes.",
     "backExample": "Ona lubi szyć ubrania."
   },
@@ -243,7 +243,7 @@
     "id": 31,
     "front": "Playing board games",
     "back": "granie w gry planszowe",
-    "phonetic": "/ˈpleɪ.ɪŋ bɔːd ɡeɪmz/",
+    "phonetic": "/ˈpleɪ.ɪŋ bɔːrd ɡeɪmz/",
     "frontExample": "We play board games on Sundays.",
     "backExample": "Gramy w gry planszowe w niedziele."
   },
@@ -251,7 +251,7 @@
     "id": 32,
     "front": "Building models",
     "back": "budowanie modeli (np. z klocków, samolotów)",
-    "phonetic": "/ˈbɪl.dɪŋ ˈmɒd.əlz/",
+    "phonetic": "/ˈbɪl.dɪŋ ˈmɑːd.əlz/",
     "frontExample": "He enjoys building models.",
     "backExample": "On lubi budować modele."
   },
@@ -267,7 +267,7 @@
     "id": 34,
     "front": "Origami",
     "back": "składanie origami",
-    "phonetic": "/ˌɒr.ɪˈɡɑː.mi/",
+    "phonetic": "/ˌɑːr.ɪˈɡɑː.mi/",
     "frontExample": "Origami is fun and relaxing.",
     "backExample": "Origami jest fajne i relaksujące."
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "front": "Blogging",
     "back": "pisanie bloga",
-    "phonetic": "/ˈblɒɡ.ɪŋ/",
+    "phonetic": "/ˈblɑːɡɪŋ/",
     "frontExample": "She started blogging last year.",
     "backExample": "Ona zaczęła pisać bloga w zeszłym roku."
   },
@@ -283,7 +283,7 @@
     "id": 36,
     "front": "Learning languages",
     "back": "nauka języków",
-    "phonetic": "/ˈlɜː.nɪŋ ˈlæŋ.ɡwɪdʒɪz/",
+    "phonetic": "/ˈlɜːrnɪŋ ˈlæŋɡwɪdʒɪz/",
     "frontExample": "I enjoy learning languages.",
     "backExample": "Lubię uczyć się języków."
   },
@@ -291,7 +291,7 @@
     "id": 37,
     "front": "Volunteering",
     "back": "wolontariat",
-    "phonetic": "/ˌvɒl.ənˈtɪə.rɪŋ/",
+    "phonetic": "/ˌvɑːlənˈtɪrɪŋ/",
     "frontExample": "Volunteering is very rewarding.",
     "backExample": "Wolontariat jest bardzo satysfakcjonujący."
   },
@@ -299,7 +299,7 @@
     "id": 38,
     "front": "Meditating",
     "back": "medytacja",
-    "phonetic": "/ˈmɛd.ɪ.teɪ.tɪŋ/",
+    "phonetic": "/ˈmɛdɪteɪtɪŋ/",
     "frontExample": "He meditates every morning.",
     "backExample": "On medytuje każdego ranka."
   },
@@ -307,7 +307,7 @@
     "id": 39,
     "front": "Social media",
     "back": "media społecznościowe",
-    "phonetic": "/ˈsəʊ.ʃəl ˈmiː.di.ə/",
+    "phonetic": "/ˈsoʊʃəl ˈmiːdiə/",
     "frontExample": "She spends a lot of time on social media.",
     "backExample": "Ona spędza dużo czasu w mediach społecznościowych."
   },
@@ -315,7 +315,7 @@
     "id": 40,
     "front": "Birdwatching",
     "back": "obserwowanie ptaków",
-    "phonetic": "/ˈbɜːdˌwɒtʃ.ɪŋ/",
+    "phonetic": "/ˈbɜːrdˌwɑːtʃɪŋ/",
     "frontExample": "Birdwatching is a peaceful hobby.",
     "backExample": "Obserwowanie ptaków to spokojne hobby."
   },
@@ -331,7 +331,7 @@
     "id": 42,
     "front": "Basketball",
     "back": "koszykówka",
-    "phonetic": "/ˈbæs.kɪt.bɔːl/",
+    "phonetic": "/ˈbæskɪtˌbɔːl/",
     "frontExample": "They play basketball after school.",
     "backExample": "Oni grają w koszykówkę po szkole."
   },
@@ -347,7 +347,7 @@
     "id": 44,
     "front": "Watching sports",
     "back": "oglądanie sportu",
-    "phonetic": "/ˈwɒtʃ.ɪŋ spɔːts/",
+    "phonetic": "/ˈwɑːtʃɪŋ spɔːrts/",
     "frontExample": "He likes watching sports on TV.",
     "backExample": "On lubi oglądać sport w telewizji."
   },
@@ -355,7 +355,7 @@
     "id": 45,
     "front": "Making videos",
     "back": "robienie filmów",
-    "phonetic": "/ˈmeɪ.kɪŋ ˈvɪd.i.oʊz/",
+    "phonetic": "/ˈmeɪkɪŋ ˈvɪdioʊz/",
     "frontExample": "She enjoys making videos for her channel.",
     "backExample": "Ona lubi robić filmy na swój kanał."
   },
@@ -363,7 +363,7 @@
     "id": 46,
     "front": "Travelling by train",
     "back": "podróżowanie pociągiem",
-    "phonetic": "/ˈtræv.əl.ɪŋ baɪ treɪn/",
+    "phonetic": "/ˈtrævəlɪŋ baɪ treɪn/",
     "frontExample": "I love travelling by train.",
     "backExample": "Uwielbiam podróżować pociągiem."
   },
@@ -387,7 +387,7 @@
     "id": 49,
     "front": "Horse riding",
     "back": "jazda konna, jeździectwo",
-    "phonetic": "/ˈhɔːs ˌraɪ.dɪŋ/",
+    "phonetic": "/ˈhɔːrs ˌraɪ.dɪŋ/",
     "frontExample": "She loves horse riding.",
     "backExample": "Ona uwielbia jazdę konną."
   },
@@ -403,7 +403,7 @@
     "id": 51,
     "front": "Knowledge of foreign languages",
     "back": "znajomość języków obcych",
-    "phonetic": "/ˈnɒl.ɪdʒ əv ˈfɒr.ɪn ˈlæng.ɡwɪdʒɪz/",
+    "phonetic": "/ˈnɑːl.ɪdʒ əv ˈfɑːr.ɪn ˈlæng.ɡwɪdʒɪz/",
     "frontExample": "She has knowledge of foreign languages.",
     "backExample": "Ona zna języki obce."
   },
@@ -411,7 +411,7 @@
     "id": 52,
     "front": "Playing the cello",
     "back": "grać na wiolonczeli",
-    "phonetic": "/ˈpleɪ.ɪŋ ðə ˈtʃɛl.oʊ/",
+    "phonetic": "/ˈpleɪɪŋ ðə ˈtʃɛloʊ/",
     "frontExample": "He is playing the cello.",
     "backExample": "On gra na wiolonczeli."
   },
@@ -443,7 +443,7 @@
     "id": 56,
     "front": "Yoga",
     "back": "joga",
-    "phonetic": "/ˈjəʊ.ɡə/",
+    "phonetic": "/ˈjoʊɡə/",
     "frontExample": "Yoga is good for your health.",
     "backExample": "Joga jest dobra dla zdrowia."
   }

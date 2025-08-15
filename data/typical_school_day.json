@@ -1,59 +1,458 @@
 [
-  {"id": 1, "front": "Lesson/Class", "back": "lekcja", "phonetic": "/ˈlɛs.ən/ /klɑːs/", "frontExample": "We have a math lesson now.", "backExample": "Mamy teraz lekcję matematyki."},
-  {"id": 2, "front": "Period", "back": "okres (lekcja)", "phonetic": "/ˈpɪə.ri.əd/", "frontExample": "The first period is English.", "backExample": "Pierwsza lekcja to angielski."},
-  {"id": 3, "front": "Classroom", "back": "sala lekcyjna", "phonetic": "/ˈklɑːs.ruːm/", "frontExample": "Our classroom is on the second floor.", "backExample": "Nasza sala lekcyjna jest na drugim piętrze."},
-  {"id": 4, "front": "Timetable", "back": "plan lekcji", "phonetic": "/ˈtaɪmˌteɪ.bəl/", "frontExample": "Check your timetable for tomorrow.", "backExample": "Sprawdź swój plan lekcji na jutro."},
-  {"id": 5, "front": "Recess", "back": "przerwa", "phonetic": "/ˈriː.ses/", "frontExample": "We play outside during recess.", "backExample": "Bawimy się na dworze podczas przerwy."},
-  {"id": 6, "front": "Break", "back": "przerwa", "phonetic": "/breɪk/", "frontExample": "Let's have a break.", "backExample": "Zróbmy przerwę."},
-  {"id": 7, "front": "Morning assembly", "back": "poranny apel", "phonetic": "/ˈmɔː.nɪŋ əˈsɛm.bli/", "frontExample": "We meet in the hall for morning assembly.", "backExample": "Spotykamy się w holu na porannym apelu."},
-  {"id": 8, "front": "End of the school day", "back": "koniec dnia szkolnego", "phonetic": "/ɛnd əv ðə skuːl deɪ/", "frontExample": "The end of the school day is at 3 p.m.", "backExample": "Koniec dnia szkolnego jest o 15:00."},
-  {"id": 9, "front": "Start of the school day", "back": "Początek dnia szkolnego", "phonetic": "/stɑːt əv ðə skuːl deɪ/", "frontExample": "The start of the school day is at 8 a.m.", "backExample": "Początek dnia szkolnego jest o 8:00."},
-  {"id": 10, "front": "To attend a lesson", "back": "uczestniczyć w lekcji", "phonetic": "/əˈtɛnd ə ˈlɛs.ən/", "frontExample": "I always attend every lesson.", "backExample": "Zawsze uczestniczę w każdej lekcji."},
-  {"id": 11, "front": "To take notes", "back": "robić notatki", "phonetic": "/teɪk nəʊts/", "frontExample": "Take notes during the class.", "backExample": "Rób notatki podczas lekcji."},
-  {"id": 12, "front": "To answer a question", "back": "odpowiadać na pytanie", "phonetic": "/ˈɑːn.sər ə ˈkwɛs.tʃən/", "frontExample": "Can you answer the question?", "backExample": "Możesz odpowiedzieć na pytanie?"},
-  {"id": 13, "front": "To ask a question", "back": "zadawać pytanie", "phonetic": "/æsk ə ˈkwɛs.tʃən/", "frontExample": "Don't be afraid to ask a question.", "backExample": "Nie bój się zadawać pytań."},
-  {"id": 14, "front": "To give a presentation", "back": "przedstawić prezentację", "phonetic": "/ɡɪv ə ˌprɛz.ənˈteɪ.ʃən/", "frontExample": "I have to give a presentation today.", "backExample": "Muszę dziś przedstawić prezentację."},
-  {"id": 15, "front": "To do homework", "back": "odrabiać pracę domową", "phonetic": "/duː ˈhəʊm.wɜːk/", "frontExample": "I do my homework after school.", "backExample": "Odrabiam pracę domową po szkole."},
-  {"id": 16, "front": "To study for a test", "back": "uczyć się do testu", "phonetic": "/ˈstʌd.i fə ə tɛst/", "frontExample": "I need to study for a test.", "backExample": "Muszę się uczyć do testu."},
-  {"id": 17, "front": "To pass an exam", "back": "zdać egzamin", "phonetic": "/pɑːs ən ɪɡˈzæm/", "frontExample": "I hope to pass the exam.", "backExample": "Mam nadzieję, że zdam egzamin."},
-  {"id": 18, "front": "To fail an exam", "back": "oblać egzamin", "phonetic": "/feɪl ən ɪɡˈzæm/", "frontExample": "He failed the exam last year.", "backExample": "On oblał egzamin w zeszłym roku."},
-  {"id": 19, "front": "To revise", "back": "powtarzać materiał", "phonetic": "/rɪˈvaɪz/", "frontExample": "I revise before every test.", "backExample": "Powtarzam materiał przed każdym testem."},
-  {"id": 20, "front": "To participate in class", "back": "uczestniczyć w zajęciach", "phonetic": "/pɑːˈtɪs.ɪ.peɪt ɪn klɑːs/", "frontExample": "Try to participate in class.", "backExample": "Staraj się uczestniczyć w zajęciach."},
-  {"id": 21, "front": "To work in groups", "back": "pracować w grupach", "phonetic": "/wɜːk ɪn ɡruːps/", "frontExample": "We work in groups for this project.", "backExample": "Pracujemy w grupach nad tym projektem."},
-  {"id": 22, "front": "To work individually", "back": "pracować indywidualnie", "phonetic": "/wɜːk ˌɪn.dɪˈvɪd.ju.ə.li/", "frontExample": "I prefer to work individually.", "backExample": "Wolę pracować indywidualnie."},
-  {"id": 23, "front": "To make a project", "back": "robić projekt", "phonetic": "/meɪk ə ˈprɒdʒ.ekt/", "frontExample": "We have to make a project together.", "backExample": "Musimy razem zrobić projekt."},
-  {"id": 24, "front": "Teacher", "back": "nauczyciel", "phonetic": "/ˈtiː.tʃər/", "frontExample": "The teacher is very kind.", "backExample": "Nauczyciel jest bardzo miły."},
-  {"id": 25, "front": "Student", "back": "uczeń", "phonetic": "/ˈstjuː.dənt/", "frontExample": "Every student has a book.", "backExample": "Każdy uczeń ma książkę."},
-  {"id": 26, "front": "Headteacher", "back": "dyrektor szkoły", "phonetic": "/ˌhedˈtiː.tʃər/", "frontExample": "The headteacher spoke at the assembly.", "backExample": "Dyrektor szkoły przemawiał na apelu."},
-  {"id": 27, "front": "Classmate/Schoolmate", "back": "kolega z klasy", "phonetic": "/ˈklɑːs.meɪt/ /ˈskuːl.meɪt/", "frontExample": "My classmate sits next to me.", "backExample": "Mój kolega z klasy siedzi obok mnie."},
-  {"id": 28, "front": "Group leader", "back": "lider grupy", "phonetic": "/ɡruːp ˈliː.dər/", "frontExample": "She is the group leader.", "backExample": "Ona jest liderem grupy."},
-  {"id": 29, "front": "Tutor/Supervisor", "back": "wychowawca", "phonetic": "/ˈtjuː.tər/ /ˈsuː.pə.vaɪ.zər/", "frontExample": "The tutor helps us with homework.", "backExample": "Wychowawca pomaga nam z pracą domową."},
-  {"id": 30, "front": "Foreign languages", "back": "języki obce", "phonetic": "/ˈfɒr.ɪn ˈlæŋ.ɡwɪdʒɪz/", "frontExample": "We learn foreign languages at school.", "backExample": "Uczymy się języków obcych w szkole."},
-  {"id": 31, "front": "Grade", "back": "ocena", "phonetic": "/ɡreɪd/", "frontExample": "I got a good grade.", "backExample": "Dostałem dobrą ocenę."},
-  {"id": 32, "front": "Mark", "back": "stopień", "phonetic": "/mɑːk/", "frontExample": "What mark did you get?", "backExample": "Jaki dostałeś stopień?"},
-  {"id": 33, "front": "Pass", "back": "zdać", "phonetic": "/pɑːs/", "frontExample": "Did you pass the test?", "backExample": "Zdałeś test?"},
-  {"id": 34, "front": "Fail", "back": "oblać", "phonetic": "/feɪl/", "frontExample": "I failed the quiz.", "backExample": "Oblałem quiz."},
-  {"id": 35, "front": "Test", "back": "test", "phonetic": "/tɛst/", "frontExample": "We have a test tomorrow.", "backExample": "Jutro mamy test."},
-  {"id": 36, "front": "Exam", "back": "egzamin", "phonetic": "/ɪɡˈzæm/", "frontExample": "The exam was difficult.", "backExample": "Egzamin był trudny."},
-  {"id": 37, "front": "Homework", "back": "praca domowa", "phonetic": "/ˈhəʊm.wɜːk/", "frontExample": "I finished my homework.", "backExample": "Skończyłem pracę domową."},
-  {"id": 38, "front": "Assessment", "back": "ocena, sprawdzian", "phonetic": "/əˈses.mənt/", "frontExample": "We have an assessment next week.", "backExample": "W przyszłym tygodniu mamy sprawdzian."},
-  {"id": 39, "front": "Project", "back": "projekt, plan", "phonetic": "/ˈprɒdʒ.ekt/", "frontExample": "Our project is about animals.", "backExample": "Nasz projekt dotyczy zwierząt."},
-  {"id": 40, "front": "Finał exam", "back": "egzamin końcowy", "phonetic": "/ˈfaɪ.nəl ɪɡˈzæm/", "frontExample": "The final exam is next month.", "backExample": "Egzamin końcowy jest w przyszłym miesiącu."},
-  {"id": 41, "front": "Quiz", "back": "quiz", "phonetic": "/kwɪz/", "frontExample": "We had a quiz today.", "backExample": "Dzisiaj mieliśmy quiz."},
-  {"id": 42, "front": "To wake up", "back": "budzić się", "phonetic": "/weɪk ʌp/", "frontExample": "I wake up at 7 a.m.", "backExample": "Budzę się o 7 rano."},
-  {"id": 43, "front": "To get up", "back": "wstawać", "phonetic": "/ɡɛt ʌp/", "frontExample": "I get up quickly.", "backExample": "Wstaję szybko."},
-  {"id": 44, "front": "To go to school", "back": "iść do szkoły", "phonetic": "/ɡəʊ tə skuːl/", "frontExample": "I go to school by bus.", "backExample": "Jadę do szkoły autobusem."},
-  {"id": 45, "front": "To leave school", "back": "skończyć szkołę", "phonetic": "/liːv skuːl/", "frontExample": "I leave school at 3 p.m.", "backExample": "Kończę szkołę o 15:00."},
-  {"id": 46, "front": "To catch the bus", "back": "złapać autobus", "phonetic": "/kætʃ ðə bʌs/", "frontExample": "I catch the bus every morning.", "backExample": "Codziennie rano łapię autobus."},
-  {"id": 47, "front": "To go by bike", "back": "jechać rowerem", "phonetic": "/ɡəʊ baɪ baɪk/", "frontExample": "I go by bike when it's sunny.", "backExample": "Jadę rowerem, gdy jest słonecznie."},
-  {"id": 48, "front": "To walk to school", "back": "iść do szkoły pieszo", "phonetic": "/wɔːk tə skuːl/", "frontExample": "I walk to school with my friend.", "backExample": "Idę do szkoły z kolegą."},
-  {"id": 49, "front": "To study", "back": "uczyć się", "phonetic": "/ˈstʌd.i/", "frontExample": "I study every evening.", "backExample": "Uczę się każdego wieczoru."},
-  {"id": 50, "front": "To meet friends", "back": "spotykać się z przyjaciółmi", "phonetic": "/miːt frɛndz/", "frontExample": "I meet friends after school.", "backExample": "Spotykam się z przyjaciółmi po szkole."},
-  {"id": 51, "front": "To discuss a topic", "back": "omówić temat", "phonetic": "/dɪˈskʌs ə ˈtɒp.ɪk/", "frontExample": "Let's discuss the topic in class.", "backExample": "Omówmy temat na lekcji."},
-  {"id": 52, "front": "To explain", "back": "wyjaśniać", "phonetic": "/ɪkˈspleɪn/", "frontExample": "Can you explain this?", "backExample": "Możesz to wyjaśnić?"},
-  {"id": 53, "front": "To listen", "back": "słuchać", "phonetic": "/ˈlɪs.ən/", "frontExample": "Listen to the teacher.", "backExample": "Słuchaj nauczyciela."},
-  {"id": 54, "front": "To read aloud", "back": "czytać na głos", "phonetic": "/riːd əˈlaʊd/", "frontExample": "Read the text aloud.", "backExample": "Przeczytaj tekst na głos."},
-  {"id": 55, "front": "To write on the board", "back": "pisać na tablicy", "phonetic": "/raɪt ɒn ðə bɔːd/", "frontExample": "Write your name on the board.", "backExample": "Napisz swoje imię na tablicy."},
-  {"id": 56, "front": "To review", "back": "recenzja, recenzować", "phonetic": "/rɪˈvjuː/", "frontExample": "Let's review the lesson.", "backExample": "Zrecenzujmy lekcję."},
-  {"id": 57, "front": "To test", "back": "testować", "phonetic": "/tɛst/", "frontExample": "The teacher will test us tomorrow.", "backExample": "Nauczyciel będzie nas testował jutro."}
+  {
+    "id": 1,
+    "front": "Lesson/Class",
+    "back": "lekcja",
+    "phonetic": "/ˈlɛsən/ /klæs/",
+    "frontExample": "We have a math lesson now.",
+    "backExample": "Mamy teraz lekcję matematyki."
+  },
+  {
+    "id": 2,
+    "front": "Period",
+    "back": "okres (lekcja)",
+    "phonetic": "/ˈpɪriəd/",
+    "frontExample": "The first period is English.",
+    "backExample": "Pierwsza lekcja to angielski."
+  },
+  {
+    "id": 3,
+    "front": "Classroom",
+    "back": "sala lekcyjna",
+    "phonetic": "/ˈklæsˌruːm/",
+    "frontExample": "Our classroom is on the second floor.",
+    "backExample": "Nasza sala lekcyjna jest na drugim piętrze."
+  },
+  {
+    "id": 4,
+    "front": "Timetable",
+    "back": "plan lekcji",
+    "phonetic": "/ˈtaɪmˌteɪbəl/",
+    "frontExample": "Check your timetable for tomorrow.",
+    "backExample": "Sprawdź swój plan lekcji na jutro."
+  },
+  {
+    "id": 5,
+    "front": "Recess",
+    "back": "przerwa",
+    "phonetic": "/ˈriːˌsɛs/",
+    "frontExample": "We play outside during recess.",
+    "backExample": "Bawimy się na dworze podczas przerwy."
+  },
+  {
+    "id": 6,
+    "front": "Break",
+    "back": "przerwa",
+    "phonetic": "/breɪk/",
+    "frontExample": "Let's have a break.",
+    "backExample": "Zróbmy przerwę."
+  },
+  {
+    "id": 7,
+    "front": "Morning assembly",
+    "back": "poranny apel",
+    "phonetic": "/ˈmɔːrnɪŋ əˈsɛmbli/",
+    "frontExample": "We meet in the hall for morning assembly.",
+    "backExample": "Spotykamy się w holu na porannym apelu."
+  },
+  {
+    "id": 8,
+    "front": "End of the school day",
+    "back": "koniec dnia szkolnego",
+    "phonetic": "/ɛnd əv ðə skuːl deɪ/",
+    "frontExample": "The end of the school day is at 3 p.m.",
+    "backExample": "Koniec dnia szkolnego jest o 15:00."
+  },
+  {
+    "id": 9,
+    "front": "Start of the school day",
+    "back": "Początek dnia szkolnego",
+    "phonetic": "/stɑːt əv ðə skuːl deɪ/",
+    "frontExample": "The start of the school day is at 8 a.m.",
+    "backExample": "Początek dnia szkolnego jest o 8:00."
+  },
+  {
+    "id": 10,
+    "front": "To attend a lesson",
+    "back": "uczestniczyć w lekcji",
+    "phonetic": "/əˈtɛnd ə ˈlɛsən/",
+    "frontExample": "I always attend every lesson.",
+    "backExample": "Zawsze uczestniczę w każdej lekcji."
+  },
+  {
+    "id": 11,
+    "front": "To take notes",
+    "back": "robić notatki",
+    "phonetic": "/teɪk noʊts/",
+    "frontExample": "Take notes during the class.",
+    "backExample": "Rób notatki podczas lekcji."
+  },
+  {
+    "id": 12,
+    "front": "To answer a question",
+    "back": "odpowiadać na pytanie",
+    "phonetic": "/ˈænsər ə ˈkwɛstʃən/",
+    "frontExample": "Can you answer the question?",
+    "backExample": "Możesz odpowiedzieć na pytanie?"
+  },
+  {
+    "id": 13,
+    "front": "To ask a question",
+    "back": "zadawać pytanie",
+    "phonetic": "/æsk ə ˈkwɛstʃən/",
+    "frontExample": "Don't be afraid to ask a question.",
+    "backExample": "Nie bój się zadawać pytań."
+  },
+  {
+    "id": 14,
+    "front": "To give a presentation",
+    "back": "przedstawić prezentację",
+    "phonetic": "/ɡɪv ə ˌprɛzənˈteɪʃən/",
+    "frontExample": "I have to give a presentation today.",
+    "backExample": "Muszę dziś przedstawić prezentację."
+  },
+  {
+    "id": 15,
+    "front": "To do homework",
+    "back": "odrabiać pracę domową",
+    "phonetic": "/duː ˈhoʊmˌwɜːrk/",
+    "frontExample": "I do my homework after school.",
+    "backExample": "Odrabiam pracę domową po szkole."
+  },
+  {
+    "id": 16,
+    "front": "To study for a test",
+    "back": "uczyć się do testu",
+    "phonetic": "/ˈstʌdi fə ə tɛst/",
+    "frontExample": "I need to study for a test.",
+    "backExample": "Muszę się uczyć do testu."
+  },
+  {
+    "id": 17,
+    "front": "To pass an exam",
+    "back": "zdać egzamin",
+    "phonetic": "/pæs ən ɪɡˈzæm/",
+    "frontExample": "I hope to pass the exam.",
+    "backExample": "Mam nadzieję, że zdam egzamin."
+  },
+  {
+    "id": 18,
+    "front": "To fail an exam",
+    "back": "oblać egzamin",
+    "phonetic": "/feɪl ən ɪɡˈzæm/",
+    "frontExample": "He failed the exam last year.",
+    "backExample": "On oblał egzamin w zeszłym roku."
+  },
+  {
+    "id": 19,
+    "front": "To revise",
+    "back": "powtarzać materiał",
+    "phonetic": "/rɪˈvaɪz/",
+    "frontExample": "I revise before every test.",
+    "backExample": "Powtarzam materiał przed każdym testem."
+  },
+  {
+    "id": 20,
+    "front": "To participate in class",
+    "back": "uczestniczyć w zajęciach",
+    "phonetic": "/pɑːrˈtɪsəˌpeɪt ɪn klæs/",
+    "frontExample": "Try to participate in class.",
+    "backExample": "Staraj się uczestniczyć w zajęciach."
+  },
+  {
+    "id": 21,
+    "front": "To work in groups",
+    "back": "pracować w grupach",
+    "phonetic": "/wɜːrk ɪn ɡruːps/",
+    "frontExample": "We work in groups for this project.",
+    "backExample": "Pracujemy w grupach nad tym projektem."
+  },
+  {
+    "id": 22,
+    "front": "To work individually",
+    "back": "pracować indywidualnie",
+    "phonetic": "/wɜːrk ˌɪndɪˈvɪdʒuəli/",
+    "frontExample": "I prefer to work individually.",
+    "backExample": "Wolę pracować indywidualnie."
+  },
+  {
+    "id": 23,
+    "front": "To do a project",
+    "back": "robić projekt",
+    "phonetic": "/duː ə ˈprɑːdʒekt/",
+    "frontExample": "We have to make a project together.",
+    "backExample": "Musimy razem zrobić projekt."
+  },
+  {
+    "id": 24,
+    "front": "Teacher",
+    "back": "nauczyciel",
+    "phonetic": "/ˈtiːtʃər/",
+    "frontExample": "The teacher is very kind.",
+    "backExample": "Nauczyciel jest bardzo miły."
+  },
+  {
+    "id": 25,
+    "front": "Student",
+    "back": "uczeń",
+    "phonetic": "/ˈstuːdənt/",
+    "frontExample": "Every student has a book.",
+    "backExample": "Każdy uczeń ma książkę."
+  },
+  {
+    "id": 26,
+    "front": "Headteacher",
+    "back": "dyrektor szkoły",
+    "phonetic": "/ˌhɛdˈtiːtʃər/",
+    "frontExample": "The headteacher spoke at the assembly.",
+    "backExample": "Dyrektor szkoły przemawiał na apelu."
+  },
+  {
+    "id": 27,
+    "front": "Classmate/Schoolmate",
+    "back": "kolega z klasy",
+    "phonetic": "/ˈklɑːsmeɪt/ /ˈskuːlmeɪt/",
+    "frontExample": "My classmate sits next to me.",
+    "backExample": "Mój kolega z klasy siedzi obok mnie."
+  },
+  {
+    "id": 28,
+    "front": "Group leader",
+    "back": "lider grupy",
+    "phonetic": "/ɡruːp ˈliːdər/",
+    "frontExample": "She is the group leader.",
+    "backExample": "Ona jest liderem grupy."
+  },
+  {
+    "id": 29,
+    "front": "Tutor/Supervisor",
+    "back": "wychowawca",
+    "phonetic": "/ˈtuːtər/ /ˈsuːpərˌvaɪzər/",
+    "frontExample": "The tutor helps us with homework.",
+    "backExample": "Wychowawca pomaga nam z pracą domową."
+  },
+  {
+    "id": 30,
+    "front": "Foreign languages",
+    "back": "języki obce",
+    "phonetic": "/ˈfɔːrən ˈlæŋɡwɪdʒɪz/",
+    "frontExample": "We learn foreign languages at school.",
+    "backExample": "Uczymy się języków obcych w szkole."
+  },
+  {
+    "id": 31,
+    "front": "Grade",
+    "back": "ocena",
+    "phonetic": "/ɡreɪd/",
+    "frontExample": "I got a good grade.",
+    "backExample": "Dostałem dobrą ocenę."
+  },
+  {
+    "id": 32,
+    "front": "Mark",
+    "back": "stopień",
+    "phonetic": "/mɑːrk/",
+    "frontExample": "What mark did you get?",
+    "backExample": "Jaki dostałeś stopień?"
+  },
+  {
+    "id": 33,
+    "front": "Pass",
+    "back": "zdać",
+    "phonetic": "/pæs/",
+    "frontExample": "Did you pass the test?",
+    "backExample": "Zdałeś test?"
+  },
+  {
+    "id": 34,
+    "front": "Fail",
+    "back": "oblać",
+    "phonetic": "/feɪl/",
+    "frontExample": "I failed the quiz.",
+    "backExample": "Oblałem quiz."
+  },
+  {
+    "id": 35,
+    "front": "Test",
+    "back": "test",
+    "phonetic": "/tɛst/",
+    "frontExample": "We have a test tomorrow.",
+    "backExample": "Jutro mamy test."
+  },
+  {
+    "id": 36,
+    "front": "Exam",
+    "back": "egzamin",
+    "phonetic": "/ɪɡˈzæm/",
+    "frontExample": "The exam was difficult.",
+    "backExample": "Egzamin był trudny."
+  },
+  {
+    "id": 37,
+    "front": "Homework",
+    "back": "praca domowa",
+    "phonetic": "/ˈhoʊmˌwɜːrk/",
+    "frontExample": "I finished my homework.",
+    "backExample": "Skończyłem pracę domową."
+  },
+  {
+    "id": 38,
+    "front": "Assessment",
+    "back": "ocena, sprawdzian",
+    "phonetic": "/əˈsɛsmənt/",
+    "frontExample": "We have an assessment next week.",
+    "backExample": "W przyszłym tygodniu mamy sprawdzian."
+  },
+  {
+    "id": 39,
+    "front": "Project",
+    "back": "projekt, plan",
+    "phonetic": "/ˈprɑːdʒekt/",
+    "frontExample": "Our project is about animals.",
+    "backExample": "Nasz projekt dotyczy zwierząt."
+  },
+  {
+    "id": 40,
+    "front": "Final exam",
+    "back": "egzamin końcowy",
+    "phonetic": "/ˈfaɪnəl ɪɡˈzæm/",
+    "frontExample": "The final exam is next month.",
+    "backExample": "Egzamin końcowy jest w przyszłym miesiącu."
+  },
+  {
+    "id": 41,
+    "front": "Quiz",
+    "back": "quiz",
+    "phonetic": "/kwɪz/",
+    "frontExample": "We had a quiz today.",
+    "backExample": "Dzisiaj mieliśmy quiz."
+  },
+  {
+    "id": 42,
+    "front": "To wake up",
+    "back": "budzić się",
+    "phonetic": "/weɪk ʌp/",
+    "frontExample": "I wake up at 7 a.m.",
+    "backExample": "Budzę się o 7 rano."
+  },
+  {
+    "id": 43,
+    "front": "To get up",
+    "back": "wstawać",
+    "phonetic": "/ɡɛt ʌp/",
+    "frontExample": "I get up quickly.",
+    "backExample": "Wstaję szybko."
+  },
+  {
+    "id": 44,
+    "front": "To go to school",
+    "back": "iść do szkoły",
+    "phonetic": "/ɡoʊ tə skuːl/",
+    "frontExample": "I go to school by bus.",
+    "backExample": "Jadę do szkoły autobusem."
+  },
+  {
+    "id": 45,
+    "front": "To leave school",
+    "back": "skończyć szkołę",
+    "phonetic": "/liːv skuːl/",
+    "frontExample": "I leave school at 3 p.m.",
+    "backExample": "Kończę szkołę o 15:00."
+  },
+  {
+    "id": 46,
+    "front": "To catch the bus",
+    "back": "złapać autobus",
+    "phonetic": "/kætʃ ðə bʌs/",
+    "frontExample": "I catch the bus every morning.",
+    "backExample": "Codziennie rano łapię autobus."
+  },
+  {
+    "id": 47,
+    "front": "To go by bike",
+    "back": "jechać rowerem",
+    "phonetic": "/ɡoʊ baɪ baɪk/",
+    "frontExample": "I go by bike when it's sunny.",
+    "backExample": "Jadę rowerem, gdy jest słonecznie."
+  },
+  {
+    "id": 48,
+    "front": "To walk to school",
+    "back": "iść do szkoły pieszo",
+    "phonetic": "/wɔːk tə skuːl/",
+    "frontExample": "I walk to school with my friend.",
+    "backExample": "Idę do szkoły z kolegą."
+  },
+  {
+    "id": 49,
+    "front": "To study",
+    "back": "uczyć się",
+    "phonetic": "/ˈstʌdi/",
+    "frontExample": "I study every evening.",
+    "backExample": "Uczę się każdego wieczoru."
+  },
+  {
+    "id": 50,
+    "front": "To meet friends",
+    "back": "spotykać się z przyjaciółmi",
+    "phonetic": "/miːt frɛndz/",
+    "frontExample": "I meet friends after school.",
+    "backExample": "Spotykam się z przyjaciółmi po szkole."
+  },
+  {
+    "id": 51,
+    "front": "To discuss a topic",
+    "back": "omówić temat",
+    "phonetic": "/dɪˈskʌs ə ˈtɑːpɪk/",
+    "frontExample": "Let's discuss the topic in class.",
+    "backExample": "Omówmy temat na lekcji."
+  },
+  {
+    "id": 52,
+    "front": "To explain",
+    "back": "wyjaśniać",
+    "phonetic": "/ɪkˈspleɪn/",
+    "frontExample": "Can you explain this?",
+    "backExample": "Możesz to wyjaśnić?"
+  },
+  {
+    "id": 53,
+    "front": "To listen",
+    "back": "słuchać",
+    "phonetic": "/ˈlɪsən/",
+    "frontExample": "Listen to the teacher.",
+    "backExample": "Słuchaj nauczyciela."
+  },
+  {
+    "id": 54,
+    "front": "To read aloud",
+    "back": "czytać na głos",
+    "phonetic": "/riːd əˈlaʊd/",
+    "frontExample": "Read the text aloud.",
+    "backExample": "Przeczytaj tekst na głos."
+  },
+  {
+    "id": 55,
+    "front": "To write on the board",
+    "back": "pisać na tablicy",
+    "phonetic": "/raɪt ɑːn ðə bɔːrd/",
+    "frontExample": "Write your name on the board.",
+    "backExample": "Napisz swoje imię na tablicy."
+  },
+  {
+    "id": 56,
+    "front": "To review",
+    "back": "powtarzać (materiał), przeglądać",
+    "phonetic": "/rɪˈvjuː/",
+    "frontExample": "Let's review the lesson.",
+    "backExample": "Powtórzmy lekcję."
+  },
+  {
+    "id": 57,
+    "front": "To test",
+    "back": "testować",
+    "phonetic": "/tɛst/",
+    "frontExample": "The teacher will test us tomorrow.",
+    "backExample": "Nauczyciel będzie nas testował jutro."
+  }
 ]

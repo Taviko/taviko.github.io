@@ -1,43 +1,330 @@
 [
-  {"id": 1, "front": "Attraction", "back": "atrakcja", "phonetic": "/əˈtræk.ʃən/", "frontExample": "The city's main attraction is the castle.", "backExample": "Główną atrakcją miasta jest zamek."},
-  {"id": 2, "front": "Landmark", "back": "punkt orientacyjny", "phonetic": "/ˈlænd.mɑːk/", "frontExample": "The tower is a famous landmark.", "backExample": "Wieża to znany punkt orientacyjny."},
-  {"id": 3, "front": "Monument", "back": "pomnik", "phonetic": "/ˈmɒn.jə.mənt/", "frontExample": "We visited a war monument.", "backExample": "Odwiedziliśmy pomnik wojenny."},
-  {"id": 4, "front": "Museum", "back": "muzeum", "phonetic": "/mjuːˈziː.əm/", "frontExample": "The museum is open on Sundays.", "backExample": "Muzeum jest otwarte w niedziele."},
-  {"id": 5, "front": "Gallery", "back": "galeria (sztuki)", "phonetic": "/ˈɡæl.ər.i/", "frontExample": "Let's go to the art gallery.", "backExample": "Chodźmy do galerii sztuki."},
-  {"id": 6, "front": "Castle", "back": "zamek", "phonetic": "/ˈkɑː.səl/", "frontExample": "The castle is very old.", "backExample": "Zamek jest bardzo stary."},
-  {"id": 7, "front": "Palace", "back": "pałac", "phonetic": "/ˈpæl.ɪs/", "frontExample": "The palace has beautiful gardens.", "backExample": "Pałac ma piękne ogrody."},
-  {"id": 8, "front": "Park", "back": "park", "phonetic": "/pɑːk/", "frontExample": "Let's walk in the park.", "backExample": "Przejdźmy się po parku."},
-  {"id": 9, "front": "Beach", "back": "plaża", "phonetic": "/biːtʃ/", "frontExample": "We spent the day at the beach.", "backExample": "Spędziliśmy dzień na plaży."},
-  {"id": 10, "front": "Forest", "back": "las, puszcza", "phonetic": "/ˈfɒr.ɪst/", "frontExample": "We went hiking in the forest.", "backExample": "Poszliśmy na wędrówkę do lasu."},
-  {"id": 11, "front": "Mountain", "back": "góra", "phonetic": "/ˈmaʊn.tɪn/", "frontExample": "The mountain is covered in snow.", "backExample": "Góra jest pokryta śniegiem."},
-  {"id": 12, "front": "National park", "back": "park narodowy", "phonetic": "/ˈnæʃ.ən.əl pɑːk/", "frontExample": "We visited a national park.", "backExample": "Odwiedziliśmy park narodowy."},
-  {"id": 13, "front": "Botanical garden", "back": "ogród botaniczny", "phonetic": "/bəˈtæn.ɪ.kəl ˈɡɑː.dən/", "frontExample": "The botanical garden is beautiful in spring.", "backExample": "Ogród botaniczny jest piękny wiosną."},
-  {"id": 14, "front": "Aquarium", "back": "akwarium", "phonetic": "/əˈkweə.ri.əm/", "frontExample": "We saw sharks at the aquarium.", "backExample": "Widzieliśmy rekiny w akwarium."},
-  {"id": 15, "front": "Zoo", "back": "zoo, ogród zoologiczny", "phonetic": "/zuː/", "frontExample": "The zoo has many animals.", "backExample": "W zoo jest wiele zwierząt."},
-  {"id": 16, "front": "Historical site", "back": "miejsce historyczne", "phonetic": "/hɪˈstɒr.ɪ.kəl saɪt/", "frontExample": "This is a famous historical site.", "backExample": "To jest słynne miejsce historyczne."},
-  {"id": 17, "front": "Temple", "back": "świątynia", "phonetic": "/ˈtɛm.pəl/", "frontExample": "The temple is open to visitors.", "backExample": "Świątynia jest otwarta dla zwiedzających."},
-  {"id": 18, "front": "Cathedral", "back": "katedra", "phonetic": "/kəˈθiː.drəl/", "frontExample": "The cathedral is very tall.", "backExample": "Katedra jest bardzo wysoka."},
-  {"id": 19, "front": "Church", "back": "kościół", "phonetic": "/tʃɜːtʃ/", "frontExample": "We visited a small church.", "backExample": "Odwiedziliśmy mały kościół."},
-  {"id": 20, "front": "Ruins", "back": "ruiny", "phonetic": "/ˈruː.ɪnz/", "frontExample": "The ruins are from the 12th century.", "backExample": "Ruiny pochodzą z XII wieku."},
-  {"id": 21, "front": "Square", "back": "plac", "phonetic": "/skweər/", "frontExample": "The market square is busy.", "backExample": "Rynek jest zatłoczony."},
-  {"id": 22, "front": "Town hall", "back": "ratusz", "phonetic": "/taʊn hɔːl/", "frontExample": "The town hall is in the center.", "backExample": "Ratusz jest w centrum."},
-  {"id": 23, "front": "Stadium", "back": "stadion", "phonetic": "/ˈsteɪ.di.əm/", "frontExample": "The stadium is full of fans.", "backExample": "Stadion jest pełen kibiców."},
-  {"id": 24, "front": "Harbour/port", "back": "port", "phonetic": "/ˈhɑː.bər/ /pɔːt/", "frontExample": "The ship is in the harbour.", "backExample": "Statek jest w porcie."},
-  {"id": 25, "front": "Amusement park", "back": "park rozrywki", "phonetic": "/əˈmjuːz.mənt pɑːk/", "frontExample": "We had fun at the amusement park.", "backExample": "Bawiliśmy się w parku rozrywki."},
-  {"id": 26, "front": "Cave", "back": "jaskinia", "phonetic": "/keɪv/", "frontExample": "The cave is dark and deep.", "backExample": "Jaskinia jest ciemna i głęboka."},
-  {"id": 27, "front": "Ruin", "back": "ruina", "phonetic": "/ˈruː.ɪn/", "frontExample": "We explored an old ruin.", "backExample": "Zwiedzaliśmy starą ruinę."},
-  {"id": 28, "front": "Island", "back": "wyspa", "phonetic": "/ˈaɪ.lənd/", "frontExample": "They live on a small island.", "backExample": "Oni mieszkają na małej wyspie."},
-  {"id": 29, "front": "River", "back": "rzeka", "phonetic": "/ˈrɪv.ər/", "frontExample": "The river flows through the city.", "backExample": "Rzeka przepływa przez miasto."},
-  {"id": 30, "front": "Lake", "back": "jezioro", "phonetic": "/leɪk/", "frontExample": "We swam in the lake.", "backExample": "Pływaliśmy w jeziorze."},
-  {"id": 31, "front": "Viewpoint", "back": "punkt widokowy, obserwacyjny", "phonetic": "/ˈvjuː.pɔɪnt/", "frontExample": "The viewpoint offers a great view.", "backExample": "Punkt widokowy oferuje świetny widok."},
-  {"id": 32, "front": "Sculpture", "back": "rzeźba", "phonetic": "/ˈskʌlp.tʃər/", "frontExample": "There is a sculpture in the park.", "backExample": "W parku jest rzeźba."},
-  {"id": 33, "front": "Bridge", "back": "most", "phonetic": "/brɪdʒ/", "frontExample": "The bridge crosses the river.", "backExample": "Most przecina rzekę."},
-  {"id": 34, "front": "Marketplace", "back": "rynek, targ", "phonetic": "/ˈmɑː.kɪt.pleɪs/", "frontExample": "The marketplace is very lively.", "backExample": "Rynek jest bardzo żywy."},
-  {"id": 35, "front": "Shopping mall", "back": "centrum handlowe", "phonetic": "/ˈʃɒp.ɪŋ mɔːl/", "frontExample": "Let's go to the shopping mall.", "backExample": "Chodźmy do centrum handlowego."},
-  {"id": 36, "front": "Street market", "back": "targ uliczny", "phonetic": "/striːt ˈmɑː.kɪt/", "frontExample": "We bought fruit at the street market.", "backExample": "Kupiliśmy owoce na targu ulicznym."},
-  {"id": 37, "front": "Skyscraper", "back": "wieżowiec", "phonetic": "/ˈskaɪˌskreɪ.pər/", "frontExample": "The skyscraper is very tall.", "backExample": "Wieżowiec jest bardzo wysoki."},
-  {"id": 38, "front": "Village", "back": "wioska", "phonetic": "/ˈvɪl.ɪdʒ/", "frontExample": "My grandparents live in a village.", "backExample": "Moi dziadkowie mieszkają w wiosce."},
-  {"id": 39, "front": "Resort", "back": "kurort", "phonetic": "/rɪˈzɔːt/", "frontExample": "We stayed at a seaside resort.", "backExample": "Zatrzymaliśmy się w nadmorskim kurorcie."},
-  {"id": 40, "front": "Tourist information centre", "back": "centrum informacji turystycznej", "phonetic": "/ˈtʊə.rɪst ˌɪn.fəˈmeɪ.ʃən ˈsɛn.tər/", "frontExample": "Ask at the tourist information centre.", "backExample": "Zapytaj w centrum informacji turystycznej."},
-  {"id": 41, "front": "Hot spring", "back": "gorące źródło", "phonetic": "/hɒt sprɪŋ/", "frontExample": "We relaxed in a hot spring.", "backExample": "Odpoczywaliśmy w gorącym źródle."}
+  {
+    "id": 1,
+    "front": "Attraction",
+    "back": "atrakcja",
+    "phonetic": "/əˈtrækʃən/",
+    "frontExample": "The city's main attraction is the castle.",
+    "backExample": "Główną atrakcją miasta jest zamek."
+  },
+  {
+    "id": 2,
+    "front": "Landmark",
+    "back": "punkt orientacyjny",
+    "phonetic": "/ˈlændˌmɑːrk/",
+    "frontExample": "The tower is a famous landmark.",
+    "backExample": "Wieża to znany punkt orientacyjny."
+  },
+  {
+    "id": 3,
+    "front": "Monument",
+    "back": "pomnik",
+    "phonetic": "/ˈmɑːnjəmənt/",
+    "frontExample": "We visited a war monument.",
+    "backExample": "Odwiedziliśmy pomnik wojenny."
+  },
+  {
+    "id": 4,
+    "front": "Museum",
+    "back": "muzeum",
+    "phonetic": "/mjuːˈziːəm/",
+    "frontExample": "The museum is open on Sundays.",
+    "backExample": "Muzeum jest otwarte w niedziele."
+  },
+  {
+    "id": 5,
+    "front": "Gallery",
+    "back": "galeria (sztuki)",
+    "phonetic": "/ˈɡælri/",
+    "frontExample": "Let's go to the art gallery.",
+    "backExample": "Chodźmy do galerii sztuki."
+  },
+  {
+    "id": 6,
+    "front": "Castle",
+    "back": "zamek",
+    "phonetic": "/ˈkæsəl/",
+    "frontExample": "The castle is very old.",
+    "backExample": "Zamek jest bardzo stary."
+  },
+  {
+    "id": 7,
+    "front": "Palace",
+    "back": "pałac",
+    "phonetic": "/ˈpælɪs/",
+    "frontExample": "The palace has beautiful gardens.",
+    "backExample": "Pałac ma piękne ogrody."
+  },
+  {
+    "id": 8,
+    "front": "Park",
+    "back": "park",
+    "phonetic": "/pɑːrk/",
+    "frontExample": "Let's walk in the park.",
+    "backExample": "Przejdźmy się po parku."
+  },
+  {
+    "id": 9,
+    "front": "Beach",
+    "back": "plaża",
+    "phonetic": "/biːtʃ/",
+    "frontExample": "We spent the day at the beach.",
+    "backExample": "Spędziliśmy dzień na plaży."
+  },
+  {
+    "id": 10,
+    "front": "Forest",
+    "back": "las, puszcza",
+    "phonetic": "/ˈfɔːrɪst/",
+    "frontExample": "We went hiking in the forest.",
+    "backExample": "Poszliśmy na wędrówkę do lasu."
+  },
+  {
+    "id": 11,
+    "front": "Mountain",
+    "back": "góra",
+    "phonetic": "/ˈmaʊntɪn/",
+    "frontExample": "The mountain is covered in snow.",
+    "backExample": "Góra jest pokryta śniegiem."
+  },
+  {
+    "id": 12,
+    "front": "National park",
+    "back": "park narodowy",
+    "phonetic": "/ˈnæʃənəl pɑːrk/",
+    "frontExample": "We visited a national park.",
+    "backExample": "Odwiedziliśmy park narodowy."
+  },
+  {
+    "id": 13,
+    "front": "Botanical garden",
+    "back": "ogród botaniczny",
+    "phonetic": "/bəˈtænɪkəl ˈɡɑːrdən/",
+    "frontExample": "The botanical garden is beautiful in spring.",
+    "backExample": "Ogród botaniczny jest piękny wiosną."
+  },
+  {
+    "id": 14,
+    "front": "Aquarium",
+    "back": "akwarium",
+    "phonetic": "/əˈkwɛriəm/",
+    "frontExample": "We saw sharks at the aquarium.",
+    "backExample": "Widzieliśmy rekiny w akwarium."
+  },
+  {
+    "id": 15,
+    "front": "Zoo",
+    "back": "zoo, ogród zoologiczny",
+    "phonetic": "/zuː/",
+    "frontExample": "The zoo has many animals.",
+    "backExample": "W zoo jest wiele zwierząt."
+  },
+  {
+    "id": 16,
+    "front": "Historical site",
+    "back": "miejsce historyczne",
+    "phonetic": "/hɪˈstɔːrɪkəl saɪt/",
+    "frontExample": "This is a famous historical site.",
+    "backExample": "To jest słynne miejsce historyczne."
+  },
+  {
+    "id": 17,
+    "front": "Temple",
+    "back": "świątynia",
+    "phonetic": "/ˈtɛmpəl/",
+    "frontExample": "The temple is open to visitors.",
+    "backExample": "Świątynia jest otwarta dla zwiedzających."
+  },
+  {
+    "id": 18,
+    "front": "Cathedral",
+    "back": "katedra",
+    "phonetic": "/kəˈθiːdrəl/",
+    "frontExample": "The cathedral is very tall.",
+    "backExample": "Katedra jest bardzo wysoka."
+  },
+  {
+    "id": 19,
+    "front": "Church",
+    "back": "kościół",
+    "phonetic": "/tʃɜːrtʃ/",
+    "frontExample": "We visited a small church.",
+    "backExample": "Odwiedziliśmy mały kościół."
+  },
+  {
+    "id": 20,
+    "front": "Ruins",
+    "back": "ruiny",
+    "phonetic": "/ˈruːɪnz/",
+    "frontExample": "The ruins are from the 12th century.",
+    "backExample": "Ruiny pochodzą z XII wieku."
+  },
+  {
+    "id": 21,
+    "front": "Square",
+    "back": "plac",
+    "phonetic": "/skwɛr/",
+    "frontExample": "The market square is busy.",
+    "backExample": "Rynek jest zatłoczony."
+  },
+  {
+    "id": 22,
+    "front": "Town hall",
+    "back": "ratusz",
+    "phonetic": "/taʊn hɔːl/",
+    "frontExample": "The town hall is in the center.",
+    "backExample": "Ratusz jest w centrum."
+  },
+  {
+    "id": 23,
+    "front": "Stadium",
+    "back": "stadion",
+    "phonetic": "/ˈsteɪdiəm/",
+    "frontExample": "The stadium is full of fans.",
+    "backExample": "Stadion jest pełen kibiców."
+  },
+  {
+    "id": 24,
+    "front": "Harbor/port",
+    "back": "port",
+    "phonetic": "/ˈhɑːrbər/ /pɔːrt/",
+    "frontExample": "The ship is in the harbour.",
+    "backExample": "Statek jest w porcie."
+  },
+  {
+    "id": 25,
+    "front": "Amusement park",
+    "back": "park rozrywki",
+    "phonetic": "/əˈmjuːzmənt pɑːk/",
+    "frontExample": "We had fun at the amusement park.",
+    "backExample": "Bawiliśmy się w parku rozrywki."
+  },
+  {
+    "id": 26,
+    "front": "Cave",
+    "back": "jaskinia",
+    "phonetic": "/keɪv/",
+    "frontExample": "The cave is dark and deep.",
+    "backExample": "Jaskinia jest ciemna i głęboka."
+  },
+  {
+    "id": 27,
+    "front": "Ruin",
+    "back": "ruina",
+    "phonetic": "/ˈruːɪn/",
+    "frontExample": "We explored an old ruin.",
+    "backExample": "Zwiedzaliśmy starą ruinę."
+  },
+  {
+    "id": 28,
+    "front": "Island",
+    "back": "wyspa",
+    "phonetic": "/ˈaɪlənd/",
+    "frontExample": "They live on a small island.",
+    "backExample": "Oni mieszkają na małej wyspie."
+  },
+  {
+    "id": 29,
+    "front": "River",
+    "back": "rzeka",
+    "phonetic": "/ˈrɪvər/",
+    "frontExample": "The river flows through the city.",
+    "backExample": "Rzeka przepływa przez miasto."
+  },
+  {
+    "id": 30,
+    "front": "Lake",
+    "back": "jezioro",
+    "phonetic": "/leɪk/",
+    "frontExample": "We swam in the lake.",
+    "backExample": "Pływaliśmy w jeziorze."
+  },
+  {
+    "id": 31,
+    "front": "Viewpoint",
+    "back": "punkt widokowy, obserwacyjny",
+    "phonetic": "/ˈvjuːpɔɪnt/",
+    "frontExample": "The viewpoint offers a great view.",
+    "backExample": "Punkt widokowy oferuje świetny widok."
+  },
+  {
+    "id": 32,
+    "front": "Sculpture",
+    "back": "rzeźba",
+    "phonetic": "/ˈskʌlptʃər/",
+    "frontExample": "There is a sculpture in the park.",
+    "backExample": "W parku jest rzeźba."
+  },
+  {
+    "id": 33,
+    "front": "Bridge",
+    "back": "most",
+    "phonetic": "/brɪdʒ/",
+    "frontExample": "The bridge crosses the river.",
+    "backExample": "Most przecina rzekę."
+  },
+  {
+    "id": 34,
+    "front": "Marketplace",
+    "back": "rynek, targ",
+    "phonetic": "/ˈmɑːrkɪtˌpleɪs/",
+    "frontExample": "The marketplace is very lively.",
+    "backExample": "Rynek jest bardzo żywy."
+  },
+  {
+    "id": 35,
+    "front": "Shopping mall",
+    "back": "centrum handlowe",
+    "phonetic": "/ˈʃɑːpɪŋ mɔːl/",
+    "frontExample": "Let's go to the shopping mall.",
+    "backExample": "Chodźmy do centrum handlowego."
+  },
+  {
+    "id": 36,
+    "front": "Street market",
+    "back": "targ uliczny",
+    "phonetic": "/striːt ˈmɑːrkɪt/",
+    "frontExample": "We bought fruit at the street market.",
+    "backExample": "Kupiliśmy owoce na targu ulicznym."
+  },
+  {
+    "id": 37,
+    "front": "Skyscraper",
+    "back": "wieżowiec",
+    "phonetic": "/ˈskaɪˌskreɪpər/",
+    "frontExample": "The skyscraper is very tall.",
+    "backExample": "Wieżowiec jest bardzo wysoki."
+  },
+  {
+    "id": 38,
+    "front": "Village",
+    "back": "wioska",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "frontExample": "My grandparents live in a village.",
+    "backExample": "Moi dziadkowie mieszkają w wiosce."
+  },
+  {
+    "id": 39,
+    "front": "Resort",
+    "back": "kurort",
+    "phonetic": "/rɪˈzɔːrt/",
+    "frontExample": "We stayed at a seaside resort.",
+    "backExample": "Zatrzymaliśmy się w nadmorskim kurorcie."
+  },
+  {
+    "id": 40,
+    "front": "Tourist information center",
+    "back": "centrum informacji turystycznej",
+    "phonetic": "/ˈtʊrrɪst ˌɪnfəˈmeɪʃən ˈsɛntər/",
+    "frontExample": "Ask at the tourist information centre.",
+    "backExample": "Zapytaj w centrum informacji turystycznej."
+  },
+  {
+    "id": 41,
+    "front": "Hot spring",
+    "back": "gorące źródło",
+    "phonetic": "/hɑːt sprɪŋ/",
+    "frontExample": "We relaxed in a hot spring.",
+    "backExample": "Odpoczywaliśmy w gorącym źródle."
+  }
 ]

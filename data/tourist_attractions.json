@@ -12,7 +12,7 @@
     "id": 2,
     "front": "Landmark",
     "back": "punkt orientacyjny",
-    "phonetic": "/ˈlændˌmɑːk/",
+    "phonetic": "/ˈlændˌmɑːrk/",
     "frontExample": "The Eiffel Tower is a famous landmark.",
     "backExample": "Wieża Eiffla to znany punkt orientacyjny.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Historic site",
     "back": "historyczne miejsce",
-    "phonetic": "/hɪˈstɒrɪk saɪt/",
+    "phonetic": "/hɪˈstɔːrɪk saɪt/",
     "frontExample": "We visited a historic site during our trip.",
     "backExample": "Podczas wycieczki odwiedziliśmy historyczne miejsce.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "Waterfall",
     "back": "wodospad",
-    "phonetic": "/ˈwɔːtəfɔːl/",
+    "phonetic": "/ˈwɔːtərˌfɔːl/",
     "frontExample": "The waterfall was breathtaking.",
     "backExample": "Wodospad zapierał dech w piersiach.",
     "remembered": false
@@ -57,7 +57,7 @@
     "id": 7,
     "front": "Amusement park",
     "back": "park rozrywki",
-    "phonetic": "/əˈmjuːzmənt pɑːk/",
+    "phonetic": "/əˈmjuːzmənt pɑːrk/",
     "frontExample": "We spent the day at the amusement park.",
     "backExample": "Spędziliśmy dzień w parku rozrywki.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "Theme park",
     "back": "park tematyczny",
-    "phonetic": "/θiːm pɑːk/",
+    "phonetic": "/θiːm pɑːrk/",
     "frontExample": "Disneyland is a world-famous theme park.",
     "backExample": "Disneyland to światowej sławy park tematyczny.",
     "remembered": false
@@ -93,7 +93,7 @@
     "id": 11,
     "front": "Tour/Excursion",
     "back": "wycieczka",
-    "phonetic": "/tʊə(r)/ /ɪkˈskɜːʃən/",
+    "phonetic": "/tʊr/ /ɪkˈskɝːʒən/",
     "frontExample": "The tour included a visit to the museum.",
     "backExample": "Wycieczka obejmowała wizytę w muzeum.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "Souvenir",
     "back": "pamiątka",
-    "phonetic": "/ˌsuːvəˈnɪə(r)/",
+    "phonetic": "/ˌsuːvəˈnɪr/",
     "frontExample": "She bought a souvenir from every city.",
     "backExample": "Kupiła pamiątkę w każdym mieście.",
     "remembered": false
@@ -120,7 +120,7 @@
     "id": 14,
     "front": "Visitor center",
     "back": "centrum turystyczne",
-    "phonetic": "/ˈvɪzɪtə ˈsentə/",
+    "phonetic": "/ˈvɪzɪtər ˈsentər/",
     "frontExample": "We asked for directions at the visitor center.",
     "backExample": "Zapytaliśmy o drogę w centrum turystycznym.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "Entrance fee",
     "back": "opłata za wstęp",
-    "phonetic": "/ˈentrəns fiː/",
+    "phonetic": "/ˈɛntrəns fiː/",
     "frontExample": "The entrance fee was surprisingly low.",
     "backExample": "Opłata za wstęp była zaskakująco niska.",
     "remembered": false
@@ -138,9 +138,9 @@
     "id": 16,
     "front": "Opening hours",
     "back": "godziny otwarcia",
-    "phonetic": "/ˈəʊpənɪŋ ˈaʊəz/",
-    "frontExample": "He always travels with a detailed guidebook.",
-    "backExample": "Zawsze podróżuje z dokładnym przewodnikiem.",
+    "phonetic": "/ˈoʊpənɪŋ ˈaʊrz/",
+    "frontExample": "Check the opening hours before you go.",
+    "backExample": "Sprawdź godziny otwarcia zanim pójdziesz.",
     "remembered": false
   },
   {
@@ -148,17 +148,17 @@
     "front": "Guidebook",
     "back": "przewodnik książkowy",
     "phonetic": "/ˈɡaɪdbʊk/",
-    "frontExample": "Our itinerary included four cities.",
-    "backExample": "Nasz plan podróży obejmował cztery miasta.",
+    "frontExample": "He always travels with a detailed guidebook.",
+    "backExample": "Zawsze podróżuje z dokładnym przewodnikiem.",
     "remembered": false
   },
   {
     "id": 18,
     "front": "Itinerary",
     "back": "plan podróży",
-    "phonetic": "/aɪˈtɪnərəri/",
-    "frontExample": "We booked our trip at a travel agency.",
-    "backExample": "Zarezerwowaliśmy wycieczkę w biurze podróży.",
+    "phonetic": "/aɪˈtɪnəˌrɛri/",
+    "frontExample": "Our itinerary included four cities.",
+    "backExample": "Nasz plan podróży obejmował cztery miasta.",
     "remembered": false
   },
   {
@@ -166,53 +166,53 @@
     "front": "Travel agency",
     "back": "biuro podróży",
     "phonetic": "/ˈtrævəl ˈeɪdʒənsi/",
-    "frontExample": "We took a boat trip along the river.",
-    "backExample": "Popłynęliśmy statkiem wzdłuż rzeki.",
+    "frontExample": "We booked our trip at a travel agency.",
+    "backExample": "Zarezerwowaliśmy wycieczkę w biurze podróży.",
     "remembered": false
   },
   {
     "id": 20,
     "front": "Boat trip",
     "back": "rejs/wycieczka statkiem",
-    "phonetic": "/bəʊt trɪp/",
-    "frontExample": "The city tour lasted about three hours.",
-    "backExample": "Wycieczka po mieście trwała około trzech godzin.",
+    "phonetic": "/boʊt trɪp/",
+    "frontExample": "We took a boat trip along the river.",
+    "backExample": "Popłynęliśmy statkiem wzdłuż rzeki.",
     "remembered": false
   },
   {
     "id": 21,
     "front": "City tour",
     "back": "wycieczka po mieście",
-    "phonetic": "/ˈsɪti tʊə(r)/",
-    "frontExample": "The museum protects cultural heritage.",
-    "backExample": "Muzeum chroni dziedzictwo kulturowe.",
+    "phonetic": "/ˈsɪti tʊr/",
+    "frontExample": "The city tour lasted about three hours.",
+    "backExample": "Wycieczka po mieście trwała około trzech godzin.",
     "remembered": false
   },
   {
     "id": 22,
     "front": "Cultural heritage",
     "back": "dziedzictwo kulturowe",
-    "phonetic": "/ˈkʌltʃərəl ˈherɪtɪdʒ/",
-    "frontExample": "They explored the archaeological site.",
-    "backExample": "Odkrywali stanowisko archeologiczne.",
+    "phonetic": "/ˈkʌltʃərəl ˈhɛrɪtɪdʒ/",
+    "frontExample": "The museum protects cultural heritage.",
+    "backExample": "Muzeum chroni dziedzictwo kulturowe.",
     "remembered": false
   },
   {
     "id": 23,
     "front": "Archaeological site",
     "back": "stanowisko archeologiczne",
-    "phonetic": "/ˌɑːkiəˈlɒdʒɪkl saɪt/",
-    "frontExample": "This sculpture is made of bronze.",
-    "backExample": "Ta rzeźba jest wykonana z brązu.",
+    "phonetic": "/ˌɑːrkiəˈlɑːdʒɪkəl saɪt/",
+    "frontExample": "They explored the archaeological site.",
+    "backExample": "Odkrywali stanowisko archeologiczne.",
     "remembered": false
   },
   {
     "id": 24,
     "front": "Sculpture",
     "back": "rzeźba",
-    "phonetic": "/ˈskʌlptʃə(r)/",
-    "frontExample": "The street art in Berlin is amazing.",
-    "backExample": "Sztuka uliczna w Berlinie jest niesamowita.",
+    "phonetic": "/ˈskʌlptʃər/",
+    "frontExample": "This sculpture is made of bronze.",
+    "backExample": "Ta rzeźba jest wykonana z brązu.",
     "remembered": false
   }
 ]

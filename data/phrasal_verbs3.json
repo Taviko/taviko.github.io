@@ -23,7 +23,7 @@
     "back": "czekać na",
     "frontExample": "I'll wait for you at the bus stop.",
     "backExample": "Poczekam na ciebie na przystanku.",
-    "phonetic": "/weɪt fɔː(r)/",
+    "phonetic": "/weɪt fɔːr/",
     "remembered": false
   },
   {
@@ -59,7 +59,7 @@
     "back": "uważać, być ostrożnym",
     "frontExample": "Watch out! There's a car coming.",
     "backExample": "Uważaj! Nadjeżdża samochód.",
-    "phonetic": "/wɒtʃ aʊt/",
+    "phonetic": "/wɑːtʃ aʊt/",
     "remembered": false
   },
   {
@@ -68,7 +68,7 @@
     "back": "zużyć się, wyczerpywać",
     "frontExample": "My shoes are wearing out quickly.",
     "backExample": "Moje buty szybko się zużywają.",
-    "phonetic": "/weə(r) aʊt/",
+    "phonetic": "/wer aʊt/",
     "remembered": false
   },
   {
@@ -77,7 +77,7 @@
     "back": "ćwiczyć, rozwiązać problem",
     "frontExample": "I work out at the gym three times a week.",
     "backExample": "Ćwiczę na siłowni trzy razy w tygodniu.",
-    "phonetic": "/wɜːk aʊt/",
+    "phonetic": "/wɜːrk aʊt/",
     "remembered": false
   },
   {
@@ -131,7 +131,7 @@
     "back": "wysadzić w powietrze, eksplodować, wściec się",
     "frontExample": "The bomb blew up in the middle of the night.",
     "backExample": "Bomba wybuchła w środku nocy.",
-    "phonetic": "/bləʊ ʌp/",
+    "phonetic": "/bloʊ ʌp/",
     "remembered": false
   },
   {
@@ -140,13 +140,13 @@
     "back": "zerwać (np. zaręczyny), przestać mówić",
     "frontExample": "They broke off their engagement last month.",
     "backExample": "Zerwali zaręczyny w zeszłym miesiącu.",
-    "phonetic": "/breɪk ɒf/",
+    "phonetic": "/breɪk ɑːf/",
     "remembered": false
   },
   {
     "id": 17,
     "front": "bring in",
-    "back": "wprowadzać (np.prawo), zbierać coś",
+    "back": "wprowadzać (np. prawo), zbierać coś",
     "frontExample": "The new law will bring in more revenue.",
     "backExample": "Nowe prawo przyniesie więcej dochodów.",
     "phonetic": "/brɪŋ ɪn/",
@@ -185,7 +185,7 @@
     "back": "przyjąć się, zyskać popularność",
     "frontExample": "The new trend is really catching on.",
     "backExample": "Nowy trend naprawdę się przyjmuje.",
-    "phonetic": "/kætʃ ɒn/",
+    "phonetic": "/kætʃ ɑːn/",
     "remembered": false
   },
   {
@@ -203,7 +203,7 @@
     "back": "posprzątać, wyjaśnić, wyleczyć (np. trądzik)",
     "frontExample": "The weather should clear up by afternoon.",
     "backExample": "Pogoda powinna się poprawić do popołudnia.",
-    "phonetic": "/klɪə(r) ʌp/",
+    "phonetic": "/klɪər ʌp/",
     "remembered": false
   },
   {
@@ -230,7 +230,7 @@
     "back": "liczyć na, oczekiwanie czegoś",
     "frontExample": "You can count on me to help you.",
     "backExample": "Możesz na mnie liczyć, żebym ci pomógł.",
-    "phonetic": "/kaʊnt ɒn/",
+    "phonetic": "/kaʊnt ɑːn/",
     "remembered": false
   },
   {
@@ -248,7 +248,7 @@
     "back": "odciąć",
     "frontExample": "The storm cut off the electricity.",
     "backExample": "Burza odcięła prąd.",
-    "phonetic": "/kʌt ɒf/",
+    "phonetic": "/kʌt ɑːf/",
     "remembered": false
   },
   {
@@ -275,7 +275,7 @@
     "back": "zelżeć, osłabić się",
     "frontExample": "The pain should ease off after you take this medicine.",
     "backExample": "Ból powinien zelżeć po zażyciu tego leku.",
-    "phonetic": "/iːz ɒf/",
+    "phonetic": "/iːz ɑːf/",
     "remembered": false
   },
   {
@@ -284,7 +284,7 @@
     "back": "podpuszczać",
     "frontExample": "He wouldn't have done it if his friends hadn't egged him on.",
     "backExample": "Nie zrobiłby tego, gdyby koledzy go nie podpuścili.",
-    "phonetic": "/eɡ ɒn/",
+    "phonetic": "/eɡ ɑːn/",
     "remembered": false
   },
   {
@@ -356,7 +356,7 @@
     "back": "pozbyć się",
     "frontExample": "I need to get rid of these old clothes.",
     "backExample": "Muszę się pozbyć tych starych ubrań.",
-    "phonetic": "/ɡet rɪd ɒv/",
+    "phonetic": "/ɡet rɪd əv/",
     "remembered": false
   },
   {
@@ -374,7 +374,7 @@
     "back": "zgodzić się z",
     "frontExample": "I'll go along with your plan.",
     "backExample": "Zgodzę się z twoim planem.",
-    "phonetic": "/ɡəʊ əˈlɒŋ wɪð/",
+    "phonetic": "/ɡoʊ əˈlɔːŋ wɪð/",
     "remembered": false
   },
   {
@@ -383,7 +383,7 @@
     "back": "wybierać, atakować",
     "frontExample": "I think I'll go for the chocolate cake.",
     "backExample": "Chyba wybiorę ciasto czekoladowe.",
-    "phonetic": "/ɡəʊ fɔːr/",
+    "phonetic": "/ɡoʊ fɔːr/",
     "remembered": false
   },
   {
@@ -392,7 +392,7 @@
     "back": "przemyśleć, analizować coś",
     "frontExample": "Let's go over the details one more time.",
     "backExample": "Przeanalizujmy szczegóły jeszcze raz.",
-    "phonetic": "/ɡəʊ ˈəʊvə(r)/",
+    "phonetic": "/ɡoʊ ˈoʊvər/",
     "remembered": false
   },
   {
@@ -401,7 +401,7 @@
     "back": "upaść (np. firma), zatonąć (np. statek)",
     "frontExample": "Many small businesses went under during the crisis.",
     "backExample": "Wiele małych firm upadło podczas kryzysu.",
-    "phonetic": "/ɡəʊ ˈʌndər/",
+    "phonetic": "/ɡoʊ ˈʌndər/",
     "remembered": false
   },
   {
@@ -410,7 +410,7 @@
     "back": "przekazać, podać coś komuś",
     "frontExample": "Please hand over your keys at the reception.",
     "backExample": "Proszę przekazać klucze w recepcji.",
-    "phonetic": "/hænd ˈəʊvə(r)/",
+    "phonetic": "/hænd ˈoʊvər/",
     "remembered": false
   },
   {
@@ -419,7 +419,7 @@
     "back": "powstrzymywać, utrzymać w tajemnicy",
     "frontExample": "He held back his anger during the meeting.",
     "backExample": "Powstrzymał złość podczas spotkania.",
-    "phonetic": "/həʊld bæk/",
+    "phonetic": "/hoʊld bæk/",
     "remembered": false
   },
   {
@@ -428,7 +428,7 @@
     "back": "pospieszyć się",
     "frontExample": "Hurry up or we'll miss the train!",
     "backExample": "Pospiesz się, bo spóźnimy się na pociąg!",
-    "phonetic": "/ˈhʌri ʌp/",
+    "phonetic": "/ˈhɜːri ʌp/",
     "remembered": false
   }
 ]

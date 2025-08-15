@@ -5,7 +5,7 @@
     "back": "oddać (np. pracę domową)",
     "phonetic": "/hænd ɪn/",
     "frontExample": "Please hand in your homework.",
-    "backExample": "Proszę oddaj swoją pracę domową.",
+    "backExample": "Proszę, oddaj swoją pracę domową.",
     "remembered": false
   },
   {
@@ -39,7 +39,7 @@
     "id": 5,
     "front": "hold on",
     "back": "czekać, trzymać się czegoś",
-    "phonetic": "/həʊld ɒn/",
+    "phonetic": "/hoʊld ɑːn/",
     "frontExample": "Hold on a second, please.",
     "backExample": "Poczekaj chwilę, proszę.",
     "remembered": false
@@ -48,7 +48,7 @@
     "id": 6,
     "front": "hold up",
     "back": "opóźniać",
-    "phonetic": "/həʊld ʌp/",
+    "phonetic": "/hoʊld ʌp/",
     "frontExample": "Sorry, I was held up in traffic.",
     "backExample": "Przepraszam, utknąłem w korku.",
     "remembered": false
@@ -66,7 +66,7 @@
     "id": 8,
     "front": "kick off",
     "back": "rozpocząć, wyrzucić (np. niechcianego gościa)",
-    "phonetic": "/kɪk ɒf/",
+    "phonetic": "/kɪk ɑːf/",
     "frontExample": "The match will kick off at 6 pm.",
     "backExample": "Mecz rozpocznie się o 18:00.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "knock out",
     "back": "znokautować",
-    "phonetic": "/nɒk aʊt/",
+    "phonetic": "/nɑːk aʊt/",
     "frontExample": "He was knocked out in the second round.",
     "backExample": "Został znokautowany w drugiej rundzie.",
     "remembered": false
@@ -84,7 +84,7 @@
     "id": 10,
     "front": "lay off",
     "back": "zwolnić z pracy, dać sobie z czymś spokój",
-    "phonetic": "/leɪ ɒf/",
+    "phonetic": "/leɪ ɑːf/",
     "frontExample": "The company had to lay off workers.",
     "backExample": "Firma musiała zwolnić pracowników.",
     "remembered": false
@@ -111,7 +111,7 @@
     "id": 13,
     "front": "look after",
     "back": "opiekować się",
-    "phonetic": "/lʊk ˈɑːftər/",
+    "phonetic": "/lʊk ˈæftər/",
     "frontExample": "Can you look after my dog?",
     "backExample": "Możesz zaopiekować się moim psem?",
     "remembered": false
@@ -140,14 +140,14 @@
     "back": "zepsuć coś, bałaganić",
     "phonetic": "/mɛs ʌp/",
     "frontExample": "Don't mess up your room.",
-    "backExample": "Nie bałagań w swoim pokoju.",
+    "backExample": "Nie rób bałaganu w swoim pokoju.",
     "remembered": false
   },
   {
     "id": 17,
     "front": "move on",
     "back": "iść do przodu, rozwijać się",
-    "phonetic": "/muːv ɒn/",
+    "phonetic": "/muːv ɑːn/",
     "frontExample": "It's time to move on.",
     "backExample": "Czas iść do przodu.",
     "remembered": false
@@ -192,7 +192,7 @@
     "id": 22,
     "front": "put off",
     "back": "przełożyć na później, budzić wstręt",
-    "phonetic": "/pʊt ɒf/",
+    "phonetic": "/pʊt ɑːf/",
     "frontExample": "Let's put off the meeting until tomorrow.",
     "backExample": "Przełóżmy spotkanie na jutro.",
     "remembered": false
@@ -200,8 +200,8 @@
   {
     "id": 23,
     "front": "put on",
-    "back": "zakładać, przybrać na wadzę",
-    "phonetic": "/pʊt ɒn/",
+    "back": "zakładać",
+    "phonetic": "/pʊt ɑːn/",
     "frontExample": "Put on your jacket, it's cold.",
     "backExample": "Załóż kurtkę, jest zimno.",
     "remembered": false
@@ -228,7 +228,7 @@
     "id": 26,
     "front": "run out (of)",
     "back": "wyczerpać zapasy",
-    "phonetic": "/rʌn aʊt ʌv/",
+    "phonetic": "/rʌn aʊt əv/",
     "frontExample": "We've run out of milk.",
     "backExample": "Skończyło nam się mleko.",
     "remembered": false
@@ -237,7 +237,7 @@
     "id": 27,
     "front": "set off",
     "back": "wyruszyć, uruchamiać",
-    "phonetic": "/sɛt ɒf/",
+    "phonetic": "/set ɑːf/",
     "frontExample": "We set off early in the morning.",
     "backExample": "Wyruszyliśmy wcześnie rano.",
     "remembered": false
@@ -255,7 +255,7 @@
     "id": 29,
     "front": "show off",
     "back": "popisywać się",
-    "phonetic": "/ʃəʊ ɒf/",
+    "phonetic": "/ʃoʊ ɑːf/",
     "frontExample": "He likes to show off his new car.",
     "backExample": "Lubi popisywać się swoim nowym samochodem.",
     "remembered": false
@@ -264,7 +264,7 @@
     "id": 30,
     "front": "slow down",
     "back": "zwolnić",
-    "phonetic": "/sləʊ daʊn/",
+    "phonetic": "/sloʊ daʊn/",
     "frontExample": "Please slow down, you're driving too fast.",
     "backExample": "Zwolnij, jedziesz za szybko.",
     "remembered": false
@@ -273,7 +273,7 @@
     "id": 31,
     "front": "sort out",
     "back": "rozwiązać problem, uporządkować coś",
-    "phonetic": "/sɔːt aʊt/",
+    "phonetic": "/sɔːrt aʊt/",
     "frontExample": "We need to sort out this problem.",
     "backExample": "Musimy rozwiązać ten problem.",
     "remembered": false
@@ -327,7 +327,7 @@
     "id": 37,
     "front": "take off",
     "back": "wystartować (o samolocie), zdjąć ubranie, odnieść nagły sukces",
-    "phonetic": "/teɪk ɒf/",
+    "phonetic": "/teɪk ɑːf/",
     "frontExample": "The plane will take off soon.",
     "backExample": "Samolot wkrótce wystartuje.",
     "remembered": false
@@ -336,7 +336,7 @@
     "id": 38,
     "front": "take over",
     "back": "przejąć",
-    "phonetic": "/teɪk ˈəʊvər/",
+    "phonetic": "/teɪk ˈoʊvər/",
     "frontExample": "He will take over the company.",
     "backExample": "On przejmie firmę.",
     "remembered": false
@@ -354,7 +354,7 @@
     "id": 40,
     "front": "throw away",
     "back": "wyrzucać",
-    "phonetic": "/θrəʊ əˈweɪ/",
+    "phonetic": "/θroʊ əˈweɪ/",
     "frontExample": "Don't throw away your notes.",
     "backExample": "Nie wyrzucaj swoich notatek.",
     "remembered": false
@@ -363,7 +363,7 @@
     "id": 41,
     "front": "turn down",
     "back": "odrzucić, przygaszać, ściszać",
-    "phonetic": "/tɜːn daʊn/",
+    "phonetic": "/tɜːrn daʊn/",
     "frontExample": "Please turn down the music.",
     "backExample": "Proszę ścisz muzykę.",
     "remembered": false
@@ -372,7 +372,7 @@
     "id": 42,
     "front": "turn into",
     "back": "zmienić się w, skręcić w (ulicę)",
-    "phonetic": "/tɜːn ˈɪntuː/",
+    "phonetic": "/tɜːrn ˈɪntuː/",
     "frontExample": "The caterpillar turned into a butterfly.",
     "backExample": "Gąsienica zmieniła się w motyla.",
     "remembered": false
@@ -381,9 +381,9 @@
     "id": 43,
     "front": "turn on/off",
     "back": "włączyć/wyłączyć",
-    "phonetic": "/tɜːn ɒn/ /tɜːn ɒf/",
+    "phonetic": "/tɜːrn ɑːn/ /tɜːrn ɑːf/",
     "frontExample": "Can you turn on the lights? Please turn off the TV.",
-    "backExample": "Możesz włączyć światło? Proszę wyłącz telewizor.",
+    "backExample": "Możesz włączyć światło? Proszę, wyłącz telewizor.",
     "remembered": false
   }
 ]

@@ -3,7 +3,7 @@
     "id": 1,
     "front": "Tradition",
     "back": "tradycja",
-    "phonetic": "/trəˈdɪʃn/",
+    "phonetic": "/trəˈdɪʃən/",
     "frontExample": "This tradition has been passed down for generations.",
     "backExample": "Ta tradycja była przekazywana przez pokolenia.",
     "remembered": false
@@ -30,7 +30,7 @@
     "id": 4,
     "front": "Wedding",
     "back": "ślub, wesele",
-    "phonetic": "/ˈwedɪŋ/",
+    "phonetic": "/ˈwɛdɪŋ/",
     "frontExample": "The wedding was held in a beautiful garden.",
     "backExample": "Ślub odbył się w pięknym ogrodzie.",
     "remembered": false
@@ -75,7 +75,7 @@
     "id": 9,
     "front": "Ceremony",
     "back": "ceremonia",
-    "phonetic": "/ˈserəməni/",
+    "phonetic": "/ˈsɛrəˌmoʊni/",
     "frontExample": "The graduation ceremony took place in the auditorium.",
     "backExample": "Ceremonia ukończenia szkoły odbyła się w auli.",
     "remembered": false
@@ -129,7 +129,7 @@
     "id": 15,
     "front": "New Year",
     "back": "Nowy Rok",
-    "phonetic": "/ˌnjuː ˈjɪə(r)/",
+    "phonetic": "/ˌnjuː ˈjɪr(r)/",
     "frontExample": "New Year is a time for fresh starts.",
     "backExample": "Nowy Rok to czas nowych początków.",
     "remembered": false

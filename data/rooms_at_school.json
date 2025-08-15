@@ -1,200 +1,200 @@
 [
-    {
-        "id": 1,
-        "front": "Classroom",
-        "back": "sala lekcyjna",
-        "phonetic": "/ˈklɑːsruːm/",
-        "frontExample": "The classroom is on the second floor.",
-        "backExample": "Sala lekcyjna jest na drugim piętrze.",
-        "remembered": false
-    },
-    {
-        "id": 2,
-        "front": "Library",
-        "back": "biblioteka",
-        "phonetic": "/ˈlaɪbrəri/",
-        "frontExample": "Students study in the library.",
-        "backExample": "Studenci uczą się w bibliotece.",
-        "remembered": false
-    },
-    {
-        "id": 3,
-        "front": "Gym",
-        "back": "sala gimnastyczna",
-        "phonetic": "/dʒɪm/",
-        "frontExample": "We have PE class in the gym.",
-        "backExample": "Mamy lekcję WF w sali gimnastycznej.",
-        "remembered": false
-    },
-    {
-        "id": 4,
-        "front": "Canteen",
-        "back": "stołówka",
-        "phonetic": "/kænˈtiːn/",
-        "frontExample": "We eat lunch in the canteen.",
-        "backExample": "Jemy obiad w stołówce.",
-        "remembered": false
-    },
-    {
-        "id": 5,
-        "front": "Headmaster's office",
-        "back": "gabinet dyrektora",
-        "phonetic": "/ˈhedmɑːstəz ˈɒfɪs/",
-        "frontExample": "The headmaster's office is on the first floor.",
-        "backExample": "Gabinet dyrektora jest na pierwszym piętrze.",
-        "remembered": false
-    },
-    {
-        "id": 6,
-        "front": "Teacher's room",
-        "back": "pokój nauczycielski",
-        "phonetic": "/ˈtiːtʃəz ruːm/",
-        "frontExample": "Teachers meet in the teacher's room.",
-        "backExample": "Nauczyciele spotykają się w pokoju nauczycielskim.",
-        "remembered": false
-    },
-    {
-        "id": 7,
-        "front": "Staff room",
-        "back": "pokój nauczycielski(dla wszystkich pracowników)",
-        "phonetic": "/stɑːf ruːm/",
-        "frontExample": "The staff room is for all employees.",
-        "backExample": "Pokój nauczycielski jest dla wszystkich pracowników.",
-        "remembered": false
-    },
-    {
-        "id": 8,
-        "front": "Computer room",
-        "back": "sala komputerowa",
-        "phonetic": "/kəmˈpjuːtə ruːm/",
-        "frontExample": "We learn programming in the computer room.",
-        "backExample": "Uczymy się programowania w sali komputerowej.",
-        "remembered": false
-    },
-    {
-        "id": 9,
-        "front": "Science lab",
-        "back": "sala do nauki biologii, chemii, fizyki ( do nauk ścisłych)",
-        "phonetic": "/ˈsaɪəns læb/",
-        "frontExample": "We do experiments in the science lab.",
-        "backExample": "Robimy eksperymenty w sali do nauk ścisłych.",
-        "remembered": false
-    },
-    {
-        "id": 10,
-        "front": "Art room",
-        "back": "pracownia plastyczna",
-        "phonetic": "/ɑːt ruːm/",
-        "frontExample": "We paint in the art room.",
-        "backExample": "Malujemy w pracowni plastycznej.",
-        "remembered": false
-    },
-    {
-        "id": 11,
-        "front": "Music room",
-        "back": "sala muzyczna",
-        "phonetic": "/ˈmjuːzɪk ruːm/",
-        "frontExample": "We practice singing in the music room.",
-        "backExample": "Ćwiczymy śpiew w sali muzycznej.",
-        "remembered": false
-    },
-    {
-        "id": 12,
-        "front": "Playground",
-        "back": "plac zabaw",
-        "phonetic": "/ˈpleɪɡraʊnd/",
-        "frontExample": "Children play on the playground during breaks.",
-        "backExample": "Dzieci bawią się na placu zabaw podczas przerw.",
-        "remembered": false
-    },
-    {
-        "id": 13,
-        "front": "Locker room",
-        "back": "szatnia",
-        "phonetic": "/ˈlɒkə ruːm/",
-        "frontExample": "Students change clothes in the locker room.",
-        "backExample": "Uczniowie przebierają się w szatni.",
-        "remembered": false
-    },
-    {
-        "id": 14,
-        "front": "Restroom",
-        "back": "toaleta",
-        "phonetic": "/ˈrestruːm/",
-        "frontExample": "The restroom is down the hall.",
-        "backExample": "Toaleta jest na końcu korytarza.",
-        "remembered": false
-    },
-    {
-        "id": 15,
-        "front": "Hallway",
-        "back": "korytarz",
-        "phonetic": "/ˈhɔːlweɪ/",
-        "frontExample": "Students walk in the hallway between classes.",
-        "backExample": "Uczniowie chodzą po korytarzu między lekcjami.",
-        "remembered": false
-    },
-    {
-        "id": 16,
-        "front": "Assembly hall",
-        "back": "aula, miejsce zgromadzeń ( do apeli)",
-        "phonetic": "/əˈsembli hɔːl/",
-        "frontExample": "School assemblies are held in the assembly hall.",
-        "backExample": "Apele szkolne odbywają się w auli.",
-        "remembered": false
-    },
-    {
-        "id": 17,
-        "front": "Sports field",
-        "back": "boisko sportowe",
-        "phonetic": "/spɔːts fiːld/",
-        "frontExample": "Students play football on the sports field.",
-        "backExample": "Uczniowie grają w piłkę na boisku sportowym.",
-        "remembered": false
-    },
-    {
-        "id": 18,
-        "front": "Study hall",
-        "back": "czytelnia (sala do nauki)",
-        "phonetic": "/ˈstʌdi hɔːl/",
-        "frontExample": "Students do homework in the study hall.",
-        "backExample": "Uczniowie odrabiają lekcje w czytelni.",
-        "remembered": false
-    },
-    {
-        "id": 19,
-        "front": "Workshop",
-        "back": "warsztat",
-        "phonetic": "/ˈwɜːkʃɒp/",
-        "frontExample": "Students learn practical skills in the workshop.",
-        "backExample": "Uczniowie uczą się umiejętności praktycznych w warsztacie.",
-        "remembered": false
-    },
-    {
-        "id": 20,
-        "front": "Courtyard",
-        "back": "dziedziniec",
-        "phonetic": "/ˈkɔːtjɑːd/",
-        "frontExample": "Students gather in the courtyard during breaks.",
-        "backExample": "Uczniowie gromadzą się na dziedzińcu podczas przerw.",
-        "remembered": false
-    },
-    {
-        "id": 21,
-        "front": "Common room/After-school club",
-        "back": "świetlica",
-        "phonetic": "/ˈkɒmən ruːm/",
-        "frontExample": "Students stay in the common room after school.",
-        "backExample": "Uczniowie zostają w świetlicy po lekcjach.",
-        "remembered": false
-    },
-    {
-        "id": 22,
-        "front": "Swimming pool",
-        "back": "basen",
-        "phonetic": "/ˈswɪmɪŋ puːl/",
-        "frontExample": "Students have swimming lessons in the pool.",
-        "backExample": "Uczniowie mają lekcje pływania w basenie.",
-        "remembered": false
-    }
+  {
+    "id": 1,
+    "front": "Classroom",
+    "back": "sala lekcyjna",
+    "phonetic": "/ˈklɑːsruːm/",
+    "frontExample": "The classroom is on the second floor.",
+    "backExample": "Sala lekcyjna jest na drugim piętrze.",
+    "remembered": false
+  },
+  {
+    "id": 2,
+    "front": "Library",
+    "back": "biblioteka",
+    "phonetic": "/ˈlaɪbrəri/",
+    "frontExample": "Students study in the library.",
+    "backExample": "Studenci uczą się w bibliotece.",
+    "remembered": false
+  },
+  {
+    "id": 3,
+    "front": "Gym",
+    "back": "sala gimnastyczna",
+    "phonetic": "/dʒɪm/",
+    "frontExample": "We have PE class in the gym.",
+    "backExample": "Mamy lekcję WF w sali gimnastycznej.",
+    "remembered": false
+  },
+  {
+    "id": 4,
+    "front": "Canteen",
+    "back": "stołówka",
+    "phonetic": "/kænˈtiːn/",
+    "frontExample": "We eat lunch in the canteen.",
+    "backExample": "Jemy obiad w stołówce.",
+    "remembered": false
+  },
+  {
+    "id": 5,
+    "front": "Headmaster's office",
+    "back": "gabinet dyrektora",
+    "phonetic": "/ˈhedˌmæstərz ˈɔfɪs/",
+    "frontExample": "The headmaster's office is on the first floor.",
+    "backExample": "Gabinet dyrektora jest na pierwszym piętrze.",
+    "remembered": false
+  },
+  {
+    "id": 6,
+    "front": "Teacher's room",
+    "back": "pokój nauczycielski",
+    "phonetic": "/ˈtiːtʃərz ruːm/",
+    "frontExample": "Teachers meet in the teacher's room.",
+    "backExample": "Nauczyciele spotykają się w pokoju nauczycielskim.",
+    "remembered": false
+  },
+  {
+    "id": 7,
+    "front": "Staff room",
+    "back": "pokój nauczycielski (dla wszystkich pracowników)",
+    "phonetic": "/ˈstæf ruːm/",
+    "frontExample": "The staff room is for all employees.",
+    "backExample": "Pokój nauczycielski jest dla wszystkich pracowników.",
+    "remembered": false
+  },
+  {
+    "id": 8,
+    "front": "Computer room",
+    "back": "sala komputerowa",
+    "phonetic": "/kəmˈpjuːtər ruːm/",
+    "frontExample": "We learn programming in the computer room.",
+    "backExample": "Uczymy się programowania w sali komputerowej.",
+    "remembered": false
+  },
+  {
+    "id": 9,
+    "front": "Science lab",
+    "back": "pracownia naukowa (biologia, chemia, fizyka)",
+    "phonetic": "/ˈsaɪrns læb/",
+    "frontExample": "We do experiments in the science lab.",
+    "backExample": "Robimy eksperymenty w sali do nauk ścisłych.",
+    "remembered": false
+  },
+  {
+    "id": 10,
+    "front": "Art room",
+    "back": "pracownia plastyczna",
+    "phonetic": "/ɑːrt ruːm/",
+    "frontExample": "We paint in the art room.",
+    "backExample": "Malujemy w pracowni plastycznej.",
+    "remembered": false
+  },
+  {
+    "id": 11,
+    "front": "Music room",
+    "back": "sala muzyczna",
+    "phonetic": "/ˈmjuːzɪk ruːm/",
+    "frontExample": "We practice singing in the music room.",
+    "backExample": "Ćwiczymy śpiew w sali muzycznej.",
+    "remembered": false
+  },
+  {
+    "id": 12,
+    "front": "Playground",
+    "back": "plac zabaw",
+    "phonetic": "/ˈpleɪɡraʊnd/",
+    "frontExample": "Children play on the playground during breaks.",
+    "backExample": "Dzieci bawią się na placu zabaw podczas przerw.",
+    "remembered": false
+  },
+  {
+    "id": 13,
+    "front": "Locker room",
+    "back": "szatnia",
+    "phonetic": "/ˈlɑːkər ruːm/",
+    "frontExample": "Students change clothes in the locker room.",
+    "backExample": "Uczniowie przebierają się w szatni.",
+    "remembered": false
+  },
+  {
+    "id": 14,
+    "front": "Restroom",
+    "back": "toaleta",
+    "phonetic": "/ˈrɛstruːm/",
+    "frontExample": "The restroom is down the hall.",
+    "backExample": "Toaleta jest na końcu korytarza.",
+    "remembered": false
+  },
+  {
+    "id": 15,
+    "front": "Hallway",
+    "back": "korytarz",
+    "phonetic": "/ˈhɔːrlweɪ/",
+    "frontExample": "Students walk in the hallway between classes.",
+    "backExample": "Uczniowie chodzą po korytarzu między lekcjami.",
+    "remembered": false
+  },
+  {
+    "id": 16,
+    "front": "Assembly hall",
+    "back": "aula, miejsce zgromadzeń (do apeli)",
+    "phonetic": "/əˈsɛmbli hɔːrl/",
+    "frontExample": "School assemblies are held in the assembly hall.",
+    "backExample": "Apele szkolne odbywają się w auli.",
+    "remembered": false
+  },
+  {
+    "id": 17,
+    "front": "Sports field",
+    "back": "boisko sportowe",
+    "phonetic": "/spɔːrts fiːld/",
+    "frontExample": "Students play football on the sports field.",
+    "backExample": "Uczniowie grają w piłkę na boisku sportowym.",
+    "remembered": false
+  },
+  {
+    "id": 18,
+    "front": "Study hall",
+    "back": "czytelnia (sala do nauki)",
+    "phonetic": "/ˈstʌdi hɔːrl/",
+    "frontExample": "Students do homework in the study hall.",
+    "backExample": "Uczniowie odrabiają lekcje w czytelni.",
+    "remembered": false
+  },
+  {
+    "id": 19,
+    "front": "Workshop",
+    "back": "warsztat",
+    "phonetic": "/ˈwɜːrkʃɑːp/",
+    "frontExample": "Students learn practical skills in the workshop.",
+    "backExample": "Uczniowie uczą się umiejętności praktycznych w warsztacie.",
+    "remembered": false
+  },
+  {
+    "id": 20,
+    "front": "Courtyard",
+    "back": "dziedziniec",
+    "phonetic": "/ˈkɔːrt ˌjɑːrd/",
+    "frontExample": "Students gather in the courtyard during breaks.",
+    "backExample": "Uczniowie gromadzą się na dziedzińcu podczas przerw.",
+    "remembered": false
+  },
+  {
+    "id": 21,
+    "front": "Common room/After-school club",
+    "back": "świetlica",
+    "phonetic": "/ˈkɑːmən ruːm/",
+    "frontExample": "Students stay in the common room after school.",
+    "backExample": "Uczniowie zostają w świetlicy po lekcjach.",
+    "remembered": false
+  },
+  {
+    "id": 22,
+    "front": "Swimming pool",
+    "back": "basen",
+    "phonetic": "/ˈswɪmɪŋ puːl/",
+    "frontExample": "Students have swimming lessons in the pool.",
+    "backExample": "Uczniowie mają lekcje pływania w basenie.",
+    "remembered": false
+  }
 ]
